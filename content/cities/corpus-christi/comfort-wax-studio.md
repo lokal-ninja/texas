@@ -1,0 +1,4 @@
+---
+title: "Comfort Wax Studio"
+url: /corpus-christi/comfort-wax-studio/
+---

@@ -1,0 +1,4 @@
+---
+title: "INFINITI of Lubbock"
+url: /lubbock/infiniti-of-lubbock/
+---

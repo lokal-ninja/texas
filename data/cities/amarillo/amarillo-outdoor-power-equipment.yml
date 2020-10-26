@@ -1,12 +1,12 @@
-id: 6339001995
-type: node
-shop: shop
-latitude: 35.133221
-longitude: -101.89931100000001
+id: 676952773
+type: way
+shop: trade
+latitude: 35.1334034
+longitude: -101.8994066
 postcode: "79109"
 city: Amarillo
 street: "Canyon Drive"
 housenumber: 7160
-phone: "+1-806-353-1211"
+phone: ""
 opening_hours: ""
-website: "https://www.amarillooutdoor.com/"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Kaufman
 url: /kaufman/
-latitude: 32.619916100000005
-longitude: -96.2967512
+latitude: 32.5867797
+longitude: -96.3086768
 ---

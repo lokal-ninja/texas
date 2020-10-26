@@ -1,12 +1,12 @@
-id: 5315598005
-type: node
+id: 563163575
+type: way
 shop: supermarket
-latitude: 26.243829
-longitude: -98.245074
-postcode: "78504"
+latitude: 26.187646200000003
+longitude: -98.20915620000001
+postcode: "78503"
 city: McAllen
-street: "West Nolana Avenue"
-housenumber: 2800
-phone: "+1-956-687-8285"
+street: "East Jackson Avenue"
+housenumber: 1200
+phone: "+1-956-686-4311"
 opening_hours: "24/7"
-website: "https://www.walmart.com/store/452/mcallen-tx/whats-new"
+website: "https://www.walmart.com/store/397/mcallen-tx/whats-new"

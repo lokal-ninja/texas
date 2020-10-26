@@ -1,6 +1,6 @@
 ---
 title: Brownsboro
 url: /brownsboro/
-latitude: 32.3023706
-longitude: -95.6135715
+latitude: 29.973166000000003
+longitude: -98.83119190000001
 ---

@@ -1,12 +1,12 @@
-id: 5315598233
-type: node
+id: 123539035
+type: way
 shop: supermarket
-latitude: 27.453311000000003
-longitude: -99.47416600000001
-postcode: "78046"
+latitude: 27.519169400000003
+longitude: -99.4521876
+postcode: "78043"
 city: Laredo
-street: "Highway 83 South"
-housenumber: 4401
-phone: "+1-956-727-0492"
+street: "Bob Bullock Loop"
+housenumber: 2320
+phone: "+1-956-791-3303"
 opening_hours: "24/7"
-website: "https://www.walmart.com/store/3623/laredo-tx/whats-new"
+website: "https://www.walmart.com/store/3518/laredo-tx/whats-new"

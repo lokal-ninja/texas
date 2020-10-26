@@ -1,12 +1,12 @@
-id: 5759315810
-type: node
-shop: chemist
-latitude: 29.7633572
-longitude: -95.36286550000001
-postcode: "77002"
+id: 378711657
+type: way
+shop: convenience
+latitude: 29.7167931
+longitude: -95.29526750000001
+postcode: ""
 city: Houston
-street: "Milam Street"
-housenumber: 300
-phone: "+1 713 223 0371"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.cvs.com/store-locator/cvs-pharmacy-address/300+Milam+St-Houston-TX-77002/storeid=11094"
+street: "South 75th Street"
+housenumber: 806
+phone: ""
+opening_hours: ""
+website: ""

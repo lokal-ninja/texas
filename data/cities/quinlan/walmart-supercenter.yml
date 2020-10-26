@@ -1,12 +1,12 @@
-id: 5315598095
-type: node
+id: 615635323
+type: way
 shop: supermarket
-latitude: 32.908686
-longitude: -96.12532300000001
+latitude: 32.908054400000005
+longitude: -96.12574860000001
 postcode: "75474"
 city: Quinlan
-street: "State Highway 34 South"
+street: "South Hwy 34"
 housenumber: 8801
 phone: "+1-903-356-1000"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4215/quinlan-tx/whats-new"
+opening_hours: ""
+website: ""

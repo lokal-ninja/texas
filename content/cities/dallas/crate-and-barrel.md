@@ -1,4 +1,4 @@
 ---
-title: "Crate and Barrel"
+title: "Crate & Barrel"
 url: /dallas/crate-and-barrel/
 ---

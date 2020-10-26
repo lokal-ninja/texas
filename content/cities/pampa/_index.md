@@ -1,6 +1,6 @@
 ---
 title: Pampa
 url: /pampa/
-latitude: 35.536155900000004
-longitude: -100.95987090000001
+latitude: 35.536297000000005
+longitude: -100.9601552
 ---

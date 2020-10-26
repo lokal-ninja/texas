@@ -1,12 +1,12 @@
-id: 5315602252
-type: node
+id: 49450755
+type: way
 shop: supermarket
-latitude: 29.7680323
-longitude: -95.17710430000001
-postcode: "77015"
+latitude: 29.7339513
+longitude: -95.5922108
+postcode: "77077"
 city: Houston
-street: "East Freeway"
-housenumber: 13750
-phone: "+1-713-453-5018"
+street: "South Kirkwood Road"
+housenumber: 2700
+phone: "+1-281-558-5670"
 opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1137/houston-tx/whats-new"
+website: "https://www.walmart.com/store/3296/houston-tx/whats-new"

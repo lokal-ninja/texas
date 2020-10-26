@@ -8,5 +8,5 @@ city: Houston
 street: "Jones Rd"
 housenumber: 11729
 phone: "+1-281-612-8948"
-opening_hours: "Mo-Fr 08:00-18:00 Sa 08:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
 website: "https://www.mytransmissionexperts.com/locations/cypress-jones-road/"

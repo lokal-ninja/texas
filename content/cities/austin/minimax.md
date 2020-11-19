@@ -1,4 +1,4 @@
 ---
-title: "MiniMax"
+title: "miniMax"
 url: /austin/minimax/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Red Rock
 url: /red-rock/
-latitude: 31.818629800000004
-longitude: -102.36134550000001
+latitude: 29.9596656
+longitude: -97.44610580000001
 ---

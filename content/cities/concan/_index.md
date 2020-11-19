@@ -1,6 +1,6 @@
 ---
 title: Concan
 url: /concan/
-latitude: 29.495231500000003
-longitude: -99.7125536
+latitude: 29.500435200000002
+longitude: -99.722628
 ---

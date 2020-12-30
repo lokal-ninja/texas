@@ -1,5 +1,5 @@
 ---
-title: Red Oak
+title: red oak
 url: /red-oak/
 latitude: 
 longitude: 

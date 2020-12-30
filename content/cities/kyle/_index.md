@@ -1,6 +1,6 @@
 ---
 title: Kyle
 url: /kyle/
-latitude: 29.9892928
-longitude: -97.8772103
+latitude: 29.9892816
+longitude: -97.87717400000001
 ---

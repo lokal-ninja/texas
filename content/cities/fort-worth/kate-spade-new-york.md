@@ -1,4 +1,4 @@
 ---
-title: "kate spade new york"
+title: "Kate Spade New York"
 url: /fort-worth/kate-spade-new-york/
 ---

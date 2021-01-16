@@ -1,12 +1,12 @@
-id: 309273552
-type: way
-shop: beauty
-latitude: 30.342811700000002
-longitude: -97.72548230000001
+id: 8301648734
+type: node
+shop: hairdresser
+latitude: 30.3427775
+longitude: -97.72546820000001
 postcode: "78757"
 city: Austin
 street: "Woodrow Avenue"
 housenumber: 7111
-phone: ""
-opening_hours: ""
+phone: "+1-512-453-1561"
+opening_hours: "Tu 09:00-17:00; We 11:00-19:00; Th-Fr 09:00-17:00; Sa 09:00-15:00"
 website: ""

@@ -1,12 +1,12 @@
-id: 5650117972
-type: node
+id: 891092969
+type: way
 shop: supermarket
-latitude: 33.234935
-longitude: -95.914764
+latitude: 33.235495300000004
+longitude: -95.9152602
 postcode: "75428"
 city: Commerce
-street: "State Highway 50"
+street: "State Highway 24"
 housenumber: 2701
-phone: "+1-903-886-3108"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/240/commerce-tx/whats-new"
+phone: ""
+opening_hours: ""
+website: ""

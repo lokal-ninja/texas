@@ -1,6 +1,5 @@
 id: 7058995208
 type: node
-shop: alcohol
 latitude: 29.817775700000002
 longitude: -95.40988320000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Houston
 street: "North Shepherd Drive"
 housenumber: 3406
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-21:00"
 website: ""

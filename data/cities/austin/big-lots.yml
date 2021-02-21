@@ -1,12 +1,11 @@
 id: 3890878834
 type: node
-shop: department store
-latitude: 30.420848000000003
-longitude: -97.7008749
+latitude: 30.4209588
+longitude: -97.7011497
 postcode: "78727"
 city: Austin
 street: "Parmer Lane"
 housenumber: 2506
-phone: "+1 512 246 1748"
-opening_hours: ""
-website: ""
+phone: "+1-512-246-1748"
+opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
+website: "https://local.biglots.com/tx/austin/2506-w-parmer-ln"

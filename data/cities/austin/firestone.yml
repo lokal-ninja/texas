@@ -1,12 +1,11 @@
-id: 31143486
-type: way
-shop: car repair
-latitude: 30.4463641
-longitude: -97.79128490000001
-postcode: "78750"
+id: 1706120123
+type: node
+latitude: 30.421907500000003
+longitude: -97.70238520000001
+postcode: "78727"
 city: Austin
-street: "Research Boulevard"
-housenumber: 13450
-phone: "(512) 456-9790"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://atxphysicaltherapy.com/"
+street: "West Parmer Ln"
+housenumber: 2500
+phone: "+1-512-777-4243"
+opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
+website: "https://local.firestonecompleteautocare.com/texas/austin/2500-w-parmer-ln/"

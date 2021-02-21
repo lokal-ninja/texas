@@ -1,8 +1,7 @@
-id: 2153342180
-type: node
-shop: car repair
-latitude: 30.542333900000003
-longitude: -97.5534944
+id: 555003782
+type: way
+latitude: 30.542126800000002
+longitude: -97.5534167
 postcode: "78634"
 city: Hutto
 street: "US-79"

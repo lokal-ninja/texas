@@ -1,6 +1,5 @@
 id: 587525182
 type: way
-shop: convenience
 latitude: 30.715251100000003
 longitude: -97.7213627
 postcode: "78633"
@@ -8,5 +7,5 @@ city: Georgetown
 street: "Del Webb Boulevard"
 housenumber: 440
 phone: "512-864-0528"
-opening_hours: "Sun-Sat 6am-9pm"
+opening_hours: "Su-Sa 06:00-21:00"
 website: ""

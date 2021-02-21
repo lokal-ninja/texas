@@ -1,6 +1,5 @@
 id: 864899844
 type: way
-shop: convenience
 latitude: 30.704882800000004
 longitude: -97.74813470000001
 postcode: "78633"
@@ -8,5 +7,5 @@ city: Georgetown
 street: "Williams Drive"
 housenumber: 5700
 phone: "512 869 4228"
-opening_hours: "Mon-Thur 6am-10:30pm; Fri-Sat 6am-11pm; Sun 7am-10:30pm"
+opening_hours: "Mo-Th 06:00-22:30; Fr-Sa 6:00-23:00; Su 07:00-22:30"
 website: "https://quikstop.com/"

@@ -1,12 +1,11 @@
-id: 7287247422
+id: 6455925467
 type: node
-shop: hairdresser
-latitude: 30.4172988
-longitude: -97.7042275
-postcode: "78758"
+latitude: 30.298528
+longitude: -97.7189613
+postcode: "78751"
 city: Austin
-street: "North MoPac Expressway"
-housenumber: 12407
-phone: "+1-512-719-3196"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: ""
+street: "East 41st Street"
+housenumber: 1000
+phone: "+1-512-394-5883"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-18:00"
+website: "https://salons.greatclips.com/us/tx/austin/1000-e-41st-st"

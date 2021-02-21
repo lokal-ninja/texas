@@ -1,6 +1,5 @@
 id: 383121717
 type: way
-shop: supermarket
 latitude: 30.3450096
 longitude: -97.9676805
 postcode: "78734"
@@ -8,5 +7,5 @@ city: Lakeway
 street: "Ranch Road 620"
 housenumber: 2000
 phone: "+1-512-599-5800"
-opening_hours: "Mon-Sun 6-11"
+opening_hours: "Mo-Su 06:00-11:00"
 website: ""

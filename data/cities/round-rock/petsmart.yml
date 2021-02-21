@@ -1,12 +1,11 @@
-id: 8291886295
-type: node
-shop: pet
-latitude: 30.557028900000002
-longitude: -97.6871543
+id: 753354667
+type: way
+latitude: 30.556856200000002
+longitude: -97.6871703
 postcode: "78665"
 city: Round Rock
 street: "University Oaks Boulevard"
 housenumber: 201
 phone: "+1-512-238-8859"
 opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/round-rock-store1772.html?utm_source=google&utm_medium=organic&utm_campaign=google-my-business"
+website: "https://www.petsmart.com/stores/us/tx/round-rock-store1772.html"

@@ -1,12 +1,11 @@
-id: 72502372
-type: way
-shop: convenience
-latitude: 30.4098204
-longitude: -97.71547960000001
-postcode: "78759"
+id: 8419602937
+type: node
+latitude: 30.244661800000003
+longitude: -97.7296015
+postcode: "78741"
 city: Austin
-street: "North Mopac Expressway"
-housenumber: 12000
-phone: ""
-opening_hours: ""
-website: ""
+street: "South Lakeshore Boulevard"
+housenumber: 1705
+phone: "+1-512-441-7595"
+opening_hours: "24/7"
+website: "https://www.7-eleven.com/locations/tx/austin/1705-s-lakeshore-blvd-19097"

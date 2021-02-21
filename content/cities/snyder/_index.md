@@ -1,6 +1,6 @@
 ---
 title: Snyder
 url: /snyder/
-latitude: 32.7178862
-longitude: -100.91761840000001
+latitude: 32.718080300000004
+longitude: -100.9182313
 ---

@@ -1,12 +1,11 @@
 id: 8068685230
 type: node
-shop: laundry
 latitude: 30.412042200000002
 longitude: -97.68969510000001
 postcode: "78727"
 city: Austin
 street: "West Parmer Lane"
 housenumber: 17101
-phone: "(512) 833-4454"
-opening_hours: "Mon-Fri 7am-7pm; Sat 7am-6pm"
+phone: "+1-512-833-4454"
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
 website: ""

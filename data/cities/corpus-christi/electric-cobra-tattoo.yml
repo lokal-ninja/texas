@@ -1,6 +1,5 @@
 id: 530190434
 type: way
-shop: tattoo
 latitude: 27.817653800000002
 longitude: -97.39156360000001
 postcode: "78402"
@@ -8,5 +7,5 @@ city: Corpus Christi
 street: "Surfside Boulevard"
 housenumber: 3001
 phone: "+1-361-633-7626"
-opening_hours: "Su-Th 12:00-20:00; Fri-Sa 12:00-21:00"
+opening_hours: "Su-Th 12:00-20:00; Fr-Sa 12:00-21:00"
 website: ""

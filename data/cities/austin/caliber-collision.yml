@@ -1,12 +1,11 @@
-id: 384199005
-type: way
-shop: car repair
-latitude: 30.371750000000002
-longitude: -97.67366700000001
-postcode: "78753"
+id: 6348097585
+type: node
+latitude: 30.3834875
+longitude: -97.7141454
+postcode: "78758"
 city: Austin
-street: "Bluff Bend Drive"
-housenumber: 11011
-phone: ""
-opening_hours: ""
-website: ""
+street: "Metric Boulevard"
+housenumber: 10420
+phone: "+1-512-233-0460"
+opening_hours: "Mo-Fr 09:30-17:30"
+website: "https://calibercollision.com/locate-a-caliber-collision-center/austin-metric-blvd"

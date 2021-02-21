@@ -1,6 +1,5 @@
 id: 6897123821
 type: node
-shop: mobile phone
 latitude: 30.416181
 longitude: -97.6720861
 postcode: "78753"
@@ -8,5 +7,5 @@ city: Austin
 street: "North Interstate 35"
 housenumber: 12901
 phone: "+1-512-850-9673"
-opening_hours: "Mo-Fr 10:00-1900; Sa 10:00-18:00; Su 12:00-17:00"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
 website: "https://mobiledestination.com/"

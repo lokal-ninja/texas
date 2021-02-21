@@ -1,12 +1,11 @@
 id: 383171221
 type: way
-shop: charity
 latitude: 30.478829200000003
 longitude: -97.68077120000001
 postcode: "78728"
 city: Austin
 street: "West Louis Henna Boulevard"
 housenumber: 601
-phone: "512-246-7292"
-opening_hours: "Mon-Fri 10am-7pm; Sat 10am-8pm"
+phone: "+1-512-246-7292"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-20:00"
 website: "https://satruck.org"

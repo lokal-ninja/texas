@@ -1,12 +1,11 @@
-id: 8291886281
-type: node
-shop: alcohol
-latitude: 30.556104700000002
-longitude: -97.68679920000001
+id: 753354665
+type: way
+latitude: 30.555907500000004
+longitude: -97.68678630000001
 postcode: "78665"
 city: Round Rock
 street: "Oakmont Drive"
 housenumber: 201
 phone: "+1-512-341-9066"
 opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://specsonline.com/location/round-rock/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=Store63"
+website: "https://specsonline.com/location/round-rock/"

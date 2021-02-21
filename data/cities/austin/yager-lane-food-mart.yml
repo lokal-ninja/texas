@@ -1,12 +1,11 @@
 id: 384759184
 type: way
-shop: convenience
 latitude: 30.391648000000004
 longitude: -97.659018
 postcode: "78753"
 city: Austin
 street: "East Yager Lane"
 housenumber: 1006
-phone: "512-339-9150"
-opening_hours: "Mon-Thur 6am-11pm; Fri-Sat 6am-midnight; Sun 7am-11pm"
+phone: "+1-512-339-9150"
+opening_hours: "Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 07:00-23:00"
 website: ""

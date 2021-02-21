@@ -1,6 +1,5 @@
 id: 8285719969
 type: node
-shop: furniture
 latitude: 30.3571658
 longitude: -97.7312723
 postcode: "5757"
@@ -8,5 +7,5 @@ city: Austin
 street: "West Anderson Lane"
 housenumber: 2438
 phone: "+1-512-580-0365"
-opening_hours: "Mon-Sa 10:00-17:00; Su 12:00-17:00"
+opening_hours: "Mo-Sa 10:00-17:00; Su 12:00-17:00"
 website: "https://austinleathergallerytx.com/"

@@ -1,6 +1,5 @@
 id: 8322744223
 type: node
-shop: alcohol
 latitude: 30.424832300000002
 longitude: -97.66984860000001
 postcode: "78753"
@@ -9,4 +8,4 @@ street: "West Howard Lane"
 housenumber: 1200
 phone: "+15-12-251-9999"
 opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.ubereats.com/austin/food-delivery/holy-water-liquor-store/SIWV6LRyQCWpVweHJptusA?utm_source=google&utm_medium=organic&utm_campaign=place-action-link"
+website: "https://www.ubereats.com/austin/food-delivery/holy-water-liquor-store/SIWV6LRyQCWpVweHJptusA"

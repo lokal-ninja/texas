@@ -1,6 +1,5 @@
 id: 598172839
 type: way
-shop: convenience
 latitude: 32.9516073
 longitude: -96.7363586
 postcode: "75080"
@@ -8,5 +7,5 @@ city: Richardson
 street: "West Belt Line Road"
 housenumber: 522
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 00:00-24:00+"
 website: ""

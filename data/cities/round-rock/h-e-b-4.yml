@@ -1,6 +1,5 @@
 id: 457768570
 type: way
-shop: supermarket
 latitude: 30.561366800000002
 longitude: -97.6874499
 postcode: "78665"
@@ -9,4 +8,4 @@ street: "University Boulevard"
 housenumber: 250
 phone: "+1-512-864-8000"
 opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.heb.com/heb-store/US/tx/round-rock/university-blvd-h-e-b-673?utm_source=google&utm_medium=organic&utm_campaign=gmb_stores"
+website: "https://www.heb.com/heb-store/US/tx/round-rock/university-blvd-h-e-b-673"

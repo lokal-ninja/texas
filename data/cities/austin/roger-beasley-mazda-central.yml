@@ -1,6 +1,5 @@
 id: 381804278
 type: way
-shop: car
 latitude: 30.344763
 longitude: -97.73712
 postcode: "78757"
@@ -9,4 +8,4 @@ street: "Burnet Road"
 housenumber: 6825
 phone: "+1-512-459-4111"
 opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.mazdacentral.com/?utm_source=gmb&utm_medium=link&utm_campaign=sept"
+website: "https://www.mazdacentral.com/"

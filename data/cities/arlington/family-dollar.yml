@@ -1,12 +1,11 @@
-id: 422551941
-type: way
-shop: variety store
-latitude: 32.7327314
-longitude: -97.14805190000001
-postcode: "76013"
+id: 8402163666
+type: node
+latitude: 32.7045459
+longitude: -97.09850370000001
+postcode: "76014"
 city: Arlington
-street: "South Bowen Road"
-housenumber: 321
+street: "South Collins Street"
+housenumber: 2424
 phone: ""
 opening_hours: ""
 website: ""

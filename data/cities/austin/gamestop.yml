@@ -1,6 +1,5 @@
 id: 6935826983
 type: node
-shop: video games
 latitude: 30.417226000000003
 longitude: -97.67081440000001
 postcode: "78753"
@@ -9,4 +8,4 @@ street: "North Interstate 35"
 housenumber: 12901
 phone: "+1-512-989-6170"
 opening_hours: "Mo-Sa 12:00-20:00; Su 12:00-18:00"
-website: "https://www.gamestop.com/store/us/tx/austin/2507/shops-at-tech-ridge-gamestop?utm_source=gmblisting&utm_medium=organic"
+website: "https://www.gamestop.com/store/us/tx/austin/2507/shops-at-tech-ridge-gamestop"

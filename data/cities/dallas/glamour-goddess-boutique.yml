@@ -1,6 +1,5 @@
 id: 7918162161
 type: node
-shop: clothes
 latitude: 32.916436000000004
 longitude: -96.81850170000001
 postcode: "75244"
@@ -8,5 +7,5 @@ city: Dallas
 street: "Inwood Road"
 housenumber: 13450
 phone: "469-399-7903"
-opening_hours: "Tu-Fr 12pm-7pm Sa 12pm-8pm"
+opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-20:00"
 website: "https://glamourgoddessboutique.com/"

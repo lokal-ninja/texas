@@ -1,12 +1,11 @@
-id: 440900990
-type: way
-shop: car parts
-latitude: 30.388543600000002
-longitude: -97.64827580000001
-postcode: "78754"
+id: 8363087462
+type: node
+latitude: 30.295059000000002
+longitude: -97.7170196
+postcode: "78722"
 city: Austin
-street: "Dessau Road"
-housenumber: 12308
-phone: ""
-opening_hours: ""
-website: "https://www.oreillyauto.com/"
+street: "North Interstate 35"
+housenumber: 3909
+phone: "+1-512-453-4456"
+opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-22:00"
+website: "https://locations.oreillyauto.com/tx/austin/autoparts-579.html"

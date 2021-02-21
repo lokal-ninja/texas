@@ -1,12 +1,11 @@
 id: 2491857230
 type: node
-shop: supermarket
-latitude: 30.300489000000002
-longitude: -97.71981020000001
+latitude: 30.300506700000003
+longitude: -97.71964510000001
 postcode: "78751"
 city: Austin
 street: "East 41st Street"
 housenumber: 1000
 phone: "+1-512-459-6513"
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Su 07:00-21:00"
+website: "https://www.heb.com/heb-store/US/tx/austin/hancock-center-h-e-b-425"

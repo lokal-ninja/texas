@@ -1,6 +1,5 @@
 id: 8291886310
 type: node
-shop: variety store
 latitude: 30.5567746
 longitude: -97.6871026
 postcode: "78665"
@@ -9,4 +8,4 @@ street: "University Oaks Boulevard"
 housenumber: 201
 phone: "+1-512-310-8440"
 opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://locations.fivebelow.com/tx/round-rock/201-university-oaks-boulevard?utm_source=gmb&utm_medium=yext"
+website: "https://locations.fivebelow.com/tx/round-rock/201-university-oaks-boulevard"

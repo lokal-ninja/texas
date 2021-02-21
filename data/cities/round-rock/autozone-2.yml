@@ -1,6 +1,5 @@
 id: 754377747
 type: way
-shop: car parts
 latitude: 30.5668374
 longitude: -97.6645555
 postcode: "78665"
@@ -9,4 +8,4 @@ street: "University Boulevard"
 housenumber: 1101
 phone: "+1-512-840-4170"
 opening_hours: "Fr-We 07:30-21:00; Th 07:30-19:00"
-website: "https://www.autozone.com/locations/tx/round-rock/1101-university-blvd.html?cmpid=LOC%3AUS%3AEN%3AAD%3ANL%3A1000000%3AGEN%3A6444&y_source=1_MTM5NzEzNTQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl"
+website: "https://www.autozone.com/locations/tx/round-rock/1101-university-blvd.html"

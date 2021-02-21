@@ -1,12 +1,11 @@
-id: 118489541
+id: 31143486
 type: way
-shop: car repair
-latitude: 30.471129200000004
-longitude: -97.79231920000001
-postcode: "78717"
+latitude: 30.446360700000003
+longitude: -97.79130070000001
+postcode: "78750"
 city: Austin
-street: "North Ranch Road 620"
-housenumber: 13300
-phone: ""
-opening_hours: ""
-website: ""
+street: "Research Boulevard"
+housenumber: 13450
+phone: "+1-512-456-9790"
+opening_hours: "Mo-Fr 07:30-17:00"
+website: "https://atxphysicaltherapy.com/"

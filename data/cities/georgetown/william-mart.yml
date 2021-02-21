@@ -1,12 +1,11 @@
 id: 750548707
 type: way
-shop: convenience
 latitude: 30.659516500000002
 longitude: -97.68844370000001
 postcode: "78628"
 city: Georgetown
 street: "Williams Drive"
 housenumber: 2403
-phone: "512 591 7860"
-opening_hours: "Mon-Fri 6am-11pm"
+phone: "+1 512 591 7860"
+opening_hours: "Mo-Fr 06:00-23:00"
 website: ""

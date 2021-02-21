@@ -1,6 +1,5 @@
 id: 8285639166
 type: node
-shop: hairdresser
 latitude: 30.3639426
 longitude: -97.7295627
 postcode: "78757"
@@ -8,5 +7,5 @@ city: Austin
 street: "Burnet Road"
 housenumber: 8312
 phone: "+1-512-454-1708"
-opening_hours: "Mo-Fr 10:030-19:00; Sa 10:00-16:00"
+opening_hours: "Mo-Fr 10:30-19:00; Sa 10:00-16:00"
 website: ""

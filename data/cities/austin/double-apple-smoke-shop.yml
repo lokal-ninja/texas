@@ -7,5 +7,5 @@ city: Austin
 street: "North Lamar Boulevard"
 housenumber: 112200
 phone: "+1-512-351-8012"
-opening_hours: "Su-Th 10:00-23:00; Fr-Sa 10:00-24:00"
+opening_hours: "Su-Th 10:00-23:00; Fr-Sa 10:00-0:00"
 website: ""

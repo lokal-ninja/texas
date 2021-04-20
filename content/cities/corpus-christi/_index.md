@@ -1,6 +1,6 @@
 ---
 title: Corpus Christi
 url: /corpus-christi/
-latitude: 27.747725300000003
-longitude: -97.40141290000001
+latitude: 27.795148200000003
+longitude: -97.39420530000001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dumas
 url: /dumas/
-latitude: 35.8635875
-longitude: -101.9650625
+latitude: 35.8583842
+longitude: -101.972857
 ---

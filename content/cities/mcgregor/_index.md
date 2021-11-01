@@ -1,6 +1,6 @@
 ---
 title: McGregor
 url: /mcgregor/
-latitude: 31.4368343
-longitude: -97.4089194
+latitude: 31.4367029
+longitude: -97.40808750000001
 ---

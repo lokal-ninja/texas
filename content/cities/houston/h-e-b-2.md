@@ -1,5 +1,0 @@
----
-title: "H-E-B"
-url: /houston/h-e-b-2/
-shop: supermarket
----

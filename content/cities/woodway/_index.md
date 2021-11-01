@@ -1,6 +1,6 @@
 ---
 title: Woodway
 url: /woodway/
-latitude: 31.5059998
-longitude: -97.20500550000001
+latitude: 31.505910500000002
+longitude: -97.2050856
 ---

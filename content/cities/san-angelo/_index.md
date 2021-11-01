@@ -1,6 +1,6 @@
 ---
 title: San Angelo
 url: /san-angelo/
-latitude: 31.464835700000002
-longitude: -100.43984420000001
+latitude: 31.4649685
+longitude: -100.44050940000001
 ---

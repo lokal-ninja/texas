@@ -1,5 +1,5 @@
 ---
-title: "DD's Discounts"
+title: "dd's Discounts"
 url: /houston/dds-discounts/
 shop: department store
 ---

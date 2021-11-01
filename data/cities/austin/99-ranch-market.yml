@@ -1,11 +1,11 @@
-id: 7857825857
-type: node
-latitude: 30.337720200000003
-longitude: -97.7178538
+id: 989676991
+type: way
+latitude: 30.337875800000003
+longitude: -97.71819430000001
 postcode: "78752"
 city: Austin
 street: "Airport Boulevard"
 housenumber: 6929
 phone: "+1-512-381-8899"
 opening_hours: ""
-website: "http://www.99ranch.com/"
+website: "https://www.99ranch.com/my-store/store-locator#!/?distance=10&q=austin"

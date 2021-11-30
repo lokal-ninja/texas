@@ -1,6 +1,6 @@
 ---
 title: Del Rio
 url: /del-rio/
-latitude: 29.3655405
-longitude: -100.894698
+latitude: 31.838262
+longitude: -102.3498517
 ---

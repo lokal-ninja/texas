@@ -1,6 +1,6 @@
 ---
 title: Benjamin
 url: /benjamin/
-latitude: 33.5839808
-longitude: -99.79231320000001
+latitude: 33.5841372
+longitude: -99.79143880000001
 ---

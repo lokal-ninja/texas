@@ -1,6 +1,6 @@
 ---
 title: Seagraves
 url: /seagraves/
-latitude: 32.9442651
-longitude: -102.56491500000001
+latitude: 32.9437907
+longitude: -102.56597900000001
 ---

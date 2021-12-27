@@ -1,5 +1,5 @@
 ---
 title: "Terminix"
 url: /texarkana/terminix/
-shop: pest control
+shop: Schädlingsbekämpfung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Santos
 url: /santos/
-latitude: 
-longitude: 
+latitude: 32.614
+longitude: -98.112
 ---

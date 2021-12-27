@@ -1,5 +1,5 @@
 ---
 title: "Brinson Ford"
 url: /athens/brinson-ford/
-shop: car
+shop: Autohaus
 ---

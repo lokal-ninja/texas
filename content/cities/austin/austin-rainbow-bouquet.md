@@ -1,5 +1,5 @@
 ---
 title: "Austin Rainbow Bouquet"
 url: /austin/austin-rainbow-bouquet/
-shop: florist
+shop: Blumen
 ---

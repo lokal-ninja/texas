@@ -1,5 +1,5 @@
 ---
 title: "Nailology"
 url: /houston/nailology/
-shop: beauty
+shop: Kosmetik
 ---

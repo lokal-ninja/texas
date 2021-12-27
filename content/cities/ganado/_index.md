@@ -1,6 +1,6 @@
 ---
 title: Ganado
 url: /ganado/
-latitude: 29.0396292
-longitude: -96.5122845
+latitude: 29.042
+longitude: -96.515
 ---

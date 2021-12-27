@@ -1,5 +1,5 @@
 ---
 title: "Annie's"
 url: /navasota/annies/
-shop: convenience
+shop: Lebensmittel
 ---

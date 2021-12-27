@@ -1,6 +1,6 @@
 ---
 title: Port Isabel
 url: /port-isabel/
-latitude: 26.0734119
-longitude: -97.2085844
+latitude: 26.074
+longitude: -97.211
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Twin Stop"
 url: /athens/twin-stop/
-shop: convenience
+shop: Lebensmittel
 ---

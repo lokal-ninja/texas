@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /harlingen/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Adamsville
 url: /adamsville/
-latitude: 31.301276700000003
-longitude: -98.1689206
+latitude: 31.302
+longitude: -98.169
 ---

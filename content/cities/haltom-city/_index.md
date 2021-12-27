@@ -1,6 +1,6 @@
 ---
 title: Haltom City
 url: /haltom-city/
-latitude: 32.799573800000005
-longitude: -97.2691817
+latitude: 32.805
+longitude: -97.266
 ---

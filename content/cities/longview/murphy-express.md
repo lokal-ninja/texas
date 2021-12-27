@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /longview/murphy-express/
-shop: convenience
+shop: Lebensmittel
 ---

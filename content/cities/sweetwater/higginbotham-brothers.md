@@ -1,5 +1,5 @@
 ---
 title: "Higginbotham Brothers"
 url: /sweetwater/higginbotham-brothers/
-shop: hardware
+shop: Eisenwaren
 ---

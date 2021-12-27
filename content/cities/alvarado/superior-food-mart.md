@@ -1,5 +1,5 @@
 ---
 title: "Superior Food Mart"
 url: /alvarado/superior-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

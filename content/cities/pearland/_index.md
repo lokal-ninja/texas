@@ -1,6 +1,6 @@
 ---
 title: Pearland
 url: /pearland/
-latitude: 29.5639758
-longitude: -95.2864299
+latitude: 29.553
+longitude: -95.394
 ---

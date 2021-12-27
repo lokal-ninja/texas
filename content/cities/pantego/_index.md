@@ -1,6 +1,6 @@
 ---
 title: Pantego
 url: /pantego/
-latitude: 32.7142988
-longitude: -97.15640020000001
+latitude: 32.709
+longitude: -97.151
 ---

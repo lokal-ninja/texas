@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /beaumont/shell/
-shop: convenience
+shop: Lebensmittel
 ---

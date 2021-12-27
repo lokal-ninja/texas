@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /southlake/fossil/
-shop: clothes
+shop: Kleidung
 ---

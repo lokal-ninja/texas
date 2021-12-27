@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /college-station/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

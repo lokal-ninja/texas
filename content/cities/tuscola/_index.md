@@ -1,6 +1,6 @@
 ---
 title: Tuscola
 url: /tuscola/
-latitude: 32.2079942
-longitude: -99.7961319
+latitude: 32.213
+longitude: -99.796
 ---

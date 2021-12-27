@@ -1,6 +1,6 @@
 ---
 title: Highland Village
 url: /highland-village/
-latitude: 29.7417619
-longitude: -95.445638
+latitude: 33.072
+longitude: -97.048
 ---

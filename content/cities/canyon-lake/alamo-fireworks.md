@@ -1,5 +1,5 @@
 ---
 title: "Alamo Fireworks"
 url: /canyon-lake/alamo-fireworks/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

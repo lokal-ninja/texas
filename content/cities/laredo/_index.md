@@ -1,6 +1,6 @@
 ---
 title: Laredo
 url: /laredo/
-latitude: 
-longitude: 
+latitude: 27.532
+longitude: -99.471
 ---

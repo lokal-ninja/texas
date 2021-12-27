@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /humble/old-navy/
-shop: clothes
+shop: Kleidung
 ---

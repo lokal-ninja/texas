@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /boerne/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

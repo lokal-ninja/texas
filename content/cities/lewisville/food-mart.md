@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /lewisville/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gonzales
 url: /gonzales/
-latitude: 29.443655500000002
-longitude: -97.51086360000001
+latitude: 29.517
+longitude: -97.45
 ---

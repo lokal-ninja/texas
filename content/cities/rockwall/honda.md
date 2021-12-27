@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /rockwall/honda/
-shop: car
+shop: Autohaus
 ---

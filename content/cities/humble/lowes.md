@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /humble/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

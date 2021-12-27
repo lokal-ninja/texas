@@ -1,5 +1,5 @@
 ---
 title: "VStop"
 url: /houston/vstop/
-shop: convenience
+shop: Lebensmittel
 ---

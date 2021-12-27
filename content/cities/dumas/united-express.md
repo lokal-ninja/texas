@@ -1,5 +1,5 @@
 ---
 title: "United Express"
 url: /dumas/united-express/
-shop: convenience
+shop: Lebensmittel
 ---

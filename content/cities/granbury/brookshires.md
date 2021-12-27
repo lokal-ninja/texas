@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /granbury/brookshires/
-shop: supermarket
+shop: Supermarkt
 ---

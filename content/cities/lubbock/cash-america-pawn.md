@@ -1,5 +1,5 @@
 ---
 title: "Cash America Pawn"
 url: /lubbock/cash-america-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

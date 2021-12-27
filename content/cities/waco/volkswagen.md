@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /waco/volkswagen/
-shop: car
+shop: Autohaus
 ---

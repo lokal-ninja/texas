@@ -1,5 +1,5 @@
 ---
 title: "Jimmy's Food Store"
 url: /dallas/jimmys-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mrs. Johnson's Bakery"
 url: /austin/mrs-johnsons-bakery/
-shop: bakery
+shop: Bäckerei
 ---

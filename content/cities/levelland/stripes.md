@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /levelland/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

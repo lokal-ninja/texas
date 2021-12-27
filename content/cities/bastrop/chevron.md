@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /bastrop/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

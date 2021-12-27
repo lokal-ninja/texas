@@ -1,5 +1,5 @@
 ---
 title: "Mustang Laundry"
 url: /grapevine/mustang-laundry/
-shop: laundry
+shop: Wäscherei
 ---

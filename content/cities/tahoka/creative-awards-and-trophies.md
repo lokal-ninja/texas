@@ -1,5 +1,5 @@
 ---
 title: "Creative Awards and Trophies"
 url: /tahoka/creative-awards-and-trophies/
-shop: trophy
+shop: Pokal
 ---

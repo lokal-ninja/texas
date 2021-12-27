@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /sherman/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

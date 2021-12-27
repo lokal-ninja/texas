@@ -1,5 +1,5 @@
 ---
 title: "Look Eyecare"
 url: /houston/look-eyecare/
-shop: optician
+shop: Optiker
 ---

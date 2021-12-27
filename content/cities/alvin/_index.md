@@ -1,6 +1,6 @@
 ---
 title: Alvin
 url: /alvin/
-latitude: 29.4238472
-longitude: -95.2441009
+latitude: 29.425
+longitude: -95.229
 ---

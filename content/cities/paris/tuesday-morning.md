@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /paris/tuesday-morning/
-shop: houseware
+shop: Haushaltsartikel
 ---

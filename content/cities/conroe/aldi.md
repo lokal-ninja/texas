@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /conroe/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

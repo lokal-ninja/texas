@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /fort-worth/shell/
-shop: convenience
+shop: Lebensmittel
 ---

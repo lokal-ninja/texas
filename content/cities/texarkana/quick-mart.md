@@ -1,5 +1,5 @@
 ---
 title: "Quick Mart"
 url: /texarkana/quick-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /kingwood/francescas/
-shop: clothes
+shop: Kleidung
 ---

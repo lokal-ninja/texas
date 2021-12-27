@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /lubbock/sprint/
-shop: mobile phone
+shop: Handy
 ---

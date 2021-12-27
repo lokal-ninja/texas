@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /garland/carmax/
-shop: car
+shop: Autohaus
 ---

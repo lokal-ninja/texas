@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /san-antonio/goodwill-6/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Olmito
 url: /olmito/
-latitude: 26.021744700000003
-longitude: -97.53415340000001
+latitude: 26.028
+longitude: -97.531
 ---

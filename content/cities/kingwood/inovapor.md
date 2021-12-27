@@ -1,5 +1,5 @@
 ---
 title: "inoVapor"
 url: /kingwood/inovapor/
-shop: tobacco
+shop: Tabak
 ---

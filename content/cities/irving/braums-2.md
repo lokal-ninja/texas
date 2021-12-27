@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /irving/braums-2/
-shop: dairy
+shop: Milch
 ---

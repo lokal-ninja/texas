@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /spring/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

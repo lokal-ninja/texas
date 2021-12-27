@@ -1,5 +1,5 @@
 ---
 title: "Drybar"
 url: /austin/drybar/
-shop: hairdresser
+shop: Friseur
 ---

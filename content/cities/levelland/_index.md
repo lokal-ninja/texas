@@ -1,6 +1,6 @@
 ---
 title: Levelland
 url: /levelland/
-latitude: 33.5873164
-longitude: -102.37796
+latitude: 33.576
+longitude: -102.369
 ---

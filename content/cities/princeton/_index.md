@@ -1,6 +1,6 @@
 ---
 title: Princeton
 url: /princeton/
-latitude: 33.1801161
-longitude: -96.4980424
+latitude: 33.174
+longitude: -96.511
 ---

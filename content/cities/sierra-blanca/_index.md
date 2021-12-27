@@ -1,6 +1,6 @@
 ---
 title: Sierra Blanca
 url: /sierra-blanca/
-latitude: 31.177831200000004
-longitude: -105.35762720000001
+latitude: 31.173
+longitude: -105.358
 ---

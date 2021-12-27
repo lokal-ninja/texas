@@ -1,6 +1,6 @@
 ---
 title: San Benito
 url: /san-benito/
-latitude: 26.1326237
-longitude: -97.630791
+latitude: 26.149
+longitude: -97.665
 ---

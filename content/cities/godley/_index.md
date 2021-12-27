@@ -1,6 +1,6 @@
 ---
 title: Godley
 url: /godley/
-latitude: 32.449029
-longitude: -97.5266886
+latitude: 32.445
+longitude: -97.529
 ---

@@ -1,5 +1,5 @@
 ---
 title: "E-Z Mart"
 url: /san-antonio/e-z-mart-2/
-shop: convenience
+shop: Lebensmittel
 ---

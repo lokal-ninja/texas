@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /frisco/buckle/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artisan Vapor Company"
 url: /carrollton/artisan-vapor-company/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Washateria"
 url: /seguin/washateria/
-shop: laundry
+shop: Wäscherei
 ---

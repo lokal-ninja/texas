@@ -1,6 +1,6 @@
 ---
 title: Robinson
 url: /robinson/
-latitude: 32.3095686
-longitude: -102.5553984
+latitude: 31.478
+longitude: -97.12
 ---

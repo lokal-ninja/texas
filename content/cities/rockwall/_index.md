@@ -1,6 +1,6 @@
 ---
 title: Rockwall
 url: /rockwall/
-latitude: 32.8923464
-longitude: -96.4066987
+latitude: 32.905
+longitude: -96.452
 ---

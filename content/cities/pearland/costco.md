@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /pearland/costco/
-shop: wholesale
+shop: Großhandel
 ---

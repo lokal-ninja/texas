@@ -1,5 +1,5 @@
 ---
 title: "Vick's Cleaners"
 url: /plainview/vicks-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

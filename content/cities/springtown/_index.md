@@ -1,6 +1,6 @@
 ---
 title: Springtown
 url: /springtown/
-latitude: 31.802096000000002
-longitude: -98.1897589
+latitude: 32.931
+longitude: -97.619
 ---

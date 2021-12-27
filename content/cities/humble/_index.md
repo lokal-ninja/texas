@@ -1,6 +1,6 @@
 ---
 title: Humble
 url: /humble/
-latitude: 29.9988312
-longitude: -95.2621553
+latitude: 30.018
+longitude: -95.269
 ---

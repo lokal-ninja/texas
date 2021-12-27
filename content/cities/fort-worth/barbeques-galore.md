@@ -1,5 +1,5 @@
 ---
 title: "Barbeques Galore"
 url: /fort-worth/barbeques-galore/
-shop: appliance
+shop: Haushaltsgeräte
 ---

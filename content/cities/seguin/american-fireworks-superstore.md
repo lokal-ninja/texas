@@ -1,5 +1,5 @@
 ---
 title: "American Fireworks Superstore"
 url: /seguin/american-fireworks-superstore/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

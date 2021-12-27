@@ -1,5 +1,5 @@
 ---
 title: "Elaine's Florist"
 url: /houston/elaines-florist/
-shop: florist
+shop: Blumen
 ---

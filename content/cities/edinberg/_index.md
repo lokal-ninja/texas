@@ -1,6 +1,6 @@
 ---
 title: Edinberg
 url: /edinberg/
-latitude: 
-longitude: 
+latitude: 26.305
+longitude: -98.184
 ---

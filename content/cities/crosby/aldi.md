@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /crosby/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

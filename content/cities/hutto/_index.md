@@ -1,6 +1,6 @@
 ---
 title: Hutto
 url: /hutto/
-latitude: 30.542763800000003
-longitude: -97.5468898
+latitude: 30.54
+longitude: -97.557
 ---

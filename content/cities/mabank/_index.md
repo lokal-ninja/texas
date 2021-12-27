@@ -1,6 +1,6 @@
 ---
 title: Mabank
 url: /mabank/
-latitude: 32.3665322
-longitude: -96.1008056
+latitude: 32.355
+longitude: -96.106
 ---

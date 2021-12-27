@@ -1,6 +1,6 @@
 ---
 title: Farmers Branch
 url: /farmers-branch/
-latitude: 32.9265137
-longitude: -96.8961151
+latitude: 32.924
+longitude: -96.893
 ---

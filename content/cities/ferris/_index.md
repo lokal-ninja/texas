@@ -1,6 +1,6 @@
 ---
 title: Ferris
 url: /ferris/
-latitude: 32.5340262
-longitude: -96.66554880000001
+latitude: 32.528
+longitude: -96.664
 ---

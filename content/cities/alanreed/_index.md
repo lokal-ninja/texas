@@ -1,6 +1,6 @@
 ---
 title: Alanreed
 url: /alanreed/
-latitude: 35.2129702
-longitude: -100.73260010000001
+latitude: 35.214
+longitude: -100.74
 ---

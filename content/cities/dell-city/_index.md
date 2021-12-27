@@ -1,6 +1,6 @@
 ---
 title: Dell City
 url: /dell-city/
-latitude: 31.938723900000003
-longitude: -105.201345
+latitude: 31.939
+longitude: -105.2
 ---

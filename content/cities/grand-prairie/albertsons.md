@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /grand-prairie/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

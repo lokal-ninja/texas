@@ -1,5 +1,5 @@
 ---
 title: "Marky's"
 url: /sanger/markys/
-shop: laundry
+shop: Wäscherei
 ---

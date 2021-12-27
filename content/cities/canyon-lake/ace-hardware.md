@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /canyon-lake/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

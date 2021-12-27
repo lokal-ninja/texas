@@ -1,5 +1,5 @@
 ---
 title: "American Freight"
 url: /amarillo/american-freight/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Venus
 url: /venus/
-latitude: 32.4334742
-longitude: -97.1025077
+latitude: 32.435
+longitude: -97.107
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SMZ Food Mart"
 url: /dallas/smz-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

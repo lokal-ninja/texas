@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /panhandle/cefco/
-shop: convenience
+shop: Lebensmittel
 ---

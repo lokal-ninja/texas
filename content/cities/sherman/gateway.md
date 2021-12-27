@@ -1,5 +1,5 @@
 ---
 title: "Gateway"
 url: /sherman/gateway/
-shop: convenience
+shop: Lebensmittel
 ---

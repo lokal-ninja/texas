@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /killeen/stripes-2/
-shop: convenience
+shop: Lebensmittel
 ---

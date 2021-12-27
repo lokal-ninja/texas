@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /conroe/petco/
-shop: pet
+shop: Tiere
 ---

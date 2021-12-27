@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /texas-city/converse/
-shop: shoes
+shop: Schuhe
 ---

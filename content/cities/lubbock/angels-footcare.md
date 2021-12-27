@@ -1,5 +1,5 @@
 ---
 title: "Angel's Footcare"
 url: /lubbock/angels-footcare/
-shop: massage
+shop: Massage
 ---

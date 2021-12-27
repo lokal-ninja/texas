@@ -1,6 +1,6 @@
 ---
 title: Coppell
 url: /coppell/
-latitude: 32.9552598
-longitude: -97.01557030000001
+latitude: 32.988
+longitude: -96.994
 ---

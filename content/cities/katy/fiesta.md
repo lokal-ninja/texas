@@ -1,5 +1,5 @@
 ---
 title: "Fiesta"
 url: /katy/fiesta/
-shop: supermarket
+shop: Supermarkt
 ---

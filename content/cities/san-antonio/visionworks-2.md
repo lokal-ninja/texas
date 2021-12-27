@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /san-antonio/visionworks-2/
-shop: optician
+shop: Optiker
 ---

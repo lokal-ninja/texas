@@ -1,6 +1,6 @@
 ---
 title: Blvd, Dallas
 url: /blvd-dallas/
-latitude: 
-longitude: 
+latitude: 32.741
+longitude: -96.682
 ---

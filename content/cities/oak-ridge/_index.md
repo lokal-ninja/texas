@@ -1,6 +1,6 @@
 ---
 title: Oak Ridge
 url: /oak-ridge/
-latitude: 30.3886557
-longitude: -97.680676
+latitude: 33.651
+longitude: -97.04
 ---

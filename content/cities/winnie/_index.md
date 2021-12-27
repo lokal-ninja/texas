@@ -1,6 +1,6 @@
 ---
 title: Winnie
 url: /winnie/
-latitude: 29.8202205
-longitude: -94.3840777
+latitude: 29.833
+longitude: -94.383
 ---

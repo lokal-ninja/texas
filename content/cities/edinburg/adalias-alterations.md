@@ -1,5 +1,5 @@
 ---
 title: "Adalia's Alterations"
 url: /edinburg/adalias-alterations/
-shop: tailor
+shop: Schneiderei
 ---

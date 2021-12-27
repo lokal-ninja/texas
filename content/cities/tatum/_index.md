@@ -1,6 +1,6 @@
 ---
 title: Tatum
 url: /tatum/
-latitude: 32.315053
-longitude: -94.51637290000001
+latitude: 32.316
+longitude: -94.514
 ---

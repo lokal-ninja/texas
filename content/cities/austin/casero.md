@@ -1,5 +1,5 @@
 ---
 title: "Casero"
 url: /austin/casero/
-shop: cheese
+shop: Käse
 ---

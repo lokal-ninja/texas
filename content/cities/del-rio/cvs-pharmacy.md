@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /del-rio/cvs-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

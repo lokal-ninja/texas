@@ -1,5 +1,5 @@
 ---
 title: "Lazy Daisy Greenhouse"
 url: /athens/lazy-daisy-greenhouse/
-shop: garden centre
+shop: Garten-Center
 ---

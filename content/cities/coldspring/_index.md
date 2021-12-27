@@ -1,6 +1,6 @@
 ---
 title: Coldspring
 url: /coldspring/
-latitude: 30.592421
-longitude: -95.1293818
+latitude: 30.588
+longitude: -95.136
 ---

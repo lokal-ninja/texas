@@ -1,5 +1,5 @@
 ---
 title: "Invicta"
 url: /san-marcos/invicta/
-shop: watches
+shop: Uhren
 ---

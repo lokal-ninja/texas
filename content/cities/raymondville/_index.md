@@ -1,6 +1,6 @@
 ---
 title: Raymondville
 url: /raymondville/
-latitude: 26.4814565
-longitude: -97.783051
+latitude: 26.482
+longitude: -97.771
 ---

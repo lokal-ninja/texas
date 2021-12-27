@@ -1,6 +1,6 @@
 ---
 title: Seguin
 url: /seguin/
-latitude: 29.5688411
-longitude: -97.9647269
+latitude: 29.568
+longitude: -97.965
 ---

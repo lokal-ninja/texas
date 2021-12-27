@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /spring-branch/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

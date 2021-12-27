@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /euless/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

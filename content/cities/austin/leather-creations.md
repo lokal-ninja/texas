@@ -1,5 +1,5 @@
 ---
 title: "Leather Creations"
 url: /austin/leather-creations/
-shop: leather
+shop: Leder
 ---

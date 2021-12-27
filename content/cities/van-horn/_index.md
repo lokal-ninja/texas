@@ -1,6 +1,6 @@
 ---
 title: Van Horn
 url: /van-horn/
-latitude: 31.0380171
-longitude: -104.83022530000001
+latitude: 31.036
+longitude: -104.83
 ---

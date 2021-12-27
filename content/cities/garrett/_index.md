@@ -1,6 +1,6 @@
 ---
 title: Garrett
 url: /garrett/
-latitude: 32.363476500000004
-longitude: -96.6547135
+latitude: 32.371
+longitude: -96.644
 ---

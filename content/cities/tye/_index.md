@@ -1,6 +1,6 @@
 ---
 title: Tye
 url: /tye/
-latitude: 32.4558661
-longitude: -99.8683821
+latitude: 32.461
+longitude: -99.872
 ---

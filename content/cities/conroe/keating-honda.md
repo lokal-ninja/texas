@@ -1,5 +1,5 @@
 ---
 title: "Keating Honda"
 url: /conroe/keating-honda/
-shop: car
+shop: Autohaus
 ---

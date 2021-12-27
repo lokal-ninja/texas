@@ -1,6 +1,6 @@
 ---
 title: Kingsville
 url: /kingsville/
-latitude: 27.5158689
-longitude: -97.856109
+latitude: 27.489
+longitude: -97.854
 ---

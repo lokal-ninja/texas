@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /fredericksburg/circle-k/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Finish Line"
 url: /sugar-land/finish-line/
-shop: sports
+shop: Sport
 ---

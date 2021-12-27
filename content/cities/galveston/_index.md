@@ -1,6 +1,6 @@
 ---
 title: Galveston
 url: /galveston/
-latitude: 29.387225400000002
-longitude: -94.99273600000001
+latitude: 29.271
+longitude: -94.831
 ---

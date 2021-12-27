@@ -1,5 +1,5 @@
 ---
 title: "Adult Megaplex"
 url: /san-antonio/adult-megaplex/
-shop: erotic
+shop: Erotik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ewald Kubota"
 url: /boerne/ewald-kubota/
-shop: general
+shop: Dorfladen
 ---

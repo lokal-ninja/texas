@@ -1,5 +1,5 @@
 ---
 title: "Linda's Nails"
 url: /georgetown/lindas-nails/
-shop: beauty
+shop: Kosmetik
 ---

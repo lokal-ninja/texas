@@ -1,6 +1,6 @@
 ---
 title: Grand Prairie
 url: /grand-prairie/
-latitude: 32.7459645
-longitude: -96.9977846
+latitude: 32.743
+longitude: -97.014
 ---

@@ -1,6 +1,6 @@
 ---
 title: Big Spring
 url: /big-spring/
-latitude: 32.250398000000004
-longitude: -101.47873560000001
+latitude: 32.253
+longitude: -101.476
 ---

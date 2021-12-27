@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /seminole/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

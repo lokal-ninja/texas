@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /rockwall/visionworks/
-shop: optician
+shop: Optiker
 ---

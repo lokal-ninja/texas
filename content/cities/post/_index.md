@@ -1,6 +1,6 @@
 ---
 title: Post
 url: /post/
-latitude: 33.1909246
-longitude: -101.380662
+latitude: 33.19
+longitude: -101.379
 ---

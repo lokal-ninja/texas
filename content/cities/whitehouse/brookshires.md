@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /whitehouse/brookshires/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lubbock/stripes-9/
-shop: convenience
+shop: Lebensmittel
 ---

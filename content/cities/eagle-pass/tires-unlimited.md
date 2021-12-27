@@ -1,5 +1,5 @@
 ---
 title: "Tires Unlimited"
 url: /eagle-pass/tires-unlimited/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /killeen/cefco/
-shop: convenience
+shop: Lebensmittel
 ---

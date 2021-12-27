@@ -1,5 +1,5 @@
 ---
 title: "Shop N Go"
 url: /seguin/shop-n-go/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ropesville
 url: /ropesville/
-latitude: 33.4134229
-longitude: -102.15434060000001
+latitude: 33.414
+longitude: -102.158
 ---

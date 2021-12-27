@@ -1,5 +1,5 @@
 ---
 title: "Mangum Cleaner"
 url: /houston/mangum-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

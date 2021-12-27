@@ -1,5 +1,5 @@
 ---
 title: "Dow Autoplex"
 url: /mineola/dow-autoplex/
-shop: car
+shop: Autohaus
 ---

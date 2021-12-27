@@ -1,6 +1,6 @@
 ---
 title: Scurry
 url: /scurry/
-latitude: 32.7225172
-longitude: -100.9052015
+latitude: 32.514
+longitude: -96.383
 ---

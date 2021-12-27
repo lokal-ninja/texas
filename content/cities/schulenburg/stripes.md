@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /schulenburg/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

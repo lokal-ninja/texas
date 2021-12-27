@@ -1,5 +1,5 @@
 ---
 title: "Pottery Garden"
 url: /bryan/pottery-garden/
-shop: garden centre
+shop: Garten-Center
 ---

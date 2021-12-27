@@ -1,5 +1,5 @@
 ---
 title: "Microsoft"
 url: /austin/microsoft/
-shop: electronics
+shop: Elektronik
 ---

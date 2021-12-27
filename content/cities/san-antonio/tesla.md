@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /san-antonio/tesla/
-shop: car
+shop: Autohaus
 ---

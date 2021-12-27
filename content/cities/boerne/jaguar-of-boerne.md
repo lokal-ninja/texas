@@ -1,5 +1,5 @@
 ---
 title: "Jaguar of Boerne"
 url: /boerne/jaguar-of-boerne/
-shop: car
+shop: Autohaus
 ---

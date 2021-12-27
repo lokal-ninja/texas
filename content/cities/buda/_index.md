@@ -1,6 +1,6 @@
 ---
 title: Buda
 url: /buda/
-latitude: 30.082475000000002
-longitude: -97.8417144
+latitude: 30.087
+longitude: -97.825
 ---

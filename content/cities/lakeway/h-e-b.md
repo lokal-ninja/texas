@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /lakeway/h-e-b/
-shop: supermarket
+shop: Supermarkt
 ---

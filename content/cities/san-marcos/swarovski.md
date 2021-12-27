@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /san-marcos/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

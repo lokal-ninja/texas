@@ -1,6 +1,6 @@
 ---
 title: Watauga
 url: /watauga/
-latitude: 32.8579056
-longitude: -97.2547371
+latitude: 32.885
+longitude: -97.26
 ---

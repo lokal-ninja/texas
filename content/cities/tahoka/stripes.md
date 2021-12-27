@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /tahoka/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

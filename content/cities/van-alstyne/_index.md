@@ -1,6 +1,6 @@
 ---
 title: Van Alstyne
 url: /van-alstyne/
-latitude: 33.4220266
-longitude: -96.5764834
+latitude: 33.424
+longitude: -96.587
 ---

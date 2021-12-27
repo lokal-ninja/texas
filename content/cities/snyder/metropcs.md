@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /snyder/metropcs/
-shop: mobile phone
+shop: Handy
 ---

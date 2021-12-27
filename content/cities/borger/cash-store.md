@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /borger/cash-store/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DJS Tires"
 url: /mclean/djs-tires/
-shop: tyres
+shop: Reifen
 ---

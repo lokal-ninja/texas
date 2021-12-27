@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /live-oak/quiktrip-2/
-shop: convenience
+shop: Lebensmittel
 ---

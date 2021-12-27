@@ -1,5 +1,5 @@
 ---
 title: "Wildflower"
 url: /roscoe/wildflower/
-shop: clothes
+shop: Kleidung
 ---

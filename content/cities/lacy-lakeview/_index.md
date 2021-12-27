@@ -1,6 +1,6 @@
 ---
 title: Lacy-Lakeview
 url: /lacy-lakeview/
-latitude: 31.630281500000002
-longitude: -97.0989316
+latitude: 31.603
+longitude: -97.108
 ---

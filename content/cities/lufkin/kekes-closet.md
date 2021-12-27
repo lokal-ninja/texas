@@ -1,5 +1,5 @@
 ---
 title: "Keke's Closet"
 url: /lufkin/kekes-closet/
-shop: furniture
+shop: Möbel
 ---

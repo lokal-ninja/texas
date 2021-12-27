@@ -1,6 +1,6 @@
 ---
 title: Cresson
 url: /cresson/
-latitude: 32.5305926
-longitude: -97.61722320000001
+latitude: 32.5
+longitude: -97.654
 ---

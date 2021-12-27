@@ -1,5 +1,5 @@
 ---
 title: "Family Thrift Center"
 url: /garland/family-thrift-center/
-shop: charity
+shop: Gebrauchtwaren
 ---

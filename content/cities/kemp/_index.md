@@ -1,6 +1,6 @@
 ---
 title: Kemp
 url: /kemp/
-latitude: 32.4426403
-longitude: -96.2299771
+latitude: 32.401
+longitude: -96.166
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TETCO"
 url: /cotulla/tetco/
-shop: convenience
+shop: Lebensmittel
 ---

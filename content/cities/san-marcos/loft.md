@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /san-marcos/loft/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Plainview
 url: /plainview/
-latitude: 31.842540900000003
-longitude: -102.4548927
+latitude: 34.167
+longitude: -101.751
 ---

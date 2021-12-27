@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /austin/airgas/
-shop: gas
+shop: Gasflaschen
 ---

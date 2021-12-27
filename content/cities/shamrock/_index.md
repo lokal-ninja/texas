@@ -1,6 +1,6 @@
 ---
 title: Shamrock
 url: /shamrock/
-latitude: 32.599302
-longitude: -96.88750180000001
+latitude: 35.23
+longitude: -100.25
 ---

@@ -1,6 +1,6 @@
 ---
 title: Burleson
 url: /burleson/
-latitude: 30.4764878
-longitude: -96.6353488
+latitude: 32.538
+longitude: -97.361
 ---

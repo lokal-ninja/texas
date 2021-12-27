@@ -1,5 +1,5 @@
 ---
 title: "LoanStar Title Loans"
 url: /greenville/loanstar-title-loans/
-shop: pawnbroker
+shop: Leiher
 ---

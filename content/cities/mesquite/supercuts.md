@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /mesquite/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mars Liquor"
 url: /houston/mars-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

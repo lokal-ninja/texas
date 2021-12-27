@@ -1,5 +1,5 @@
 ---
 title: "Angel Liquor"
 url: /sugar-land/angel-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

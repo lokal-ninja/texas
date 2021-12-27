@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /abilene/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

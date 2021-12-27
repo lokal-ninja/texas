@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /temple/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

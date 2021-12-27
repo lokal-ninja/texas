@@ -1,5 +1,5 @@
 ---
 title: "iBurn"
 url: /houston/iburn/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /shamrock/radioshack/
-shop: electronics
+shop: Elektronik
 ---

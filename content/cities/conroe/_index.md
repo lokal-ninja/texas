@@ -1,6 +1,6 @@
 ---
 title: Conroe
 url: /conroe/
-latitude: 30.3118769
-longitude: -95.4560512
+latitude: 30.313
+longitude: -95.472
 ---

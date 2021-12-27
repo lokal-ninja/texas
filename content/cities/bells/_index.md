@@ -1,6 +1,6 @@
 ---
 title: Bells
 url: /bells/
-latitude: 33.6103837
-longitude: -96.4108188
+latitude: 33.612
+longitude: -96.411
 ---

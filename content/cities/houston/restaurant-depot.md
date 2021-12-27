@@ -1,5 +1,5 @@
 ---
 title: "Restaurant Depot"
 url: /houston/restaurant-depot/
-shop: trade
+shop: Baustoffe
 ---

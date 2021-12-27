@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Bay
 url: /horseshoe-bay/
-latitude: 30.544209100000003
-longitude: -98.3669797
+latitude: 30.543
+longitude: -98.357
 ---

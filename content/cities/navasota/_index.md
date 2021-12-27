@@ -1,6 +1,6 @@
 ---
 title: Navasota
 url: /navasota/
-latitude: 31.8422376
-longitude: -102.3153549
+latitude: 30.395
+longitude: -96.072
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alba
 url: /alba/
-latitude: 32.7919884
-longitude: -95.6328811
+latitude: 32.794
+longitude: -95.638
 ---

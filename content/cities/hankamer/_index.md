@@ -1,6 +1,6 @@
 ---
 title: Hankamer
 url: /hankamer/
-latitude: 29.8582755
-longitude: -94.6268618
+latitude: 29.835
+longitude: -94.54
 ---

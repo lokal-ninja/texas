@@ -1,5 +1,5 @@
 ---
 title: "Soma"
 url: /san-marcos/soma/
-shop: clothes
+shop: Kleidung
 ---

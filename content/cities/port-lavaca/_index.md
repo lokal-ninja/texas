@@ -1,6 +1,6 @@
 ---
 title: Port Lavaca
 url: /port-lavaca/
-latitude: 28.6149968
-longitude: -96.62608920000001
+latitude: 28.632
+longitude: -96.627
 ---

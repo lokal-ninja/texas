@@ -1,5 +1,5 @@
 ---
 title: "SciFi Factory"
 url: /fort-worth/scifi-factory/
-shop: toys
+shop: Spielzeug
 ---

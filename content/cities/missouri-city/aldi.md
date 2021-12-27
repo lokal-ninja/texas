@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /missouri-city/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

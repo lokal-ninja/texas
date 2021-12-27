@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /longview/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

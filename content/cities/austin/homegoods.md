@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /austin/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

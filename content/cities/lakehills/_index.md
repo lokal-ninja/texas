@@ -1,6 +1,6 @@
 ---
 title: Lakehills
 url: /lakehills/
-latitude: 29.584395
-longitude: -98.9489193
+latitude: 29.582
+longitude: -98.949
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /roscoe/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

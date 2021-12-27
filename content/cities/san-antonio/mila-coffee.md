@@ -1,5 +1,5 @@
 ---
 title: "Mila Coffee"
 url: /san-antonio/mila-coffee/
-shop: coffee
+shop: Kaffee
 ---

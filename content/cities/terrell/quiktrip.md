@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /terrell/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

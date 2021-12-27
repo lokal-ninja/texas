@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /sullivan-city/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

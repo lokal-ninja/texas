@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /houston/cash-store-2/
-shop: pawnbroker
+shop: Leiher
 ---

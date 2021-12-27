@@ -1,6 +1,6 @@
 ---
 title: Pearsall
 url: /pearsall/
-latitude: 28.892193900000002
-longitude: -99.095033
+latitude: 28.899
+longitude: -99.116
 ---

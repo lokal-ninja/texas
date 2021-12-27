@@ -1,6 +1,6 @@
 ---
 title: Angleton
 url: /angleton/
-latitude: 29.169410000000003
-longitude: -95.43188470000001
+latitude: 29.172
+longitude: -95.419
 ---

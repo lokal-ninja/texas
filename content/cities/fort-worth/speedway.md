@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fort-worth/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

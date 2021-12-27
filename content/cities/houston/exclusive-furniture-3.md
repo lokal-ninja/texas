@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Furniture"
 url: /houston/exclusive-furniture-3/
-shop: furniture
+shop: Möbel
 ---

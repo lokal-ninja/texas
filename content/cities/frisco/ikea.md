@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /frisco/ikea/
-shop: furniture
+shop: Möbel
 ---

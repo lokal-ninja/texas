@@ -1,6 +1,6 @@
 ---
 title: Cove
 url: /cove/
-latitude: 29.804188000000003
-longitude: -94.8394057
+latitude: 29.811
+longitude: -94.831
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercado Express"
 url: /houston/mercado-express/
-shop: convenience
+shop: Lebensmittel
 ---

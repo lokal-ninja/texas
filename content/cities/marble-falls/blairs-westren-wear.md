@@ -1,5 +1,5 @@
 ---
 title: "Blair's Westren Wear"
 url: /marble-falls/blairs-westren-wear/
-shop: clothes
+shop: Kleidung
 ---

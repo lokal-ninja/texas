@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /wichita-falls/dollar-general-3/
-shop: variety store
+shop: Kramladen
 ---

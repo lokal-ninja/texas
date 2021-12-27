@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /tomball/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

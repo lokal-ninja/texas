@@ -1,6 +1,6 @@
 ---
 title: Wolfforth
 url: /wolfforth/
-latitude: 33.505918900000005
-longitude: -102.00905750000001
+latitude: 33.519
+longitude: -101.993
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /the-colony/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

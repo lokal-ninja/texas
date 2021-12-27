@@ -1,5 +1,5 @@
 ---
 title: "GCE Gold Silver Buyer"
 url: /san-antonio/gce-gold-silver-buyer/
-shop: pawnbroker
+shop: Leiher
 ---

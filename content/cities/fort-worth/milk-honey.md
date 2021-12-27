@@ -1,5 +1,5 @@
 ---
 title: "Milk + Honey"
 url: /fort-worth/milk-honey/
-shop: beauty
+shop: Kosmetik
 ---

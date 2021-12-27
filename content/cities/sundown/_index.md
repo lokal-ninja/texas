@@ -1,6 +1,6 @@
 ---
 title: Sundown
 url: /sundown/
-latitude: 33.456207
-longitude: -102.48935700000001
+latitude: 33.457
+longitude: -102.488
 ---

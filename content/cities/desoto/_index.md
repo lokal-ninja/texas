@@ -1,6 +1,6 @@
 ---
 title: DeSoto
 url: /desoto/
-latitude: 
-longitude: 
+latitude: 32.63
+longitude: -96.858
 ---

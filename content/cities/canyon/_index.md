@@ -1,6 +1,6 @@
 ---
 title: Canyon
 url: /canyon/
-latitude: 33.592863300000005
-longitude: -101.731553
+latitude: 34.98
+longitude: -101.918
 ---

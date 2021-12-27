@@ -1,6 +1,6 @@
 ---
 title: Eagle Pass
 url: /eagle-pass/
-latitude: 28.7099337
-longitude: -100.493813
+latitude: 28.704
+longitude: -100.483
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market Square Supermarket"
 url: /shamrock/market-square-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

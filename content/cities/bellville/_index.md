@@ -1,6 +1,6 @@
 ---
 title: Bellville
 url: /bellville/
-latitude: 29.950225300000003
-longitude: -96.2571858
+latitude: 29.94
+longitude: -96.252
 ---

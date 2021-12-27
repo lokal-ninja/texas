@@ -1,6 +1,6 @@
 ---
 title: Marble Falls
 url: /marble-falls/
-latitude: 30.5777511
-longitude: -98.27565050000001
+latitude: 30.597
+longitude: -98.273
 ---

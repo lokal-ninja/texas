@@ -1,6 +1,6 @@
 ---
 title: Corpus Chirsti
 url: /corpus-chirsti/
-latitude: 
-longitude: 
+latitude: 27.794
+longitude: -97.469
 ---

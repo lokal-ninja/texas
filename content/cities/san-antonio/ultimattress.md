@@ -1,5 +1,5 @@
 ---
 title: "UltiMattress"
 url: /san-antonio/ultimattress/
-shop: bed
+shop: Betten
 ---

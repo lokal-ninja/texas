@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rowlett/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

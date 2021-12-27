@@ -1,5 +1,5 @@
 ---
 title: "Camper Clinic II"
 url: /buda/camper-clinic-ii/
-shop: car
+shop: Autohaus
 ---

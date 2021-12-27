@@ -1,6 +1,6 @@
 ---
 title: Anahuac
 url: /anahuac/
-latitude: 29.7730001
-longitude: -94.6826961
+latitude: 29.773
+longitude: -94.673
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kirkland"
 url: /pflugerville/kirkland/
-shop: department store
+shop: Warenhaus
 ---

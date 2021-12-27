@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /greenville/atwoods/
-shop: general
+shop: Dorfladen
 ---

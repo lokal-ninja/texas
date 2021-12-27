@@ -1,6 +1,6 @@
 ---
 title: Meadows Place
 url: /meadows-place/
-latitude: 29.6513439
-longitude: -95.5880005
+latitude: 29.646
+longitude: -95.583
 ---

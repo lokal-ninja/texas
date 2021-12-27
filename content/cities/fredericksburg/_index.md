@@ -1,6 +1,6 @@
 ---
 title: Fredericksburg
 url: /fredericksburg/
-latitude: 30.2752011
-longitude: -98.87198430000001
+latitude: 30.274
+longitude: -98.87
 ---

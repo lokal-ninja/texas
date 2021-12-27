@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /mesquite/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

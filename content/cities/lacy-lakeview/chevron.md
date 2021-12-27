@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /lacy-lakeview/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

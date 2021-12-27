@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /garland/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

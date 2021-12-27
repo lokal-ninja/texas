@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /hurst/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

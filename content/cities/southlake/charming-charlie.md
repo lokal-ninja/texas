@@ -1,5 +1,5 @@
 ---
 title: "Charming Charlie"
 url: /southlake/charming-charlie/
-shop: clothes
+shop: Kleidung
 ---

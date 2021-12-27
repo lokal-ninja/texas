@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /brownsville/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

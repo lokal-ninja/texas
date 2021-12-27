@@ -1,6 +1,6 @@
 ---
 title: Fort Bliss
 url: /fort-bliss/
-latitude: 
-longitude: 
+latitude: 31.813
+longitude: -106.433
 ---

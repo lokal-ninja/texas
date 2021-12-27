@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /selma/havertys/
-shop: furniture
+shop: Möbel
 ---

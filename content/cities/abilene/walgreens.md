@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /abilene/walgreens/
-shop: chemist
+shop: Drogerie
 ---

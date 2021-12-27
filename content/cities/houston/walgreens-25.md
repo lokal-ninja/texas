@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /houston/walgreens-25/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quelle Boutique"
 url: /harlingen/quelle-boutique/
-shop: boutique
+shop: Modehaus
 ---

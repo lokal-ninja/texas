@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /eastland/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brownwood
 url: /brownwood/
-latitude: 30.114376300000004
-longitude: -93.73516590000001
+latitude: 31.732
+longitude: -98.982
 ---

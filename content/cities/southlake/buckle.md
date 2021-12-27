@@ -1,5 +1,5 @@
 ---
 title: "Buckle"
 url: /southlake/buckle/
-shop: clothes
+shop: Kleidung
 ---

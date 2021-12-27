@@ -1,6 +1,6 @@
 ---
 title: Crystal Beach
 url: /crystal-beach/
-latitude: 29.4572611
-longitude: -94.63891360000001
+latitude: 29.442
+longitude: -94.667
 ---

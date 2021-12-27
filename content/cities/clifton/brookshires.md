@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /clifton/brookshires/
-shop: supermarket
+shop: Supermarkt
 ---

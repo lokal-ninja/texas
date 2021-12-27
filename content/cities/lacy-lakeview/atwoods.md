@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /lacy-lakeview/atwoods/
-shop: general
+shop: Dorfladen
 ---

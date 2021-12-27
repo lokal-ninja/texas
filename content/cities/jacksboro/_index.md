@@ -1,6 +1,6 @@
 ---
 title: Jacksboro
 url: /jacksboro/
-latitude: 33.2195301
-longitude: -98.1642475
+latitude: 33.219
+longitude: -98.157
 ---

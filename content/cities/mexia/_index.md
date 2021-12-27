@@ -1,6 +1,6 @@
 ---
 title: Mexia
 url: /mexia/
-latitude: 31.6816183
-longitude: -96.4783677
+latitude: 31.683
+longitude: -96.457
 ---

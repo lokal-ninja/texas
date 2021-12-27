@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /amarillo/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

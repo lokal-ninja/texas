@@ -1,5 +1,5 @@
 ---
 title: "Bluemercury"
 url: /houston/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

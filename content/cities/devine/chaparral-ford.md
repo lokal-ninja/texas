@@ -1,5 +1,5 @@
 ---
 title: "Chaparral Ford"
 url: /devine/chaparral-ford/
-shop: car
+shop: Autohaus
 ---

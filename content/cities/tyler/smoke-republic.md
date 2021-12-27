@@ -1,5 +1,5 @@
 ---
 title: "Smoke Republic"
 url: /tyler/smoke-republic/
-shop: tobacco
+shop: Tabak
 ---

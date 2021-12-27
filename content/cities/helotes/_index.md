@@ -1,6 +1,6 @@
 ---
 title: Helotes
 url: /helotes/
-latitude: 29.563568800000002
-longitude: -98.6884208
+latitude: 29.556
+longitude: -98.669
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /lubbock/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

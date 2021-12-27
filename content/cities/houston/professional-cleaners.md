@@ -1,5 +1,5 @@
 ---
 title: "Professional Cleaners"
 url: /houston/professional-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

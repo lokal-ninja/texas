@@ -1,6 +1,6 @@
 ---
 title: Schertz
 url: /schertz/
-latitude: 29.564161700000003
-longitude: -98.2695702
+latitude: 29.603
+longitude: -98.278
 ---

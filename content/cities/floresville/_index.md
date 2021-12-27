@@ -1,6 +1,6 @@
 ---
 title: Floresville
 url: /floresville/
-latitude: 29.1335781
-longitude: -98.1561192
+latitude: 29.143
+longitude: -98.157
 ---

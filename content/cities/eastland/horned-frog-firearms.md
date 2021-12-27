@@ -1,5 +1,5 @@
 ---
 title: "Horned Frog Firearms"
 url: /eastland/horned-frog-firearms/
-shop: weapons
+shop: Waffen
 ---

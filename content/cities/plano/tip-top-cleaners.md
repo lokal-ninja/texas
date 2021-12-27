@@ -1,5 +1,5 @@
 ---
 title: "Tip Top Cleaners"
 url: /plano/tip-top-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

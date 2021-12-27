@@ -1,6 +1,6 @@
 ---
 title: Palacios
 url: /palacios/
-latitude: 28.707464100000003
-longitude: -96.2175557
+latitude: 28.677
+longitude: -96.556
 ---

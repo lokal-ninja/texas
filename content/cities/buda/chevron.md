@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /buda/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

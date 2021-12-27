@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /waxahachie/atwoods/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Color Studio and Salon"
 url: /dallas/the-color-studio-and-salon/
-shop: beauty
+shop: Kosmetik
 ---

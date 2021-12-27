@@ -1,6 +1,6 @@
 ---
 title: Idalou
 url: /idalou/
-latitude: 33.662271000000004
-longitude: -101.68411400000001
+latitude: 33.667
+longitude: -101.685
 ---

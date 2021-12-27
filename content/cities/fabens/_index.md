@@ -1,6 +1,6 @@
 ---
 title: Fabens
 url: /fabens/
-latitude: 31.5033451
-longitude: -106.1522314
+latitude: 31.509
+longitude: -106.148
 ---

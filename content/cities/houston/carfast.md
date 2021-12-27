@@ -1,5 +1,5 @@
 ---
 title: "CarFast"
 url: /houston/carfast/
-shop: car
+shop: Autohaus
 ---

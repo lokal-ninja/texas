@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /fulshear/timewise/
-shop: convenience
+shop: Lebensmittel
 ---

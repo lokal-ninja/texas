@@ -1,6 +1,6 @@
 ---
 title: Sunnyvale
 url: /sunnyvale/
-latitude: 32.7965165
-longitude: -96.5608242
+latitude: 32.815
+longitude: -96.596
 ---

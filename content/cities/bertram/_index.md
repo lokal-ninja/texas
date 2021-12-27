@@ -1,6 +1,6 @@
 ---
 title: Bertram
 url: /bertram/
-latitude: 30.7437645
-longitude: -98.05543490000001
+latitude: 30.741
+longitude: -98.05
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hollywood Park
 url: /hollywood-park/
-latitude: 29.600504700000002
-longitude: -98.48724
+latitude: 29.593
+longitude: -98.474
 ---

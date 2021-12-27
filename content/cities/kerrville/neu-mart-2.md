@@ -1,5 +1,5 @@
 ---
 title: "NEU Mart"
 url: /kerrville/neu-mart-2/
-shop: convenience
+shop: Lebensmittel
 ---

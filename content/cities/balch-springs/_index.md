@@ -1,6 +1,6 @@
 ---
 title: Balch Springs
 url: /balch-springs/
-latitude: 32.7287413
-longitude: -96.6227714
+latitude: 32.735
+longitude: -96.632
 ---

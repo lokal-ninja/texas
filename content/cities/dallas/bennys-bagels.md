@@ -1,5 +1,5 @@
 ---
 title: "Benny's Bagels"
 url: /dallas/bennys-bagels/
-shop: bakery
+shop: Bäckerei
 ---

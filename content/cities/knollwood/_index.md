@@ -1,6 +1,6 @@
 ---
 title: Knollwood
 url: /knollwood/
-latitude: 33.685088300000004
-longitude: -96.6167451
+latitude: 33.684
+longitude: -96.619
 ---

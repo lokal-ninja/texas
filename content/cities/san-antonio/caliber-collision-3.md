@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /san-antonio/caliber-collision-3/
-shop: car repair
+shop: Autowerkstatt
 ---

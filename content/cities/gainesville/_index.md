@@ -1,6 +1,6 @@
 ---
 title: Gainesville
 url: /gainesville/
-latitude: 33.6259414
-longitude: -97.1333453
+latitude: 33.643
+longitude: -97.134
 ---

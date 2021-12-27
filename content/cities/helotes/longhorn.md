@@ -1,5 +1,5 @@
 ---
 title: "Longhorn"
 url: /helotes/longhorn/
-shop: garden centre
+shop: Garten-Center
 ---

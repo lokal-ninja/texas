@@ -1,5 +1,5 @@
 ---
 title: "Hesselbein Tires"
 url: /lubbock/hesselbein-tires/
-shop: tyres
+shop: Reifen
 ---

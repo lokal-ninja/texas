@@ -1,6 +1,6 @@
 ---
 title: Grapeland
 url: /grapeland/
-latitude: 31.491845
-longitude: -95.47856060000001
+latitude: 31.507
+longitude: -95.478
 ---

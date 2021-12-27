@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /pharr/costco/
-shop: wholesale
+shop: Großhandel
 ---

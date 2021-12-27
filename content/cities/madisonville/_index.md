@@ -1,6 +1,6 @@
 ---
 title: Madisonville
 url: /madisonville/
-latitude: 30.9498688
-longitude: -95.9127773
+latitude: 30.951
+longitude: -95.911
 ---

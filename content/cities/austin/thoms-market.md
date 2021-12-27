@@ -1,5 +1,5 @@
 ---
 title: "Thom's Market"
 url: /austin/thoms-market/
-shop: convenience
+shop: Lebensmittel
 ---

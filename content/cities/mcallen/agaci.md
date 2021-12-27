@@ -1,5 +1,5 @@
 ---
 title: "A'GACI"
 url: /mcallen/agaci/
-shop: clothes
+shop: Kleidung
 ---

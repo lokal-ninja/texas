@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /dhanis/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

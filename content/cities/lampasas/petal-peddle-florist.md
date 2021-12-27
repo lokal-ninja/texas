@@ -1,5 +1,5 @@
 ---
 title: "Petal Peddle Florist"
 url: /lampasas/petal-peddle-florist/
-shop: florist
+shop: Blumen
 ---

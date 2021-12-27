@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /dallas/guitar-center/
-shop: musical instrument
+shop: Instrumente
 ---

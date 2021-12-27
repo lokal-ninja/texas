@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /houston/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

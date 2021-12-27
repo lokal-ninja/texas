@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
 url: /southlake/madewell/
-shop: clothes
+shop: Kleidung
 ---

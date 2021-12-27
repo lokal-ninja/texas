@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /mcallen/zara/
-shop: clothes
+shop: Kleidung
 ---

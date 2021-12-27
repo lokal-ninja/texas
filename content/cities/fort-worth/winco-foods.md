@@ -1,5 +1,5 @@
 ---
 title: "WinCo Foods"
 url: /fort-worth/winco-foods/
-shop: supermarket
+shop: Supermarkt
 ---

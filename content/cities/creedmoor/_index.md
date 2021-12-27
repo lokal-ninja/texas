@@ -1,6 +1,6 @@
 ---
 title: Creedmoor
 url: /creedmoor/
-latitude: 30.0899368
-longitude: -97.7338917
+latitude: 30.099
+longitude: -97.753
 ---

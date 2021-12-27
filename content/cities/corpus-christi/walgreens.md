@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /corpus-christi/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /beaumont/gamestop/
-shop: video games
+shop: Videospiele
 ---

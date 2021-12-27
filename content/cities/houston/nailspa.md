@@ -1,5 +1,5 @@
 ---
 title: "Nailspa"
 url: /houston/nailspa/
-shop: beauty
+shop: Kosmetik
 ---

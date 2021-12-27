@@ -1,6 +1,6 @@
 ---
 title: Wharton
 url: /wharton/
-latitude: 29.245453400000002
-longitude: -96.2291474
+latitude: 29.355
+longitude: -96.107
 ---

@@ -1,6 +1,6 @@
 ---
 title: Atascosa
 url: /atascosa/
-latitude: 28.855443400000002
-longitude: -98.53163140000001
+latitude: 29.262
+longitude: -98.709
 ---

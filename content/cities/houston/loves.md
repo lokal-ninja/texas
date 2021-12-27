@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /houston/loves/
-shop: convenience
+shop: Lebensmittel
 ---

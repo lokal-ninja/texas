@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /mesquite/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

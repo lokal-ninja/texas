@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /san-marcos/lacoste/
-shop: clothes
+shop: Kleidung
 ---

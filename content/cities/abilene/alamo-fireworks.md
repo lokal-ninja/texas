@@ -1,5 +1,5 @@
 ---
 title: "Alamo Fireworks"
 url: /abilene/alamo-fireworks/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

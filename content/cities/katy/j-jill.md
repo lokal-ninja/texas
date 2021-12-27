@@ -1,5 +1,5 @@
 ---
 title: "J.Jill"
 url: /katy/j-jill/
-shop: clothes
+shop: Kleidung
 ---

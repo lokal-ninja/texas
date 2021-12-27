@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /cedar-park/savers/
-shop: charity
+shop: Gebrauchtwaren
 ---

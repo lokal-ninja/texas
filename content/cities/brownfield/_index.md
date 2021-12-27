@@ -1,6 +1,6 @@
 ---
 title: Brownfield
 url: /brownfield/
-latitude: 33.1811661
-longitude: -102.274237
+latitude: 33.181
+longitude: -102.273
 ---

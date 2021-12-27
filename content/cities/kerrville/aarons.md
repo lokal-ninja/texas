@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /kerrville/aarons/
-shop: furniture
+shop: Möbel
 ---

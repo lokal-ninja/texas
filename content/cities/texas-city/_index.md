@@ -1,6 +1,6 @@
 ---
 title: Texas City
 url: /texas-city/
-latitude: 29.396013000000004
-longitude: -94.91754850000001
+latitude: 29.409
+longitude: -94.933
 ---

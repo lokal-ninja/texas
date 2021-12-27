@@ -1,5 +1,5 @@
 ---
 title: "David's"
 url: /glen-rose/davids/
-shop: supermarket
+shop: Supermarkt
 ---

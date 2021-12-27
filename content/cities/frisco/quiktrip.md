@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /frisco/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

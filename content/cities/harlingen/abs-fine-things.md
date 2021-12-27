@@ -1,5 +1,5 @@
 ---
 title: "Ab's Fine Things"
 url: /harlingen/abs-fine-things/
-shop: antiques
+shop: Antiquitäten
 ---

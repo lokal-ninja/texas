@@ -1,5 +1,5 @@
 ---
 title: "Chisum"
 url: /lubbock/chisum/
-shop: convenience
+shop: Lebensmittel
 ---

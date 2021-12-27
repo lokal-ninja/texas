@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /weatherford/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

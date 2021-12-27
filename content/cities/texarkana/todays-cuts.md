@@ -1,5 +1,5 @@
 ---
 title: "Today's Cuts"
 url: /texarkana/todays-cuts/
-shop: hairdresser
+shop: Friseur
 ---

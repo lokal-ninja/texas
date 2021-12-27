@@ -1,5 +1,5 @@
 ---
 title: "Loanstar Title Loans"
 url: /alamo-heights/loanstar-title-loans/
-shop: pawnbroker
+shop: Leiher
 ---

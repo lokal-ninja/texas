@@ -1,6 +1,6 @@
 ---
 title: seymour
 url: /seymour/
-latitude: 
-longitude: 
+latitude: 33.595
+longitude: -99.264
 ---

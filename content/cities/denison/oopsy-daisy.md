@@ -1,5 +1,5 @@
 ---
 title: "Oopsy Daisy"
 url: /denison/oopsy-daisy/
-shop: garden centre
+shop: Garten-Center
 ---

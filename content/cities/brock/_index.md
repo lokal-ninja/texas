@@ -1,6 +1,6 @@
 ---
 title: Brock
 url: /brock/
-latitude: 32.6762432
-longitude: -97.94087180000001
+latitude: 32.7
+longitude: -97.958
 ---

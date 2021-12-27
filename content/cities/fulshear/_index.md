@@ -1,6 +1,6 @@
 ---
 title: Fulshear
 url: /fulshear/
-latitude: 29.690292000000003
-longitude: -95.8996261
+latitude: 29.707
+longitude: -95.847
 ---

@@ -1,6 +1,6 @@
 ---
 title: DFW Airport
 url: /dfw-airport/
-latitude: 
-longitude: 
+latitude: 32.899
+longitude: -97.044
 ---

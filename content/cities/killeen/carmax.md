@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /killeen/carmax/
-shop: car
+shop: Autohaus
 ---

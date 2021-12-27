@@ -1,6 +1,6 @@
 ---
 title: Van
 url: /van/
-latitude: 32.5249976
-longitude: -95.6376281
+latitude: 32.525
+longitude: -95.638
 ---

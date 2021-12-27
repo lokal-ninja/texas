@@ -1,5 +1,5 @@
 ---
 title: "Complete Collision"
 url: /pipe-creek/complete-collision/
-shop: car repair
+shop: Autowerkstatt
 ---

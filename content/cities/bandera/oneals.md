@@ -1,5 +1,5 @@
 ---
 title: "O'Neals"
 url: /bandera/oneals/
-shop: florist
+shop: Blumen
 ---

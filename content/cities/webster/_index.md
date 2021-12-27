@@ -1,6 +1,6 @@
 ---
 title: Webster
 url: /webster/
-latitude: 32.9265125
-longitude: -95.3249464
+latitude: 29.532
+longitude: -95.161
 ---

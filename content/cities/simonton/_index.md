@@ -1,6 +1,6 @@
 ---
 title: Simonton
 url: /simonton/
-latitude: 29.6792303
-longitude: -95.9768549
+latitude: 29.676
+longitude: -95.977
 ---

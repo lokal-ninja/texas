@@ -1,5 +1,5 @@
 ---
 title: "Cesiah's Panadería"
 url: /lubbock/cesiahs-panaderia/
-shop: bakery
+shop: Bäckerei
 ---

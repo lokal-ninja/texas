@@ -1,6 +1,6 @@
 ---
 title: Madisonviie
 url: /madisonviie/
-latitude: 
-longitude: 
+latitude: 30.966
+longitude: -95.881
 ---

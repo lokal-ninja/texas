@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /georgetown/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

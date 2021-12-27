@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /canton/brookshires/
-shop: supermarket
+shop: Supermarkt
 ---

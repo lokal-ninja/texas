@@ -1,6 +1,6 @@
 ---
 title: Friona
 url: /friona/
-latitude: 34.639631200000004
-longitude: -102.72117010000001
+latitude: 34.641
+longitude: -102.729
 ---

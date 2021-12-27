@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /buda/shell/
-shop: convenience
+shop: Lebensmittel
 ---

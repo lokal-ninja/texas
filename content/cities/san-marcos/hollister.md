@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /san-marcos/hollister/
-shop: clothes
+shop: Kleidung
 ---

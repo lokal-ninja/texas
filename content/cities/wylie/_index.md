@@ -1,6 +1,6 @@
 ---
 title: Wylie
 url: /wylie/
-latitude: 32.3729414
-longitude: -99.7753866
+latitude: 33.022
+longitude: -96.516
 ---

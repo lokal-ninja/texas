@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /round-rock/walmart/
-shop: department store
+shop: Warenhaus
 ---

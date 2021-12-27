@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /decatur/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

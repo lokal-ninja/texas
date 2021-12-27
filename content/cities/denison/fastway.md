@@ -1,5 +1,5 @@
 ---
 title: "Fastway"
 url: /denison/fastway/
-shop: convenience
+shop: Lebensmittel
 ---

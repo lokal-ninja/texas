@@ -1,5 +1,5 @@
 ---
 title: "Horizon"
 url: /sanger/horizon/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /euless/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /san-marcos/perfumania/
-shop: perfumery
+shop: Parfümerie
 ---

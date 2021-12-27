@@ -1,5 +1,5 @@
 ---
 title: "Dollar Mart"
 url: /san-antonio/dollar-mart/
-shop: general
+shop: Dorfladen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carrizo Springs
 url: /carrizo-springs/
-latitude: 28.524908800000002
-longitude: -99.86165290000001
+latitude: 28.543
+longitude: -99.849
 ---

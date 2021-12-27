@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /san-benito/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

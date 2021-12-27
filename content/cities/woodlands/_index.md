@@ -1,6 +1,6 @@
 ---
 title: Woodlands
 url: /woodlands/
-latitude: 
-longitude: 
+latitude: 30.124
+longitude: -95.443
 ---

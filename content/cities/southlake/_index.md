@@ -1,6 +1,6 @@
 ---
 title: Southlake
 url: /southlake/
-latitude: 32.9412363
-longitude: -97.1341783
+latitude: 32.942
+longitude: -97.13
 ---

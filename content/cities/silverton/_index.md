@@ -1,6 +1,6 @@
 ---
 title: Silverton
 url: /silverton/
-latitude: 34.4713299
-longitude: -101.3046544
+latitude: 34.475
+longitude: -101.31
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marfa
 url: /marfa/
-latitude: 
-longitude: 
+latitude: 30.311
+longitude: -104.016
 ---

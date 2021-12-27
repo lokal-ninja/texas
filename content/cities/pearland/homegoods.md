@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /pearland/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lake Worth
 url: /lake-worth/
-latitude: 32.8048507
-longitude: -97.44502
+latitude: 32.812
+longitude: -97.422
 ---

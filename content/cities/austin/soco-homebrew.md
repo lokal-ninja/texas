@@ -1,5 +1,5 @@
 ---
 title: "SoCo Homebrew"
 url: /austin/soco-homebrew/
-shop: brewery
+shop: Brauerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pak-A-Sak"
 url: /amarillo/pak-a-sak-3/
-shop: convenience
+shop: Lebensmittel
 ---

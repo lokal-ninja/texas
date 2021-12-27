@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /hutto/valero/
-shop: convenience
+shop: Lebensmittel
 ---

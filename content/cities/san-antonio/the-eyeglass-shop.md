@@ -1,5 +1,5 @@
 ---
 title: "The Eyeglass Shop"
 url: /san-antonio/the-eyeglass-shop/
-shop: optician
+shop: Optiker
 ---

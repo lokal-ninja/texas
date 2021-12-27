@@ -1,5 +1,5 @@
 ---
 title: "Evereve"
 url: /southlake/evereve/
-shop: clothes
+shop: Kleidung
 ---

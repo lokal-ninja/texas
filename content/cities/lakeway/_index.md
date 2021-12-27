@@ -1,6 +1,6 @@
 ---
 title: Lakeway
 url: /lakeway/
-latitude: 30.3644888
-longitude: -97.9875325
+latitude: 30.341
+longitude: -97.967
 ---

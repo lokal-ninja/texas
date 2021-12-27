@@ -1,5 +1,5 @@
 ---
 title: "Bolton"
 url: /lubbock/bolton/
-shop: convenience
+shop: Lebensmittel
 ---

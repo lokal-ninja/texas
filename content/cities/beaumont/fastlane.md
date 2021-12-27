@@ -1,5 +1,5 @@
 ---
 title: "Fastlane"
 url: /beaumont/fastlane/
-shop: convenience
+shop: Lebensmittel
 ---

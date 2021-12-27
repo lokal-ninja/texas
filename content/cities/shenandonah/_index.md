@@ -1,6 +1,6 @@
 ---
 title: Shenandonah
 url: /shenandonah/
-latitude: 
-longitude: 
+latitude: 30.183
+longitude: -95.451
 ---

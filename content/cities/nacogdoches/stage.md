@@ -1,5 +1,5 @@
 ---
 title: "Stage"
 url: /nacogdoches/stage/
-shop: department store
+shop: Warenhaus
 ---

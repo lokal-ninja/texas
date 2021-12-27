@@ -1,5 +1,5 @@
 ---
 title: "JCPenney Salon"
 url: /san-marcos/jcpenney-salon/
-shop: hairdresser
+shop: Friseur
 ---

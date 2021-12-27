@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /eastland/shell/
-shop: convenience
+shop: Lebensmittel
 ---

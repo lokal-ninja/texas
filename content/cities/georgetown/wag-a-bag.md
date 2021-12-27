@@ -1,5 +1,5 @@
 ---
 title: "Wag A Bag"
 url: /georgetown/wag-a-bag/
-shop: convenience
+shop: Lebensmittel
 ---

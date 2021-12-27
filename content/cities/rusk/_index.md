@@ -1,6 +1,6 @@
 ---
 title: Rusk
 url: /rusk/
-latitude: 32.051377
-longitude: -94.79065530000001
+latitude: 31.801
+longitude: -95.151
 ---

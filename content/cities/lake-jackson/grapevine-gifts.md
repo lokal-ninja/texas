@@ -1,5 +1,5 @@
 ---
 title: "Grapevine Gifts"
 url: /lake-jackson/grapevine-gifts/
-shop: gift
+shop: Andenken
 ---

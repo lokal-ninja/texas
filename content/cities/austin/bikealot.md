@@ -1,5 +1,5 @@
 ---
 title: "Bikealot"
 url: /austin/bikealot/
-shop: bicycle
+shop: Fahrrad
 ---

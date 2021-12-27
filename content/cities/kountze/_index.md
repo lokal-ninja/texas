@@ -1,6 +1,6 @@
 ---
 title: Kountze
 url: /kountze/
-latitude: 30.371597500000004
-longitude: -94.3124116
+latitude: 30.369
+longitude: -94.312
 ---

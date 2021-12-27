@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /lampasas/cato/
-shop: clothes
+shop: Kleidung
 ---

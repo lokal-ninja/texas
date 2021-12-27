@@ -1,6 +1,6 @@
 ---
 title: Victoria
 url: /victoria/
-latitude: 28.8026443
-longitude: -96.97663080000001
+latitude: 28.816
+longitude: -96.967
 ---

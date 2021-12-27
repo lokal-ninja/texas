@@ -1,6 +1,6 @@
 ---
 title: Lucas
 url: /lucas/
-latitude: 29.998269500000003
-longitude: -94.0690666
+latitude: 33.084
+longitude: -96.591
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dripping Springs
 url: /dripping-springs/
-latitude: 30.1902067
-longitude: -98.0866781
+latitude: 30.19
+longitude: -98.082
 ---

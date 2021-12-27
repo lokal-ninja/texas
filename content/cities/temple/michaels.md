@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /temple/michaels/
-shop: craft
+shop: Basteln
 ---

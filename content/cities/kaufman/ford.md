@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /kaufman/ford/
-shop: car
+shop: Autohaus
 ---

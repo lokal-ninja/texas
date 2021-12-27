@@ -1,5 +1,5 @@
 ---
 title: "Brookshire Brothers"
 url: /buffalo/brookshire-brothers/
-shop: supermarket
+shop: Supermarkt
 ---

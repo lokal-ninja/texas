@@ -1,5 +1,5 @@
 ---
 title: "Austin Homebrew Supply"
 url: /austin/austin-homebrew-supply/
-shop: doityourself
+shop: Baumarkt
 ---

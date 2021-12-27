@@ -1,6 +1,6 @@
 ---
 title: Lackland AFB
 url: /lackland-afb/
-latitude: 
-longitude: 
+latitude: 29.381
+longitude: -98.612
 ---

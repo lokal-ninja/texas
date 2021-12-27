@@ -1,6 +1,6 @@
 ---
-title: red oak
+title: Red Oak
 url: /red-oak/
-latitude: 
-longitude: 
+latitude: 32.531
+longitude: -96.817
 ---

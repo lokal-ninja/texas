@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /maxwell/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

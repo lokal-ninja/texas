@@ -1,6 +1,6 @@
 ---
 title: Whitehouse
 url: /whitehouse/
-latitude: 32.2268666
-longitude: -95.2259279
+latitude: 32.234
+longitude: -95.229
 ---

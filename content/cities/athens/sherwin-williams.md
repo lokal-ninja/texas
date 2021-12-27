@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /athens/sherwin-williams/
-shop: paint
+shop: Farben
 ---

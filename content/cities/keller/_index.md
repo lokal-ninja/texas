@@ -1,6 +1,6 @@
 ---
 title: Keller
 url: /keller/
-latitude: 32.9299655
-longitude: -97.2271249
+latitude: 32.918
+longitude: -97.255
 ---

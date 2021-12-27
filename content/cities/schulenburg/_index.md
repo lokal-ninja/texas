@@ -1,6 +1,6 @@
 ---
 title: Schulenburg
 url: /schulenburg/
-latitude: 29.680116
-longitude: -96.90459800000001
+latitude: 29.695
+longitude: -96.902
 ---

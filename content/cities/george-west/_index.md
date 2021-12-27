@@ -1,6 +1,6 @@
 ---
 title: George West
 url: /george-west/
-latitude: 28.331824200000003
-longitude: -98.11716120000001
+latitude: 28.368
+longitude: -98.143
 ---

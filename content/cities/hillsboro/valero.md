@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /hillsboro/valero/
-shop: convenience
+shop: Lebensmittel
 ---

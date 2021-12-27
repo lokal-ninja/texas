@@ -1,5 +1,5 @@
 ---
 title: "Comet"
 url: /lubbock/comet/
-shop: laundry
+shop: Wäscherei
 ---

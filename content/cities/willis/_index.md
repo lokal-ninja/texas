@@ -1,6 +1,6 @@
 ---
 title: Willis
 url: /willis/
-latitude: 30.424121900000003
-longitude: -95.4796587
+latitude: 30.422
+longitude: -95.495
 ---

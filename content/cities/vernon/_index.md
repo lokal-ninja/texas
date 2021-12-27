@@ -1,6 +1,6 @@
 ---
 title: Vernon
 url: /vernon/
-latitude: 34.1513105
-longitude: -99.2860857
+latitude: 34.159
+longitude: -99.313
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /houston/old-navy-3/
-shop: clothes
+shop: Kleidung
 ---

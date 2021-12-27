@@ -1,6 +1,6 @@
 ---
 title: Edinburg
 url: /edinburg/
-latitude: 26.3013982
-longitude: -98.1624501
+latitude: 26.275
+longitude: -98.15
 ---

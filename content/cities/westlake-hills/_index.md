@@ -1,6 +1,6 @@
 ---
 title: Westlake Hills
 url: /westlake-hills/
-latitude: 
-longitude: 
+latitude: 30.292
+longitude: -97.825
 ---

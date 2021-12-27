@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /austin/walgreens-2/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Somewhere In Time"
 url: /amarillo/somewhere-in-time/
-shop: antiques
+shop: Antiquitäten
 ---

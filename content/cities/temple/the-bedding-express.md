@@ -1,5 +1,5 @@
 ---
 title: "The Bedding Express"
 url: /temple/the-bedding-express/
-shop: bed
+shop: Betten
 ---

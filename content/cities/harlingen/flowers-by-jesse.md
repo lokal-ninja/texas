@@ -1,5 +1,5 @@
 ---
 title: "Flowers by Jesse"
 url: /harlingen/flowers-by-jesse/
-shop: florist
+shop: Blumen
 ---

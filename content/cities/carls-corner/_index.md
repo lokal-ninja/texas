@@ -1,6 +1,6 @@
 ---
 title: Carl's Corner
 url: /carls-corner/
-latitude: 32.0822166
-longitude: -97.0547609
+latitude: 32.079
+longitude: -97.055
 ---

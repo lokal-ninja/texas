@@ -1,6 +1,6 @@
 ---
 title: Channelview
 url: /channelview/
-latitude: 29.776059900000003
-longitude: -95.1146533
+latitude: 29.78
+longitude: -95.124
 ---

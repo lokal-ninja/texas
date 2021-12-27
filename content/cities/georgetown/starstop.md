@@ -1,5 +1,5 @@
 ---
 title: "StarStop"
 url: /georgetown/starstop/
-shop: convenience
+shop: Lebensmittel
 ---

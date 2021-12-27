@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /dickinson/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

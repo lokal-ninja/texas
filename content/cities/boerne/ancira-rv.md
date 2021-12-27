@@ -1,5 +1,5 @@
 ---
 title: "Ancira RV"
 url: /boerne/ancira-rv/
-shop: caravan
+shop: Wohnwagen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TETCO"
 url: /castroville/tetco/
-shop: convenience
+shop: Lebensmittel
 ---

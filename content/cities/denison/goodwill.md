@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /denison/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

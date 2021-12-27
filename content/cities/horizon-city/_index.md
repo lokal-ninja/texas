@@ -1,6 +1,6 @@
 ---
 title: Horizon City
 url: /horizon-city/
-latitude: 31.6926121
-longitude: -106.2074793
+latitude: 31.68
+longitude: -106.202
 ---

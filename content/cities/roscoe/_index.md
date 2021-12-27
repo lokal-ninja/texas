@@ -1,6 +1,6 @@
 ---
 title: Roscoe
 url: /roscoe/
-latitude: 32.441615
-longitude: -100.539297
+latitude: 32.436
+longitude: -100.534
 ---

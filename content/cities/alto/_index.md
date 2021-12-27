@@ -1,6 +1,6 @@
 ---
 title: Alto
 url: /alto/
-latitude: 31.650454600000003
-longitude: -95.07271750000001
+latitude: 31.653
+longitude: -95.073
 ---

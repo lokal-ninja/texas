@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /webster/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

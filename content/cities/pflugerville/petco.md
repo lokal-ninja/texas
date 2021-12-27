@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /pflugerville/petco/
-shop: pet
+shop: Tiere
 ---

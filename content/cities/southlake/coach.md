@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /southlake/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

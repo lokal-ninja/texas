@@ -1,5 +1,5 @@
 ---
 title: "LBJ Food Mart"
 url: /marble-falls/lbj-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

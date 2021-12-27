@@ -1,6 +1,6 @@
 ---
 title: Lefors
 url: /lefors/
-latitude: 35.4385491
-longitude: -100.80395010000001
+latitude: 35.437
+longitude: -100.805
 ---

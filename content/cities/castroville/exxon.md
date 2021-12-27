@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /castroville/exxon/
-shop: convenience
+shop: Lebensmittel
 ---

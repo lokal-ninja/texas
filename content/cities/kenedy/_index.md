@@ -1,6 +1,6 @@
 ---
 title: Kenedy
 url: /kenedy/
-latitude: 26.9205171
-longitude: -97.7461361
+latitude: 28.813
+longitude: -97.859
 ---

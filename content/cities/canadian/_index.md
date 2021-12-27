@@ -1,6 +1,6 @@
 ---
 title: Canadian
 url: /canadian/
-latitude: 35.912011400000004
-longitude: -100.3839018
+latitude: 35.895
+longitude: -100.393
 ---

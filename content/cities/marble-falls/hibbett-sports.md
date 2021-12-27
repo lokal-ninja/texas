@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /marble-falls/hibbett-sports/
-shop: sports
+shop: Sport
 ---

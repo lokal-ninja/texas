@@ -1,6 +1,6 @@
 ---
 title: Corrigan
 url: /corrigan/
-latitude: 30.996856500000003
-longitude: -94.8271527
+latitude: 30.997
+longitude: -94.827
 ---

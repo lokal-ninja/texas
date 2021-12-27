@@ -1,6 +1,6 @@
 ---
 title: Lone Star
 url: /lone-star/
-latitude: 30.0925921
-longitude: -97.3696706
+latitude: 32.938
+longitude: -94.712
 ---

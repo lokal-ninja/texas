@@ -1,5 +1,5 @@
 ---
 title: "Coda"
 url: /houston/coda/
-shop: gift
+shop: Andenken
 ---

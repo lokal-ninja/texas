@@ -1,6 +1,6 @@
 ---
 title: Caddo Mills
 url: /caddo-mills/
-latitude: 33.0656732
-longitude: -96.2277554
+latitude: 33.043
+longitude: -96.178
 ---

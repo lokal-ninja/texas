@@ -1,6 +1,6 @@
 ---
 title: Schulenberg
 url: /schulenberg/
-latitude: 
-longitude: 
+latitude: 29.69
+longitude: -96.903
 ---

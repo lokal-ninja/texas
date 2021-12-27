@@ -1,5 +1,5 @@
 ---
 title: "Sunmart"
 url: /katy/sunmart/
-shop: convenience
+shop: Lebensmittel
 ---

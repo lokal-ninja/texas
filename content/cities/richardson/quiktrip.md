@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /richardson/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

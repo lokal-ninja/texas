@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /weslaco/tj-maxx/
-shop: Kleidung
+shop: Warenhaus
 ---

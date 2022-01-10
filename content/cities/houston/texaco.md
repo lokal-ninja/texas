@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /houston/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

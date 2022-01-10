@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /new-caney/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

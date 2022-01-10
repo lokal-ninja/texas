@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /terrell/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

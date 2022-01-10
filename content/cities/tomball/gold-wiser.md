@@ -1,5 +1,5 @@
 ---
 title: "Gold Wiser"
 url: /tomball/gold-wiser/
-shop: Leiher
+shop: pawnbroker
 ---

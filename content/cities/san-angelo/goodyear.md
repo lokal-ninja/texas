@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /san-angelo/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Dept. Encore"
 url: /greenville/shoe-dept-encore/
-shop: Schuhe
+shop: shoes
 ---

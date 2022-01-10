@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /forney/gamestop/
-shop: Videospiele
+shop: video games
 ---

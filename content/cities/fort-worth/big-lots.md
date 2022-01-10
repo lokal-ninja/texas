@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /fort-worth/big-lots/
-shop: Warenhaus
+shop: department store
 ---

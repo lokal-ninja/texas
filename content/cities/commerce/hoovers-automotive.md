@@ -1,5 +1,5 @@
 ---
 title: "Hoover's Automotive"
 url: /commerce/hoovers-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

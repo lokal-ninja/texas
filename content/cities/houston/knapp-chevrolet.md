@@ -1,5 +1,5 @@
 ---
 title: "Knapp Chevrolet"
 url: /houston/knapp-chevrolet/
-shop: Autohaus
+shop: car
 ---

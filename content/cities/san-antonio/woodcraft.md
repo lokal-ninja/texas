@@ -1,5 +1,5 @@
 ---
 title: "Woodcraft"
 url: /san-antonio/woodcraft/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rendon's Furniture"
 url: /longview/rendons-furniture/
-shop: Möbel
+shop: furniture
 ---

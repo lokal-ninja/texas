@@ -1,5 +1,5 @@
 ---
 title: "Will's Automotive"
 url: /longview/wills-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

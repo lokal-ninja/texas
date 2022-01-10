@@ -1,5 +1,5 @@
 ---
 title: "Andice General Store"
 url: /andice/andice-general-store/
-shop: Dorfladen
+shop: general
 ---

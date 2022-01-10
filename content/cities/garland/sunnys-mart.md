@@ -1,5 +1,5 @@
 ---
 title: "Sunny's Mart"
 url: /garland/sunnys-mart/
-shop: Lebensmittel
+shop: convenience
 ---

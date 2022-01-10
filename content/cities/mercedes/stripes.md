@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /mercedes/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

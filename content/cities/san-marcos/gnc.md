@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /san-marcos/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

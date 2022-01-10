@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /waxahachie/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

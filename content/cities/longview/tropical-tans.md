@@ -1,5 +1,5 @@
 ---
 title: "Tropical Tans"
 url: /longview/tropical-tans/
-shop: Kosmetik
+shop: beauty
 ---

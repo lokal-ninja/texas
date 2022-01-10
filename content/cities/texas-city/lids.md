@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /texas-city/lids/
-shop: Kleidung
+shop: clothes
 ---

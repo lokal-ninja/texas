@@ -1,5 +1,5 @@
 ---
 title: "DFWShredding.com"
 url: /plano/dfwshredding-com/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lacks Furniture"
 url: /harlingen/lacks-furniture/
-shop: Möbel
+shop: furniture
 ---

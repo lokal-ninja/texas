@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /bastrop/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

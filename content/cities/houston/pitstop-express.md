@@ -1,5 +1,5 @@
 ---
 title: "Pitstop Express"
 url: /houston/pitstop-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /santo/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

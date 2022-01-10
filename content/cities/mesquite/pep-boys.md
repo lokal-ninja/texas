@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /mesquite/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

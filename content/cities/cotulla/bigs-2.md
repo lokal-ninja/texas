@@ -1,5 +1,5 @@
 ---
 title: "Big's"
 url: /cotulla/bigs-2/
-shop: Lebensmittel
+shop: convenience
 ---

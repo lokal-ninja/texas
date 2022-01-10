@@ -1,5 +1,5 @@
 ---
 title: "Lakeline Nails"
 url: /austin/lakeline-nails/
-shop: Kosmetik
+shop: beauty
 ---

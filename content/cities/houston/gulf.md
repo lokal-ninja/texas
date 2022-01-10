@@ -1,5 +1,5 @@
 ---
 title: "Gulf"
 url: /houston/gulf/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /dallas/racetrac-4/
-shop: Lebensmittel
+shop: convenience
 ---

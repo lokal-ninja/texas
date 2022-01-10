@@ -1,5 +1,5 @@
 ---
 title: "Gander Outdoors"
 url: /tyler/gander-outdoors/
-shop: Outdoor
+shop: outdoor
 ---

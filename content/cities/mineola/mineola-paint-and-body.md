@@ -1,5 +1,5 @@
 ---
 title: "Mineola Paint and Body"
 url: /mineola/mineola-paint-and-body/
-shop: Autowerkstatt
+shop: car repair
 ---

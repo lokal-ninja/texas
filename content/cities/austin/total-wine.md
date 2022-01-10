@@ -1,5 +1,5 @@
 ---
 title: "Total Wine"
 url: /austin/total-wine/
-shop: Spirituosen
+shop: alcohol
 ---

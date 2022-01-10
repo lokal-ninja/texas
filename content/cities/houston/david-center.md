@@ -1,5 +1,5 @@
 ---
 title: "David Center"
 url: /houston/david-center/
-shop: Einkaufszentrum
+shop: mall
 ---

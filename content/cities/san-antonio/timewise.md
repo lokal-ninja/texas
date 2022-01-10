@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /san-antonio/timewise/
-shop: Lebensmittel
+shop: convenience
 ---

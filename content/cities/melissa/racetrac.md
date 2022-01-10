@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /melissa/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

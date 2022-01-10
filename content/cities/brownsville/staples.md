@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /brownsville/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

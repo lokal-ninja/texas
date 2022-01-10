@@ -1,5 +1,5 @@
 ---
 title: "WIC"
 url: /humble/wic/
-shop: Lebensmittel
+shop: convenience
 ---

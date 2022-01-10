@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /fort-worth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

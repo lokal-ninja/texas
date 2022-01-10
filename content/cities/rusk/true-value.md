@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /rusk/true-value/
-shop: Eisenwaren
+shop: hardware
 ---

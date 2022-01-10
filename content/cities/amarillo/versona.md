@@ -1,5 +1,5 @@
 ---
 title: "Versona"
 url: /amarillo/versona/
-shop: Kleidung
+shop: clothes
 ---

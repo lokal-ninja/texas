@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /conroe/michaels/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /mesquite/sprint/
-shop: Handy
+shop: mobile phone
 ---

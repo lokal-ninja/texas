@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /texas-city/calvin-klein/
-shop: Kleidung
+shop: clothes
 ---

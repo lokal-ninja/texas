@@ -1,5 +1,5 @@
 ---
 title: "DK"
 url: /andrews/dk/
-shop: Lebensmittel
+shop: convenience
 ---

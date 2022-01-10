@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /galveston/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adams Automotive"
 url: /houston/adams-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

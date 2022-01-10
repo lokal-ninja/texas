@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /frisco/target/
-shop: Warenhaus
+shop: department store
 ---

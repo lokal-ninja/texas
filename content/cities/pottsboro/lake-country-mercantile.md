@@ -1,5 +1,5 @@
 ---
 title: "Lake Country Mercantile"
 url: /pottsboro/lake-country-mercantile/
-shop: Andenken
+shop: gift
 ---

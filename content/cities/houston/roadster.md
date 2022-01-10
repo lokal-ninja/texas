@@ -1,5 +1,5 @@
 ---
 title: "Roadster"
 url: /houston/roadster/
-shop: Lebensmittel
+shop: convenience
 ---

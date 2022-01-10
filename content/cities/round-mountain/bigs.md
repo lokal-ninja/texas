@@ -1,5 +1,5 @@
 ---
 title: "Big's"
 url: /round-mountain/bigs/
-shop: Lebensmittel
+shop: convenience
 ---

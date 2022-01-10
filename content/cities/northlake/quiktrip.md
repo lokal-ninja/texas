@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /northlake/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stuffology"
 url: /crosbyton/stuffology/
-shop: Andenken
+shop: gift
 ---

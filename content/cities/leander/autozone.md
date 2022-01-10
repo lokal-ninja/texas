@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /leander/autozone/
-shop: Autoteile
+shop: car parts
 ---

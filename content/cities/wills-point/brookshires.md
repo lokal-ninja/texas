@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /wills-point/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

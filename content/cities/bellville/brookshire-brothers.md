@@ -1,5 +1,5 @@
 ---
 title: "Brookshire Brothers"
 url: /bellville/brookshire-brothers/
-shop: Supermarkt
+shop: supermarket
 ---

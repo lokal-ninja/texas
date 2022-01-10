@@ -1,5 +1,5 @@
 ---
 title: "Vinson Motors"
 url: /austin/vinson-motors/
-shop: Autohaus
+shop: car
 ---

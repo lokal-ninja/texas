@@ -1,5 +1,5 @@
 ---
 title: "EZ Pawn"
 url: /eagle-pass/ez-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

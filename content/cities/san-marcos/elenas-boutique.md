@@ -1,5 +1,5 @@
 ---
 title: "Elena's Boutique"
 url: /san-marcos/elenas-boutique/
-shop: Kleidung
+shop: clothes
 ---

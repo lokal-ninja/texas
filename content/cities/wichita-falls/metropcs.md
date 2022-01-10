@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /wichita-falls/metropcs/
-shop: Handy
+shop: mobile phone
 ---

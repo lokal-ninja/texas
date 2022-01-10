@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /mckinney/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

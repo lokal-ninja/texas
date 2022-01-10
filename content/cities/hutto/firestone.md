@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /hutto/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

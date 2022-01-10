@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /lufkin/belk/
-shop: Warenhaus
+shop: department store
 ---

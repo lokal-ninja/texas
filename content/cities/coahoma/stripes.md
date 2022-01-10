@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /coahoma/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

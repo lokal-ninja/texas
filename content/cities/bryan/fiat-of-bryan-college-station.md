@@ -1,5 +1,5 @@
 ---
 title: "Fiat of Bryan College Station"
 url: /bryan/fiat-of-bryan-college-station/
-shop: Autohaus
+shop: car
 ---

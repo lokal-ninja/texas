@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /san-angelo/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

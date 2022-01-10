@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /magnolia/jiffy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /el-paso/discount-tire-5/
-shop: Reifen
+shop: tyres
 ---

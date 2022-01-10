@@ -1,5 +1,5 @@
 ---
 title: "Southwest Body Shop"
 url: /amarillo/southwest-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

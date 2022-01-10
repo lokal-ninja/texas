@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /merkel/yesway/
-shop: Lebensmittel
+shop: convenience
 ---

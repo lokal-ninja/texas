@@ -1,5 +1,5 @@
 ---
 title: "Alamo Classic Ponies"
 url: /san-antonio/alamo-classic-ponies/
-shop: Autowerkstatt
+shop: car repair
 ---

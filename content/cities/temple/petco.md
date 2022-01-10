@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /temple/petco/
-shop: Tiere
+shop: pet
 ---

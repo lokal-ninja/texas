@@ -1,5 +1,5 @@
 ---
 title: "Gateway"
 url: /brownsboro/gateway/
-shop: Lebensmittel
+shop: convenience
 ---

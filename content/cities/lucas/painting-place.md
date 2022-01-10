@@ -1,5 +1,5 @@
 ---
 title: "Painting Place"
 url: /lucas/painting-place/
-shop: Autowerkstatt
+shop: car repair
 ---

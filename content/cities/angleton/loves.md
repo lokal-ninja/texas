@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /angleton/loves/
-shop: Lebensmittel
+shop: convenience
 ---

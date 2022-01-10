@@ -1,5 +1,5 @@
 ---
 title: "The Visoria"
 url: /harlingen/the-visoria/
-shop: Baumarkt
+shop: doityourself
 ---

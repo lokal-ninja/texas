@@ -1,5 +1,5 @@
 ---
 title: "Monkee’s"
 url: /fort-worth/monkees/
-shop: Kleidung
+shop: clothes
 ---

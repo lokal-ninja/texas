@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /mineral-wells/metropcs/
-shop: Handy
+shop: mobile phone
 ---

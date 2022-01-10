@@ -1,5 +1,5 @@
 ---
 title: "Thriftway"
 url: /panhandle/thriftway/
-shop: Supermarkt
+shop: supermarket
 ---

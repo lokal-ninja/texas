@@ -1,5 +1,5 @@
 ---
 title: "Variedades Nathalie"
 url: /huntsville/variedades-nathalie/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stōr Self Storage"
 url: /san-antonio/stor-self-storage/
-shop: Mieten
+shop: storage rental
 ---

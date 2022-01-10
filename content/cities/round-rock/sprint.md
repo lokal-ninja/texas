@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /round-rock/sprint/
-shop: Handy
+shop: mobile phone
 ---

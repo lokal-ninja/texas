@@ -1,5 +1,5 @@
 ---
 title: "Big Wolf Market"
 url: /san-antonio/big-wolf-market/
-shop: Lebensmittel
+shop: convenience
 ---

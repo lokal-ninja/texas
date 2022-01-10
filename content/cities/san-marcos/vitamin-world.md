@@ -1,5 +1,5 @@
 ---
 title: "Vitamin World"
 url: /san-marcos/vitamin-world/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

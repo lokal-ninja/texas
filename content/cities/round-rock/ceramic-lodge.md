@@ -1,5 +1,5 @@
 ---
 title: "Ceramic Lodge"
 url: /round-rock/ceramic-lodge/
-shop: Kunst
+shop: art
 ---

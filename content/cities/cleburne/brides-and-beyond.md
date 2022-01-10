@@ -1,5 +1,5 @@
 ---
 title: "Brides and Beyond"
 url: /cleburne/brides-and-beyond/
-shop: Kleidung
+shop: clothes
 ---

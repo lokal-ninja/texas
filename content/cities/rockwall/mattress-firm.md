@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /rockwall/mattress-firm/
-shop: Betten
+shop: bed
 ---

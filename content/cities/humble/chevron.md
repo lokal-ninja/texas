@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /humble/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

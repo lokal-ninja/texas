@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /alvarado/autozone/
-shop: Autoteile
+shop: car parts
 ---

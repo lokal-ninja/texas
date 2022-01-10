@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /killeen/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

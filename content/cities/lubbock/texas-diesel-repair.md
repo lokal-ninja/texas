@@ -1,5 +1,5 @@
 ---
 title: "Texas Diesel Repair"
 url: /lubbock/texas-diesel-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

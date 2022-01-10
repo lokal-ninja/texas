@@ -1,5 +1,5 @@
 ---
 title: "Triple D Transmission"
 url: /magnolia/triple-d-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /porter/gamestop/
-shop: Videospiele
+shop: video games
 ---

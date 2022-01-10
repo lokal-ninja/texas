@@ -1,5 +1,5 @@
 ---
 title: "EP Armory"
 url: /burnet/ep-armory/
-shop: Waffen
+shop: weapons
 ---

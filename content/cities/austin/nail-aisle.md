@@ -1,5 +1,5 @@
 ---
 title: "Nail Aisle"
 url: /austin/nail-aisle/
-shop: Kosmetik
+shop: beauty
 ---

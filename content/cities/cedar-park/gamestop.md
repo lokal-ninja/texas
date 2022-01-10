@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /cedar-park/gamestop/
-shop: Videospiele
+shop: video games
 ---

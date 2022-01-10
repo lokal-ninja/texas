@@ -1,5 +1,5 @@
 ---
 title: "Car Toys"
 url: /humble/car-toys/
-shop: Autoteile
+shop: car parts
 ---

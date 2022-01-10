@@ -1,5 +1,5 @@
 ---
 title: "Coyote Corner"
 url: /amarillo/coyote-corner/
-shop: Lebensmittel
+shop: convenience
 ---

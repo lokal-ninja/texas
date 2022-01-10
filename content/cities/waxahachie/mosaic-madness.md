@@ -1,5 +1,5 @@
 ---
 title: "Mosaic Madness"
 url: /waxahachie/mosaic-madness/
-shop: Basteln
+shop: craft
 ---

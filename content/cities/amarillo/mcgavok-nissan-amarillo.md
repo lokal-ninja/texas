@@ -1,5 +1,5 @@
 ---
 title: "McGavok Nissan Amarillo"
 url: /amarillo/mcgavok-nissan-amarillo/
-shop: Autohaus
+shop: car
 ---

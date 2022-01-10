@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /humble/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

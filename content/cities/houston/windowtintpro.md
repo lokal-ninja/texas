@@ -1,5 +1,5 @@
 ---
 title: "WindowTintPro"
 url: /houston/windowtintpro/
-shop: Autowerkstatt
+shop: car repair
 ---

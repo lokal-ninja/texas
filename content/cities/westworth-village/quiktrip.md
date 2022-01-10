@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /westworth-village/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /plano/target/
-shop: Warenhaus
+shop: department store
 ---

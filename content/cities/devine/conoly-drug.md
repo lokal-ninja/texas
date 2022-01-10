@@ -1,5 +1,5 @@
 ---
 title: "Conoly Drug"
 url: /devine/conoly-drug/
-shop: Drogerie
+shop: chemist
 ---

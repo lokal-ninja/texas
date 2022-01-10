@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /lufkin/discount-tire/
-shop: Reifen
+shop: tyres
 ---

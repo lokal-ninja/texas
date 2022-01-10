@@ -1,5 +1,5 @@
 ---
 title: "Kwik Chek"
 url: /wimberley/kwik-chek/
-shop: Lebensmittel
+shop: convenience
 ---

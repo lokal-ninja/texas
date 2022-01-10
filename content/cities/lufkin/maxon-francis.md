@@ -1,5 +1,5 @@
 ---
 title: "Maxon Francis"
 url: /lufkin/maxon-francis/
-shop: Massage
+shop: massage
 ---

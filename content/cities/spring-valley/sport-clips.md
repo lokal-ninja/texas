@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /spring-valley/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

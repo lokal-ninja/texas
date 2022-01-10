@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /houston/sally-beauty-2/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

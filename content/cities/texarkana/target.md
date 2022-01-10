@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /texarkana/target/
-shop: Warenhaus
+shop: department store
 ---

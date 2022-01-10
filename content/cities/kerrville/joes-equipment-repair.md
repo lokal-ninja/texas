@@ -1,5 +1,5 @@
 ---
 title: "Joe's Equipment Repair"
 url: /kerrville/joes-equipment-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

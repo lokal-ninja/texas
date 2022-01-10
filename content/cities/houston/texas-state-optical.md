@@ -1,5 +1,5 @@
 ---
 title: "Texas State Optical"
 url: /houston/texas-state-optical/
-shop: Optiker
+shop: optician
 ---

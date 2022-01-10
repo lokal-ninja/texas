@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /killeen/autozone/
-shop: Autoteile
+shop: car parts
 ---

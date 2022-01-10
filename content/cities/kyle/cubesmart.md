@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /kyle/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

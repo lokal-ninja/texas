@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /san-angelo/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

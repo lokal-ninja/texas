@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /corinth/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

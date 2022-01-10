@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /round-rock/big-lots/
-shop: Warenhaus
+shop: department store
 ---

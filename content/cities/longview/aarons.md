@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /longview/aarons/
-shop: Möbel
+shop: furniture
 ---

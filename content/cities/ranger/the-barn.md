@@ -1,5 +1,5 @@
 ---
 title: "The Barn"
 url: /ranger/the-barn/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miracle Nails"
 url: /houston/miracle-nails/
-shop: Kosmetik
+shop: beauty
 ---

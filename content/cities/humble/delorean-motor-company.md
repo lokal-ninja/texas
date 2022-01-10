@@ -1,5 +1,5 @@
 ---
 title: "DeLorean Motor Company"
 url: /humble/delorean-motor-company/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /beaumont/metropcs/
-shop: Handy
+shop: mobile phone
 ---

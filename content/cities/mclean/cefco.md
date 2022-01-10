@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /mclean/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

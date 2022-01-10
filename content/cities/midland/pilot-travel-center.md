@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /midland/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

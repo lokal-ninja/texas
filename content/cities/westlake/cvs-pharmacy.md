@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /westlake/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

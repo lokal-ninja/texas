@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /lubbock/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

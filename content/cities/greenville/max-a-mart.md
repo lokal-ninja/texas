@@ -1,5 +1,5 @@
 ---
 title: "Max-A-Mart"
 url: /greenville/max-a-mart/
-shop: Lebensmittel
+shop: convenience
 ---

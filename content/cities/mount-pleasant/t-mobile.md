@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /mount-pleasant/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

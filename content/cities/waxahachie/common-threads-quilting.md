@@ -1,5 +1,5 @@
 ---
 title: "Common Threads Quilting"
 url: /waxahachie/common-threads-quilting/
-shop: Textil
+shop: fabric
 ---

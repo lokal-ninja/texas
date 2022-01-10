@@ -1,5 +1,5 @@
 ---
 title: "Reagor Dykes Toyota"
 url: /plainview/reagor-dykes-toyota/
-shop: Autohaus
+shop: car
 ---

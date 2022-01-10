@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /sugar-land/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

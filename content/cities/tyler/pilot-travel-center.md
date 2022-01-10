@@ -1,5 +1,5 @@
 ---
 title: "Pilot Travel Center"
 url: /tyler/pilot-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

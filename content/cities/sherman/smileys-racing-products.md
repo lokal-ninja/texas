@@ -1,5 +1,5 @@
 ---
 title: "Smiley's Racing Products"
 url: /sherman/smileys-racing-products/
-shop: Autoteile
+shop: car parts
 ---

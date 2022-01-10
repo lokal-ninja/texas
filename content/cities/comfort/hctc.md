@@ -1,5 +1,5 @@
 ---
 title: "HCTC"
 url: /comfort/hctc/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Saver"
 url: /wichita-falls/dollar-saver/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gunter Cabinets"
 url: /gunter/gunter-cabinets/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visionmart Express"
 url: /lubbock/visionmart-express/
-shop: Optiker
+shop: optician
 ---

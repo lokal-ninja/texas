@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /rosenberg/petco/
-shop: Tiere
+shop: pet
 ---

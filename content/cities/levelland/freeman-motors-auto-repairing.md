@@ -1,5 +1,5 @@
 ---
 title: "Freeman Motors Auto Repairing"
 url: /levelland/freeman-motors-auto-repairing/
-shop: Autowerkstatt
+shop: car repair
 ---

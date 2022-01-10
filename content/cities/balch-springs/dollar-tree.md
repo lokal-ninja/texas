@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /balch-springs/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

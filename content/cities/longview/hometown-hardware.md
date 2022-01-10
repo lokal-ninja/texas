@@ -1,5 +1,5 @@
 ---
 title: "Hometown Hardware"
 url: /longview/hometown-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

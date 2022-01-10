@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /marshall/brookshires-2/
-shop: Supermarkt
+shop: supermarket
 ---

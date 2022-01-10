@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /corsicana/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

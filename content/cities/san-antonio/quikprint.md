@@ -1,5 +1,5 @@
 ---
 title: "QuikPrint"
 url: /san-antonio/quikprint/
-shop: Schreibwaren
+shop: office supplies
 ---

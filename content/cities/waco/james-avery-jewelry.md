@@ -1,5 +1,5 @@
 ---
 title: "James Avery Jewelry"
 url: /waco/james-avery-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

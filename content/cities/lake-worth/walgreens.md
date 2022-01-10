@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lake-worth/walgreens/
-shop: Drogerie
+shop: chemist
 ---

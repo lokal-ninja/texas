@@ -1,5 +1,5 @@
 ---
 title: "Lok-Tite"
 url: /richmond/lok-tite/
-shop: Mieten
+shop: storage rental
 ---

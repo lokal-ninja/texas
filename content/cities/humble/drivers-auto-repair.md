@@ -1,5 +1,5 @@
 ---
 title: "Driver's Auto Repair"
 url: /humble/drivers-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

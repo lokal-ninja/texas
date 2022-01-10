@@ -1,5 +1,5 @@
 ---
 title: "Uniform Destination"
 url: /san-marcos/uniform-destination/
-shop: Kleidung
+shop: clothes
 ---

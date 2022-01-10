@@ -1,5 +1,5 @@
 ---
 title: "HerbMart"
 url: /mesquite/herbmart/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /lubbock/aarons/
-shop: Möbel
+shop: furniture
 ---

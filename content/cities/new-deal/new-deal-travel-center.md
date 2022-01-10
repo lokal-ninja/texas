@@ -1,5 +1,5 @@
 ---
 title: "New Deal Travel Center"
 url: /new-deal/new-deal-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

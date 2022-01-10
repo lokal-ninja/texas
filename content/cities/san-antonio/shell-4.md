@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /san-antonio/shell-4/
-shop: Lebensmittel
+shop: convenience
 ---

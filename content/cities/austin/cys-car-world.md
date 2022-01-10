@@ -1,5 +1,5 @@
 ---
 title: "Cy's Car World"
 url: /austin/cys-car-world/
-shop: Autowerkstatt
+shop: car repair
 ---

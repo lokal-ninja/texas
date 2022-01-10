@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /fort-worth/tesla/
-shop: Autohaus
+shop: car
 ---

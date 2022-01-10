@@ -1,5 +1,5 @@
 ---
 title: "Ben's Body and Paint"
 url: /giddings/bens-body-and-paint/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. W Fireworks"
 url: /copperas-cove/mr-w-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

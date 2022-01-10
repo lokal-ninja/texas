@@ -1,5 +1,5 @@
 ---
 title: "Papa Noel Trees"
 url: /cedar-park/papa-noel-trees/
-shop: Allgemein
+shop: shop
 ---

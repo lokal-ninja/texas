@@ -1,5 +1,5 @@
 ---
 title: "All American Self Storage"
 url: /boerne/all-american-self-storage/
-shop: Mieten
+shop: storage rental
 ---

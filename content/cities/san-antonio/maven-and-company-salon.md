@@ -1,5 +1,5 @@
 ---
 title: "Maven and Company Salon"
 url: /san-antonio/maven-and-company-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Complete Nutrition"
 url: /corpus-christi/complete-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

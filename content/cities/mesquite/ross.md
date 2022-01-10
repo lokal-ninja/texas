@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /mesquite/ross/
-shop: Warenhaus
+shop: department store
 ---

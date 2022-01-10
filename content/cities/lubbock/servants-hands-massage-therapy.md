@@ -1,5 +1,5 @@
 ---
 title: "Servant's Hands Massage Therapy"
 url: /lubbock/servants-hands-massage-therapy/
-shop: Massage
+shop: massage
 ---

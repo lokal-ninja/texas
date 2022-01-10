@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /houston/gnc-7/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

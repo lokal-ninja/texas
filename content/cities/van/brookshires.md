@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /van/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

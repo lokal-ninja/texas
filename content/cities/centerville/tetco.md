@@ -1,5 +1,5 @@
 ---
 title: "TETCO"
 url: /centerville/tetco/
-shop: Lebensmittel
+shop: convenience
 ---

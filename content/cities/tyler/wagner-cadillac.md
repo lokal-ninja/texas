@@ -1,5 +1,5 @@
 ---
 title: "Wagner Cadillac"
 url: /tyler/wagner-cadillac/
-shop: Autohaus
+shop: car
 ---

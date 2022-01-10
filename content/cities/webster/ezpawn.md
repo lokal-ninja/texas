@@ -1,5 +1,5 @@
 ---
 title: "EZPawn"
 url: /webster/ezpawn/
-shop: Leiher
+shop: pawnbroker
 ---

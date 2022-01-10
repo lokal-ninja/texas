@@ -1,5 +1,5 @@
 ---
 title: "Univision"
 url: /dfw-airport/univision/
-shop: Lebensmittel
+shop: convenience
 ---

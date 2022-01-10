@@ -1,5 +1,5 @@
 ---
 title: "Vintage Love Antiques"
 url: /cleburne/vintage-love-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

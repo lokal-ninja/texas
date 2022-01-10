@@ -1,5 +1,5 @@
 ---
 title: "Hope's Closet"
 url: /longview/hopes-closet/
-shop: Gebrauchtwaren
+shop: charity
 ---

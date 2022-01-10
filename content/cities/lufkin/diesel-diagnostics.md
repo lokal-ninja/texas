@@ -1,5 +1,5 @@
 ---
 title: "Diesel Diagnostics"
 url: /lufkin/diesel-diagnostics/
-shop: Autowerkstatt
+shop: car repair
 ---

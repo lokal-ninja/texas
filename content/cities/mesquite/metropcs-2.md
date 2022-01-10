@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /mesquite/metropcs-2/
-shop: Handy
+shop: mobile phone
 ---

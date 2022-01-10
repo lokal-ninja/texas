@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /cleburne/h-e-b/
-shop: Supermarkt
+shop: supermarket
 ---

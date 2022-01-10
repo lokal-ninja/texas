@@ -1,5 +1,5 @@
 ---
 title: "TKO Nutrition"
 url: /round-rock/tko-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

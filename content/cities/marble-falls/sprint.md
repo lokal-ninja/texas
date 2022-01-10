@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /marble-falls/sprint/
-shop: Handy
+shop: mobile phone
 ---

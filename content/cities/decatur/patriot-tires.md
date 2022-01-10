@@ -1,5 +1,5 @@
 ---
 title: "Patriot Tires"
 url: /decatur/patriot-tires/
-shop: Reifen
+shop: tyres
 ---

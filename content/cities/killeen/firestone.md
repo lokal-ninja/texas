@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /killeen/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /tomball/pearle-vision/
-shop: Optiker
+shop: optician
 ---

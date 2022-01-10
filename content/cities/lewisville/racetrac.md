@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /lewisville/racetrac/
-shop: Lebensmittel
+shop: convenience
 ---

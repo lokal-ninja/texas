@@ -1,5 +1,5 @@
 ---
 title: "Almond Street Cold Storage"
 url: /abilene/almond-street-cold-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Hawthorne"
 url: /tomball/salon-hawthorne/
-shop: Friseur
+shop: hairdresser
 ---

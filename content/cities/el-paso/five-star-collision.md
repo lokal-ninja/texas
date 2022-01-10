@@ -1,5 +1,5 @@
 ---
 title: "Five Star Collision"
 url: /el-paso/five-star-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

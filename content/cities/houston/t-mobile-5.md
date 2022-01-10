@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /houston/t-mobile-5/
-shop: Handy
+shop: mobile phone
 ---

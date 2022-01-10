@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /mineola/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

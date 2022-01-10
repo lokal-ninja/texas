@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Specialties"
 url: /eastland/outdoor-specialties/
-shop: Boot
+shop: boat
 ---

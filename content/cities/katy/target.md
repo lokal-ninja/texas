@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /katy/target/
-shop: Warenhaus
+shop: department store
 ---

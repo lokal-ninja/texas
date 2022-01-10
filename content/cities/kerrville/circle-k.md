@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /kerrville/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /mission/petco/
-shop: Tiere
+shop: pet
 ---

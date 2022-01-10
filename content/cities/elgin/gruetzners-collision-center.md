@@ -1,5 +1,5 @@
 ---
 title: "Gruetzner's Collision Center"
 url: /elgin/gruetzners-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

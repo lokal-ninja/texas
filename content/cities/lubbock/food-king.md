@@ -1,5 +1,5 @@
 ---
 title: "Food King"
 url: /lubbock/food-king/
-shop: Supermarkt
+shop: supermarket
 ---

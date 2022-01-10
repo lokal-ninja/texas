@@ -1,5 +1,5 @@
 ---
 title: "Holiday Ford"
 url: /whitesboro/holiday-ford/
-shop: Autohaus
+shop: car
 ---

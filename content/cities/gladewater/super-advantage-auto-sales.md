@@ -1,5 +1,5 @@
 ---
 title: "Super Advantage Auto Sales"
 url: /gladewater/super-advantage-auto-sales/
-shop: Autohaus
+shop: car
 ---

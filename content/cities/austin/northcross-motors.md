@@ -1,5 +1,5 @@
 ---
 title: "Northcross Motors"
 url: /austin/northcross-motors/
-shop: Autohaus
+shop: car
 ---

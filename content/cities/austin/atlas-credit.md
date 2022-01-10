@@ -1,5 +1,5 @@
 ---
 title: "Atlas Credit"
 url: /austin/atlas-credit/
-shop: Leiher
+shop: pawnbroker
 ---

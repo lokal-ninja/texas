@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /mesquite/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

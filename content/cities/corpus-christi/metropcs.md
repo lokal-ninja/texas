@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /corpus-christi/metropcs/
-shop: Handy
+shop: mobile phone
 ---

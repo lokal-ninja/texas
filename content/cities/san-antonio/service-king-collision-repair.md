@@ -1,5 +1,5 @@
 ---
 title: "Service King Collision Repair"
 url: /san-antonio/service-king-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

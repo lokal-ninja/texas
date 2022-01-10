@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press"
 url: /plano/minuteman-press/
-shop: Schreibwaren
+shop: office supplies
 ---

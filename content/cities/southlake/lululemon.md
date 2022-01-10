@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /southlake/lululemon/
-shop: Kleidung
+shop: clothes
 ---

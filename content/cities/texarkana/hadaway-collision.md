@@ -1,5 +1,5 @@
 ---
 title: "Hadaway Collision"
 url: /texarkana/hadaway-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humidity Temperature Controlled"
 url: /san-antonio/humidity-temperature-controlled/
-shop: Mieten
+shop: storage rental
 ---

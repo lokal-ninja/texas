@@ -1,5 +1,5 @@
 ---
 title: "Andrew's Music"
 url: /porter/andrews-music/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /sandy-oaks/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

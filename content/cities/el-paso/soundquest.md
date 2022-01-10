@@ -1,5 +1,5 @@
 ---
 title: "SoundQuest"
 url: /el-paso/soundquest/
-shop: Elektronik
+shop: electronics
 ---

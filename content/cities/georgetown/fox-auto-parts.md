@@ -1,5 +1,5 @@
 ---
 title: "Fox Auto Parts"
 url: /georgetown/fox-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

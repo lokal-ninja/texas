@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /wink/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

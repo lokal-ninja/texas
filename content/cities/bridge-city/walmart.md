@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /bridge-city/walmart/
-shop: Warenhaus
+shop: department store
 ---

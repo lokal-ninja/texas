@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /sherman/metropcs/
-shop: Handy
+shop: mobile phone
 ---

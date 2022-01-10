@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /mesquite/family-dollar-4/
-shop: Kramladen
+shop: variety store
 ---

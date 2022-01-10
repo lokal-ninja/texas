@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /spring/autozone/
-shop: Autoteile
+shop: car parts
 ---

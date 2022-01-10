@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /woodlands/discount-tire/
-shop: Reifen
+shop: tyres
 ---

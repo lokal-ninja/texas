@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /texarkana/albertsons-2/
-shop: Supermarkt
+shop: supermarket
 ---

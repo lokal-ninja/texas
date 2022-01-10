@@ -1,5 +1,5 @@
 ---
 title: "All Star Ford"
 url: /canton/all-star-ford/
-shop: Autohaus
+shop: car
 ---

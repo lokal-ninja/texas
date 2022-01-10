@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /addison/rainbow/
-shop: Kleidung
+shop: clothes
 ---

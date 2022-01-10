@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /wichita-falls/firestone-2/
-shop: Autowerkstatt
+shop: car repair
 ---

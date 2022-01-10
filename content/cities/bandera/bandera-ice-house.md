@@ -1,5 +1,5 @@
 ---
 title: "Bandera Ice House"
 url: /bandera/bandera-ice-house/
-shop: Lebensmittel
+shop: convenience
 ---

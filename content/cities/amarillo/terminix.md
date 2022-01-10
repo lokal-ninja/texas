@@ -1,5 +1,5 @@
 ---
 title: "Terminix"
 url: /amarillo/terminix/
-shop: Schädlingsbekämpfung
+shop: pest control
 ---

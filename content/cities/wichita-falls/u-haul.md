@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /wichita-falls/u-haul/
-shop: Mieten
+shop: storage rental
 ---

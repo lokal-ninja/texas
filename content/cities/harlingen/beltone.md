@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /harlingen/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /fort-worth/sprint/
-shop: Handy
+shop: mobile phone
 ---

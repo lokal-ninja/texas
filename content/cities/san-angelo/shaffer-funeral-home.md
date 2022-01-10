@@ -1,5 +1,5 @@
 ---
 title: "Shaffer Funeral Home"
 url: /san-angelo/shaffer-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

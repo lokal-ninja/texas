@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /canyon-lake/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

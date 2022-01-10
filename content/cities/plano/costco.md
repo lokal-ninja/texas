@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /plano/costco/
-shop: Allgemein
+shop: shop
 ---

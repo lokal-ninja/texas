@@ -1,5 +1,5 @@
 ---
 title: "Urban Powersports"
 url: /houston/urban-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

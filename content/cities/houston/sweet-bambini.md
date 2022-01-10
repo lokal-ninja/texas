@@ -1,5 +1,5 @@
 ---
 title: "Sweet Bambini"
 url: /houston/sweet-bambini/
-shop: Babysachen
+shop: baby goods
 ---

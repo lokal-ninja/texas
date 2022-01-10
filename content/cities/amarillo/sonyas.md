@@ -1,5 +1,5 @@
 ---
 title: "Sonya's"
 url: /amarillo/sonyas/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marc Jacobs"
 url: /san-marcos/marc-jacobs/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /san-angelo/best-buy/
-shop: Elektronik
+shop: electronics
 ---

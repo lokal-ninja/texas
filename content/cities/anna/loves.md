@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /anna/loves/
-shop: Lebensmittel
+shop: convenience
 ---

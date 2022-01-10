@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /brownsville/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

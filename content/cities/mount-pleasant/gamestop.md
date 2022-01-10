@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mount-pleasant/gamestop/
-shop: Videospiele
+shop: video games
 ---

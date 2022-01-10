@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /pittsburg/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

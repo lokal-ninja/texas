@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dumas/autozone/
-shop: Autoteile
+shop: car parts
 ---

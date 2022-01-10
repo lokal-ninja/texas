@@ -1,5 +1,5 @@
 ---
 title: "Dragonfly Art Studio"
 url: /mineola/dragonfly-art-studio/
-shop: Andenken
+shop: gift
 ---

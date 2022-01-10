@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /schertz/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

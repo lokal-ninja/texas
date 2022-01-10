@@ -1,5 +1,5 @@
 ---
 title: "Alliance Collision Centers"
 url: /georgetown/alliance-collision-centers/
-shop: Autowerkstatt
+shop: car repair
 ---

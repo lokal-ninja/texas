@@ -1,5 +1,5 @@
 ---
 title: "Swift"
 url: /houston/swift/
-shop: Lebensmittel
+shop: convenience
 ---

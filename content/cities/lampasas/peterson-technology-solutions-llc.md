@@ -1,5 +1,5 @@
 ---
 title: "Peterson Technology Solutions LLC"
 url: /lampasas/peterson-technology-solutions-llc/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MidInMod"
 url: /katy/midinmod/
-shop: Möbel
+shop: furniture
 ---

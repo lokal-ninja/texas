@@ -1,5 +1,5 @@
 ---
 title: "Fix Crap"
 url: /pasadena/fix-crap/
-shop: Einkaufszentrum
+shop: mall
 ---

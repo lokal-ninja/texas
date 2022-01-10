@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /college-station/walgreens/
-shop: Drogerie
+shop: chemist
 ---

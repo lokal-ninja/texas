@@ -1,5 +1,5 @@
 ---
 title: "Pollard Friendly Ford"
 url: /lubbock/pollard-friendly-ford/
-shop: Autohaus
+shop: car
 ---

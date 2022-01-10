@@ -1,5 +1,5 @@
 ---
 title: "Budget Lube"
 url: /austin/budget-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

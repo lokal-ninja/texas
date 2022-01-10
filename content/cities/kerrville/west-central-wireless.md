@@ -1,5 +1,5 @@
 ---
 title: "West Central Wireless"
 url: /kerrville/west-central-wireless/
-shop: Handy
+shop: mobile phone
 ---

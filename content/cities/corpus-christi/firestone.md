@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /corpus-christi/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

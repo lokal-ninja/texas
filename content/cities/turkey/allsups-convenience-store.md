@@ -1,5 +1,5 @@
 ---
 title: "Allsup's Convenience Store"
 url: /turkey/allsups-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

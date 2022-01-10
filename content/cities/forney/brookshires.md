@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /forney/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

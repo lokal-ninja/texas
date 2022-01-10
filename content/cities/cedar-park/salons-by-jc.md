@@ -1,5 +1,5 @@
 ---
 title: "Salons by JC"
 url: /cedar-park/salons-by-jc/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

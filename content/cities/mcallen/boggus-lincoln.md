@@ -1,5 +1,5 @@
 ---
 title: "Boggus Lincoln"
 url: /mcallen/boggus-lincoln/
-shop: Autohaus
+shop: car
 ---

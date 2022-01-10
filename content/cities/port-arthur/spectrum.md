@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /port-arthur/spectrum/
-shop: Handy
+shop: mobile phone
 ---

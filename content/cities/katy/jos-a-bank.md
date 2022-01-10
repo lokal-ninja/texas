@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /katy/jos-a-bank/
-shop: Kleidung
+shop: clothes
 ---

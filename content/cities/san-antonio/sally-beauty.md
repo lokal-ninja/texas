@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /san-antonio/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

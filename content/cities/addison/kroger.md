@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /addison/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

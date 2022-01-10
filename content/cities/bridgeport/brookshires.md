@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /bridgeport/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

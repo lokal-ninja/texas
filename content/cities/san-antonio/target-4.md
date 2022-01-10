@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /san-antonio/target-4/
-shop: Warenhaus
+shop: department store
 ---

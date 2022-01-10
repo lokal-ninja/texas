@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /abilene/stripes-2/
-shop: Lebensmittel
+shop: convenience
 ---

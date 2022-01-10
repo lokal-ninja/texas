@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /denton/autozone/
-shop: Autoteile
+shop: car parts
 ---

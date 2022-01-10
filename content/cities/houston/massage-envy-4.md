@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /houston/massage-envy-4/
-shop: Massage
+shop: massage
 ---

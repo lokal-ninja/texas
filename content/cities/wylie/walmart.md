@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /wylie/walmart/
-shop: Warenhaus
+shop: department store
 ---

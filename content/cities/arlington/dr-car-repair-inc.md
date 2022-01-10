@@ -1,5 +1,5 @@
 ---
 title: "Dr. Car Repair Inc."
 url: /arlington/dr-car-repair-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

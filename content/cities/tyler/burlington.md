@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /tyler/burlington/
-shop: Kleidung
+shop: clothes
 ---

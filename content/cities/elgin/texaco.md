@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /elgin/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

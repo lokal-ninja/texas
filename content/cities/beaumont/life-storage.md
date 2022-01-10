@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /beaumont/life-storage/
-shop: Mieten
+shop: storage rental
 ---

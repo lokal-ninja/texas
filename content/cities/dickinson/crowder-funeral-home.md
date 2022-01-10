@@ -1,5 +1,5 @@
 ---
 title: "Crowder Funeral Home"
 url: /dickinson/crowder-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

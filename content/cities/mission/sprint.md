@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /mission/sprint/
-shop: Handy
+shop: mobile phone
 ---

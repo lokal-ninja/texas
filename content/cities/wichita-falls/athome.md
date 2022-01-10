@@ -1,5 +1,5 @@
 ---
 title: "AtHome"
 url: /wichita-falls/athome/
-shop: Warenhaus
+shop: department store
 ---

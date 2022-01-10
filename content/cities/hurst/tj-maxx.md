@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /hurst/tj-maxx/
-shop: Kleidung
+shop: clothes
 ---

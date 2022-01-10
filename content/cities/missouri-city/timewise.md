@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /missouri-city/timewise/
-shop: Lebensmittel
+shop: convenience
 ---

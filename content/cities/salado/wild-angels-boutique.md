@@ -1,5 +1,5 @@
 ---
 title: "Wild Angels Boutique"
 url: /salado/wild-angels-boutique/
-shop: Kleidung
+shop: clothes
 ---

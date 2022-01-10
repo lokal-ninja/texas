@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /san-antonio/sprint-5/
-shop: Handy
+shop: mobile phone
 ---

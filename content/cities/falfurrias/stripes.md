@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /falfurrias/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

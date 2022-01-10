@@ -1,5 +1,5 @@
 ---
 title: "Mikey's Liquor Store"
 url: /pampa/mikeys-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /san-angelo/discount-tire/
-shop: Reifen
+shop: tyres
 ---

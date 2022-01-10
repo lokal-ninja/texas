@@ -1,5 +1,5 @@
 ---
 title: "Entrada Nail Bar"
 url: /westlake/entrada-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

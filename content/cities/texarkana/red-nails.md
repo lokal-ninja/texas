@@ -1,5 +1,5 @@
 ---
 title: "Red Nails"
 url: /texarkana/red-nails/
-shop: Kosmetik
+shop: beauty
 ---

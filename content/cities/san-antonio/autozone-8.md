@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-antonio/autozone-8/
-shop: Autoteile
+shop: car parts
 ---

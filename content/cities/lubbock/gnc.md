@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /lubbock/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

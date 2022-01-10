@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /austin/patagonia/
-shop: Kleidung
+shop: clothes
 ---

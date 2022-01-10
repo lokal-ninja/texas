@@ -1,5 +1,5 @@
 ---
 title: "Friendly Laundry"
 url: /austin/friendly-laundry/
-shop: Wäscherei
+shop: laundry
 ---

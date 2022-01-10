@@ -1,5 +1,5 @@
 ---
 title: "Spec's"
 url: /bastrop/specs/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMM Collision"
 url: /austin/amm-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

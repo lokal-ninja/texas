@@ -1,5 +1,5 @@
 ---
 title: "Forrest Tire Company"
 url: /levelland/forrest-tire-company/
-shop: Reifen
+shop: tyres
 ---

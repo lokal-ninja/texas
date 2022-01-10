@@ -1,5 +1,5 @@
 ---
 title: "Davis Home Center"
 url: /borger/davis-home-center/
-shop: Möbel
+shop: furniture
 ---

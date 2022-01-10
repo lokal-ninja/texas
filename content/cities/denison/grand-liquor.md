@@ -1,5 +1,5 @@
 ---
 title: "Grand Liquor"
 url: /denison/grand-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

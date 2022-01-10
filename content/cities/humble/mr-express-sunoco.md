@@ -1,5 +1,5 @@
 ---
 title: "MR Express Sunoco"
 url: /humble/mr-express-sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /beaumont/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

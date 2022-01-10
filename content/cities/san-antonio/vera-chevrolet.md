@@ -1,5 +1,5 @@
 ---
 title: "Vera Chevrolet"
 url: /san-antonio/vera-chevrolet/
-shop: Autohaus
+shop: car
 ---

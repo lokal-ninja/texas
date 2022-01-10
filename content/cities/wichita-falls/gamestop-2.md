@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wichita-falls/gamestop-2/
-shop: Videospiele
+shop: video games
 ---

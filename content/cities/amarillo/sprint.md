@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /amarillo/sprint/
-shop: Handy
+shop: mobile phone
 ---

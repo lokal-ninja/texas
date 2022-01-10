@@ -1,5 +1,5 @@
 ---
 title: "Mia Shop"
 url: /san-antonio/mia-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

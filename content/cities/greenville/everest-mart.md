@@ -1,5 +1,5 @@
 ---
 title: "Everest Mart"
 url: /greenville/everest-mart/
-shop: Lebensmittel
+shop: convenience
 ---

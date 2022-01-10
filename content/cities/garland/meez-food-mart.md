@@ -1,5 +1,5 @@
 ---
 title: "Meez Food Mart"
 url: /garland/meez-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

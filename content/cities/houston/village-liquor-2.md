@@ -1,5 +1,5 @@
 ---
 title: "Village Liquor"
 url: /houston/village-liquor-2/
-shop: Spirituosen
+shop: alcohol
 ---

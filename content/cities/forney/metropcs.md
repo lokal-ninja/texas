@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /forney/metropcs/
-shop: Handy
+shop: mobile phone
 ---

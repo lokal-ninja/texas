@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pampa/autozone/
-shop: Autoteile
+shop: car parts
 ---

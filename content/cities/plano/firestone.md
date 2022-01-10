@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /plano/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

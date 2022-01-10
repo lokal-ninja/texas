@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /lubbock/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

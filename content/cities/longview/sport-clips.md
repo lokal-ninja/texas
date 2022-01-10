@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /longview/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sun Auto Service"
 url: /georgetown/sun-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

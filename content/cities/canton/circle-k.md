@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /canton/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

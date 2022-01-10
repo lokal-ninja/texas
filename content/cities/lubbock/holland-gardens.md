@@ -1,5 +1,5 @@
 ---
 title: "Holland Gardens"
 url: /lubbock/holland-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

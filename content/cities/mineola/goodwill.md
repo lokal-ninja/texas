@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /mineola/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

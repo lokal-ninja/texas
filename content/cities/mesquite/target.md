@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mesquite/target/
-shop: Warenhaus
+shop: department store
 ---

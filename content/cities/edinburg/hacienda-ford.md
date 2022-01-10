@@ -1,5 +1,5 @@
 ---
 title: "Hacienda Ford"
 url: /edinburg/hacienda-ford/
-shop: Autohaus
+shop: car
 ---

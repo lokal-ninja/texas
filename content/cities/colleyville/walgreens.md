@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /colleyville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

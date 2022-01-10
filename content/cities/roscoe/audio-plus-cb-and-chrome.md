@@ -1,5 +1,5 @@
 ---
 title: "Audio Plus CB and Chrome"
 url: /roscoe/audio-plus-cb-and-chrome/
-shop: Autowerkstatt
+shop: car repair
 ---

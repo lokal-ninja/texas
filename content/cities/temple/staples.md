@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /temple/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

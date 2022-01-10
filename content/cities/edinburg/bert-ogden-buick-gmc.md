@@ -1,5 +1,5 @@
 ---
 title: "Bert Ogden Buick GMC"
 url: /edinburg/bert-ogden-buick-gmc/
-shop: Autohaus
+shop: car
 ---

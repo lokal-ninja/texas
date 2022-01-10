@@ -1,5 +1,5 @@
 ---
 title: "Lokey's Body Shop"
 url: /amarillo/lokeys-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

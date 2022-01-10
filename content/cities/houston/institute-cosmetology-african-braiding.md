@@ -1,5 +1,5 @@
 ---
 title: "Institute Cosmetology African Braiding"
 url: /houston/institute-cosmetology-african-braiding/
-shop: Kosmetik
+shop: beauty
 ---

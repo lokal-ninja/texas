@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
 url: /athens/save-a-lot/
-shop: Supermarkt
+shop: supermarket
 ---

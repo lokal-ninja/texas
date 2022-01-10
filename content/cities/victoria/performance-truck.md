@@ -1,5 +1,5 @@
 ---
 title: "Performance Truck"
 url: /victoria/performance-truck/
-shop: Autohaus
+shop: car
 ---

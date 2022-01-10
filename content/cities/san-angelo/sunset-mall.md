@@ -1,5 +1,5 @@
 ---
 title: "Sunset Mall"
 url: /san-angelo/sunset-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

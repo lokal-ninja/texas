@@ -1,5 +1,5 @@
 ---
 title: "Miller's Auto Body Repair"
 url: /houston/millers-auto-body-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

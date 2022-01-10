@@ -1,5 +1,5 @@
 ---
 title: "Salon Republic"
 url: /austin/salon-republic/
-shop: Friseur
+shop: hairdresser
 ---

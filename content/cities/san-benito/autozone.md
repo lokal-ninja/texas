@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-benito/autozone/
-shop: Autoteile
+shop: car parts
 ---

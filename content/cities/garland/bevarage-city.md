@@ -1,5 +1,5 @@
 ---
 title: "Bevarage City"
 url: /garland/bevarage-city/
-shop: Lebensmittel
+shop: convenience
 ---

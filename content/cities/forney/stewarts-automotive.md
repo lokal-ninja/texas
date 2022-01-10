@@ -1,5 +1,5 @@
 ---
 title: "Stewarts Automotive"
 url: /forney/stewarts-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

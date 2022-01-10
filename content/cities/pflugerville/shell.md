@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pflugerville/shell/
-shop: Lebensmittel
+shop: convenience
 ---

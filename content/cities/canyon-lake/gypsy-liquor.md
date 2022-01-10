@@ -1,5 +1,5 @@
 ---
 title: "Gypsy Liquor"
 url: /canyon-lake/gypsy-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

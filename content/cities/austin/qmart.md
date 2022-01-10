@@ -1,5 +1,5 @@
 ---
 title: "QMart"
 url: /austin/qmart/
-shop: Lebensmittel
+shop: convenience
 ---

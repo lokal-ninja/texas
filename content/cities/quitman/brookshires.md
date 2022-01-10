@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /quitman/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

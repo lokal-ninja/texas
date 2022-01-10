@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /la-grange/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

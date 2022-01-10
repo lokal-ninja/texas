@@ -1,5 +1,5 @@
 ---
 title: "Orr Honda"
 url: /paris/orr-honda/
-shop: Autohaus
+shop: car
 ---

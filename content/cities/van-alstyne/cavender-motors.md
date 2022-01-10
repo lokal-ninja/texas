@@ -1,5 +1,5 @@
 ---
 title: "Cavender Motors"
 url: /van-alstyne/cavender-motors/
-shop: Autohaus
+shop: car
 ---

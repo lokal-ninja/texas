@@ -1,5 +1,5 @@
 ---
 title: "Lampasas Builders Mart"
 url: /lampasas/lampasas-builders-mart/
-shop: Eisenwaren
+shop: hardware
 ---

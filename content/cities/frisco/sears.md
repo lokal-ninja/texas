@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /frisco/sears/
-shop: Warenhaus
+shop: department store
 ---

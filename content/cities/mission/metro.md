@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /mission/metro/
-shop: Handy
+shop: mobile phone
 ---

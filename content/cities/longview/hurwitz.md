@@ -1,5 +1,5 @@
 ---
 title: "Hurwitz"
 url: /longview/hurwitz/
-shop: Kleidung
+shop: clothes
 ---

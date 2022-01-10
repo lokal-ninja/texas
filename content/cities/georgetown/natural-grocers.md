@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /georgetown/natural-grocers/
-shop: Bioladen
+shop: health food
 ---

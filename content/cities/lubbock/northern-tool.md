@@ -1,5 +1,5 @@
 ---
 title: "Northern Tool"
 url: /lubbock/northern-tool/
-shop: Eisenwaren
+shop: hardware
 ---

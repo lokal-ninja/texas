@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /burnet/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

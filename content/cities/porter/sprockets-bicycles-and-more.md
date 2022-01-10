@@ -1,5 +1,5 @@
 ---
 title: "Sprockets Bicycles and More"
 url: /porter/sprockets-bicycles-and-more/
-shop: Fahrrad
+shop: bicycle
 ---

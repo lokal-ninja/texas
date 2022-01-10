@@ -1,5 +1,5 @@
 ---
 title: "Motorvation Racing"
 url: /sunnyvale/motorvation-racing/
-shop: Autowerkstatt
+shop: car repair
 ---

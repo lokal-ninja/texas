@@ -1,5 +1,5 @@
 ---
 title: "DuPree Tire"
 url: /lufkin/dupree-tire/
-shop: Autoteile
+shop: car parts
 ---

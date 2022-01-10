@@ -1,5 +1,5 @@
 ---
 title: "The Rustic Mile"
 url: /san-antonio/the-rustic-mile/
-shop: Möbel
+shop: furniture
 ---

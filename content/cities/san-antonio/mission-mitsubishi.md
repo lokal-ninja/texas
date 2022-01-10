@@ -1,5 +1,5 @@
 ---
 title: "Mission Mitsubishi"
 url: /san-antonio/mission-mitsubishi/
-shop: Autohaus
+shop: car
 ---

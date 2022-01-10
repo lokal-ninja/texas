@@ -1,5 +1,5 @@
 ---
 title: "Copy Cats"
 url: /lampasas/copy-cats/
-shop: Kopieren
+shop: copyshop
 ---

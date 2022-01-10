@@ -1,5 +1,5 @@
 ---
 title: "Munro's Safety Apparel"
 url: /port-arthur/munros-safety-apparel/
-shop: Kleidung
+shop: clothes
 ---

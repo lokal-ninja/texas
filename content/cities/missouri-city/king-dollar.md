@@ -1,5 +1,5 @@
 ---
 title: "King Dollar"
 url: /missouri-city/king-dollar/
-shop: Kramladen
+shop: variety store
 ---

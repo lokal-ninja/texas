@@ -1,5 +1,5 @@
 ---
 title: "Scally Marine"
 url: /denison/scally-marine/
-shop: Boot
+shop: boat
 ---

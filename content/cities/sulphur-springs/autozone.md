@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /sulphur-springs/autozone/
-shop: Autoteile
+shop: car parts
 ---

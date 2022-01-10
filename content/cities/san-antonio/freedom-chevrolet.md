@@ -1,5 +1,5 @@
 ---
 title: "Freedom Chevrolet"
 url: /san-antonio/freedom-chevrolet/
-shop: Autohaus
+shop: car
 ---

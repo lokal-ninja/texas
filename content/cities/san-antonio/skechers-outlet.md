@@ -1,5 +1,5 @@
 ---
 title: "Skechers Outlet"
 url: /san-antonio/skechers-outlet/
-shop: Schuhe
+shop: shoes
 ---

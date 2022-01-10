@@ -1,5 +1,5 @@
 ---
 title: "Sheppard Commissary"
 url: /wichita-falls/sheppard-commissary/
-shop: Supermarkt
+shop: supermarket
 ---

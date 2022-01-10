@@ -1,5 +1,5 @@
 ---
 title: "Horizon"
 url: /decatur/horizon/
-shop: Lebensmittel
+shop: convenience
 ---

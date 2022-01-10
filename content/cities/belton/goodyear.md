@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /belton/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

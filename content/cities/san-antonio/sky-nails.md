@@ -1,5 +1,5 @@
 ---
 title: "Sky Nails"
 url: /san-antonio/sky-nails/
-shop: Kosmetik
+shop: beauty
 ---

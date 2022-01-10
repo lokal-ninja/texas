@@ -1,5 +1,5 @@
 ---
 title: "Maste Kutz"
 url: /mesquite/maste-kutz/
-shop: Friseur
+shop: hairdresser
 ---

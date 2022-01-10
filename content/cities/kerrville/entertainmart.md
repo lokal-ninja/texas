@@ -1,5 +1,5 @@
 ---
 title: "EntertainMART"
 url: /kerrville/entertainmart/
-shop: Elektronik
+shop: electronics
 ---

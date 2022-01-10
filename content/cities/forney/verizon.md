@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /forney/verizon/
-shop: Handy
+shop: mobile phone
 ---

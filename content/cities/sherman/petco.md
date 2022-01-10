@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /sherman/petco/
-shop: Tiere
+shop: pet
 ---

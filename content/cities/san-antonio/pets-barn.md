@@ -1,5 +1,5 @@
 ---
 title: "Pets Barn"
 url: /san-antonio/pets-barn/
-shop: Tiere
+shop: pet
 ---

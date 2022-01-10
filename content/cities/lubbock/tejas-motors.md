@@ -1,5 +1,5 @@
 ---
 title: "Tejas Motors"
 url: /lubbock/tejas-motors/
-shop: Autohaus
+shop: car
 ---

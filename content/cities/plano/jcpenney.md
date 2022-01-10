@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /plano/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

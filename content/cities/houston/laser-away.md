@@ -1,5 +1,5 @@
 ---
 title: "Laser Away"
 url: /houston/laser-away/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lindt Chocolate"
 url: /san-marcos/lindt-chocolate/
-shop: Schokolade
+shop: chocolate
 ---

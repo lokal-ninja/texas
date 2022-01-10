@@ -1,5 +1,5 @@
 ---
 title: "Melys Hair Salon"
 url: /houston/melys-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robertson's Grocery"
 url: /wink/robertsons-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

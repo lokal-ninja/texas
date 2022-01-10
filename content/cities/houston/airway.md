@@ -1,5 +1,5 @@
 ---
 title: "Airway"
 url: /houston/airway/
-shop: Lebensmittel
+shop: convenience
 ---

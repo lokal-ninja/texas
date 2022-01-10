@@ -1,5 +1,5 @@
 ---
 title: "Bellisima Salon"
 url: /falfurrias/bellisima-salon/
-shop: Friseur
+shop: hairdresser
 ---

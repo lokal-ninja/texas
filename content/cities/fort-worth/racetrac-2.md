@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /fort-worth/racetrac-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nothin' Butt Smokes"
 url: /post/nothin-butt-smokes/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elite Eye Care"
 url: /pampa/elite-eye-care/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /big-spring/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /victoria/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

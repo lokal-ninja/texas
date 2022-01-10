@@ -1,5 +1,5 @@
 ---
 title: "Tetco"
 url: /new-braunfels/tetco/
-shop: Lebensmittel
+shop: convenience
 ---

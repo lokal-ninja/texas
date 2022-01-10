@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /flint/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

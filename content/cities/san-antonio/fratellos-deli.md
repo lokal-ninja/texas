@@ -1,5 +1,5 @@
 ---
 title: "Fratellos Deli"
 url: /san-antonio/fratellos-deli/
-shop: Feinkost
+shop: deli
 ---

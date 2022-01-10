@@ -1,5 +1,5 @@
 ---
 title: "Nyle Maxwell Collision Center"
 url: /austin/nyle-maxwell-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

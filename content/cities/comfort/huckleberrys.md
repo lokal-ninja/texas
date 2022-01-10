@@ -1,5 +1,5 @@
 ---
 title: "Huckleberry's"
 url: /comfort/huckleberrys/
-shop: Raumausstattung
+shop: interior decoration
 ---

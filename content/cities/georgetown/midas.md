@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /georgetown/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

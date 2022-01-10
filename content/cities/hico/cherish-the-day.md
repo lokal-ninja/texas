@@ -1,5 +1,5 @@
 ---
 title: "Cherish the Day"
 url: /hico/cherish-the-day/
-shop: Blumen
+shop: florist
 ---

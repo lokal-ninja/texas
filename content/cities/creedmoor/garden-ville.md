@@ -1,5 +1,5 @@
 ---
 title: "Garden-Ville"
 url: /creedmoor/garden-ville/
-shop: Garten-Center
+shop: garden centre
 ---

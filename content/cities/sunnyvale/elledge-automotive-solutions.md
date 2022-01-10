@@ -1,5 +1,5 @@
 ---
 title: "Elledge Automotive Solutions"
 url: /sunnyvale/elledge-automotive-solutions/
-shop: Autowerkstatt
+shop: car repair
 ---

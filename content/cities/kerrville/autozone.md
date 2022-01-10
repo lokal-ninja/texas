@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /kerrville/autozone/
-shop: Autoteile
+shop: car parts
 ---

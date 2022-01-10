@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /san-antonio/marshalls/
-shop: Warenhaus
+shop: department store
 ---

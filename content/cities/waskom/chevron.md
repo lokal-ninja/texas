@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /waskom/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "National Truck Repair"
 url: /longview/national-truck-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catherines"
 url: /beaumont/catherines/
-shop: Kleidung
+shop: clothes
 ---

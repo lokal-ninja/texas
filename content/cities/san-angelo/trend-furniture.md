@@ -1,5 +1,5 @@
 ---
 title: "Trend Furniture"
 url: /san-angelo/trend-furniture/
-shop: Möbel
+shop: furniture
 ---

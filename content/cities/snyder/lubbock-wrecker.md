@@ -1,5 +1,5 @@
 ---
 title: "Lubbock Wrecker"
 url: /snyder/lubbock-wrecker/
-shop: Autowerkstatt
+shop: car repair
 ---

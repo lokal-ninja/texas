@@ -1,5 +1,5 @@
 ---
 title: "Hobart Pools"
 url: /rockwall/hobart-pools/
-shop: Pool
+shop: swimming pool
 ---

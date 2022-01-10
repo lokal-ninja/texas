@@ -1,5 +1,5 @@
 ---
 title: "Rivard Brothers"
 url: /pantego/rivard-brothers/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /seabrook/life-storage/
-shop: Mieten
+shop: storage rental
 ---

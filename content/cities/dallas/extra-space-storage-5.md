@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /dallas/extra-space-storage-5/
-shop: Mieten
+shop: storage rental
 ---

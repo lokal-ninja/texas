@@ -1,5 +1,5 @@
 ---
 title: "HF and C"
 url: /amarillo/hf-and-c/
-shop: Dorfladen
+shop: general
 ---

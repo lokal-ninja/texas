@@ -1,5 +1,5 @@
 ---
 title: "Caprock Tire"
 url: /lubbock/caprock-tire/
-shop: Reifen
+shop: tyres
 ---

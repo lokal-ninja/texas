@@ -1,5 +1,5 @@
 ---
 title: "Super Food Mart"
 url: /denton/super-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

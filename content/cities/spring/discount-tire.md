@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /spring/discount-tire/
-shop: Reifen
+shop: tyres
 ---

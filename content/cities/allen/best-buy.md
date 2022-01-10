@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /allen/best-buy/
-shop: Elektronik
+shop: electronics
 ---

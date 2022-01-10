@@ -1,5 +1,5 @@
 ---
 title: "Cowgirl Auto Sales"
 url: /decatur/cowgirl-auto-sales/
-shop: Autohaus
+shop: car
 ---

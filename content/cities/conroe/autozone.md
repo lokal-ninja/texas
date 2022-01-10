@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /conroe/autozone/
-shop: Autoteile
+shop: car parts
 ---

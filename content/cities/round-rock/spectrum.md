@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /round-rock/spectrum/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /corpus-christi/discount-tire/
-shop: Reifen
+shop: tyres
 ---

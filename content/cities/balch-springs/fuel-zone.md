@@ -1,5 +1,5 @@
 ---
 title: "Fuel Zone"
 url: /balch-springs/fuel-zone/
-shop: Lebensmittel
+shop: convenience
 ---

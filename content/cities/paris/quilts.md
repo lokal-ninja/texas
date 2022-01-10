@@ -1,5 +1,5 @@
 ---
 title: "Quilts"
 url: /paris/quilts/
-shop: Raumausstattung
+shop: interior decoration
 ---

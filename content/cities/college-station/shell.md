@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /college-station/shell/
-shop: Lebensmittel
+shop: convenience
 ---

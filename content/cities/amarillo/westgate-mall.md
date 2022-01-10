@@ -1,5 +1,5 @@
 ---
 title: "Westgate Mall"
 url: /amarillo/westgate-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

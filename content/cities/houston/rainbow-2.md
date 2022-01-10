@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /houston/rainbow-2/
-shop: Kleidung
+shop: clothes
 ---

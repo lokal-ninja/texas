@@ -1,5 +1,5 @@
 ---
 title: "My Salon"
 url: /austin/my-salon/
-shop: Friseur
+shop: hairdresser
 ---

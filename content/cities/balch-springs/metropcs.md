@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /balch-springs/metropcs/
-shop: Handy
+shop: mobile phone
 ---

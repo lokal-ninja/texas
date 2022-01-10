@@ -1,5 +1,5 @@
 ---
 title: "Adair's Interiors"
 url: /dallas/adairs-interiors/
-shop: Eisenwaren
+shop: hardware
 ---

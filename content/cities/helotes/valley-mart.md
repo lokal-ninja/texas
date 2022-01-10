@@ -1,5 +1,5 @@
 ---
 title: "Valley Mart"
 url: /helotes/valley-mart/
-shop: Lebensmittel
+shop: convenience
 ---

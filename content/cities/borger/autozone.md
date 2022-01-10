@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /borger/autozone/
-shop: Autoteile
+shop: car parts
 ---

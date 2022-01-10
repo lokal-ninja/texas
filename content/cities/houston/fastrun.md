@@ -1,5 +1,5 @@
 ---
 title: "FastRun"
 url: /houston/fastrun/
-shop: Lebensmittel
+shop: convenience
 ---

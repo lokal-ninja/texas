@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /mineola/hibbett-sports/
-shop: Sport
+shop: sports
 ---

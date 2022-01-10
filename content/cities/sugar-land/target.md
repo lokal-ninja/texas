@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sugar-land/target/
-shop: Warenhaus
+shop: department store
 ---

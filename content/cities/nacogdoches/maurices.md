@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /nacogdoches/maurices/
-shop: Kleidung
+shop: clothes
 ---

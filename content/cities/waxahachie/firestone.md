@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /waxahachie/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

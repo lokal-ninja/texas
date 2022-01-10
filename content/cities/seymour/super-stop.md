@@ -1,5 +1,5 @@
 ---
 title: "Super Stop"
 url: /seymour/super-stop/
-shop: Lebensmittel
+shop: convenience
 ---

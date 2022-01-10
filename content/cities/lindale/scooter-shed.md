@@ -1,5 +1,5 @@
 ---
 title: "Scooter Shed"
 url: /lindale/scooter-shed/
-shop: Motorrad
+shop: motorcycle
 ---

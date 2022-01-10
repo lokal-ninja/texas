@@ -1,5 +1,5 @@
 ---
 title: "Gebo's"
 url: /levelland/gebos/
-shop: Eisenwaren
+shop: hardware
 ---

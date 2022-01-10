@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /frisco/brakes-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

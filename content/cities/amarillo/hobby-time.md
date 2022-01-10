@@ -1,5 +1,5 @@
 ---
 title: "Hobby Time"
 url: /amarillo/hobby-time/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /denton/sherwin-williams/
-shop: Farben
+shop: paint
 ---

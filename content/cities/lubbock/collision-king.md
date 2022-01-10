@@ -1,5 +1,5 @@
 ---
 title: "Collision King"
 url: /lubbock/collision-king/
-shop: Autowerkstatt
+shop: car repair
 ---

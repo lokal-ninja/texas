@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /paris/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

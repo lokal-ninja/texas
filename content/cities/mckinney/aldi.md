@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /mckinney/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /henderson/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UFO Computer Services"
 url: /cedar-park/ufo-computer-services/
-shop: Computer
+shop: computer
 ---

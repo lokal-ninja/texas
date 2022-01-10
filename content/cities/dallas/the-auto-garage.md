@@ -1,5 +1,5 @@
 ---
 title: "The Auto Garage"
 url: /dallas/the-auto-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

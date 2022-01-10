@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /little-elm/brakes-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

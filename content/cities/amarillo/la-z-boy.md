@@ -1,5 +1,5 @@
 ---
 title: "La-Z-Boy"
 url: /amarillo/la-z-boy/
-shop: Möbel
+shop: furniture
 ---

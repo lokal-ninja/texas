@@ -1,5 +1,5 @@
 ---
 title: "Aapple Muffler"
 url: /abilene/aapple-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

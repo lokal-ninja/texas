@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /lufkin/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

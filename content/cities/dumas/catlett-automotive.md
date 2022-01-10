@@ -1,5 +1,5 @@
 ---
 title: "Catlett Automotive"
 url: /dumas/catlett-automotive/
-shop: Autoteile
+shop: car parts
 ---

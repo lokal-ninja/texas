@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /georgetown/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

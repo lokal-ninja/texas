@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /pflugerville/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

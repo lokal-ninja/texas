@@ -1,5 +1,5 @@
 ---
 title: "Robertson Funeral Directors"
 url: /mclean/robertson-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

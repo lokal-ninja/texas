@@ -1,5 +1,5 @@
 ---
 title: "dd's DISCOUNTS"
 url: /san-antonio/dds-discounts/
-shop: Kleidung
+shop: clothes
 ---

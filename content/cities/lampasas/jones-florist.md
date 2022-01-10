@@ -1,5 +1,5 @@
 ---
 title: "Jones Florist"
 url: /lampasas/jones-florist/
-shop: Blumen
+shop: florist
 ---

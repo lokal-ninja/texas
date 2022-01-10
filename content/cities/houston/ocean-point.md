@@ -1,5 +1,5 @@
 ---
 title: "Ocean Point"
 url: /houston/ocean-point/
-shop: Lebensmittel
+shop: convenience
 ---

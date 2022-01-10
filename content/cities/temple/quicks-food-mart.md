@@ -1,5 +1,5 @@
 ---
 title: "Quicks Food Mart"
 url: /temple/quicks-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

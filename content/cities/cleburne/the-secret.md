@@ -1,5 +1,5 @@
 ---
 title: "The Secret"
 url: /cleburne/the-secret/
-shop: Blumen
+shop: florist
 ---

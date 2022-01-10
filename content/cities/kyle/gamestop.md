@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /kyle/gamestop/
-shop: Videospiele
+shop: video games
 ---

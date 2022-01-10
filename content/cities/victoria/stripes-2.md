@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /victoria/stripes-2/
-shop: Lebensmittel
+shop: convenience
 ---

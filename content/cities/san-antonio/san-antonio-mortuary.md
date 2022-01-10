@@ -1,5 +1,5 @@
 ---
 title: "San Antonio Mortuary"
 url: /san-antonio/san-antonio-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

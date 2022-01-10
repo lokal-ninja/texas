@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /pflugerville/autozone/
-shop: Autoteile
+shop: car parts
 ---

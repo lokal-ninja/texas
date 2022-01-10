@@ -1,5 +1,5 @@
 ---
 title: "Ready Express"
 url: /lampasas/ready-express/
-shop: Lebensmittel
+shop: convenience
 ---

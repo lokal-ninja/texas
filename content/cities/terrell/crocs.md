@@ -1,5 +1,5 @@
 ---
 title: "Crocs"
 url: /terrell/crocs/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orr Hyundai"
 url: /texarkana/orr-hyundai/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bergheim General Store"
 url: /boerne/bergheim-general-store/
-shop: Dorfladen
+shop: general
 ---

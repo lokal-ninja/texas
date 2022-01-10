@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /humble/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

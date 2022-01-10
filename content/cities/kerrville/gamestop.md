@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /kerrville/gamestop/
-shop: Videospiele
+shop: video games
 ---

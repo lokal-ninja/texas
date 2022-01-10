@@ -1,5 +1,5 @@
 ---
 title: "Boehm Tractor Sales"
 url: /shiner/boehm-tractor-sales/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

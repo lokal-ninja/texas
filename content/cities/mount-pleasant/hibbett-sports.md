@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /mount-pleasant/hibbett-sports/
-shop: Sport
+shop: sports
 ---

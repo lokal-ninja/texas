@@ -1,5 +1,5 @@
 ---
 title: "Duck's Warehouse"
 url: /bastrop/ducks-warehouse/
-shop: Großhandel
+shop: wholesale
 ---

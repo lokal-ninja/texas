@@ -1,5 +1,5 @@
 ---
 title: "Gaslight Cleaners"
 url: /lufkin/gaslight-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

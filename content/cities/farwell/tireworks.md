@@ -1,5 +1,5 @@
 ---
 title: "Tireworks"
 url: /farwell/tireworks/
-shop: Autowerkstatt
+shop: car repair
 ---

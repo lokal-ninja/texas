@@ -1,5 +1,5 @@
 ---
 title: "Kegg's Candies"
 url: /houston/keggs-candies/
-shop: Süßwaren
+shop: confectionery
 ---

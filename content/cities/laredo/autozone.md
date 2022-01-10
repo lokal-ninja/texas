@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /laredo/autozone/
-shop: Autoteile
+shop: car parts
 ---

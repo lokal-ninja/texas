@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /garland/metropcs/
-shop: Handy
+shop: mobile phone
 ---

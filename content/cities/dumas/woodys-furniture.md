@@ -1,5 +1,5 @@
 ---
 title: "Woody's Furniture"
 url: /dumas/woodys-furniture/
-shop: Möbel
+shop: furniture
 ---

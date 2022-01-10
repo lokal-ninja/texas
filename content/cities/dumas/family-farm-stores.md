@@ -1,5 +1,5 @@
 ---
 title: "Family Farm Stores"
 url: /dumas/family-farm-stores/
-shop: Eisenwaren
+shop: hardware
 ---

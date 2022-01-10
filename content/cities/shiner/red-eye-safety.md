@@ -1,5 +1,5 @@
 ---
 title: "Red Eye Safety"
 url: /shiner/red-eye-safety/
-shop: Eisenwaren
+shop: hardware
 ---

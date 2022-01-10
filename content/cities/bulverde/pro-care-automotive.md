@@ -1,5 +1,5 @@
 ---
 title: "Pro-Care Automotive"
 url: /bulverde/pro-care-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

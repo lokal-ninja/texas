@@ -1,5 +1,5 @@
 ---
 title: "Brahma Express"
 url: /stockdale/brahma-express/
-shop: Lebensmittel
+shop: convenience
 ---

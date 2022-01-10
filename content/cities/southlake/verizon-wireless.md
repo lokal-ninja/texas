@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /southlake/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

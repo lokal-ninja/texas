@@ -1,5 +1,5 @@
 ---
 title: "Specs Liquors"
 url: /houston/specs-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

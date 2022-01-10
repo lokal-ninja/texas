@@ -1,5 +1,5 @@
 ---
 title: "Seaside Lumber"
 url: /crystal-beach/seaside-lumber/
-shop: Eisenwaren
+shop: hardware
 ---

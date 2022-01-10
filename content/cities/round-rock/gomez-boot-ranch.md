@@ -1,5 +1,5 @@
 ---
 title: "Gomez Boot Ranch"
 url: /round-rock/gomez-boot-ranch/
-shop: Schuhe
+shop: shoes
 ---

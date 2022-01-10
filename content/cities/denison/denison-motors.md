@@ -1,5 +1,5 @@
 ---
 title: "Denison Motors"
 url: /denison/denison-motors/
-shop: Autohaus
+shop: car
 ---

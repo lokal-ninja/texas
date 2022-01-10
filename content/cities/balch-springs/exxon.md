@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /balch-springs/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

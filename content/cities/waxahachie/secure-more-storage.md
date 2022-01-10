@@ -1,5 +1,5 @@
 ---
 title: "Secure More Storage"
 url: /waxahachie/secure-more-storage/
-shop: Mieten
+shop: storage rental
 ---

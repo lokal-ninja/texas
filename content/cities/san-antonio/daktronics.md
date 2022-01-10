@@ -1,5 +1,5 @@
 ---
 title: "Daktronics"
 url: /san-antonio/daktronics/
-shop: Elektronik
+shop: electronics
 ---

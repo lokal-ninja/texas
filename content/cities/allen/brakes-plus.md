@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /allen/brakes-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

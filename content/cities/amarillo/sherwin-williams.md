@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /amarillo/sherwin-williams/
-shop: Farben
+shop: paint
 ---

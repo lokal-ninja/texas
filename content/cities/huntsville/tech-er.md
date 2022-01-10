@@ -1,5 +1,5 @@
 ---
 title: "Tech-ER"
 url: /huntsville/tech-er/
-shop: Computer
+shop: computer
 ---

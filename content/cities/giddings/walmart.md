@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /giddings/walmart/
-shop: Warenhaus
+shop: department store
 ---

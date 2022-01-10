@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /mcallen/old-navy-2/
-shop: Kleidung
+shop: clothes
 ---

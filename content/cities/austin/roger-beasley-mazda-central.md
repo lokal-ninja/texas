@@ -1,5 +1,5 @@
 ---
 title: "Roger Beasley Mazda Central"
 url: /austin/roger-beasley-mazda-central/
-shop: Autohaus
+shop: car
 ---

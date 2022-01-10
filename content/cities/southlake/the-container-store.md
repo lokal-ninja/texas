@@ -1,5 +1,5 @@
 ---
 title: "The Container Store"
 url: /southlake/the-container-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

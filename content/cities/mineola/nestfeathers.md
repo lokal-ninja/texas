@@ -1,5 +1,5 @@
 ---
 title: "Nestfeathers"
 url: /mineola/nestfeathers/
-shop: Antiquitäten
+shop: antiques
 ---

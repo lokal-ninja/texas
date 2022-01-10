@@ -1,5 +1,5 @@
 ---
 title: "Lube Master"
 url: /san-antonio/lube-master/
-shop: Autowerkstatt
+shop: car repair
 ---

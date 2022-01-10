@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /lufkin/carquest/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /houston/value-village-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

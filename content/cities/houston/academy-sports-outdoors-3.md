@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /houston/academy-sports-outdoors-3/
-shop: Sport
+shop: sports
 ---

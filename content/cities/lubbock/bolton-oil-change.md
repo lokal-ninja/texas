@@ -1,5 +1,5 @@
 ---
 title: "Bolton Oil Change"
 url: /lubbock/bolton-oil-change/
-shop: Autowerkstatt
+shop: car repair
 ---

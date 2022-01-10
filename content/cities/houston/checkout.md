@@ -1,5 +1,5 @@
 ---
 title: "Checkout"
 url: /houston/checkout/
-shop: Lebensmittel
+shop: convenience
 ---

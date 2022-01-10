@@ -1,5 +1,5 @@
 ---
 title: "Shutter Fashions"
 url: /houston/shutter-fashions/
-shop: Jalousien
+shop: window blind
 ---

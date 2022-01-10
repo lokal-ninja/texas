@@ -1,5 +1,5 @@
 ---
 title: "Texford Battery Company"
 url: /houston/texford-battery-company/
-shop: Autoteile
+shop: car parts
 ---

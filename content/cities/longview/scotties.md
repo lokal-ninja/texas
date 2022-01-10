@@ -1,5 +1,5 @@
 ---
 title: "Scotties"
 url: /longview/scotties/
-shop: Lebensmittel
+shop: convenience
 ---

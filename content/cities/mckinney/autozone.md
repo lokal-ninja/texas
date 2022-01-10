@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mckinney/autozone/
-shop: Autoteile
+shop: car parts
 ---

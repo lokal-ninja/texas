@@ -1,5 +1,5 @@
 ---
 title: "Capital Collision Auto Repair Center"
 url: /austin/capital-collision-auto-repair-center/
-shop: Autowerkstatt
+shop: car repair
 ---

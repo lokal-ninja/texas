@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /lake-jackson/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

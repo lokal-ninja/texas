@@ -1,5 +1,5 @@
 ---
 title: "La Mexicana Supermarket"
 url: /huntsville/la-mexicana-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

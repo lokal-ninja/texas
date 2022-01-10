@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lampasas/autozone/
-shop: Autoteile
+shop: car parts
 ---

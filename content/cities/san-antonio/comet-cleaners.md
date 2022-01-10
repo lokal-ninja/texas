@@ -1,5 +1,5 @@
 ---
 title: "Comet Cleaners"
 url: /san-antonio/comet-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

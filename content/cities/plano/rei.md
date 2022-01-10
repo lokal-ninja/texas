@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /plano/rei/
-shop: Outdoor
+shop: outdoor
 ---

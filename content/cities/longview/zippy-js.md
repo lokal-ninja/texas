@@ -1,5 +1,5 @@
 ---
 title: "Zippy J's"
 url: /longview/zippy-js/
-shop: Lebensmittel
+shop: convenience
 ---

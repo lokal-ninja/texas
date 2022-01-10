@@ -1,5 +1,5 @@
 ---
 title: "The Vapor Cloud"
 url: /sherman/the-vapor-cloud/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

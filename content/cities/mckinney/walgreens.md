@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mckinney/walgreens/
-shop: Drogerie
+shop: chemist
 ---

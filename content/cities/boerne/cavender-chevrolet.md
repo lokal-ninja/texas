@@ -1,5 +1,5 @@
 ---
 title: "Cavender Chevrolet"
 url: /boerne/cavender-chevrolet/
-shop: Autohaus
+shop: car
 ---

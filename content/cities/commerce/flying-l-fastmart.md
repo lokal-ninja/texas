@@ -1,5 +1,5 @@
 ---
 title: "Flying L Fastmart"
 url: /commerce/flying-l-fastmart/
-shop: Lebensmittel
+shop: convenience
 ---

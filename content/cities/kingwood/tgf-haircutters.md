@@ -1,5 +1,5 @@
 ---
 title: "TGF Haircutters"
 url: /kingwood/tgf-haircutters/
-shop: Friseur
+shop: hairdresser
 ---

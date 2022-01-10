@@ -1,5 +1,5 @@
 ---
 title: "Collin Street Bakery"
 url: /lindale/collin-street-bakery/
-shop: Bäckerei
+shop: bakery
 ---

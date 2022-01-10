@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /mesquite/citi-trends/
-shop: Kleidung
+shop: clothes
 ---

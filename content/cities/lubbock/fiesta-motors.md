@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Motors"
 url: /lubbock/fiesta-motors/
-shop: Autohaus
+shop: car
 ---

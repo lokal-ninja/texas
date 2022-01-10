@@ -1,5 +1,5 @@
 ---
 title: "Rosa's Hair Studio"
 url: /bandera/rosas-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

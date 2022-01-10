@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /fort-worth/life-storage/
-shop: Mieten
+shop: storage rental
 ---

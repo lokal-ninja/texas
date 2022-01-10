@@ -1,5 +1,5 @@
 ---
 title: "Sanders Barber Shop"
 url: /greenville/sanders-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

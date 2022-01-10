@@ -1,5 +1,5 @@
 ---
 title: "Judy's Stitchery Nook"
 url: /harlingen/judys-stitchery-nook/
-shop: Basteln
+shop: craft
 ---

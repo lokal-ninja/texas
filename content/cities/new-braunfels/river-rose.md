@@ -1,5 +1,5 @@
 ---
 title: "River Rose"
 url: /new-braunfels/river-rose/
-shop: Kleidung
+shop: clothes
 ---

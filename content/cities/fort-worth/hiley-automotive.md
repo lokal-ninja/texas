@@ -1,5 +1,5 @@
 ---
 title: "Hiley Automotive"
 url: /fort-worth/hiley-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

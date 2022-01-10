@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /texas-city/carters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Higginbotham Brothers"
 url: /post/higginbotham-brothers/
-shop: Eisenwaren
+shop: hardware
 ---

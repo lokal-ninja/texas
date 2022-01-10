@@ -1,5 +1,5 @@
 ---
 title: "GameQuest"
 url: /amarillo/gamequest/
-shop: Videospiele
+shop: video games
 ---

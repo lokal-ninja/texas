@@ -1,5 +1,5 @@
 ---
 title: "Papaya"
 url: /san-marcos/papaya/
-shop: Kleidung
+shop: clothes
 ---

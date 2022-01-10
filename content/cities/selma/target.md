@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /selma/target/
-shop: Warenhaus
+shop: department store
 ---

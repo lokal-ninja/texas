@@ -1,5 +1,5 @@
 ---
 title: "Norton Ditto"
 url: /the-woodlands/norton-ditto/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /san-marcos/mattress-firm/
-shop: Betten
+shop: bed
 ---

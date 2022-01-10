@@ -1,5 +1,5 @@
 ---
 title: "Stewart's Lube-N-Wash"
 url: /dumas/stewarts-lube-n-wash/
-shop: Autowerkstatt
+shop: car repair
 ---

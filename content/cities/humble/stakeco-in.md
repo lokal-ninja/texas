@@ -1,5 +1,5 @@
 ---
 title: "StakeCo.in"
 url: /humble/stakeco-in/
-shop: Allgemein
+shop: shop
 ---

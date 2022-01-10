@@ -1,5 +1,5 @@
 ---
 title: "Whole Foods Market"
 url: /houston/whole-foods-market-2/
-shop: Supermarkt
+shop: supermarket
 ---

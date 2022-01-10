@@ -1,5 +1,5 @@
 ---
 title: "Austin Detours"
 url: /austin/austin-detours/
-shop: Reisebüro
+shop: travel agency
 ---

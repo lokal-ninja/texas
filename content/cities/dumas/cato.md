@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /dumas/cato/
-shop: Kleidung
+shop: clothes
 ---

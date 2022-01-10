@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /big-spring/family-dollar-2/
-shop: Kramladen
+shop: variety store
 ---

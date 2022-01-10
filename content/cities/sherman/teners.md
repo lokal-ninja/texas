@@ -1,5 +1,5 @@
 ---
 title: "Tener's"
 url: /sherman/teners/
-shop: Kleidung
+shop: clothes
 ---

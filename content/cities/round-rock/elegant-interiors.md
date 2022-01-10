@@ -1,5 +1,5 @@
 ---
 title: "Elegant Interiors"
 url: /round-rock/elegant-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

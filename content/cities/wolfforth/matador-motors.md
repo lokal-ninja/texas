@@ -1,5 +1,5 @@
 ---
 title: "Matador Motors"
 url: /wolfforth/matador-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audi Dallas"
 url: /dallas/audi-dallas/
-shop: Autohaus
+shop: car
 ---

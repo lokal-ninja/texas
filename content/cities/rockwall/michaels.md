@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /rockwall/michaels/
-shop: Basteln
+shop: craft
 ---

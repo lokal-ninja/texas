@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /kyle/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

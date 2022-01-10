@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /austin/supercuts-2/
-shop: Friseur
+shop: hairdresser
 ---

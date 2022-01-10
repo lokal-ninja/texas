@@ -1,5 +1,5 @@
 ---
 title: "Ingram Car Care"
 url: /ingram/ingram-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

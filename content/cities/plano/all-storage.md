@@ -1,5 +1,5 @@
 ---
 title: "All Storage"
 url: /plano/all-storage/
-shop: Mieten
+shop: storage rental
 ---

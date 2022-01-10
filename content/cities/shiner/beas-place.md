@@ -1,5 +1,5 @@
 ---
 title: "Bea's Place"
 url: /shiner/beas-place/
-shop: Lebensmittel
+shop: convenience
 ---

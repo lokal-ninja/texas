@@ -1,5 +1,5 @@
 ---
 title: "Betsy’s Health Foods"
 url: /houston/betsys-health-foods/
-shop: Bioladen
+shop: health food
 ---

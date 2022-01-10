@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /hurst/gamestop/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ann's Nails Salon"
 url: /san-antonio/anns-nails-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /san-antonio/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

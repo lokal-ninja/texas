@@ -1,5 +1,5 @@
 ---
 title: "Lightning Motorsports"
 url: /grand-prairie/lightning-motorsports/
-shop: Autohaus
+shop: car
 ---

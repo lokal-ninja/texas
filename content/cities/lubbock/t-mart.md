@@ -1,5 +1,5 @@
 ---
 title: "T-Mart"
 url: /lubbock/t-mart/
-shop: Kramladen
+shop: variety store
 ---

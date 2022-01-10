@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /killeen/shell/
-shop: Lebensmittel
+shop: convenience
 ---

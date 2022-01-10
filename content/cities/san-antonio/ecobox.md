@@ -1,5 +1,5 @@
 ---
 title: "EcoBox"
 url: /san-antonio/ecobox/
-shop: Allgemein
+shop: shop
 ---

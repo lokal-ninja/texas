@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /laredo/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

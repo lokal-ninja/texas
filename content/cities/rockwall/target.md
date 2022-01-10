@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /rockwall/target/
-shop: Warenhaus
+shop: department store
 ---

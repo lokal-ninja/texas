@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /big-spring/fastenal/
-shop: Baustoffe
+shop: trade
 ---

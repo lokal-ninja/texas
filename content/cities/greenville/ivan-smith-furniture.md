@@ -1,5 +1,5 @@
 ---
 title: "Ivan Smith Furniture"
 url: /greenville/ivan-smith-furniture/
-shop: Möbel
+shop: furniture
 ---

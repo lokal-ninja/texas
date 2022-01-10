@@ -1,5 +1,5 @@
 ---
 title: "Puma Outlet"
 url: /texas-city/puma-outlet/
-shop: Kleidung
+shop: clothes
 ---

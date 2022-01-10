@@ -1,5 +1,5 @@
 ---
 title: "Queen Nails"
 url: /houston/queen-nails/
-shop: Kosmetik
+shop: beauty
 ---

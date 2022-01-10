@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /decatur/aarons/
-shop: Möbel
+shop: furniture
 ---

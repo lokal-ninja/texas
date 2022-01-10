@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /conroe/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

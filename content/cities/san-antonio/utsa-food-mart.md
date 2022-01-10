@@ -1,5 +1,5 @@
 ---
 title: "UTSA Food Mart"
 url: /san-antonio/utsa-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

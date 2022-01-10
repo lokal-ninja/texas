@@ -1,5 +1,5 @@
 ---
 title: "Under Armour"
 url: /san-marcos/under-armour/
-shop: Kleidung
+shop: clothes
 ---

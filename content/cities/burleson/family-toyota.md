@@ -1,5 +1,5 @@
 ---
 title: "Family Toyota"
 url: /burleson/family-toyota/
-shop: Autohaus
+shop: car
 ---

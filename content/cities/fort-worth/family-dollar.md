@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /fort-worth/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

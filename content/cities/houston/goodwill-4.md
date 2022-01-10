@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /houston/goodwill-4/
-shop: Gebrauchtwaren
+shop: charity
 ---

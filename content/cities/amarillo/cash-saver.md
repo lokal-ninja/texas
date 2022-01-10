@@ -1,5 +1,5 @@
 ---
 title: "Cash Saver"
 url: /amarillo/cash-saver/
-shop: Supermarkt
+shop: supermarket
 ---

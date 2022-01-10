@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /pharr/tj-maxx/
-shop: Kleidung
+shop: clothes
 ---

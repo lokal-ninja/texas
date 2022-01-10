@@ -1,5 +1,5 @@
 ---
 title: "Elliots Hardware"
 url: /plano/elliots-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

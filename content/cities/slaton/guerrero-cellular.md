@@ -1,5 +1,5 @@
 ---
 title: "Guerrero Cellular"
 url: /slaton/guerrero-cellular/
-shop: Handy
+shop: mobile phone
 ---

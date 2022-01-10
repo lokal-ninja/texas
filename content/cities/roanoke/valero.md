@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /roanoke/valero/
-shop: Lebensmittel
+shop: convenience
 ---

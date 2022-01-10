@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /san-angelo/stripes-12/
-shop: Lebensmittel
+shop: convenience
 ---

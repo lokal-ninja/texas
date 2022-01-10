@@ -1,5 +1,5 @@
 ---
 title: "East Funeral Home"
 url: /texarkana/east-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

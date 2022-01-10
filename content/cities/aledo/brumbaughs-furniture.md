@@ -1,5 +1,5 @@
 ---
 title: "Brumbaugh's Furniture"
 url: /aledo/brumbaughs-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star Stop"
 url: /houston/star-stop-8/
-shop: Lebensmittel
+shop: convenience
 ---

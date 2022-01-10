@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kemah/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

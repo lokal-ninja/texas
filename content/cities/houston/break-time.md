@@ -1,5 +1,5 @@
 ---
 title: "Break Time"
 url: /houston/break-time/
-shop: Lebensmittel
+shop: convenience
 ---

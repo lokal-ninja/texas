@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sherman/shell-2/
-shop: Lebensmittel
+shop: convenience
 ---

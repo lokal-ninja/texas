@@ -1,5 +1,5 @@
 ---
 title: "Performance Car Audio"
 url: /waxahachie/performance-car-audio/
-shop: Autowerkstatt
+shop: car repair
 ---

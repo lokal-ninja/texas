@@ -1,5 +1,5 @@
 ---
 title: "OnCue"
 url: /houston/oncue/
-shop: Lebensmittel
+shop: convenience
 ---

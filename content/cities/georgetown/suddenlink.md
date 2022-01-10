@@ -1,5 +1,5 @@
 ---
 title: "Suddenlink"
 url: /georgetown/suddenlink/
-shop: Handy
+shop: mobile phone
 ---

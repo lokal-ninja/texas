@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /mcallen/gamestop-2/
-shop: Videospiele
+shop: video games
 ---

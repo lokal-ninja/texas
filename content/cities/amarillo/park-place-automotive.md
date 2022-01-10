@@ -1,5 +1,5 @@
 ---
 title: "Park Place Automotive"
 url: /amarillo/park-place-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

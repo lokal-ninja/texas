@@ -1,5 +1,5 @@
 ---
 title: "Car Topia"
 url: /kyle/car-topia/
-shop: Autohaus
+shop: car
 ---

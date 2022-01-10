@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /hutto/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

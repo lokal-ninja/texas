@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /humble/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

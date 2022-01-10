@@ -1,5 +1,5 @@
 ---
 title: "United Rentals"
 url: /marble-falls/united-rentals/
-shop: Mieten
+shop: storage rental
 ---

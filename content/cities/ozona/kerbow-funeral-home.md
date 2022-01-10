@@ -1,5 +1,5 @@
 ---
 title: "Kerbow Funeral Home"
 url: /ozona/kerbow-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

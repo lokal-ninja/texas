@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /amarillo/office-depot-2/
-shop: Schreibwaren
+shop: office supplies
 ---

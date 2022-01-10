@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /galveston/walgreens/
-shop: Drogerie
+shop: chemist
 ---

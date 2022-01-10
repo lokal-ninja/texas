@@ -1,5 +1,5 @@
 ---
 title: "Nutrizone"
 url: /mesquite/nutrizone/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ursa at Branch on High"
 url: /comfort/ursa-at-branch-on-high/
-shop: Wein
+shop: wine
 ---

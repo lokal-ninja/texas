@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /webster/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

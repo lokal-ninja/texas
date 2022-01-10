@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /port-arthur/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

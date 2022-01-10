@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /houston/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

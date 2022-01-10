@@ -1,5 +1,5 @@
 ---
 title: "Ashley Furniture"
 url: /pharr/ashley-furniture/
-shop: Möbel
+shop: furniture
 ---

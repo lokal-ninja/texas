@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /pearland/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

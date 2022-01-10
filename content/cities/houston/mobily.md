@@ -1,5 +1,5 @@
 ---
 title: "Mobily"
 url: /houston/mobily/
-shop: Handy
+shop: mobile phone
 ---

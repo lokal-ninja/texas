@@ -1,5 +1,5 @@
 ---
 title: "Greg Luman"
 url: /lubbock/greg-luman/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prada"
 url: /san-marcos/prada/
-shop: Kleidung
+shop: clothes
 ---

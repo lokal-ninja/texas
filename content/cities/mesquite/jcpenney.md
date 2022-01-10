@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /mesquite/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

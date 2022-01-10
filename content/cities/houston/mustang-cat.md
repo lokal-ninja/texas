@@ -1,5 +1,5 @@
 ---
 title: "Mustang CAT"
 url: /houston/mustang-cat/
-shop: Allgemein
+shop: shop
 ---

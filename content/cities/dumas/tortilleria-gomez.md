@@ -1,5 +1,5 @@
 ---
 title: "Tortilleria Gomez"
 url: /dumas/tortilleria-gomez/
-shop: Bäckerei
+shop: bakery
 ---

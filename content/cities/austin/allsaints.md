@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /austin/allsaints/
-shop: Kleidung
+shop: clothes
 ---

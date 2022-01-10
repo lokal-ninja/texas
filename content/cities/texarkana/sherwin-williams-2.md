@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /texarkana/sherwin-williams-2/
-shop: Farben
+shop: paint
 ---

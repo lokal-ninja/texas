@@ -1,5 +1,5 @@
 ---
 title: "Golden Stores"
 url: /san-antonio/golden-stores/
-shop: Lebensmittel
+shop: convenience
 ---

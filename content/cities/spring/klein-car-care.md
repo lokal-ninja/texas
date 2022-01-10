@@ -1,5 +1,5 @@
 ---
 title: "Klein Car Care"
 url: /spring/klein-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waggoner's Boots"
 url: /henrietta/waggoners-boots/
-shop: Kleidung
+shop: clothes
 ---

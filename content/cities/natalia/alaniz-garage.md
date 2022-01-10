@@ -1,5 +1,5 @@
 ---
 title: "Alaniz Garage"
 url: /natalia/alaniz-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

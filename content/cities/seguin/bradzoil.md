@@ -1,5 +1,5 @@
 ---
 title: "Bradzoil"
 url: /seguin/bradzoil/
-shop: Autowerkstatt
+shop: car repair
 ---

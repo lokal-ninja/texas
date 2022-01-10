@@ -1,5 +1,5 @@
 ---
 title: "H-E-B Express"
 url: /floresville/h-e-b-express/
-shop: Lebensmittel
+shop: convenience
 ---

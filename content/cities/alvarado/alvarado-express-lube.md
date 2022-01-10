@@ -1,5 +1,5 @@
 ---
 title: "Alvarado Express Lube"
 url: /alvarado/alvarado-express-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raymond Motor Company"
 url: /center/raymond-motor-company/
-shop: Autohaus
+shop: car
 ---

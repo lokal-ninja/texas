@@ -1,5 +1,5 @@
 ---
 title: "Lammes Candies"
 url: /austin/lammes-candies/
-shop: Süßwaren
+shop: confectionery
 ---

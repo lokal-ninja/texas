@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /sherman/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

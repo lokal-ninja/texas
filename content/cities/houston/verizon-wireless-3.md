@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /houston/verizon-wireless-3/
-shop: Handy
+shop: mobile phone
 ---

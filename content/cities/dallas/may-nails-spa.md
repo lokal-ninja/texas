@@ -1,5 +1,5 @@
 ---
 title: "May Nails Spa"
 url: /dallas/may-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

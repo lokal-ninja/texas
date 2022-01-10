@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /weatherford/ross/
-shop: Warenhaus
+shop: department store
 ---

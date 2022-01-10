@@ -1,5 +1,5 @@
 ---
 title: "Pristine Motors"
 url: /greenville/pristine-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /lamesa/yesway/
-shop: Lebensmittel
+shop: convenience
 ---

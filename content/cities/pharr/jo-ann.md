@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /pharr/jo-ann/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /frisco/sprint/
-shop: Handy
+shop: mobile phone
 ---

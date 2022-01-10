@@ -1,5 +1,5 @@
 ---
 title: "SmokeZone"
 url: /bellmead/smokezone/
-shop: Tabak
+shop: tobacco
 ---

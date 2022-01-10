@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /beverly-hills/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

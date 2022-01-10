@@ -1,5 +1,5 @@
 ---
 title: "Devon Self Storage"
 url: /seabrook/devon-self-storage/
-shop: Mieten
+shop: storage rental
 ---

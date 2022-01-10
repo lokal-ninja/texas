@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /canton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

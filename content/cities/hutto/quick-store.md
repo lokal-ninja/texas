@@ -1,5 +1,5 @@
 ---
 title: "Quick Store"
 url: /hutto/quick-store/
-shop: Lebensmittel
+shop: convenience
 ---

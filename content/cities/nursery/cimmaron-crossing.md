@@ -1,5 +1,5 @@
 ---
 title: "Cimmaron Crossing"
 url: /nursery/cimmaron-crossing/
-shop: Lebensmittel
+shop: convenience
 ---

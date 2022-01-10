@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /rhome/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

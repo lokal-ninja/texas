@@ -1,5 +1,5 @@
 ---
 title: "Rivera Welding"
 url: /austin/rivera-welding/
-shop: Autowerkstatt
+shop: car repair
 ---

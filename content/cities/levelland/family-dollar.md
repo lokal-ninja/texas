@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /levelland/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

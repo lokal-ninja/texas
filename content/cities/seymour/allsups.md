@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /seymour/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

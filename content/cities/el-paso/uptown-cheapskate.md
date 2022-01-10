@@ -1,5 +1,5 @@
 ---
 title: "Uptown Cheapskate"
 url: /el-paso/uptown-cheapskate/
-shop: Kleidung
+shop: clothes
 ---

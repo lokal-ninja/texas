@@ -1,5 +1,5 @@
 ---
 title: "Conn's"
 url: /amarillo/conns/
-shop: Möbel
+shop: furniture
 ---

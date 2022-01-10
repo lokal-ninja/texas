@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /college-station/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

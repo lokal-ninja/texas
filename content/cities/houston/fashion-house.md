@@ -1,5 +1,5 @@
 ---
 title: "Fashion House"
 url: /houston/fashion-house/
-shop: Kleidung
+shop: clothes
 ---

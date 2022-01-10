@@ -1,5 +1,5 @@
 ---
 title: "Mini Mart"
 url: /kerrville/mini-mart-6/
-shop: Lebensmittel
+shop: convenience
 ---

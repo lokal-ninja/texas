@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /pflugerville/bealls/
-shop: Warenhaus
+shop: department store
 ---

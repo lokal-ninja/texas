@@ -1,5 +1,5 @@
 ---
 title: "Ragstock"
 url: /austin/ragstock/
-shop: Kleidung
+shop: clothes
 ---

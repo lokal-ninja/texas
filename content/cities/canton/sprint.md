@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /canton/sprint/
-shop: Handy
+shop: mobile phone
 ---

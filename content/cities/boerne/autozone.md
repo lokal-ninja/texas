@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /boerne/autozone/
-shop: Autoteile
+shop: car parts
 ---

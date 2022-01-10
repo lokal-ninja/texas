@@ -1,5 +1,5 @@
 ---
 title: "Glo Nails"
 url: /houston/glo-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rabbit Food Grocery"
 url: /austin/rabbit-food-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

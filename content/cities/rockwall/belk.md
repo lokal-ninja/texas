@@ -1,5 +1,5 @@
 ---
 title: "Belk"
 url: /rockwall/belk/
-shop: Warenhaus
+shop: department store
 ---

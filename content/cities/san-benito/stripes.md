@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /san-benito/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

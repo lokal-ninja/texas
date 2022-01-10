@@ -1,5 +1,5 @@
 ---
 title: "Salon Jes"
 url: /longview/salon-jes/
-shop: Friseur
+shop: hairdresser
 ---

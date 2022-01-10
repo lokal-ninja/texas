@@ -1,5 +1,5 @@
 ---
 title: "Time Mart"
 url: /humble/time-mart/
-shop: Lebensmittel
+shop: convenience
 ---

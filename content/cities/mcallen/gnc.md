@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /mcallen/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

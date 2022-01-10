@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /temple/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

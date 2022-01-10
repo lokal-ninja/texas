@@ -1,5 +1,5 @@
 ---
 title: "United Express"
 url: /lubbock/united-express-2/
-shop: Lebensmittel
+shop: convenience
 ---

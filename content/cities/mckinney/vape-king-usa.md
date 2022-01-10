@@ -1,5 +1,5 @@
 ---
 title: "Vape King USA"
 url: /mckinney/vape-king-usa/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

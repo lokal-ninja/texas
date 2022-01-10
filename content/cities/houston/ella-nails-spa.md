@@ -1,5 +1,5 @@
 ---
 title: "Ella Nails Spa"
 url: /houston/ella-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

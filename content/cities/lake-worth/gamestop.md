@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /lake-worth/gamestop/
-shop: Videospiele
+shop: video games
 ---

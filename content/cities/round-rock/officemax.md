@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /round-rock/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

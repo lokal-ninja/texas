@@ -1,5 +1,5 @@
 ---
 title: "Saxophone Center"
 url: /houston/saxophone-center/
-shop: Instrumente
+shop: musical instrument
 ---

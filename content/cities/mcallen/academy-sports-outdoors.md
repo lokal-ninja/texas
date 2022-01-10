@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /mcallen/academy-sports-outdoors/
-shop: Sport
+shop: sports
 ---

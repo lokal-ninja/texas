@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /pampa/sherwin-williams/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /mesquite/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

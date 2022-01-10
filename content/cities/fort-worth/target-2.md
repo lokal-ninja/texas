@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fort-worth/target-2/
-shop: Supermarkt
+shop: supermarket
 ---

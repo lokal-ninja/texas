@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /lubbock/cato/
-shop: Kleidung
+shop: clothes
 ---

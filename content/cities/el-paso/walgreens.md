@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /el-paso/walgreens/
-shop: Drogerie
+shop: chemist
 ---

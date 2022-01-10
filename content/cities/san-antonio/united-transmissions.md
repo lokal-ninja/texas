@@ -1,5 +1,5 @@
 ---
 title: "United Transmissions"
 url: /san-antonio/united-transmissions/
-shop: Autowerkstatt
+shop: car repair
 ---

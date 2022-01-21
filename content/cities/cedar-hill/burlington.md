@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /cedar-hill/burlington/
-shop: clothes
+shop: department store
 ---

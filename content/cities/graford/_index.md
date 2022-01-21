@@ -1,6 +1,6 @@
 ---
 title: Graford
 url: /graford/
-latitude: 32.938
-longitude: -98.249
+latitude: 32.936
+longitude: -98.259
 ---

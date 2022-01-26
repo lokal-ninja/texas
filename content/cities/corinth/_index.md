@@ -1,6 +1,6 @@
 ---
 title: Corinth
 url: /corinth/
-latitude: 33.162
-longitude: -97.072
+latitude: 33.131
+longitude: -97.042
 ---

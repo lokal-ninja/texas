@@ -1,6 +1,6 @@
 ---
 title: Ingram
 url: /ingram/
-latitude: 30.077
-longitude: -99.238
+latitude: 30.074
+longitude: -99.237
 ---

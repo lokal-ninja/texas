@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /terrell/claires/
-shop: shop
+shop: boutique
 ---

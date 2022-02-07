@@ -1,5 +1,5 @@
 ---
-title: "H-E-B Plus!"
+title: "H-E-B plus!"
 url: /laredo/h-e-b-plus/
 shop: supermarket
 ---

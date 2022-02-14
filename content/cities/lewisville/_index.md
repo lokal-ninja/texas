@@ -1,6 +1,6 @@
 ---
 title: Lewisville
 url: /lewisville/
-latitude: 33.046
-longitude: -96.949
+latitude: 33.04
+longitude: -96.99
 ---

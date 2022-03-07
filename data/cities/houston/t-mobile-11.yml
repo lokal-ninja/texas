@@ -1,11 +1,11 @@
-id: 8223418901
-type: node
-latitude: 29.82113
-longitude: -95.54604
-postcode: "77080"
+id: 542684688
+type: way
+latitude: 29.81926
+longitude: -95.46713
+postcode: ""
 city: Houston
-street: "Gessner Road"
-housenumber: 2745
+street: "Northwest Freeway"
+housenumber: 11160
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
+opening_hours: ""
 website: ""

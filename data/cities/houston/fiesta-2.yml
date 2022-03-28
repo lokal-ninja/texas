@@ -1,11 +1,11 @@
-id: 6433472288
-type: node
-latitude: 29.83666
-longitude: -95.38528
-postcode: "77022"
+id: 232721501
+type: way
+latitude: 29.78157
+longitude: -95.3596
+postcode: "77009"
 city: Houston
-street: "Airline Drive"
-housenumber: 4711
+street: "Quitman Street"
+housenumber: 1020
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: ""
 website: ""

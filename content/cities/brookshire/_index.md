@@ -1,6 +1,6 @@
 ---
 title: Brookshire
 url: /brookshire/
-latitude: 29.786
-longitude: -95.947
+latitude: 29.778
+longitude: -95.966
 ---

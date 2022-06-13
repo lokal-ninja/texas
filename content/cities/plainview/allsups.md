@@ -1,5 +1,5 @@
 ---
-title: "AllSup's"
+title: "Allsup's"
 url: /plainview/allsups/
 shop: convenience
 ---

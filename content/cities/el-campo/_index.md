@@ -1,6 +1,6 @@
 ---
 title: El Campo
 url: /el-campo/
-latitude: 29.199
-longitude: -96.269
+latitude: 29.204
+longitude: -96.275
 ---

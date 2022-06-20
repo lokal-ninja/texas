@@ -1,6 +1,6 @@
 ---
 title: Center Point
 url: /center-point/
-latitude: 29.894
-longitude: -99.105
+latitude: 29.951
+longitude: -99.039
 ---

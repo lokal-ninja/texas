@@ -1,6 +1,6 @@
 ---
 title: Pecos
 url: /pecos/
-latitude: 31.409
-longitude: -103.489
+latitude: 31.399
+longitude: -103.482
 ---

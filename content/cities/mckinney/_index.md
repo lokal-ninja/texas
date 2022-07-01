@@ -1,6 +1,6 @@
 ---
 title: McKinney
 url: /mckinney/
-latitude: 33.139
-longitude: -96.652
+latitude: 33.175
+longitude: -96.696
 ---

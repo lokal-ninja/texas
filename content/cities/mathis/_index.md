@@ -1,6 +1,6 @@
 ---
 title: Mathis
 url: /mathis/
-latitude: 28.092
+latitude: 28.1
 longitude: -97.823
 ---

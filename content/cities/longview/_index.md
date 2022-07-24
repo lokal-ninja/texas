@@ -1,6 +1,6 @@
 ---
 title: Longview
 url: /longview/
-latitude: 32.467
-longitude: -94.67
+latitude: 32.539
+longitude: -94.752
 ---

@@ -1,6 +1,6 @@
 ---
 title: Celeste
 url: /celeste/
-latitude: 33.301
-longitude: -96.247
+latitude: 33.294
+longitude: -96.194
 ---

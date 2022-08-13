@@ -1,0 +1,5 @@
+---
+title: "Four States Furniture"
+url: /texarkana/four-states-furniture/
+shop: furniture
+---

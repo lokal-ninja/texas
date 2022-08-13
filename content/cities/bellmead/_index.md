@@ -1,6 +1,6 @@
 ---
 title: Bellmead
 url: /bellmead/
-latitude: 31.601
-longitude: -97.105
+latitude: 31.588
+longitude: -97.104
 ---

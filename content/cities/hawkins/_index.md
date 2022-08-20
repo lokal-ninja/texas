@@ -1,6 +1,6 @@
 ---
 title: Hawkins
 url: /hawkins/
-latitude: 32.696
-longitude: -95.213
+latitude: 32.701
+longitude: -95.211
 ---

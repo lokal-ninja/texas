@@ -1,6 +1,6 @@
 ---
 title: Refugio
 url: /refugio/
-latitude: 28.304
-longitude: -97.276
+latitude: 28.297
+longitude: -97.272
 ---

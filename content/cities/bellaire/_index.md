@@ -1,6 +1,6 @@
 ---
 title: Bellaire
 url: /bellaire/
-latitude: 29.699
-longitude: -95.484
+latitude: 29.706
+longitude: -95.471
 ---

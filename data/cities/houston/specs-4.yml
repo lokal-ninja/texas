@@ -7,5 +7,5 @@ city: Houston
 street: "Smith Street"
 housenumber: 2410
 phone: "+1-713-526-8787"
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: "Mo-Sa 10:00-21:00; Su closed"
 website: "https://www.specsonline.com/"

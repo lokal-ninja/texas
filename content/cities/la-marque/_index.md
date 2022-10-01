@@ -1,6 +1,6 @@
 ---
 title: La Marque
 url: /la-marque/
-latitude: 29.402
-longitude: -95.037
+latitude: 29.385
+longitude: -95.02
 ---

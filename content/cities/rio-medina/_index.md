@@ -1,6 +1,6 @@
 ---
 title: Rio Medina
 url: /rio-medina/
-latitude: 29.517
-longitude: -98.834
+latitude: 29.44
+longitude: -98.884
 ---

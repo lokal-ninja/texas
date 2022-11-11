@@ -1,6 +1,6 @@
 ---
 title: Fairfield
 url: /fairfield/
-latitude: 31.724
-longitude: -96.17
+latitude: 31.727
+longitude: -96.183
 ---

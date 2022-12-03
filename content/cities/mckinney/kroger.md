@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /mckinney/kroger/
-shop: convenience
+shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Duncanville
 url: /duncanville/
-latitude: 32.661
+latitude: 32.663
 longitude: -96.909
 ---

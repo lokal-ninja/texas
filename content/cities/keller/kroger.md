@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /fort-worth/kroger-6/
+url: /keller/kroger/
 shop: supermarket
 ---

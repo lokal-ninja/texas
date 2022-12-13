@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /richardson/target/
-shop: department store
+shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grapevine
 url: /grapevine/
-latitude: 32.931
-longitude: -97.089
+latitude: 32.942
+longitude: -97.075
 ---

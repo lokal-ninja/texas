@@ -1,6 +1,6 @@
 ---
 title: Cleburne
 url: /cleburne/
-latitude: 32.336
-longitude: -97.424
+latitude: 32.338
+longitude: -97.411
 ---

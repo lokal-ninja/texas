@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
-url: /austin/h-e-b-21/
+url: /humble/h-e-b/
 shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crossroads
 url: /crossroads/
-latitude: 33.228
-longitude: -96.984
+latitude: 33.229
+longitude: -96.985
 ---

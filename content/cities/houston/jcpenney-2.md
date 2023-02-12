@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
-url: /houston/jcpenney-2/
+url: /houston/jcpenney/
 shop: department store
 ---

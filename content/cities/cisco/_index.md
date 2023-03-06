@@ -1,6 +1,6 @@
 ---
 title: Cisco
 url: /cisco/
-latitude: 32.386
-longitude: -98.979
+latitude: 32.376
+longitude: -98.97
 ---

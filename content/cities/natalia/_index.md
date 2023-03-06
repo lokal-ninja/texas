@@ -1,6 +1,6 @@
 ---
 title: Natalia
 url: /natalia/
-latitude: 29.191
-longitude: -98.861
+latitude: 29.185
+longitude: -98.847
 ---

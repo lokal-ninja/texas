@@ -1,6 +1,6 @@
 ---
 title: Frisco
 url: /frisco/
-latitude: 33.098
-longitude: -96.813
+latitude: 33.15
+longitude: -96.821
 ---

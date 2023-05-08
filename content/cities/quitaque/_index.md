@@ -2,5 +2,5 @@
 title: Quitaque
 url: /quitaque/
 latitude: 34.366
-longitude: -101.056
+longitude: -101.061
 ---

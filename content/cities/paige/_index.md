@@ -1,6 +1,6 @@
 ---
 title: Paige
 url: /paige/
-latitude: 30.211
-longitude: -97.113
+latitude: 30.214
+longitude: -97.14
 ---

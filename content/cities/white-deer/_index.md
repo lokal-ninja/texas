@@ -1,6 +1,6 @@
 ---
 title: White Deer
 url: /white-deer/
-latitude: 35.432
-longitude: -101.179
+latitude: 35.436
+longitude: -101.172
 ---

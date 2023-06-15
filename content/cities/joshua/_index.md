@@ -1,6 +1,6 @@
 ---
 title: Joshua
 url: /joshua/
-latitude: 32.462
-longitude: -97.389
+latitude: 32.47
+longitude: -97.384
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lorena
 url: /lorena/
-latitude: 31.388
-longitude: -97.213
+latitude: 31.414
+longitude: -97.233
 ---

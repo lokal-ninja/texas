@@ -2,5 +2,5 @@
 title: Socorro
 url: /socorro/
 latitude: 31.659
-longitude: -106.275
+longitude: -106.273
 ---

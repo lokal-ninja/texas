@@ -1,5 +1,5 @@
 ---
 title: "Auto & Truck Paint Center"
 url: /el-paso/auto-and-truck-paint-center/
-shop: shop
+shop: car repair
 ---

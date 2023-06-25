@@ -1,6 +1,6 @@
 ---
 title: Hitchcock
 url: /hitchcock/
-latitude: 29.33
-longitude: -94.939
+latitude: 29.331
+longitude: -94.94
 ---

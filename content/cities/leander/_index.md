@@ -1,6 +1,6 @@
 ---
 title: Leander
 url: /leander/
-latitude: 30.568
-longitude: -97.852
+latitude: 30.614
+longitude: -97.9
 ---

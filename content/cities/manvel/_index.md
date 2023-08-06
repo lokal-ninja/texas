@@ -1,6 +1,6 @@
 ---
 title: Manvel
 url: /manvel/
-latitude: 29.483
-longitude: -95.398
+latitude: 29.481
+longitude: -95.4
 ---

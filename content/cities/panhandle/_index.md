@@ -1,6 +1,6 @@
 ---
 title: Panhandle
 url: /panhandle/
-latitude: 35.344
-longitude: -101.378
+latitude: 35.346
+longitude: -101.381
 ---

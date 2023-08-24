@@ -1,6 +1,6 @@
 ---
 title: Flower Mound
 url: /flower-mound/
-latitude: 33.035
-longitude: -97.07
+latitude: 33.071
+longitude: -97.055
 ---

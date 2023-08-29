@@ -1,6 +1,6 @@
 ---
 title: West Columbia
 url: /west-columbia/
-latitude: 29.151
-longitude: -95.659
+latitude: 29.146
+longitude: -95.648
 ---

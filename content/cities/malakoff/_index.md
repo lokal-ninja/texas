@@ -1,6 +1,6 @@
 ---
 title: Malakoff
 url: /malakoff/
-latitude: 32.17
-longitude: -96.013
+latitude: 32.172
+longitude: -96.009
 ---

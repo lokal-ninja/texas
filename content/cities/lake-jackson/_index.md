@@ -1,6 +1,6 @@
 ---
 title: Lake Jackson
 url: /lake-jackson/
-latitude: 29.05
-longitude: -95.459
+latitude: 29.044
+longitude: -95.457
 ---

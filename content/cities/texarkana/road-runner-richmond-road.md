@@ -1,5 +1,5 @@
 ---
 title: "Road Runner"
-url: /texarkana/road-runner/
+url: /texarkana/road-runner-richmond-road/
 shop: convenience
 ---

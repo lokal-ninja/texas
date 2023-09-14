@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /lubbock/target/
+url: /lubbock/target-marsha-sharp-freeway/
 shop: supermarket
 ---

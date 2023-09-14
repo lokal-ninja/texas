@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /arlington/discount-tire/
+url: /arlington/discount-tire-northeast-green-oaks-boulevard/
 shop: tyres
 ---

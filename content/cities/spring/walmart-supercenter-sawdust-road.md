@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /spring/walmart-supercenter/
+url: /spring/walmart-supercenter-sawdust-road/
 shop: supermarket
 ---

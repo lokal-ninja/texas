@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
-url: /houston/academy-sports-outdoors/
+url: /houston/academy-sports-outdoors-katy-freeway/
 shop: sports
 ---

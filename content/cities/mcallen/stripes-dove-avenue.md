@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /mcallen/stripes/
+url: /mcallen/stripes-dove-avenue/
 shop: convenience
 ---

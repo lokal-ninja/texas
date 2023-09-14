@@ -1,5 +1,5 @@
 ---
 title: "Monroe's Peach Ranch"
-url: /hedley/monroes-peach-ranch/
+url: /hedley/monroes-peach-ranch-us-287/
 shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VStop"
-url: /houston/vstop/
+url: /houston/vstop-west-hardy-road/
 shop: convenience
 ---

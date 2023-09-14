@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /killeen/oreilly-auto-parts/
+url: /killeen/oreilly-auto-parts-east-stan-schlueter-loop/
 shop: car parts
 ---

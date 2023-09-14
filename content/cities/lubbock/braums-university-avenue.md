@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
-url: /lubbock/braums/
+url: /lubbock/braums-university-avenue/
 shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Clean Laundromat"
-url: /kerrville/country-clean-laundromat/
+url: /kerrville/country-clean-laundromat-g-street-west/
 shop: laundry
 ---

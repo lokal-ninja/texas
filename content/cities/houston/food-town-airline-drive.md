@@ -1,5 +1,5 @@
 ---
 title: "Food Town"
-url: /houston/food-town/
+url: /houston/food-town-airline-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asahi Imports"
-url: /austin/asahi-imports/
+url: /austin/asahi-imports-south-lamar-boulevard/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /garland/7-eleven/
+url: /garland/7-eleven-west-centerville-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spec's"
-url: /houston/specs/
+url: /houston/specs-tomball-parkway/
 shop: alcohol
 ---

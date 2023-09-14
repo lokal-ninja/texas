@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /fort-worth/the-home-depot/
+url: /fort-worth/the-home-depot-south-freeway/
 shop: doityourself
 ---

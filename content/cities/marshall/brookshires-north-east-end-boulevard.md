@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
-url: /marshall/brookshires/
+url: /marshall/brookshires-north-east-end-boulevard/
 shop: supermarket
 ---

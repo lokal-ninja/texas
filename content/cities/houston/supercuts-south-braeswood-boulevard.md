@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /houston/supercuts/
+url: /houston/supercuts-south-braeswood-boulevard/
 shop: hairdresser
 ---

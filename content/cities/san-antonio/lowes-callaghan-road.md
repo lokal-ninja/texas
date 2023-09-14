@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /san-antonio/lowes/
+url: /san-antonio/lowes-callaghan-road/
 shop: doityourself
 ---

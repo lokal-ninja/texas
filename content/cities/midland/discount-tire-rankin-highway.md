@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /midland/discount-tire/
+url: /midland/discount-tire-rankin-highway/
 shop: tyres
 ---

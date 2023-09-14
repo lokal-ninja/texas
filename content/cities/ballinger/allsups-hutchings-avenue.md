@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /ballinger/allsups/
+url: /ballinger/allsups-hutchings-avenue/
 shop: convenience
 ---

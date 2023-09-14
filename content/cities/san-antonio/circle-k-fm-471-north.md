@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /san-antonio/circle-k/
+url: /san-antonio/circle-k-fm-471-north/
 shop: convenience
 ---

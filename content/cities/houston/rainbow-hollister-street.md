@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /houston/rainbow/
+url: /houston/rainbow-hollister-street/
 shop: clothes
 ---

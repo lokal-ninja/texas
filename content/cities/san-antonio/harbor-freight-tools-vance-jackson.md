@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
-url: /san-antonio/harbor-freight-tools/
+url: /san-antonio/harbor-freight-tools-vance-jackson/
 shop: hardware
 ---

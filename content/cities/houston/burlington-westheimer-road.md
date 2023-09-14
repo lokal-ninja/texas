@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /houston/burlington/
+url: /houston/burlington-westheimer-road/
 shop: department store
 ---

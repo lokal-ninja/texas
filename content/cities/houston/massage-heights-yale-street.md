@@ -1,5 +1,5 @@
 ---
 title: "Massage Heights"
-url: /houston/massage-heights/
+url: /houston/massage-heights-yale-street/
 shop: massage
 ---

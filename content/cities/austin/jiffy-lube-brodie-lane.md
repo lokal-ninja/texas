@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /austin/jiffy-lube/
+url: /austin/jiffy-lube-brodie-lane/
 shop: car repair
 ---

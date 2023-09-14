@@ -1,5 +1,5 @@
 ---
 title: "Big's"
-url: /cotulla/bigs/
+url: /cotulla/bigs-fm-468/
 shop: convenience
 ---

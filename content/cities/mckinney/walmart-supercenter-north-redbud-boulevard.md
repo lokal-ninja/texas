@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /mckinney/walmart-supercenter/
+url: /mckinney/walmart-supercenter-north-redbud-boulevard/
 shop: supermarket
 ---

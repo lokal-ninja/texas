@@ -1,5 +1,5 @@
 ---
 title: "Fast Stop"
-url: /lubbock/fast-stop/
+url: /lubbock/fast-stop-clovis-road/
 shop: convenience
 ---

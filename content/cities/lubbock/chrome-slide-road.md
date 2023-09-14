@@ -1,5 +1,5 @@
 ---
 title: "Chrome"
-url: /lubbock/chrome/
+url: /lubbock/chrome-slide-road/
 shop: department store
 ---

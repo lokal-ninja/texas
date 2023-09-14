@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /lubbock/dollar-general/
+url: /lubbock/dollar-general-fm-1585/
 shop: variety store
 ---

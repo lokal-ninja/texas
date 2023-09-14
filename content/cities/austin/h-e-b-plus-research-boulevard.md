@@ -1,5 +1,5 @@
 ---
 title: "H-E-B Plus!"
-url: /austin/h-e-b-plus/
+url: /austin/h-e-b-plus-research-boulevard/
 shop: supermarket
 ---

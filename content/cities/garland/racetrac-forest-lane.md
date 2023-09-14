@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /garland/racetrac/
+url: /garland/racetrac-forest-lane/
 shop: convenience
 ---

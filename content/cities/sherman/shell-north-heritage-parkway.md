@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /sherman/shell/
+url: /sherman/shell-north-heritage-parkway/
 shop: convenience
 ---

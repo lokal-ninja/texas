@@ -1,5 +1,5 @@
 ---
 title: "King Fuels"
-url: /houston/king-fuels/
+url: /houston/king-fuels-old-spanish-trail/
 shop: convenience
 ---

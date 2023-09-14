@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /el-paso/dollar-general/
+url: /el-paso/dollar-general-sean-haggerty-drive/
 shop: variety store
 ---

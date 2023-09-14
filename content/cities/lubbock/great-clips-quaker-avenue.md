@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /lubbock/great-clips/
+url: /lubbock/great-clips-quaker-avenue/
 shop: hairdresser
 ---

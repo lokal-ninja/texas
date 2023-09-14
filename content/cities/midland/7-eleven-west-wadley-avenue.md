@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /midland/7-eleven/
+url: /midland/7-eleven-west-wadley-avenue/
 shop: convenience
 ---

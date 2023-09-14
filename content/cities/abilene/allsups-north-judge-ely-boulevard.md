@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /abilene/allsups/
+url: /abilene/allsups-north-judge-ely-boulevard/
 shop: convenience
 ---

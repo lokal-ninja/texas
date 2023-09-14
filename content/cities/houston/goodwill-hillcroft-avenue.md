@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /houston/goodwill/
+url: /houston/goodwill-hillcroft-avenue/
 shop: charity
 ---

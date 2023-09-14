@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /amarillo/atandt/
+url: /amarillo/atandt-south-coulter-street/
 shop: mobile phone
 ---

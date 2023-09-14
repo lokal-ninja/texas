@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /victoria/stripes/
+url: /victoria/stripes-north-navarro-street/
 shop: convenience
 ---

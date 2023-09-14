@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
-url: /bastrop/ezpawn/
+url: /bastrop/ezpawn-south-hasler-boulevard/
 shop: pawnbroker
 ---

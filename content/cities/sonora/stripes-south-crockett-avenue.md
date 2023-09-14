@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /sonora/stripes/
+url: /sonora/stripes-south-crockett-avenue/
 shop: convenience
 ---

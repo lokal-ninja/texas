@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /houston/sprint/
+url: /houston/sprint-southwest-freeway/
 shop: mobile phone
 ---

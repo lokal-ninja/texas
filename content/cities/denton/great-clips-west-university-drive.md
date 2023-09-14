@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /denton/great-clips/
+url: /denton/great-clips-west-university-drive/
 shop: hairdresser
 ---

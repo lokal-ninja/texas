@@ -1,5 +1,5 @@
 ---
 title: "Mickey's"
-url: /killeen/mickeys/
+url: /killeen/mickeys-east-stan-schlueter-loop/
 shop: convenience
 ---

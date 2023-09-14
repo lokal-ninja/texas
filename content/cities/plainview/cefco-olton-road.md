@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
-url: /plainview/cefco/
+url: /plainview/cefco-olton-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucky Stop"
-url: /sherman/lucky-stop/
+url: /sherman/lucky-stop-texoma-parkway/
 shop: convenience
 ---

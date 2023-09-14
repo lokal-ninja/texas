@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /austin/verizon/
+url: /austin/verizon-lakeline-mall-drive/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /frisco/racetrac/
+url: /frisco/racetrac-custer-road/
 shop: convenience
 ---

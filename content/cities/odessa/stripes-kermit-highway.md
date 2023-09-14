@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /odessa/stripes/
+url: /odessa/stripes-kermit-highway/
 shop: convenience
 ---

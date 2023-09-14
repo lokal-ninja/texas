@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /cypress/kroger/
+url: /cypress/kroger-spring-cypress-road/
 shop: supermarket
 ---

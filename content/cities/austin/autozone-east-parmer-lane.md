@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /austin/autozone/
+url: /austin/autozone-east-parmer-lane/
 shop: car parts
 ---

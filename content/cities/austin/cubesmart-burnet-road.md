@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /austin/cubesmart/
+url: /austin/cubesmart-burnet-road/
 shop: storage rental
 ---

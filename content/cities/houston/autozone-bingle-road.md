@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /houston/autozone/
+url: /houston/autozone-bingle-road/
 shop: car parts
 ---

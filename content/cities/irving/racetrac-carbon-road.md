@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /irving/racetrac/
+url: /irving/racetrac-carbon-road/
 shop: convenience
 ---

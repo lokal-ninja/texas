@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /beaumont/shell/
+url: /beaumont/shell-eastex-freeway/
 shop: convenience
 ---

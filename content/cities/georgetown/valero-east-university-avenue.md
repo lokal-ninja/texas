@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /georgetown/valero/
+url: /georgetown/valero-east-university-avenue/
 shop: convenience
 ---

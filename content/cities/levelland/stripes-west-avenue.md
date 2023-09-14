@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /levelland/stripes/
+url: /levelland/stripes-west-avenue/
 shop: convenience
 ---

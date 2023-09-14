@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
-url: /fort-worth/carmax/
+url: /fort-worth/carmax-river-ranch-boulevard/
 shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /houston/discount-tire/
+url: /houston/discount-tire-gulf-freeway/
 shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Randalls"
-url: /leander/randalls/
+url: /leander/randalls-crystal-falls-parkway/
 shop: convenience
 ---

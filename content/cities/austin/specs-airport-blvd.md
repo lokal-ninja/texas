@@ -1,5 +1,5 @@
 ---
 title: "Spec's"
-url: /austin/specs/
+url: /austin/specs-airport-blvd/
 shop: alcohol
 ---

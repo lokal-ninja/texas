@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /snyder/stripes/
+url: /snyder/stripes-college-avenue/
 shop: convenience
 ---

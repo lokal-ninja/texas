@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
-url: /dallas/texaco/
+url: /dallas/texaco-ferguson-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /san-angelo/stripes/
+url: /san-angelo/stripes-glenna-street/
 shop: convenience
 ---

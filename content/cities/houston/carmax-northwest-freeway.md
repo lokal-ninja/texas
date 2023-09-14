@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
-url: /houston/carmax/
+url: /houston/carmax-northwest-freeway/
 shop: car
 ---

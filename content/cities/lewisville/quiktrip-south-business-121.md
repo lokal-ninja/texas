@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /lewisville/quiktrip/
+url: /lewisville/quiktrip-south-business-121/
 shop: convenience
 ---

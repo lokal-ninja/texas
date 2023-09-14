@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /pampa/allsups/
+url: /pampa/allsups-north-hobart-street/
 shop: convenience
 ---

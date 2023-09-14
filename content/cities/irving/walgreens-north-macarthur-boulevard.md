@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /irving/walgreens/
+url: /irving/walgreens-north-macarthur-boulevard/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Market Street"
-url: /frisco/market-street/
+url: /frisco/market-street-dallas-parkway/
 shop: supermarket
 ---

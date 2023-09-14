@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /dallas/shell/
+url: /dallas/shell-south-walton-walker-boulevard/
 shop: convenience
 ---

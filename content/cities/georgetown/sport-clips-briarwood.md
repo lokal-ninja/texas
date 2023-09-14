@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
-url: /georgetown/sport-clips/
+url: /georgetown/sport-clips-briarwood/
 shop: hairdresser
 ---

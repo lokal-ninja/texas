@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /plano/quiktrip/
+url: /plano/quiktrip-coit-road/
 shop: convenience
 ---

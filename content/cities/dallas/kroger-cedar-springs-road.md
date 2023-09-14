@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /dallas/kroger/
+url: /dallas/kroger-cedar-springs-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /clarksville/shell/
+url: /clarksville/shell-north-cedar-street/
 shop: convenience
 ---

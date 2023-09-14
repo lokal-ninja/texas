@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
-url: /houston/metro-by-t-mobile/
+url: /houston/metro-by-t-mobile-south-post-oak-road/
 shop: mobile phone
 ---

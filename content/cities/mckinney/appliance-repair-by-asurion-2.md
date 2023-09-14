@@ -1,5 +1,5 @@
 ---
 title: "Appliance Repair by Asurion"
-url: /mckinney/appliance-repair-by-asurion/
+url: /mckinney/appliance-repair-by-asurion-2/
 shop: appliance
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /borger/allsups/
+url: /borger/allsups-west-wilson-street/
 shop: convenience
 ---

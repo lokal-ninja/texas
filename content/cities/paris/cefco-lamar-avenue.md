@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
-url: /paris/cefco/
+url: /paris/cefco-lamar-avenue/
 shop: convenience
 ---

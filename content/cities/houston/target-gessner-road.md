@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /houston/target/
+url: /houston/target-gessner-road/
 shop: department store
 ---

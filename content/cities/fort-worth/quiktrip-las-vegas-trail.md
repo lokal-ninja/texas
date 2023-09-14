@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /fort-worth/quiktrip/
+url: /fort-worth/quiktrip-las-vegas-trail/
 shop: convenience
 ---

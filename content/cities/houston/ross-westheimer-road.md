@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /houston/ross/
+url: /houston/ross-westheimer-road/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
-url: /houston/h-e-b/
+url: /houston/h-e-b-south-freeway/
 shop: supermarket
 ---

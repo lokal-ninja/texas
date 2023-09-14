@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
-url: /houston/shoe-carnival/
+url: /houston/shoe-carnival-northwest-freeway/
 shop: shoes
 ---

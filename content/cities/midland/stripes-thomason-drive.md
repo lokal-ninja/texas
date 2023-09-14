@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /midland/stripes/
+url: /midland/stripes-thomason-drive/
 shop: convenience
 ---

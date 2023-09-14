@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /denton/racetrac/
+url: /denton/racetrac-dallas-drive/
 shop: convenience
 ---

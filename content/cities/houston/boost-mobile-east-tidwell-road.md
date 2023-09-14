@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
-url: /houston/boost-mobile/
+url: /houston/boost-mobile-east-tidwell-road/
 shop: mobile phone
 ---

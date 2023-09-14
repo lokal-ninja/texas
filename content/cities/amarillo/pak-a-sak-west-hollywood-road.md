@@ -1,5 +1,5 @@
 ---
 title: "Pak-A-Sak"
-url: /amarillo/pak-a-sak/
+url: /amarillo/pak-a-sak-west-hollywood-road/
 shop: convenience
 ---

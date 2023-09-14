@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /el-paso/lowes/
+url: /el-paso/lowes-east-redd-road/
 shop: doityourself
 ---

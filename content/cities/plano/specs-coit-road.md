@@ -1,5 +1,5 @@
 ---
 title: "Spec's"
-url: /plano/specs/
+url: /plano/specs-coit-road/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
-url: /longview/cefco/
+url: /longview/cefco-south-eastman-road/
 shop: convenience
 ---

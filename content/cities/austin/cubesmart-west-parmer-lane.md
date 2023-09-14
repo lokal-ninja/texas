@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
-url: /austin/cubesmart/
+url: /austin/cubesmart-west-parmer-lane/
 shop: storage rental
 ---

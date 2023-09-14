@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /plano/walgreens/
+url: /plano/walgreens-legacy-drive/
 shop: chemist
 ---

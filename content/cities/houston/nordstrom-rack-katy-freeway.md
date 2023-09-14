@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom Rack"
-url: /houston/nordstrom-rack/
+url: /houston/nordstrom-rack-katy-freeway/
 shop: clothes
 ---

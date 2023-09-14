@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /fort-worth/aldi/
+url: /fort-worth/aldi-eastchase-parkway/
 shop: supermarket
 ---

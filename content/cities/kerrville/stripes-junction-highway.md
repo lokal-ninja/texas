@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /kerrville/stripes/
+url: /kerrville/stripes-junction-highway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /dallas/discount-tire/
+url: /dallas/discount-tire-north-hampton-road/
 shop: tyres
 ---

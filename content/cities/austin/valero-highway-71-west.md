@@ -1,5 +1,5 @@
 ---
 title: "Valero"
-url: /austin/valero/
+url: /austin/valero-highway-71-west/
 shop: convenience
 ---

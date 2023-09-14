@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /denton/dollar-tree/
+url: /denton/dollar-tree-colorado-boulevard/
 shop: variety store
 ---

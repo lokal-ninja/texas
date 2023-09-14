@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /stephenville/allsups/
+url: /stephenville/allsups-east-washington-street/
 shop: convenience
 ---

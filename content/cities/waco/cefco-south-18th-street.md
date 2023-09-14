@@ -1,5 +1,5 @@
 ---
 title: "Cefco"
-url: /waco/cefco/
+url: /waco/cefco-south-18th-street/
 shop: convenience
 ---

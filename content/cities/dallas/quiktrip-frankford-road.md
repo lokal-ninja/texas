@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /dallas/quiktrip/
+url: /dallas/quiktrip-frankford-road/
 shop: convenience
 ---

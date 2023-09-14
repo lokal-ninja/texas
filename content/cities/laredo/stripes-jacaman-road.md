@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /laredo/stripes/
+url: /laredo/stripes-jacaman-road/
 shop: convenience
 ---

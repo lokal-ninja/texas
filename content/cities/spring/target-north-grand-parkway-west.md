@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /spring/target/
+url: /spring/target-north-grand-parkway-west/
 shop: department store
 ---

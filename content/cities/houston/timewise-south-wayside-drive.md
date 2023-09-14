@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
-url: /houston/timewise/
+url: /houston/timewise-south-wayside-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /austin/autozone/
+url: /austin/autozone-research-boulevard/
 shop: car parts
 ---

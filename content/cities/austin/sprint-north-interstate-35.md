@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /austin/sprint/
+url: /austin/sprint-north-interstate-35/
 shop: mobile phone
 ---

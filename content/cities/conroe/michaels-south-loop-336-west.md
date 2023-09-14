@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /conroe/michaels/
+url: /conroe/michaels-south-loop-336-west/
 shop: craft
 ---

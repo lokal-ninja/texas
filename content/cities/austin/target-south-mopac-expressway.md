@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /austin/target/
+url: /austin/target-south-mopac-expressway/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda"
-url: /rockwall/honda/
+url: /rockwall/honda-east-interstate-30/
 shop: motorcycle
 ---

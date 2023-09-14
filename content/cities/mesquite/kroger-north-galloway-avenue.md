@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /mesquite/kroger/
+url: /mesquite/kroger-north-galloway-avenue/
 shop: supermarket
 ---

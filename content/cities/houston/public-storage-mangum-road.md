@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
-url: /houston/public-storage/
+url: /houston/public-storage-mangum-road/
 shop: storage rental
 ---

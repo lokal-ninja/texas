@@ -1,5 +1,5 @@
 ---
 title: "Sunny's"
-url: /houston/sunnys/
+url: /houston/sunnys-bauman-road/
 shop: convenience
 ---

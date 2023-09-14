@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /mckinney/target/
+url: /mckinney/target-north-central-expressway/
 shop: supermarket
 ---

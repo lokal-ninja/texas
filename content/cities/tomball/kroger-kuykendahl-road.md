@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /tomball/kroger/
+url: /tomball/kroger-kuykendahl-road/
 shop: supermarket
 ---

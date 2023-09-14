@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /mesquite/albertsons/
+url: /mesquite/albertsons-south-belt-line-road/
 shop: supermarket
 ---

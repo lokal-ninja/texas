@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /denton/firestone/
+url: /denton/firestone-brinker-road/
 shop: car repair
 ---

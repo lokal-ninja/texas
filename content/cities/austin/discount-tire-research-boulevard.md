@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /austin/discount-tire/
+url: /austin/discount-tire-research-boulevard/
 shop: tyres
 ---

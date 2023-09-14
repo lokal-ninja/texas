@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /prosper/cvs-pharmacy/
+url: /prosper/cvs-pharmacy-east-university-drive/
 shop: chemist
 ---

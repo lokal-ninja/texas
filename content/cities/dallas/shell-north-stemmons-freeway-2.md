@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /dallas/shell/
+url: /dallas/shell-north-stemmons-freeway-2/
 shop: convenience
 ---

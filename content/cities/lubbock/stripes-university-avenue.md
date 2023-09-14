@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /lubbock/stripes/
+url: /lubbock/stripes-university-avenue/
 shop: convenience
 ---

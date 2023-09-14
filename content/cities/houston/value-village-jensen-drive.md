@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
-url: /houston/value-village/
+url: /houston/value-village-jensen-drive/
 shop: charity
 ---

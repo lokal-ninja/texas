@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /houston/kroger/
+url: /houston/kroger-briar-forest-drive/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /arlington/walmart-supercenter/
+url: /arlington/walmart-supercenter-east-randol-mill-road/
 shop: supermarket
 ---

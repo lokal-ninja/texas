@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /houston/dollar-tree/
+url: /houston/dollar-tree-hollister-street/
 shop: variety store
 ---

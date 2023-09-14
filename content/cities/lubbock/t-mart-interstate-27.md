@@ -1,5 +1,5 @@
 ---
 title: "T-Mart"
-url: /lubbock/t-mart/
+url: /lubbock/t-mart-interstate-27/
 shop: beauty
 ---

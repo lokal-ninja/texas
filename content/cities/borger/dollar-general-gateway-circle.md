@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /borger/dollar-general/
+url: /borger/dollar-general-gateway-circle/
 shop: variety store
 ---

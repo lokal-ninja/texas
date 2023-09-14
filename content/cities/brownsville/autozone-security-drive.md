@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /brownsville/autozone/
+url: /brownsville/autozone-security-drive/
 shop: car parts
 ---

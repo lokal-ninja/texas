@@ -1,5 +1,5 @@
 ---
 title: "Edible Arrangements"
-url: /houston/edible-arrangements/
+url: /houston/edible-arrangements-durham-drive/
 shop: gift
 ---

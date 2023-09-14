@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /beaumont/verizon/
+url: /beaumont/verizon-dowlen-road/
 shop: mobile phone
 ---

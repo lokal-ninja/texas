@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /victoria/stripes/
+url: /victoria/stripes-northeast-zac-lentz-parkway/
 shop: convenience
 ---

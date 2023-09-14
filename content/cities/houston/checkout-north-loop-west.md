@@ -1,5 +1,5 @@
 ---
 title: "Checkout"
-url: /houston/checkout/
+url: /houston/checkout-north-loop-west/
 shop: convenience
 ---

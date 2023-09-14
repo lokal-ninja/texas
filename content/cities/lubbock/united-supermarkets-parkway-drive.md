@@ -1,5 +1,5 @@
 ---
 title: "United Supermarkets"
-url: /lubbock/united-supermarkets/
+url: /lubbock/united-supermarkets-parkway-drive/
 shop: supermarket
 ---

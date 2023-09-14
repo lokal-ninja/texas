@@ -1,5 +1,5 @@
 ---
 title: "Love's"
-url: /amarillo/loves/
+url: /amarillo/loves-2/
 shop: convenience
 ---

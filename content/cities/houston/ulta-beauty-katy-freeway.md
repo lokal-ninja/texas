@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
-url: /houston/ulta-beauty/
+url: /houston/ulta-beauty-katy-freeway/
 shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mega Furniture"
-url: /austin/mega-furniture/
+url: /austin/mega-furniture-north-mopac-expressway/
 shop: furniture
 ---

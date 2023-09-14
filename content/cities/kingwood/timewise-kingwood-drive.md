@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
-url: /kingwood/timewise/
+url: /kingwood/timewise-kingwood-drive/
 shop: convenience
 ---

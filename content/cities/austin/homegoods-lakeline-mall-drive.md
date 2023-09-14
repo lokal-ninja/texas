@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
-url: /austin/homegoods/
+url: /austin/homegoods-lakeline-mall-drive/
 shop: houseware
 ---

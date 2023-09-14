@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
-url: /houston/office-depot/
+url: /houston/office-depot-west-gray-street/
 shop: office supplies
 ---

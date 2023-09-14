@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /texarkana/atandt/
+url: /texarkana/atandt-summerhill-road/
 shop: mobile phone
 ---

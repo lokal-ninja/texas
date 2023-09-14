@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /garland/autozone/
+url: /garland/autozone-broadway-boulevard/
 shop: car parts
 ---

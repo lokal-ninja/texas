@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
-url: /houston/sally-beauty/
+url: /houston/sally-beauty-gessner-road/
 shop: hairdresser supply
 ---

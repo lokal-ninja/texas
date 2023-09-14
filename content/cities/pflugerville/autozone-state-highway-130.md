@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /pflugerville/autozone/
+url: /pflugerville/autozone-state-highway-130/
 shop: car parts
 ---

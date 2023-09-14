@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /lubbock/petsmart/
+url: /lubbock/petsmart-slide-road/
 shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /midland/stripes/
+url: /midland/stripes-rankin-highway/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /falfurrias/stripes/
+url: /falfurrias/stripes-east-rice-street/
 shop: convenience
 ---

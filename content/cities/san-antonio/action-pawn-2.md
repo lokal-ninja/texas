@@ -1,5 +1,5 @@
 ---
 title: "Action Pawn"
-url: /san-antonio/action-pawn/
+url: /san-antonio/action-pawn-2/
 shop: pawnbroker
 ---

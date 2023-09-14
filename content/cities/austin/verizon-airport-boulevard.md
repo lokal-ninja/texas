@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /austin/verizon/
+url: /austin/verizon-airport-boulevard/
 shop: mobile phone
 ---

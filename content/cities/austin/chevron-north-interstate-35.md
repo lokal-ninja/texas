@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /austin/chevron/
+url: /austin/chevron-north-interstate-35/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /spring/kroger/
+url: /spring/kroger-kuykendahl-road/
 shop: supermarket
 ---

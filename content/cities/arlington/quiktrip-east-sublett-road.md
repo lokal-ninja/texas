@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /arlington/quiktrip/
+url: /arlington/quiktrip-east-sublett-road/
 shop: convenience
 ---

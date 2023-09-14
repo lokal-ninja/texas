@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /lewisville/aldi/
+url: /lewisville/aldi-north-josey-lane/
 shop: supermarket
 ---

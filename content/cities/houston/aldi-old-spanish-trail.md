@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /houston/aldi/
+url: /houston/aldi-old-spanish-trail/
 shop: supermarket
 ---

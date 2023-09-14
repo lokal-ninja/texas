@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /corpus-christi/stripes/
+url: /corpus-christi/stripes-south-staples-street/
 shop: convenience
 ---

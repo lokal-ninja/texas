@@ -1,5 +1,5 @@
 ---
 title: "REI"
-url: /austin/rei/
+url: /austin/rei-n-capital-of-texas-highway/
 shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /lubbock/ross/
+url: /lubbock/ross-slide-road/
 shop: department store
 ---

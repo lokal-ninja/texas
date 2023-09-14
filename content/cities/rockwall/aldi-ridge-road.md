@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /rockwall/aldi/
+url: /rockwall/aldi-ridge-road/
 shop: supermarket
 ---

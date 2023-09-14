@@ -1,5 +1,5 @@
 ---
 title: "Thom's Market"
-url: /austin/thoms-market/
+url: /austin/thoms-market-spyglass-drive/
 shop: convenience
 ---

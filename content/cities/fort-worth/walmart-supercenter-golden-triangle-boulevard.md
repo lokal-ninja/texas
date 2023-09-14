@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /fort-worth/walmart-supercenter/
+url: /fort-worth/walmart-supercenter-golden-triangle-boulevard/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
-url: /austin/spectrum/
+url: /austin/spectrum-east-5th-street/
 shop: mobile phone
 ---

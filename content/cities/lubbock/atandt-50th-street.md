@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /lubbock/atandt/
+url: /lubbock/atandt-50th-street/
 shop: mobile phone
 ---

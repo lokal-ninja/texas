@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /denton/quiktrip/
+url: /denton/quiktrip-east-university-drive/
 shop: convenience
 ---

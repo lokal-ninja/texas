@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /corpus-christi/walmart-supercenter/
+url: /corpus-christi/walmart-supercenter-interstate-69e-frontage-road/
 shop: supermarket
 ---

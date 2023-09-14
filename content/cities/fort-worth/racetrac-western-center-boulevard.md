@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /fort-worth/racetrac/
+url: /fort-worth/racetrac-western-center-boulevard/
 shop: convenience
 ---

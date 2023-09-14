@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /fort-worth/albertsons/
+url: /fort-worth/albertsons-oakmont-boulevard/
 shop: supermarket
 ---

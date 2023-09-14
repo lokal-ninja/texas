@@ -1,5 +1,5 @@
 ---
 title: "Kendra Scott"
-url: /austin/kendra-scott/
+url: /austin/kendra-scott-south-congress-avenue/
 shop: jewelry
 ---

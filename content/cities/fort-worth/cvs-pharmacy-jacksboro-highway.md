@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /fort-worth/cvs-pharmacy/
+url: /fort-worth/cvs-pharmacy-jacksboro-highway/
 shop: chemist
 ---

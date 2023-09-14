@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /fort-worth/t-mobile/
+url: /fort-worth/t-mobile-sycamore-school-road/
 shop: mobile phone
 ---

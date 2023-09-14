@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /houston/aldi/
+url: /houston/aldi-almeda-genoa-road/
 shop: supermarket
 ---

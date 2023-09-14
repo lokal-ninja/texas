@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /houston/goodwill/
+url: /houston/goodwill-fm-529/
 shop: charity
 ---

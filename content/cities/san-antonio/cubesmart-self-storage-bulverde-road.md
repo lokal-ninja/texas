@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart Self Storage"
-url: /san-antonio/cubesmart-self-storage/
+url: /san-antonio/cubesmart-self-storage-bulverde-road/
 shop: storage rental
 ---

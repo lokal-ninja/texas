@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
-url: /san-marcos/h-e-b/
+url: /san-marcos/h-e-b-east-hopkins-street/
 shop: supermarket
 ---

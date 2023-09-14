@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
-url: /katy/timewise/
+url: /katy/timewise-cinco-ranch-boulevard/
 shop: convenience
 ---

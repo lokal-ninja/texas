@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /houston/one-stop/
+url: /houston/one-stop-gears-road/
 shop: convenience
 ---

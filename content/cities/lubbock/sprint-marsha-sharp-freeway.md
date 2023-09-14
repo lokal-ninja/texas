@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
-url: /lubbock/sprint/
+url: /lubbock/sprint-marsha-sharp-freeway/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
-url: /hamilton/cefco/
+url: /hamilton/cefco-north-rice-street/
 shop: convenience
 ---

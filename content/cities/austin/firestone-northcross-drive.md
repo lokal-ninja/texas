@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /austin/firestone/
+url: /austin/firestone-northcross-drive/
 shop: car repair
 ---

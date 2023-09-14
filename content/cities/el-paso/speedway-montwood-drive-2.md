@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /el-paso/speedway/
+url: /el-paso/speedway-montwood-drive-2/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
-url: /ranger/yesway/
+url: /ranger/yesway-loop-254-west/
 shop: convenience
 ---

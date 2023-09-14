@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /plano/discount-tire/
+url: /plano/discount-tire-ohio-drive/
 shop: tyres
 ---

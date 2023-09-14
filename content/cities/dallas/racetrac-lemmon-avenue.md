@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /dallas/racetrac/
+url: /dallas/racetrac-lemmon-avenue/
 shop: convenience
 ---

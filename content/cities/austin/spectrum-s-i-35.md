@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
-url: /austin/spectrum/
+url: /austin/spectrum-s-i-35/
 shop: mobile phone
 ---

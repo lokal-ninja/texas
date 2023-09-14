@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /seguin/circle-k/
+url: /seguin/circle-k-west-interstate-10/
 shop: convenience
 ---

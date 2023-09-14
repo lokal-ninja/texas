@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /spring/kroger/
+url: /spring/kroger-fm-2920/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
-url: /austin/sally-beauty/
+url: /austin/sally-beauty-south-pleasant-valley-road/
 shop: hairdresser supply
 ---

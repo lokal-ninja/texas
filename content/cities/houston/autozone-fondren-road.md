@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /houston/autozone/
+url: /houston/autozone-fondren-road/
 shop: car parts
 ---

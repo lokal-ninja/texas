@@ -1,5 +1,5 @@
 ---
 title: "Costco"
-url: /dallas/costco/
+url: /dallas/costco-churchill-way/
 shop: wholesale
 ---

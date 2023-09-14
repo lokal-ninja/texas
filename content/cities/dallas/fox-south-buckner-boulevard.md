@@ -1,5 +1,5 @@
 ---
 title: "Fox"
-url: /dallas/fox/
+url: /dallas/fox-south-buckner-boulevard/
 shop: convenience
 ---

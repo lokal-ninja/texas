@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /abilene/stripes/
+url: /abilene/stripes-dub-wright-boulevard/
 shop: convenience
 ---

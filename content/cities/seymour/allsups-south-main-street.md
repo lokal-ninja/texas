@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /seymour/allsups/
+url: /seymour/allsups-south-main-street/
 shop: convenience
 ---

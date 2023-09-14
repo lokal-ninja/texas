@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /dallas/chevron/
+url: /dallas/chevron-clark-road/
 shop: convenience
 ---

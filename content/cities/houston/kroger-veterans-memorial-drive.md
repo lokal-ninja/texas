@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /houston/kroger/
+url: /houston/kroger-veterans-memorial-drive/
 shop: supermarket
 ---

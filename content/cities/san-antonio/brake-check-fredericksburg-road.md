@@ -1,5 +1,5 @@
 ---
 title: "Brake Check"
-url: /san-antonio/brake-check/
+url: /san-antonio/brake-check-fredericksburg-road/
 shop: car repair
 ---

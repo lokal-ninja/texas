@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
-url: /amarillo/braums/
+url: /amarillo/braums-east-amarillo-boulevard/
 shop: dairy
 ---

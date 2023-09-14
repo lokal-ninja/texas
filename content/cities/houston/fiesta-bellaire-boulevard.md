@@ -1,5 +1,5 @@
 ---
 title: "Fiesta"
-url: /houston/fiesta/
+url: /houston/fiesta-bellaire-boulevard/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /leander/circle-k/
+url: /leander/circle-k-west-hero-way/
 shop: convenience
 ---

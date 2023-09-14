@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /mckinney/cvs-pharmacy/
+url: /mckinney/cvs-pharmacy-eldorado-parkway/
 shop: chemist
 ---

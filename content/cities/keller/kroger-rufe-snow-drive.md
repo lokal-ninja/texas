@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /keller/kroger/
+url: /keller/kroger-rufe-snow-drive/
 shop: supermarket
 ---

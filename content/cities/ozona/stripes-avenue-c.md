@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /ozona/stripes/
+url: /ozona/stripes-avenue-c/
 shop: convenience
 ---

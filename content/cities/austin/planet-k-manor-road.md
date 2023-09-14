@@ -1,5 +1,5 @@
 ---
 title: "Planet K"
-url: /austin/planet-k/
+url: /austin/planet-k-manor-road/
 shop: gift
 ---

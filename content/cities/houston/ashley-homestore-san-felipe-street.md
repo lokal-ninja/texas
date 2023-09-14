@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
-url: /houston/ashley-homestore/
+url: /houston/ashley-homestore-san-felipe-street/
 shop: furniture
 ---

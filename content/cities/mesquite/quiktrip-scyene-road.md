@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /mesquite/quiktrip/
+url: /mesquite/quiktrip-scyene-road/
 shop: convenience
 ---

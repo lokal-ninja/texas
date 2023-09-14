@@ -1,5 +1,5 @@
 ---
 title: "Swift"
-url: /houston/swift/
+url: /houston/swift-victory-drive/
 shop: convenience
 ---

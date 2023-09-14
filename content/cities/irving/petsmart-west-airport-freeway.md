@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /irving/petsmart/
+url: /irving/petsmart-west-airport-freeway/
 shop: pet
 ---

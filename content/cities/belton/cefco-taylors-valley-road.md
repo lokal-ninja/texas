@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
-url: /belton/cefco/
+url: /belton/cefco-taylors-valley-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /houston/shell/
+url: /houston/shell-northwest-freeway/
 shop: convenience
 ---

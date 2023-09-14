@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
-url: /temple/cefco/
+url: /temple/cefco-northwest-h-k-dodgen-loop/
 shop: convenience
 ---

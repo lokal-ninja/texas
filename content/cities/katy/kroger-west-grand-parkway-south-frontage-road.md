@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /katy/kroger/
+url: /katy/kroger-west-grand-parkway-south-frontage-road/
 shop: supermarket
 ---

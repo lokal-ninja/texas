@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /plano/kroger/
-shop: convenience
+url: /plano/kroger-coit-rd/
+shop: supermarket
 ---

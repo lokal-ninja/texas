@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
-url: /texarkana/cash-store/
+url: /texarkana/cash-store-richmond-road/
 shop: pawnbroker
 ---

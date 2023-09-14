@@ -1,5 +1,5 @@
 ---
 title: "Fox"
-url: /dallas/fox/
+url: /dallas/fox-marvin-d-love-freeway/
 shop: convenience
 ---

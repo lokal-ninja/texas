@@ -1,5 +1,5 @@
 ---
 title: "DSW"
-url: /houston/dsw/
+url: /houston/dsw-westheimer-road/
 shop: shoes
 ---

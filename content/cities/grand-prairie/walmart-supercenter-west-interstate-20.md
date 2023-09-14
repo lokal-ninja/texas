@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /grand-prairie/walmart-supercenter/
+url: /grand-prairie/walmart-supercenter-west-interstate-20/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /austin/chevron/
+url: /austin/chevron-south-congress-avenue/
 shop: convenience
 ---

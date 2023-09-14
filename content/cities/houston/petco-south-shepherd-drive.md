@@ -1,5 +1,5 @@
 ---
 title: "Petco"
-url: /houston/petco/
+url: /houston/petco-south-shepherd-drive/
 shop: pet
 ---

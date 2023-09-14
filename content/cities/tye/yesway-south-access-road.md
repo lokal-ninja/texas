@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
-url: /tye/yesway/
+url: /tye/yesway-south-access-road/
 shop: convenience
 ---

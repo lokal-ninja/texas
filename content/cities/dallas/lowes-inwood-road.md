@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /dallas/lowes/
+url: /dallas/lowes-inwood-road/
 shop: doityourself
 ---

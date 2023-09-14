@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
-url: /san-antonio/caliber-collision/
+url: /san-antonio/caliber-collision-west-loop-1604-north/
 shop: car repair
 ---

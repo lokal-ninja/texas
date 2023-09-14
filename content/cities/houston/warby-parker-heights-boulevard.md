@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
-url: /houston/warby-parker/
+url: /houston/warby-parker-heights-boulevard/
 shop: optician
 ---

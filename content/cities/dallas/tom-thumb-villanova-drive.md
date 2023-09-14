@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb"
-url: /dallas/tom-thumb/
+url: /dallas/tom-thumb-villanova-drive/
 shop: supermarket
 ---

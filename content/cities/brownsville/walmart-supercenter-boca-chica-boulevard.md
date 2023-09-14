@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /brownsville/walmart-supercenter/
+url: /brownsville/walmart-supercenter-boca-chica-boulevard/
 shop: supermarket
 ---

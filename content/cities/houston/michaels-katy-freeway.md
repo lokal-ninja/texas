@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
-url: /houston/michaels/
+url: /houston/michaels-katy-freeway/
 shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /houston/discount-tire/
+url: /houston/discount-tire-cypress-creek-parkway-2/
 shop: tyres
 ---

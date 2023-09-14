@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /cypress/kroger/
+url: /cypress/kroger-fm-529/
 shop: supermarket
 ---

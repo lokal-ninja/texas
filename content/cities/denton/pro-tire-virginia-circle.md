@@ -1,5 +1,5 @@
 ---
 title: "Pro Tire"
-url: /denton/pro-tire/
+url: /denton/pro-tire-virginia-circle/
 shop: tyres
 ---

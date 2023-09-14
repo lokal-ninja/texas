@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
-url: /san-antonio/h-e-b/
+url: /san-antonio/h-e-b-bandera-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /bryan/dollar-general/
+url: /bryan/dollar-general-west-villa-maria-road/
 shop: variety store
 ---

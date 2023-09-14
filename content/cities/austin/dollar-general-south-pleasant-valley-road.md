@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /austin/dollar-general/
+url: /austin/dollar-general-south-pleasant-valley-road/
 shop: variety store
 ---

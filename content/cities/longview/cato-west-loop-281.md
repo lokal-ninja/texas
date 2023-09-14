@@ -1,5 +1,5 @@
 ---
 title: "Cato"
-url: /longview/cato/
+url: /longview/cato-west-loop-281/
 shop: clothes
 ---

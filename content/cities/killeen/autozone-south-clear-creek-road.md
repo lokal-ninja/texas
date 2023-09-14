@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /killeen/autozone/
+url: /killeen/autozone-south-clear-creek-road/
 shop: car parts
 ---

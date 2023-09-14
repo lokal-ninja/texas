@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
-url: /tyler/discount-tire/
+url: /tyler/discount-tire-south-broadway-avenue/
 shop: tyres
 ---

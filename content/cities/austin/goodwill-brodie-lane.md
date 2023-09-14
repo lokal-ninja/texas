@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /austin/goodwill/
+url: /austin/goodwill-brodie-lane/
 shop: charity
 ---

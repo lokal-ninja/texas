@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /mcallen/stripes/
+url: /mcallen/stripes-north-ware-road/
 shop: convenience
 ---

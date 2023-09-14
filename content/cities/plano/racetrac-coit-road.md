@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
-url: /plano/racetrac/
+url: /plano/racetrac-coit-road/
 shop: convenience
 ---

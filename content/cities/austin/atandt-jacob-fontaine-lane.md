@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /austin/atandt/
+url: /austin/atandt-jacob-fontaine-lane/
 shop: mobile phone
 ---

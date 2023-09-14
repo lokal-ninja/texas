@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
-url: /rockwall/kroger/
+url: /rockwall/kroger-north-goliad-street/
 shop: supermarket
 ---

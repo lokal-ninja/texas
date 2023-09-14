@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
-url: /mission/h-e-b/
+url: /mission/h-e-b-east-griffin-parkway/
 shop: supermarket
 ---

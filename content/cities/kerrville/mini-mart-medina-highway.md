@@ -1,5 +1,5 @@
 ---
 title: "Mini Mart"
-url: /kerrville/mini-mart/
+url: /kerrville/mini-mart-medina-highway/
 shop: convenience
 ---

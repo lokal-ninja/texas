@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /mission/stripes/
+url: /mission/stripes-east-business-83/
 shop: convenience
 ---

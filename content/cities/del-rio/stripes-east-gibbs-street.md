@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /del-rio/stripes/
+url: /del-rio/stripes-east-gibbs-street/
 shop: convenience
 ---

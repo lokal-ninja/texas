@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /levelland/stripes/
+url: /levelland/stripes-clubview-drive/
 shop: convenience
 ---

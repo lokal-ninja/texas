@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /waco/stripes/
+url: /waco/stripes-robinson-drive/
 shop: convenience
 ---

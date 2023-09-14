@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /houston/gnc/
+url: /houston/gnc-eldridge-parkway/
 shop: nutrition supplements
 ---

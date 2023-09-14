@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /abilene/dollar-general/
+url: /abilene/dollar-general-lytle-way/
 shop: variety store
 ---

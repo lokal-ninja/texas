@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
-url: /mesquite/cvs-pharmacy/
+url: /mesquite/cvs-pharmacy-north-galloway-avenue/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /austin/atandt/
+url: /austin/atandt-burnet-road/
 shop: mobile phone
 ---

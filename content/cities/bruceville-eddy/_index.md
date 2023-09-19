@@ -1,6 +1,6 @@
 ---
 title: Bruceville-Eddy
 url: /bruceville-eddy/
-latitude: 31.321
-longitude: -97.237
+latitude: 31.326
+longitude: -97.231
 ---

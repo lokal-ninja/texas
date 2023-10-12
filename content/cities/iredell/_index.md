@@ -1,6 +1,6 @@
 ---
 title: Iredell
 url: /iredell/
-latitude: 31.981
-longitude: -97.87
+latitude: 31.982
+longitude: -97.871
 ---

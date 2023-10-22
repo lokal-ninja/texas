@@ -1,6 +1,6 @@
 ---
 title: Killeen
 url: /killeen/
-latitude: 31.104
-longitude: -97.75
+latitude: 31.126
+longitude: -97.724
 ---

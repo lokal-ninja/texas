@@ -1,6 +1,6 @@
 ---
 title: Clint
 url: /clint/
-latitude: 31.586
-longitude: -106.232
+latitude: 31.591
+longitude: -106.237
 ---

@@ -7,5 +7,5 @@ city: Austin
 street: "Metric Boulevard"
 housenumber: 11900
 phone: "+1-512-973-5344"
-opening_hours: "Mo-Tu 06:00-24:00; We-Sun 06:00-05:59"
+opening_hours: "Mo-Tu 06:00-24:00; We-Su 06:00-05:59"
 website: ""

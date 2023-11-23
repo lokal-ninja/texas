@@ -1,6 +1,6 @@
 ---
 title: Morton
 url: /morton/
-latitude: 33.72
-longitude: -102.76
+latitude: 33.725
+longitude: -102.757
 ---

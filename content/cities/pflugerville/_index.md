@@ -1,6 +1,6 @@
 ---
 title: Pflugerville
 url: /pflugerville/
-latitude: 30.449
-longitude: -97.605
+latitude: 30.483
+longitude: -97.618
 ---

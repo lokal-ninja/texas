@@ -1,6 +1,6 @@
 ---
 title: Comanche
 url: /comanche/
-latitude: 31.899
+latitude: 31.898
 longitude: -98.605
 ---

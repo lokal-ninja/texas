@@ -1,6 +1,6 @@
 ---
 title: Terrell
 url: /terrell/
-latitude: 32.702
-longitude: -96.283
+latitude: 32.703
+longitude: -96.285
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fate
 url: /fate/
-latitude: 32.931
-longitude: -96.38
+latitude: 32.93
+longitude: -96.382
 ---

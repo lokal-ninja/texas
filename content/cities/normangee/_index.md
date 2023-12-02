@@ -1,6 +1,6 @@
 ---
 title: Normangee
 url: /normangee/
-latitude: 31.093
-longitude: -95.964
+latitude: 31.03
+longitude: -96.117
 ---

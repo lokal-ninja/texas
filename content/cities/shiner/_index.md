@@ -1,6 +1,6 @@
 ---
 title: Shiner
 url: /shiner/
-latitude: 29.431
-longitude: -97.172
+latitude: 29.438
+longitude: -97.179
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Once Upon A Child"
+title: "Once Upon a Child"
 url: /austin/once-upon-a-child/
 shop: clothes
 ---

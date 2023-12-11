@@ -1,6 +1,6 @@
 ---
 title: Cedar Park
 url: /cedar-park/
-latitude: 30.515
-longitude: -97.851
+latitude: 30.526
+longitude: -97.816
 ---

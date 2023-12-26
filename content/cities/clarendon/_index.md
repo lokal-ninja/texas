@@ -1,6 +1,6 @@
 ---
 title: Clarendon
 url: /clarendon/
-latitude: 34.939
-longitude: -100.89
+latitude: 34.942
+longitude: -100.896
 ---

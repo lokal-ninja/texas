@@ -1,6 +1,6 @@
 ---
 title: Castroville
 url: /castroville/
-latitude: 29.355
-longitude: -98.841
+latitude: 29.358
+longitude: -98.859
 ---

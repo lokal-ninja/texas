@@ -1,6 +1,6 @@
 ---
 title: Liberty Hill
 url: /liberty-hill/
-latitude: 30.665
-longitude: -97.924
+latitude: 30.663
+longitude: -97.896
 ---

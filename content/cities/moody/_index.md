@@ -1,6 +1,6 @@
 ---
 title: Moody
 url: /moody/
-latitude: 31.297
-longitude: -97.365
+latitude: 31.307
+longitude: -97.352
 ---

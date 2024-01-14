@@ -7,5 +7,5 @@ city: Houston
 street: "Northwest Freeway"
 housenumber: 13260
 phone: ""
-opening_hours: "Mo,We-Fr 09:00-17:30; Tu 09:00-19:00"
+opening_hours: "Mo,We,Fr 08:30-17:30; Tu,Th 09:00-17:30; Sa-Su off"
 website: ""

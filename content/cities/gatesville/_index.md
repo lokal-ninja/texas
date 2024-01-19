@@ -1,6 +1,6 @@
 ---
 title: Gatesville
 url: /gatesville/
-latitude: 31.427
+latitude: 31.435
 longitude: -97.713
 ---

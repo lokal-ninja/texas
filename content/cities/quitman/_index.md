@@ -1,6 +1,6 @@
 ---
 title: Quitman
 url: /quitman/
-latitude: 32.795
-longitude: -95.452
+latitude: 32.789
+longitude: -95.458
 ---

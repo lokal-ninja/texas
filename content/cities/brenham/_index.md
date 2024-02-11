@@ -1,6 +1,6 @@
 ---
 title: Brenham
 url: /brenham/
-latitude: 30.14
-longitude: -96.397
+latitude: 30.17
+longitude: -96.439
 ---

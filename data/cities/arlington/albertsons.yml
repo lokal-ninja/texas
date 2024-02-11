@@ -1,11 +1,11 @@
-id: 672173828
-type: way
-latitude: 32.6497
-longitude: -97.13682
-postcode: "76017"
+id: 9525926812
+type: node
+latitude: 32.64408
+longitude: -97.18655
+postcode: "76001"
 city: Arlington
-street: "South Cooper Street"
-housenumber: 5950
-phone: ""
-opening_hours: ""
-website: "https://local.albertsons.com/tx/arlington/5950-s-cooper-st.html"
+street: "US Highway 287"
+housenumber: 6220
+phone: "+1 817-478-8901"
+opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
+website: "https://local.albertsons.com/tx/arlington/6220-us-hwy-287.html"

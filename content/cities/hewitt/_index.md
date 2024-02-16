@@ -1,6 +1,6 @@
 ---
 title: Hewitt
 url: /hewitt/
-latitude: 31.462
-longitude: -97.174
+latitude: 31.465
+longitude: -97.199
 ---

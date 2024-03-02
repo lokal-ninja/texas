@@ -1,6 +1,6 @@
 ---
 title: Burkburnett
 url: /burkburnett/
-latitude: 34.093
-longitude: -98.56
+latitude: 34.078
+longitude: -98.557
 ---

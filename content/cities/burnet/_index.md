@@ -1,6 +1,6 @@
 ---
 title: Burnet
 url: /burnet/
-latitude: 30.759
-longitude: -98.217
+latitude: 30.763
+longitude: -98.23
 ---

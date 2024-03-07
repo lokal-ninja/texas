@@ -1,6 +1,6 @@
 ---
 title: McAllen
 url: /mcallen/
-latitude: 26.269
-longitude: -98.216
+latitude: 26.193
+longitude: -98.206
 ---

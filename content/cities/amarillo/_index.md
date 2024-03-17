@@ -1,6 +1,6 @@
 ---
 title: Amarillo
 url: /amarillo/
-latitude: 35.193
-longitude: -101.869
+latitude: 35.164
+longitude: -101.886
 ---

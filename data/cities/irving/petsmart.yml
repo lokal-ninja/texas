@@ -1,11 +1,11 @@
-id: 9357052004
-type: node
-latitude: 32.91999
-longitude: -96.96474
+id: 118267327
+type: way
+latitude: 32.92033
+longitude: -96.96469
 postcode: "75063"
 city: Irving
-street: "Market Place Boulevard"
-housenumber: 8150
+street: "Walton Boulevard;Market Place Boulevard"
+housenumber: 8100;8150
 phone: ""
 opening_hours: ""
 website: ""

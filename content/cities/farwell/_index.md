@@ -1,6 +1,6 @@
 ---
 title: Farwell
 url: /farwell/
-latitude: 34.388
-longitude: -103.032
+latitude: 34.389
+longitude: -103.043
 ---

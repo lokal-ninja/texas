@@ -1,6 +1,6 @@
 ---
 title: Early
 url: /early/
-latitude: 31.734
-longitude: -98.964
+latitude: 31.738
+longitude: -98.962
 ---

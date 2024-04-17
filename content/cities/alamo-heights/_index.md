@@ -1,6 +1,6 @@
 ---
 title: Alamo Heights
 url: /alamo-heights/
-latitude: 29.476
-longitude: -98.463
+latitude: 29.474
+longitude: -98.462
 ---

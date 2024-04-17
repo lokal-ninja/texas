@@ -1,6 +1,6 @@
 ---
 title: Addison
 url: /addison/
-latitude: 32.961
-longitude: -96.826
+latitude: 32.952
+longitude: -96.819
 ---

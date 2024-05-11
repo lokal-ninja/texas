@@ -1,6 +1,6 @@
 ---
 title: Paris
 url: /paris/
-latitude: 33.662
-longitude: -95.504
+latitude: 33.661
+longitude: -95.511
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rosenberg
 url: /rosenberg/
-latitude: 29.544
-longitude: -95.755
+latitude: 29.561
+longitude: -95.789
 ---

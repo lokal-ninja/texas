@@ -1,6 +1,6 @@
 ---
 title: Hermleigh
 url: /hermleigh/
-latitude: 32.635
-longitude: -100.764
+latitude: 32.637
+longitude: -100.768
 ---

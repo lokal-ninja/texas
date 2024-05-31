@@ -1,5 +1,5 @@
 ---
-title: "24 Seven"
+title: "24 seven"
 url: /houston/24-seven/
 shop: convenience
 ---

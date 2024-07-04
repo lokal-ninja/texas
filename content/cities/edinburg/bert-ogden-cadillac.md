@@ -1,5 +1,5 @@
 ---
-title: "BERT OGDEN CADILLAC"
+title: "Bert Ogden Cadillac"
 url: /edinburg/bert-ogden-cadillac/
 shop: car
 ---

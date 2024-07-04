@@ -1,6 +1,6 @@
 ---
 title: Garland
 url: /garland/
-latitude: 32.912
-longitude: -96.639
+latitude: 32.951
+longitude: -96.614
 ---

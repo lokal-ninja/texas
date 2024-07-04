@@ -1,6 +1,6 @@
 ---
 title: Center
 url: /center/
-latitude: 31.793
-longitude: -94.182
+latitude: 31.811
+longitude: -94.191
 ---

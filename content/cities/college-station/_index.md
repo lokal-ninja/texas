@@ -1,6 +1,6 @@
 ---
 title: College Station
 url: /college-station/
-latitude: 30.627
-longitude: -96.331
+latitude: 30.626
+longitude: -96.33
 ---

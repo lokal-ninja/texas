@@ -1,6 +1,6 @@
 ---
 title: Spearman
 url: /spearman/
-latitude: 36.193
-longitude: -101.203
+latitude: 36.2
+longitude: -101.194
 ---

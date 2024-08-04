@@ -1,6 +1,6 @@
 ---
 title: Clyde
 url: /clyde/
-latitude: 32.413
-longitude: -99.49
+latitude: 32.421
+longitude: -99.533
 ---

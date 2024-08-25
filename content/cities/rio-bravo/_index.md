@@ -1,6 +1,6 @@
 ---
-title: RIo Bravo
+title: Rio Bravo
 url: /rio-bravo/
-latitude: 27.363
-longitude: -99.465
+latitude: 27.365
+longitude: -99.477
 ---

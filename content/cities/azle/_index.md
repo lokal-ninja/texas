@@ -1,6 +1,6 @@
 ---
 title: Azle
 url: /azle/
-latitude: 32.904
-longitude: -97.546
+latitude: 32.894
+longitude: -97.539
 ---

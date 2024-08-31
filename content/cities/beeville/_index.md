@@ -1,6 +1,6 @@
 ---
 title: Beeville
 url: /beeville/
-latitude: 28.422
-longitude: -97.753
+latitude: 28.415
+longitude: -97.755
 ---

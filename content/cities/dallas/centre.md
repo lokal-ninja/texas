@@ -1,5 +1,5 @@
 ---
 title: "Centre"
 url: /dallas/centre/
-shop: clothes
+shop: Kleidung
 ---

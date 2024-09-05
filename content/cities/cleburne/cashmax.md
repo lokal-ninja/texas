@@ -1,5 +1,5 @@
 ---
 title: "CashMax"
 url: /cleburne/cashmax/
-shop: pawnbroker
+shop: Leiher
 ---

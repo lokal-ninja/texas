@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /waco/michaels/
-shop: craft
+shop: Basteln
 ---

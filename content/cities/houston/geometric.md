@@ -1,5 +1,5 @@
 ---
 title: "Geometric"
 url: /houston/geometric/
-shop: sports
+shop: Sport
 ---

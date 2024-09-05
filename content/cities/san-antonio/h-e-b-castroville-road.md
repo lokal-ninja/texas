@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /san-antonio/h-e-b-castroville-road/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /pearland/walgreens/
-shop: chemist
+shop: Drogerie
 ---

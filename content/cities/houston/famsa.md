@@ -1,5 +1,5 @@
 ---
 title: "Famsa"
 url: /houston/famsa/
-shop: electronics
+shop: Elektronik
 ---

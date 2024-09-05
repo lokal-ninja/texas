@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /sulphur-springs/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

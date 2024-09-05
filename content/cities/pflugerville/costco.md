@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /pflugerville/costco/
-shop: wholesale
+shop: Großhandel
 ---

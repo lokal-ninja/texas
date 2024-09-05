@@ -1,5 +1,5 @@
 ---
 title: "Center Point Mercantile"
 url: /center-point/center-point-mercantile/
-shop: antiques
+shop: Antiquitäten
 ---

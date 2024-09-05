@@ -1,5 +1,5 @@
 ---
 title: "Luxe Leather Furniture"
 url: /denison/luxe-leather-furniture/
-shop: furniture
+shop: Möbel
 ---

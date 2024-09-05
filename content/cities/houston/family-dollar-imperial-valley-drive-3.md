@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /houston/family-dollar-imperial-valley-drive-3/
-shop: variety store
+shop: Kramladen
 ---

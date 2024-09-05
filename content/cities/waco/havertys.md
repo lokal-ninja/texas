@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /waco/havertys/
-shop: furniture
+shop: Möbel
 ---

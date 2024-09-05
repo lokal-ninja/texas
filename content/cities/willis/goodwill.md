@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /willis/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

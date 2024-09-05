@@ -1,5 +1,5 @@
 ---
 title: "Armamentarium"
 url: /spring/armamentarium/
-shop: medical supply
+shop: Sanitätshaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kendra Scott"
 url: /dallas/kendra-scott-mckinney-avenue/
-shop: jewelry
+shop: Schmuck
 ---

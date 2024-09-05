@@ -1,5 +1,5 @@
 ---
 title: "Broadway Express"
 url: /granbury/broadway-express/
-shop: convenience
+shop: Lebensmittel
 ---

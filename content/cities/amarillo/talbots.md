@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /amarillo/talbots/
-shop: clothes
+shop: Kleidung
 ---

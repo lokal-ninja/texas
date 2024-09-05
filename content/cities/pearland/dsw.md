@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /pearland/dsw/
-shop: shoes
+shop: Schuhe
 ---

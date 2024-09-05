@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lubbock/stripes-avenue-q-2/
-shop: convenience
+shop: Lebensmittel
 ---

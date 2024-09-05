@@ -1,5 +1,5 @@
 ---
 title: "El Vaquero Western Wear"
 url: /dumas/el-vaquero-western-wear/
-shop: clothes
+shop: Kleidung
 ---

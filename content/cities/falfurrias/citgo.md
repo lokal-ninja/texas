@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /falfurrias/citgo/
-shop: convenience
+shop: Lebensmittel
 ---

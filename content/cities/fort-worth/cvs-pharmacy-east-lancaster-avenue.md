@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /fort-worth/cvs-pharmacy-east-lancaster-avenue/
-shop: chemist
+shop: Drogerie
 ---

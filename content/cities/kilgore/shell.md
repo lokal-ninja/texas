@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /kilgore/shell/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /southlake/loft/
-shop: clothes
+shop: Kleidung
 ---

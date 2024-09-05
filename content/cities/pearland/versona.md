@@ -1,5 +1,5 @@
 ---
 title: "Versona"
 url: /pearland/versona/
-shop: clothes
+shop: Kleidung
 ---

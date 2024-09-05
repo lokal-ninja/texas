@@ -1,5 +1,5 @@
 ---
 title: "Furniture City"
 url: /el-paso/furniture-city/
-shop: furniture
+shop: Möbel
 ---

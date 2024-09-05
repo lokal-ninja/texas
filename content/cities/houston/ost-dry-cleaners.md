@@ -1,5 +1,5 @@
 ---
 title: "OST Dry Cleaners"
 url: /houston/ost-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

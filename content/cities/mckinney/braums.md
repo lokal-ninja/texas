@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /mckinney/braums/
-shop: dairy
+shop: Milch
 ---

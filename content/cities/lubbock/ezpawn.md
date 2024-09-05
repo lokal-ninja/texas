@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /lubbock/ezpawn/
-shop: pawnbroker
+shop: Leiher
 ---

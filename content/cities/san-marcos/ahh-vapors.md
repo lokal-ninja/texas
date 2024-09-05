@@ -1,5 +1,5 @@
 ---
 title: "AHH Vapors"
 url: /san-marcos/ahh-vapors/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

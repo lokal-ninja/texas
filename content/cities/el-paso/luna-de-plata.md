@@ -1,5 +1,5 @@
 ---
 title: "Luna De Plata"
 url: /el-paso/luna-de-plata/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /sunset-valley/petsmart/
-shop: pet
+shop: Tiere
 ---

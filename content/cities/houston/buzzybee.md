@@ -1,5 +1,5 @@
 ---
 title: "BuzzyBee"
 url: /houston/buzzybee/
-shop: convenience
+shop: Lebensmittel
 ---

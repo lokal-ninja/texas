@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /lubbock/yesway/
-shop: convenience
+shop: Lebensmittel
 ---

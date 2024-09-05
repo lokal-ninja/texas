@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /richardson/petco/
-shop: pet
+shop: Tiere
 ---

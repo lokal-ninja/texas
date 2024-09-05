@@ -1,5 +1,5 @@
 ---
 title: "Kipling"
 url: /san-marcos/kipling/
-shop: bag
+shop: Taschen & Koffer
 ---

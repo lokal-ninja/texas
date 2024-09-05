@@ -1,5 +1,5 @@
 ---
 title: "Gabriel's Liquor"
 url: /san-antonio/gabriels-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

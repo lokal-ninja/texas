@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /houston/walgreens-hammerly-boulevard/
-shop: chemist
+shop: Drogerie
 ---

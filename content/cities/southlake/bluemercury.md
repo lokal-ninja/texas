@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /southlake/bluemercury/
-shop: beauty
+shop: Kosmetik
 ---

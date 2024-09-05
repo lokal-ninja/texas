@@ -1,5 +1,5 @@
 ---
 title: "Gold Orchards Inc"
 url: /stonewall/gold-orchards-inc/
-shop: farm
+shop: Hofladen
 ---

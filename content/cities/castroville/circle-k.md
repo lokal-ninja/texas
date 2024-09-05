@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /castroville/circle-k/
-shop: convenience
+shop: Lebensmittel
 ---

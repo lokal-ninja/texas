@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /frisco/walgreens-coit-road/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /marshall/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

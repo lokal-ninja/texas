@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /terrell/maurices/
-shop: clothes
+shop: Kleidung
 ---

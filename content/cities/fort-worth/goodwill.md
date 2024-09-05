@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /fort-worth/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

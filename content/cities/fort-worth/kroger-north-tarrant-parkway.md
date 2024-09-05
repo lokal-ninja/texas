@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /fort-worth/kroger-north-tarrant-parkway/
-shop: supermarket
+shop: Supermarkt
 ---

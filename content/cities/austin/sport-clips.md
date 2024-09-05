@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /austin/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

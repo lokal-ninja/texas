@@ -1,5 +1,5 @@
 ---
 title: "David McDavid Honda of Frisco"
 url: /frisco/david-mcdavid-honda-of-frisco/
-shop: car
+shop: Autohaus
 ---

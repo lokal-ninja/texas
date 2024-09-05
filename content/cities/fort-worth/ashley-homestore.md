@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /fort-worth/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next Exit Logistics"
 url: /dallas/next-exit-logistics/
-shop: supermarket
+shop: Supermarkt
 ---

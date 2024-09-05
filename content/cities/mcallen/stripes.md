@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /mcallen/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

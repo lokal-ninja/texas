@@ -1,5 +1,5 @@
 ---
 title: "Twin Liquors"
 url: /georgetown/twin-liquors/
-shop: alcohol
+shop: Spirituosen
 ---

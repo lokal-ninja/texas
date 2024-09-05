@@ -1,5 +1,5 @@
 ---
 title: "Planet K"
 url: /austin/planet-k/
-shop: gift
+shop: Andenken
 ---

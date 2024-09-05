@@ -1,5 +1,5 @@
 ---
 title: "Playtri"
 url: /rockwall/playtri/
-shop: bicycle
+shop: Fahrrad
 ---

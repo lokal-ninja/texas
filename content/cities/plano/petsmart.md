@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /plano/petsmart/
-shop: pet
+shop: Tiere
 ---

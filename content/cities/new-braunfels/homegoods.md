@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /new-braunfels/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /angleton/valero/
-shop: convenience
+shop: Lebensmittel
 ---

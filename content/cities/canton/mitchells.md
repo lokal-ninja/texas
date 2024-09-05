@@ -1,5 +1,5 @@
 ---
 title: "Mitchell's"
 url: /canton/mitchells/
-shop: convenience
+shop: Lebensmittel
 ---

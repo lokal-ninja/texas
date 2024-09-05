@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /richmond/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

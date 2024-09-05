@@ -1,5 +1,5 @@
 ---
 title: "Heights Liquor"
 url: /houston/heights-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

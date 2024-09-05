@@ -1,5 +1,5 @@
 ---
 title: "Day's Hardware"
 url: /denton/days-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

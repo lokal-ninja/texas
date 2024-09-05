@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /forney/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

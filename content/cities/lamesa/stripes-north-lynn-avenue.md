@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lamesa/stripes-north-lynn-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

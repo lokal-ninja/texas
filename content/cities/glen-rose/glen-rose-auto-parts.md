@@ -1,5 +1,5 @@
 ---
 title: "Glen Rose Auto Parts"
 url: /glen-rose/glen-rose-auto-parts/
-shop: car repair
+shop: Autowerkstatt
 ---

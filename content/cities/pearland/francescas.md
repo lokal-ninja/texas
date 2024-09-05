@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /pearland/francescas/
-shop: clothes
+shop: Kleidung
 ---

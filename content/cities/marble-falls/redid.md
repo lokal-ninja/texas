@@ -1,5 +1,5 @@
 ---
 title: "ReDid"
 url: /marble-falls/redid/
-shop: antiques
+shop: Antiquitäten
 ---

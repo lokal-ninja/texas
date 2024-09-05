@@ -1,5 +1,5 @@
 ---
 title: "Costumeworx"
 url: /houston/costumeworx/
-shop: clothes
+shop: Kleidung
 ---

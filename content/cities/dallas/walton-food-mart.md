@@ -1,5 +1,5 @@
 ---
 title: "Walton Food Mart"
 url: /dallas/walton-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

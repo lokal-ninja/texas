@@ -1,5 +1,5 @@
 ---
 title: "Dreamers"
 url: /austin/dreamers/
-shop: erotic
+shop: Erotik
 ---

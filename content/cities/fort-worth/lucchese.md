@@ -1,5 +1,5 @@
 ---
 title: "Lucchese"
 url: /fort-worth/lucchese/
-shop: shoes
+shop: Schuhe
 ---

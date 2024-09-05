@@ -1,5 +1,5 @@
 ---
 title: "Discount Mart"
 url: /fredericksburg/discount-mart/
-shop: convenience
+shop: Lebensmittel
 ---

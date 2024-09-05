@@ -1,5 +1,5 @@
 ---
 title: "Chisum"
 url: /colorado-city/chisum/
-shop: convenience
+shop: Lebensmittel
 ---

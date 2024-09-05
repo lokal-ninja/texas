@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /borger/airgas/
-shop: gas
+shop: Gasflaschen
 ---

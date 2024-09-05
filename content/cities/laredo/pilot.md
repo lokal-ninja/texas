@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /laredo/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

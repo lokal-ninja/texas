@@ -1,5 +1,5 @@
 ---
 title: "Sherman Chevrolet"
 url: /sherman/sherman-chevrolet/
-shop: car
+shop: Autohaus
 ---

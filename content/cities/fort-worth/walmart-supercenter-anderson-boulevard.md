@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /fort-worth/walmart-supercenter-anderson-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /pampa/cato/
-shop: clothes
+shop: Kleidung
 ---

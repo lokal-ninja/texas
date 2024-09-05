@@ -1,5 +1,5 @@
 ---
 title: "Sutherlands Homebase"
 url: /lubbock/sutherlands-homebase/
-shop: hardware
+shop: Eisenwaren
 ---

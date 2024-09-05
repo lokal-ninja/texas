@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /pearland/shell/
-shop: convenience
+shop: Lebensmittel
 ---

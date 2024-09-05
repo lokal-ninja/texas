@@ -1,5 +1,5 @@
 ---
 title: "Tina Nails"
 url: /kingwood/tina-nails/
-shop: beauty
+shop: Kosmetik
 ---

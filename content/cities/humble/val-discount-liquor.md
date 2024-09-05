@@ -1,5 +1,5 @@
 ---
 title: "Val Discount Liquor"
 url: /humble/val-discount-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

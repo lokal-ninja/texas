@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /atlanta/shell/
-shop: convenience
+shop: Lebensmittel
 ---

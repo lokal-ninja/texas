@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /dallas/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

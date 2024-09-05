@@ -1,5 +1,5 @@
 ---
 title: "Tony's Hair Salon"
 url: /amarillo/tonys-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /houston/timewise-montrose-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

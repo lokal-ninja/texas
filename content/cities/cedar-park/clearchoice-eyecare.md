@@ -1,5 +1,5 @@
 ---
 title: "ClearChoice EyeCare"
 url: /cedar-park/clearchoice-eyecare/
-shop: optician
+shop: Optiker
 ---

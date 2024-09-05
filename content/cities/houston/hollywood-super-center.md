@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Super Center"
 url: /houston/hollywood-super-center/
-shop: erotic
+shop: Erotik
 ---

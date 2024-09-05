@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /boerne/walgreens/
-shop: chemist
+shop: Drogerie
 ---

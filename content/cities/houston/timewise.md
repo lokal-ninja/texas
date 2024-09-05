@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /houston/timewise/
-shop: convenience
+shop: Lebensmittel
 ---

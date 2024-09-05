@@ -1,5 +1,5 @@
 ---
 title: "Gigi's Cupcakes"
 url: /bee-cave/gigis-cupcakes/
-shop: bakery
+shop: Bäckerei
 ---

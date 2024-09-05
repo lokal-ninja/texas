@@ -1,5 +1,5 @@
 ---
 title: "Star Stop"
 url: /vidor/star-stop/
-shop: convenience
+shop: Lebensmittel
 ---

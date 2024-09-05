@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Barn"
 url: /carthage/tobacco-barn/
-shop: tobacco
+shop: Tabak
 ---

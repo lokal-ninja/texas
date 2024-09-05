@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /the-woodlands/shell/
-shop: convenience
+shop: Lebensmittel
 ---

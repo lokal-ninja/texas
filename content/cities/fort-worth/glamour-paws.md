@@ -1,5 +1,5 @@
 ---
 title: "Glamour Paws"
 url: /fort-worth/glamour-paws/
-shop: pet grooming
+shop: Tiersalon
 ---

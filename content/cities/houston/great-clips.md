@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /houston/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

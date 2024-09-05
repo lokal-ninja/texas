@@ -1,5 +1,5 @@
 ---
 title: "Hermann Furniture"
 url: /brenham/hermann-furniture/
-shop: furniture
+shop: Möbel
 ---

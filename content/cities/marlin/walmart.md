@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /marlin/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

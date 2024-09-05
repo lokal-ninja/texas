@@ -1,5 +1,5 @@
 ---
 title: "Kendra Scott"
 url: /tyler/kendra-scott/
-shop: jewelry
+shop: Schmuck
 ---

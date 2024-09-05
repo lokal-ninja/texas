@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /sugar-land/discount-tire-hwy-90a/
-shop: tyres
+shop: Reifen
 ---

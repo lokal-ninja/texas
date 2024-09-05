@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /el-paso/7-eleven-hunter-drive/
-shop: convenience
+shop: Lebensmittel
 ---

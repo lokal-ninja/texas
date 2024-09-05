@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /dallas/sprouts-farmers-market-dallas-parkway/
-shop: supermarket
+shop: Supermarkt
 ---

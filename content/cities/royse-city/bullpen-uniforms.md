@@ -1,5 +1,5 @@
 ---
 title: "Bullpen Uniforms"
 url: /royse-city/bullpen-uniforms/
-shop: clothes
+shop: Kleidung
 ---

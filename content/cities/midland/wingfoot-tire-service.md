@@ -1,5 +1,5 @@
 ---
 title: "Wingfoot Tire Service"
 url: /midland/wingfoot-tire-service/
-shop: tyres
+shop: Reifen
 ---

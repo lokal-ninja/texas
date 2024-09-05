@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /richardson/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

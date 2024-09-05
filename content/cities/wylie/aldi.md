@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wylie/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

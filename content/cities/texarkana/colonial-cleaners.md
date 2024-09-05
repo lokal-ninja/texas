@@ -1,5 +1,5 @@
 ---
 title: "Colonial Cleaners"
 url: /texarkana/colonial-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

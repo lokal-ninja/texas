@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /ennis/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

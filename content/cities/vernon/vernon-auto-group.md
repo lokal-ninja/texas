@@ -1,5 +1,5 @@
 ---
 title: "Vernon Auto Group"
 url: /vernon/vernon-auto-group/
-shop: car
+shop: Autohaus
 ---

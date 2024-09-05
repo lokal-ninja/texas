@@ -1,5 +1,5 @@
 ---
 title: "Roy Motor Company"
 url: /lamesa/roy-motor-company/
-shop: car
+shop: Autohaus
 ---

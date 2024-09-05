@@ -1,5 +1,5 @@
 ---
 title: "Chicas"
 url: /houston/chicas/
-shop: beauty
+shop: Kosmetik
 ---

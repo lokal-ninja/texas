@@ -1,5 +1,5 @@
 ---
 title: "Fuel Maxx"
 url: /moss-hill/fuel-maxx/
-shop: convenience
+shop: Lebensmittel
 ---

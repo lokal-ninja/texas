@@ -1,5 +1,5 @@
 ---
 title: "Bordertown Market"
 url: /sullivan-city/bordertown-market/
-shop: supermarket
+shop: Supermarkt
 ---

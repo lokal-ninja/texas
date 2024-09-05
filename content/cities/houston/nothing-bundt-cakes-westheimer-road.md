@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /houston/nothing-bundt-cakes-westheimer-road/
-shop: bakery
+shop: Bäckerei
 ---

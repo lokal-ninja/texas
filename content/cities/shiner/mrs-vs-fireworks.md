@@ -1,5 +1,5 @@
 ---
 title: "Mrs. V's Fireworks"
 url: /shiner/mrs-vs-fireworks/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

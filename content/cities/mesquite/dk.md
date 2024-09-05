@@ -1,5 +1,5 @@
 ---
 title: "DK"
 url: /mesquite/dk/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VisionSource"
 url: /humble/visionsource/
-shop: optician
+shop: Optiker
 ---

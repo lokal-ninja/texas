@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /kingwood/walgreens/
-shop: chemist
+shop: Drogerie
 ---

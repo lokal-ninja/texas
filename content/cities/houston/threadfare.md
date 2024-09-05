@@ -1,5 +1,5 @@
 ---
 title: "Threadfare"
 url: /houston/threadfare/
-shop: clothes
+shop: Kleidung
 ---

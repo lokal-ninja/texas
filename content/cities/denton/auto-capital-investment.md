@@ -1,5 +1,5 @@
 ---
 title: "Auto Capital Investment"
 url: /denton/auto-capital-investment/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger Marketplace"
 url: /cypress/kroger-marketplace/
-shop: supermarket
+shop: Supermarkt
 ---

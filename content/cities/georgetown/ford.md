@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /georgetown/ford/
-shop: car repair
+shop: Autowerkstatt
 ---

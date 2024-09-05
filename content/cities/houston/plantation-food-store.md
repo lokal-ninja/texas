@@ -1,5 +1,5 @@
 ---
 title: "Plantation Food Store"
 url: /houston/plantation-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

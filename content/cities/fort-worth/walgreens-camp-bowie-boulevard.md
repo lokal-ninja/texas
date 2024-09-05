@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fort-worth/walgreens-camp-bowie-boulevard/
-shop: chemist
+shop: Drogerie
 ---

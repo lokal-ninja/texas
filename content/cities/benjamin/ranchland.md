@@ -1,5 +1,5 @@
 ---
 title: "Ranchland"
 url: /benjamin/ranchland/
-shop: convenience
+shop: Lebensmittel
 ---

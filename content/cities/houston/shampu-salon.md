@@ -1,5 +1,5 @@
 ---
 title: "Shampu Salon"
 url: /houston/shampu-salon/
-shop: hairdresser
+shop: Friseur
 ---

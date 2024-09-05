@@ -1,5 +1,5 @@
 ---
 title: "Josie's Beauty Salon"
 url: /cleburne/josies-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

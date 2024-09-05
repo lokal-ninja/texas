@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /north-richland-hills/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

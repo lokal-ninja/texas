@@ -1,5 +1,5 @@
 ---
 title: "Gabbanelli"
 url: /houston/gabbanelli/
-shop: musical instrument
+shop: Instrumente
 ---

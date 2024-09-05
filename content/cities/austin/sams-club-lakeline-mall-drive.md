@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /austin/sams-club-lakeline-mall-drive/
-shop: wholesale
+shop: Großhandel
 ---

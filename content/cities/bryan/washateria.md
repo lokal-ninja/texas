@@ -1,5 +1,5 @@
 ---
 title: "Washateria"
 url: /bryan/washateria/
-shop: laundry
+shop: Wäscherei
 ---

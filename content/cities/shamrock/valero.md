@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /shamrock/valero/
-shop: convenience
+shop: Lebensmittel
 ---

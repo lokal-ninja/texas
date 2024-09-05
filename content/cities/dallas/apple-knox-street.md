@@ -1,5 +1,5 @@
 ---
 title: "Apple Knox Street"
 url: /dallas/apple-knox-street/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Addison Coffee Roasters"
 url: /addison/addison-coffee-roasters/
-shop: coffee
+shop: Kaffee
 ---

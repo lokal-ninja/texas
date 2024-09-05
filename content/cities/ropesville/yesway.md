@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /ropesville/yesway/
-shop: convenience
+shop: Lebensmittel
 ---

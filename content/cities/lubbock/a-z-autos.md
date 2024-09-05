@@ -1,5 +1,5 @@
 ---
 title: "A-Z Autos"
 url: /lubbock/a-z-autos/
-shop: car
+shop: Autohaus
 ---

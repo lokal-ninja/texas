@@ -1,5 +1,5 @@
 ---
 title: "DriveTown"
 url: /houston/drivetown/
-shop: car
+shop: Autohaus
 ---

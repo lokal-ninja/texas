@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /plano/walmart-supercenter-north-central-expressway/
-shop: supermarket
+shop: Supermarkt
 ---

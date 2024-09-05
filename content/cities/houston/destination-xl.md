@@ -1,5 +1,5 @@
 ---
 title: "Destination XL"
 url: /houston/destination-xl/
-shop: clothes
+shop: Kleidung
 ---

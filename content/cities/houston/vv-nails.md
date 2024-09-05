@@ -1,5 +1,5 @@
 ---
 title: "VV Nails"
 url: /houston/vv-nails/
-shop: beauty
+shop: Kosmetik
 ---

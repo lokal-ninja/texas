@@ -1,5 +1,5 @@
 ---
 title: "CashMax"
 url: /leander/cashmax/
-shop: pawnbroker
+shop: Leiher
 ---

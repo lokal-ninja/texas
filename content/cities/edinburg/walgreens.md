@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /edinburg/walgreens/
-shop: chemist
+shop: Drogerie
 ---

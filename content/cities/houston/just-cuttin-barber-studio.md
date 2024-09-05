@@ -1,5 +1,5 @@
 ---
 title: "Just Cuttin' Barber Studio"
 url: /houston/just-cuttin-barber-studio/
-shop: hairdresser
+shop: Friseur
 ---

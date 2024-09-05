@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /kermit/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

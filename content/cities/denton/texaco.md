@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /denton/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

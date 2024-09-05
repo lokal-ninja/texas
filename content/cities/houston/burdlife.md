@@ -1,5 +1,5 @@
 ---
 title: "Burdlife"
 url: /houston/burdlife/
-shop: jewelry
+shop: Schmuck
 ---

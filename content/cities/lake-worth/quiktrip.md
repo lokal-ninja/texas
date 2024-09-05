@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /lake-worth/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

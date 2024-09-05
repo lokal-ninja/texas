@@ -1,5 +1,5 @@
 ---
 title: "Windsor"
 url: /pearland/windsor/
-shop: clothes
+shop: Kleidung
 ---

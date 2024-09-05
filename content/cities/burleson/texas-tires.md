@@ -1,5 +1,5 @@
 ---
 title: "Texas Tires"
 url: /burleson/texas-tires/
-shop: tyres
+shop: Reifen
 ---

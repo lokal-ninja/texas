@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mount-pleasant/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

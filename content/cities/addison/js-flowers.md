@@ -1,5 +1,5 @@
 ---
 title: "JS Flowers"
 url: /addison/js-flowers/
-shop: florist
+shop: Blumen
 ---

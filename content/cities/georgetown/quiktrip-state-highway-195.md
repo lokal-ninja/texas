@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /georgetown/quiktrip-state-highway-195/
-shop: convenience
+shop: Lebensmittel
 ---

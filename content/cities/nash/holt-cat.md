@@ -1,5 +1,5 @@
 ---
 title: "Holt CAT"
 url: /nash/holt-cat/
-shop: trade
+shop: Baustoffe
 ---

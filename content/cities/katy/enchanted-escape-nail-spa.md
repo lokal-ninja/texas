@@ -1,5 +1,5 @@
 ---
 title: "Enchanted Escape Nail Spa"
 url: /katy/enchanted-escape-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

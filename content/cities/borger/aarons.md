@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /borger/aarons/
-shop: furniture
+shop: Möbel
 ---

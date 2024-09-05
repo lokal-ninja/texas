@@ -1,5 +1,5 @@
 ---
 title: "Roar"
 url: /austin/roar/
-shop: hairdresser
+shop: Friseur
 ---

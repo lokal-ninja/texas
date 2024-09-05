@@ -1,5 +1,5 @@
 ---
 title: "Dirt"
 url: /dallas/dirt/
-shop: florist
+shop: Blumen
 ---

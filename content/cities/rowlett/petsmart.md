@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /rowlett/petsmart/
-shop: pet
+shop: Tiere
 ---

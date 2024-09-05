@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /texarkana/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

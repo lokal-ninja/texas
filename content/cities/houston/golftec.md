@@ -1,5 +1,5 @@
 ---
 title: "GOLFTEC"
 url: /houston/golftec/
-shop: sports
+shop: Sport
 ---

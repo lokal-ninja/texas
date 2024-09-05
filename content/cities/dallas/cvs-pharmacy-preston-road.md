@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /dallas/cvs-pharmacy-preston-road/
-shop: chemist
+shop: Drogerie
 ---

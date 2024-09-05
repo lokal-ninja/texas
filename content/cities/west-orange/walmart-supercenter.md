@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /west-orange/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

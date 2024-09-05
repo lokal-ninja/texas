@@ -1,5 +1,5 @@
 ---
 title: "Wright Tire Company"
 url: /cleburne/wright-tire-company/
-shop: tyres
+shop: Reifen
 ---

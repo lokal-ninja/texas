@@ -1,5 +1,5 @@
 ---
 title: "Universal Toyota"
 url: /san-antonio/universal-toyota/
-shop: car
+shop: Autohaus
 ---

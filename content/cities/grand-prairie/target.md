@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /grand-prairie/target/
-shop: supermarket
+shop: Supermarkt
 ---

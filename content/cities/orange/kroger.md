@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /orange/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

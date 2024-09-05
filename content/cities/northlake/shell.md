@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /northlake/shell/
-shop: convenience
+shop: Lebensmittel
 ---

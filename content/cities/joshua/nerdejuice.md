@@ -1,5 +1,5 @@
 ---
 title: "Nerdejuice"
 url: /joshua/nerdejuice/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

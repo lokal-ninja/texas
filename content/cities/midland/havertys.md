@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /midland/havertys/
-shop: furniture
+shop: Möbel
 ---

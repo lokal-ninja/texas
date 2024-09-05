@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /waxahachie/autozone/
-shop: car parts
+shop: Autoteile
 ---

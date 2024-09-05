@@ -1,5 +1,5 @@
 ---
 title: "Sam's Club"
 url: /denton/sams-club/
-shop: wholesale
+shop: Großhandel
 ---

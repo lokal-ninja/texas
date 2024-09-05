@@ -1,5 +1,5 @@
 ---
 title: "Tractor Supply Company"
 url: /temple/tractor-supply-company/
-shop: general
+shop: Dorfladen
 ---

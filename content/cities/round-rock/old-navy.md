@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /round-rock/old-navy/
-shop: clothes
+shop: Kleidung
 ---

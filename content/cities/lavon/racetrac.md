@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /lavon/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

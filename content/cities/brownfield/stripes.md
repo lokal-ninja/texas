@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /brownfield/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

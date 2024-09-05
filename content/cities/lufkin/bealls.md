@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /lufkin/bealls/
-shop: clothes
+shop: Kleidung
 ---

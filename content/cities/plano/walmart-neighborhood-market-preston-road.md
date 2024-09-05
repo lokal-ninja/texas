@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /plano/walmart-neighborhood-market-preston-road/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /houston/kroger-fm-1960-west/
-shop: supermarket
+shop: Supermarkt
 ---

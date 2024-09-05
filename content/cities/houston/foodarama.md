@@ -1,5 +1,5 @@
 ---
 title: "Foodarama"
 url: /houston/foodarama/
-shop: supermarket
+shop: Supermarkt
 ---

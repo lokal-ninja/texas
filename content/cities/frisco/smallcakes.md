@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /frisco/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refuel"
 url: /georgetown/refuel/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perfumania"
 url: /terrell/perfumania/
-shop: perfumery
+shop: Parfümerie
 ---

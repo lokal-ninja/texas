@@ -1,5 +1,5 @@
 ---
 title: "Stuckey's"
 url: /beaumont/stuckeys/
-shop: convenience
+shop: Lebensmittel
 ---

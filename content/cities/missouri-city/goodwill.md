@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /missouri-city/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

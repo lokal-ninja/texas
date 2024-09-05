@@ -1,5 +1,5 @@
 ---
 title: "The Caring Place"
 url: /georgetown/the-caring-place/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /houston/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

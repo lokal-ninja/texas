@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /midland/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

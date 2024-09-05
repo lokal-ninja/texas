@@ -1,5 +1,5 @@
 ---
 title: "Xpressway"
 url: /greenville/xpressway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lillie's Boutique"
 url: /amarillo/lillies-boutique/
-shop: clothes
+shop: Kleidung
 ---

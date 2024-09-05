@@ -1,5 +1,5 @@
 ---
 title: "Way to Sew"
 url: /new-braunfels/way-to-sew/
-shop: fabric
+shop: Textil
 ---

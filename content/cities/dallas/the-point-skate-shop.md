@@ -1,5 +1,5 @@
 ---
 title: "The Point Skate Shop"
 url: /dallas/the-point-skate-shop/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petals"
 url: /plano/petals/
-shop: florist
+shop: Blumen
 ---

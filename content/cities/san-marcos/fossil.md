@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /san-marcos/fossil/
-shop: watches
+shop: Uhren
 ---

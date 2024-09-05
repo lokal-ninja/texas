@@ -1,5 +1,5 @@
 ---
 title: "L.A. Tires"
 url: /denton/l-a-tires/
-shop: tyres
+shop: Reifen
 ---

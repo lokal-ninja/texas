@@ -1,5 +1,5 @@
 ---
 title: "Appliance Repair by Asurion"
 url: /dallas/appliance-repair-by-asurion-greenville-avenue/
-shop: appliance
+shop: Haushaltsgeräte
 ---

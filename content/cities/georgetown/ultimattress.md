@@ -1,5 +1,5 @@
 ---
 title: "UltiMattress"
 url: /georgetown/ultimattress/
-shop: bed
+shop: Betten
 ---

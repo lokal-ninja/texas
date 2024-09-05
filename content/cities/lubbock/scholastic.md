@@ -1,5 +1,5 @@
 ---
 title: "Scholastic"
 url: /lubbock/scholastic/
-shop: books
+shop: Bücher
 ---

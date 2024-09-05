@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /cisco/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

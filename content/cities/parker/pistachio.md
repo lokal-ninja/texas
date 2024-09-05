@@ -1,5 +1,5 @@
 ---
 title: "Pistachio"
 url: /parker/pistachio/
-shop: chocolate
+shop: Schokolade
 ---

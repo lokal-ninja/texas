@@ -1,5 +1,5 @@
 ---
 title: "Elan"
 url: /houston/elan/
-shop: convenience
+shop: Lebensmittel
 ---

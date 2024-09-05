@@ -1,5 +1,5 @@
 ---
 title: "Lowe's Market"
 url: /floydada/lowes-market/
-shop: supermarket
+shop: Supermarkt
 ---

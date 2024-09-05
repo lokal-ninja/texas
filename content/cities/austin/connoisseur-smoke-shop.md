@@ -1,5 +1,5 @@
 ---
 title: "Connoisseur Smoke Shop"
 url: /austin/connoisseur-smoke-shop/
-shop: tobacco
+shop: Tabak
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /southlake/costco/
-shop: wholesale
+shop: Großhandel
 ---

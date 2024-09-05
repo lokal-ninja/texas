@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /balch-springs/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

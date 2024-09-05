@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /pearland/lenscrafters/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAA Cougar Self Storage"
 url: /jarrell/aaa-cougar-self-storage/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /palmer/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

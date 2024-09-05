@@ -1,5 +1,5 @@
 ---
 title: "Oportun"
 url: /austin/oportun/
-shop: pawnbroker
+shop: Leiher
 ---

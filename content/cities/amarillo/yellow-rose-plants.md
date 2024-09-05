@@ -1,5 +1,5 @@
 ---
 title: "Yellow Rose Plants"
 url: /amarillo/yellow-rose-plants/
-shop: garden centre
+shop: Garten-Center
 ---

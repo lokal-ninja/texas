@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /royse-city/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyperbole Bookstore"
 url: /college-station/hyperbole-bookstore/
-shop: books
+shop: Bücher
 ---

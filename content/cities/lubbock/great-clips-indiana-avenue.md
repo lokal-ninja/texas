@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /lubbock/great-clips-indiana-avenue/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /conroe/dsw/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collin Street Bakery"
 url: /bellmead/collin-street-bakery/
-shop: bakery
+shop: Bäckerei
 ---

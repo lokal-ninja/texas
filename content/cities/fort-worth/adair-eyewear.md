@@ -1,5 +1,5 @@
 ---
 title: "Adair Eyewear"
 url: /fort-worth/adair-eyewear/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fuel City"
 url: /dallas/fuel-city/
-shop: convenience
+shop: Lebensmittel
 ---

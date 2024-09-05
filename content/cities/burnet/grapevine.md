@@ -1,5 +1,5 @@
 ---
 title: "Grapevine"
 url: /burnet/grapevine/
-shop: gift
+shop: Andenken
 ---

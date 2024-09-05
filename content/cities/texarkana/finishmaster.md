@@ -1,5 +1,5 @@
 ---
 title: "Finishmaster"
 url: /texarkana/finishmaster/
-shop: paint
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /southlake/sephora/
-shop: beauty
+shop: Kosmetik
 ---

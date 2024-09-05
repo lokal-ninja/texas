@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /austin/oreilly-auto-parts-dessau-road/
-shop: car parts
+shop: Autoteile
 ---

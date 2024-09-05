@@ -1,5 +1,5 @@
 ---
 title: "In Times Past"
 url: /mineola/in-times-past/
-shop: antiques
+shop: Antiquitäten
 ---

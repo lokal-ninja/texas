@@ -1,5 +1,5 @@
 ---
 title: "VN Beauty Salon"
 url: /houston/vn-beauty-salon/
-shop: beauty
+shop: Kosmetik
 ---

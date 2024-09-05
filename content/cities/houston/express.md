@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /houston/express/
-shop: clothes
+shop: Kleidung
 ---

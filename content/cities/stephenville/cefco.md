@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /stephenville/cefco/
-shop: convenience
+shop: Lebensmittel
 ---

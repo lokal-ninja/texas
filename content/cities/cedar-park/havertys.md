@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /cedar-park/havertys/
-shop: furniture
+shop: Möbel
 ---

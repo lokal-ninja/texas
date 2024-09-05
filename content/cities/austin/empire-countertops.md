@@ -1,5 +1,5 @@
 ---
 title: "Empire Countertops"
 url: /austin/empire-countertops/
-shop: tiles
+shop: Fliesen
 ---

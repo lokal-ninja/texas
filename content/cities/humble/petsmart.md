@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /humble/petsmart/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /post/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

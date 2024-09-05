@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /rowlett/circle-k-lakeview-parkway/
-shop: convenience
+shop: Lebensmittel
 ---

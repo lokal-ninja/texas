@@ -1,5 +1,5 @@
 ---
 title: "Austin Shoe Hospital"
 url: /austin/austin-shoe-hospital/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /conroe/walgreens-west-cartwright-road/
-shop: chemist
+shop: Drogerie
 ---

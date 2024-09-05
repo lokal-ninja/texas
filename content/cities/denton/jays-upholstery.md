@@ -1,5 +1,5 @@
 ---
 title: "Jay's Upholstery"
 url: /denton/jays-upholstery/
-shop: shop
+shop: Allgemein
 ---

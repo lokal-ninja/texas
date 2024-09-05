@@ -1,5 +1,5 @@
 ---
 title: "Joshua's Furniture"
 url: /dumas/joshuas-furniture/
-shop: furniture
+shop: Möbel
 ---

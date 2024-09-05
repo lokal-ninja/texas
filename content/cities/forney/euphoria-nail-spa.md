@@ -1,5 +1,5 @@
 ---
 title: "Euphoria Nail Spa"
 url: /forney/euphoria-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

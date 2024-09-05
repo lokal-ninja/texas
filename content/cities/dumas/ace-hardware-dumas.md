@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware Dumas"
 url: /dumas/ace-hardware-dumas/
-shop: doityourself
+shop: Baumarkt
 ---

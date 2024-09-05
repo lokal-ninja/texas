@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /amarillo/crumbl-cookies/
-shop: pastry
+shop: Konditorei
 ---

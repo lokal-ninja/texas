@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /euless/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

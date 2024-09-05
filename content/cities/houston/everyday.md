@@ -1,5 +1,5 @@
 ---
 title: "Everyday"
 url: /houston/everyday/
-shop: convenience
+shop: Lebensmittel
 ---

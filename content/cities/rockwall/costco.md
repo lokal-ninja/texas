@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /rockwall/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JOY Macarons"
 url: /fort-worth/joy-macarons/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foot Tech"
 url: /lubbock/foot-tech/
-shop: shoes
+shop: Schuhe
 ---

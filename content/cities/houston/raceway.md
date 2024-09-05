@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /houston/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carvana"
 url: /san-antonio/carvana/
-shop: car
+shop: Autohaus
 ---

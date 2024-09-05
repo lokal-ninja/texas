@@ -1,5 +1,5 @@
 ---
 title: "Blonde Faith Salon"
 url: /austin/blonde-faith-salon/
-shop: hairdresser
+shop: Friseur
 ---

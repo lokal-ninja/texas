@@ -1,5 +1,5 @@
 ---
 title: "Dennis Electric Co."
 url: /grapevine/dennis-electric-co/
-shop: doors
+shop: Türen
 ---

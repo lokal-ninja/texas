@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /laredo/stripes-washington-street/
-shop: convenience
+shop: Lebensmittel
 ---

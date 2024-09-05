@@ -1,5 +1,5 @@
 ---
 title: "Classic Mazda of Texarkana"
 url: /texarkana/classic-mazda-of-texarkana/
-shop: car
+shop: Autohaus
 ---

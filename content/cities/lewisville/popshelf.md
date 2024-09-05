@@ -1,5 +1,5 @@
 ---
 title: "Popshelf"
 url: /lewisville/popshelf/
-shop: convenience
+shop: Lebensmittel
 ---

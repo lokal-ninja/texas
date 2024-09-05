@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /san-antonio/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

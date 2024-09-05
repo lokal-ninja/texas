@@ -1,5 +1,5 @@
 ---
 title: "Henne Hardware"
 url: /new-braunfels/henne-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

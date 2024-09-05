@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /midlothian/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

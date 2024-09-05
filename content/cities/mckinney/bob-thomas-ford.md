@@ -1,5 +1,5 @@
 ---
 title: "Bob Thomas Ford"
 url: /mckinney/bob-thomas-ford/
-shop: car
+shop: Autohaus
 ---

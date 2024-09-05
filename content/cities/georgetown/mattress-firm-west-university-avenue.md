@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /georgetown/mattress-firm-west-university-avenue/
-shop: bed
+shop: Betten
 ---

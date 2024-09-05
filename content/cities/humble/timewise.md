@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /humble/timewise/
-shop: convenience
+shop: Lebensmittel
 ---

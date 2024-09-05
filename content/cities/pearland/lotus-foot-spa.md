@@ -1,5 +1,5 @@
 ---
 title: "Lotus Foot Spa"
 url: /pearland/lotus-foot-spa/
-shop: beauty
+shop: Kosmetik
 ---

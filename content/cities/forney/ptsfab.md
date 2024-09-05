@@ -1,5 +1,5 @@
 ---
 title: "PTSFAB"
 url: /forney/ptsfab/
-shop: car repair
+shop: Autowerkstatt
 ---

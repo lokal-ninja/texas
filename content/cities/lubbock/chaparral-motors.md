@@ -1,5 +1,5 @@
 ---
 title: "Chaparral Motors"
 url: /lubbock/chaparral-motors/
-shop: car
+shop: Autohaus
 ---

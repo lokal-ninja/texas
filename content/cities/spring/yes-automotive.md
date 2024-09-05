@@ -1,5 +1,5 @@
 ---
 title: "Yes! Automotive"
 url: /spring/yes-automotive/
-shop: car repair
+shop: Autowerkstatt
 ---

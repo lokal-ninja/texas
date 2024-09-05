@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /kilgore/atwoods/
-shop: general
+shop: Dorfladen
 ---

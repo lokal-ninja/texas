@@ -1,5 +1,5 @@
 ---
 title: "Spanky’s Liquor"
 url: /port-aransas/spankys-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

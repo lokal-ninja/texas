@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /clyde/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /fort-worth/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

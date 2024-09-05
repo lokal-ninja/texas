@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /brenham/the-home-depot/
-shop: doityourself
+shop: Baumarkt
 ---

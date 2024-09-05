@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /brownwood/ezpawn/
-shop: pawnbroker
+shop: Leiher
 ---

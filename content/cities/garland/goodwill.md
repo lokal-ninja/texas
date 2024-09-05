@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /garland/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

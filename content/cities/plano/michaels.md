@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /plano/michaels/
-shop: craft
+shop: Basteln
 ---

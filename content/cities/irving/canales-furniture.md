@@ -1,5 +1,5 @@
 ---
 title: "Canales Furniture"
 url: /irving/canales-furniture/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /cypress/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

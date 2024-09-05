@@ -1,5 +1,5 @@
 ---
 title: "NobiliTea"
 url: /amarillo/nobilitea/
-shop: tea
+shop: Tee
 ---

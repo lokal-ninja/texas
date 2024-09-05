@@ -1,5 +1,5 @@
 ---
 title: "GameXChange"
 url: /cleburne/gamexchange/
-shop: video games
+shop: Videospiele
 ---

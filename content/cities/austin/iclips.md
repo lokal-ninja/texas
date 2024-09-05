@@ -1,5 +1,5 @@
 ---
 title: "iClips"
 url: /austin/iclips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /llano/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

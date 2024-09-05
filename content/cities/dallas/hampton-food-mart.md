@@ -1,5 +1,5 @@
 ---
 title: "Hampton Food Mart"
 url: /dallas/hampton-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

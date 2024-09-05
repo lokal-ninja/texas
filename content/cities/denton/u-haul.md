@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /denton/u-haul/
-shop: storage rental
+shop: Mieten
 ---

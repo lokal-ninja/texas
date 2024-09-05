@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cedar-hill/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

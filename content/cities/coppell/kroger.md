@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /coppell/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

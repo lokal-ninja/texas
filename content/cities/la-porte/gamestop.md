@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /la-porte/gamestop/
-shop: video games
+shop: Videospiele
 ---

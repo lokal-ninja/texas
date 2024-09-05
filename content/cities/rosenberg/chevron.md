@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /rosenberg/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /murchison/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

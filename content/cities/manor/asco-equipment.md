@@ -1,5 +1,5 @@
 ---
 title: "ASCO Equipment"
 url: /manor/asco-equipment/
-shop: tools
+shop: Werkzeuge
 ---

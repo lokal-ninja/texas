@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /el-paso/speedway-george-dieter-drive/
-shop: convenience
+shop: Lebensmittel
 ---

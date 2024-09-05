@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /corpus-christi/michaels/
-shop: craft
+shop: Basteln
 ---

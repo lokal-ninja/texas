@@ -1,5 +1,5 @@
 ---
 title: "Hot Box"
 url: /dallas/hot-box/
-shop: tobacco
+shop: Tabak
 ---

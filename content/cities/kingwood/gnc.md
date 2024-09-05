@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /kingwood/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

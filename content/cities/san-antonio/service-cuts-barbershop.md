@@ -1,5 +1,5 @@
 ---
 title: "Service Cuts Barbershop"
 url: /san-antonio/service-cuts-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

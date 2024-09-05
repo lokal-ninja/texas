@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /arlington/petsmart-lincoln-square/
-shop: pet
+shop: Tiere
 ---

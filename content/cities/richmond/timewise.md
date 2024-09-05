@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /richmond/timewise/
-shop: convenience
+shop: Lebensmittel
 ---

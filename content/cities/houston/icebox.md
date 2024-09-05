@@ -1,5 +1,5 @@
 ---
 title: "Icebox"
 url: /houston/icebox/
-shop: convenience
+shop: Lebensmittel
 ---

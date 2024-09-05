@@ -1,5 +1,5 @@
 ---
 title: "Scooter's"
 url: /levelland/scooters/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /brownfield/cefco/
-shop: convenience
+shop: Lebensmittel
 ---

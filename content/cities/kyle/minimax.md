@@ -1,5 +1,5 @@
 ---
 title: "miniMAX"
 url: /kyle/minimax/
-shop: convenience
+shop: Lebensmittel
 ---

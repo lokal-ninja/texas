@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /san-marcos/zumiez/
-shop: clothes
+shop: Kleidung
 ---

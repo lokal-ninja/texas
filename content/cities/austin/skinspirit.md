@@ -1,5 +1,5 @@
 ---
 title: "Skinspirit"
 url: /austin/skinspirit/
-shop: beauty
+shop: Kosmetik
 ---

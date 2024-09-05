@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Dry Cleaners"
 url: /wharton/sunshine-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

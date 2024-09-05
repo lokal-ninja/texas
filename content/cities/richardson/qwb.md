@@ -1,5 +1,5 @@
 ---
 title: "QWB"
 url: /richardson/qwb/
-shop: convenience
+shop: Lebensmittel
 ---

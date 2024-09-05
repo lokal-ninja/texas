@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /terrell/famous-footwear/
-shop: shoes
+shop: Schuhe
 ---

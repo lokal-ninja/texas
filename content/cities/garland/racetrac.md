@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /garland/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

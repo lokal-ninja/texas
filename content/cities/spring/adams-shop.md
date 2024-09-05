@@ -1,5 +1,5 @@
 ---
 title: "Adam's Shop"
 url: /spring/adams-shop/
-shop: beauty
+shop: Kosmetik
 ---

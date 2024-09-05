@@ -1,5 +1,5 @@
 ---
 title: "Simply Self Storage"
 url: /frisco/simply-self-storage/
-shop: storage rental
+shop: Mieten
 ---

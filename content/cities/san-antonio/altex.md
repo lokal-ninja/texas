@@ -1,5 +1,5 @@
 ---
 title: "Altex"
 url: /san-antonio/altex/
-shop: computer
+shop: Computer
 ---

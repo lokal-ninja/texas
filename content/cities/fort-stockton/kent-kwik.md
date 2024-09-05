@@ -1,5 +1,5 @@
 ---
 title: "Kent Kwik"
 url: /fort-stockton/kent-kwik/
-shop: convenience
+shop: Lebensmittel
 ---

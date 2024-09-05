@@ -1,5 +1,5 @@
 ---
 title: "Dickens Locksmith"
 url: /bastrop/dickens-locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

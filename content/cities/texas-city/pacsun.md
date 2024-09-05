@@ -1,5 +1,5 @@
 ---
 title: "PacSun"
 url: /texas-city/pacsun/
-shop: clothes
+shop: Kleidung
 ---

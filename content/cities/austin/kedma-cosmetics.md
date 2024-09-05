@@ -1,5 +1,5 @@
 ---
 title: "Kedma Cosmetics"
 url: /austin/kedma-cosmetics/
-shop: beauty
+shop: Kosmetik
 ---

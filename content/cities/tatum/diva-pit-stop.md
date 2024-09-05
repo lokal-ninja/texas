@@ -1,5 +1,5 @@
 ---
 title: "Diva Pit Stop"
 url: /tatum/diva-pit-stop/
-shop: beauty
+shop: Kosmetik
 ---

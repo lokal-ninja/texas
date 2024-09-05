@@ -1,5 +1,5 @@
 ---
 title: "Y Nails"
 url: /bastrop/y-nails/
-shop: beauty
+shop: Kosmetik
 ---

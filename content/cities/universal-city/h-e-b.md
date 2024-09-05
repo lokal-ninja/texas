@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /universal-city/h-e-b/
-shop: supermarket
+shop: Supermarkt
 ---

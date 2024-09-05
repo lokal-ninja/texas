@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /bastrop/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parkview Nails"
 url: /houston/parkview-nails/
-shop: beauty
+shop: Kosmetik
 ---

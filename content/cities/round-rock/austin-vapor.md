@@ -1,5 +1,5 @@
 ---
 title: "Austin Vapor"
 url: /round-rock/austin-vapor/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

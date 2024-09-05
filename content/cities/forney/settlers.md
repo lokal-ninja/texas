@@ -1,5 +1,5 @@
 ---
 title: "Settlers"
 url: /forney/settlers/
-shop: convenience
+shop: Lebensmittel
 ---

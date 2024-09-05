@@ -1,5 +1,5 @@
 ---
 title: "Deco-Dence"
 url: /dallas/deco-dence/
-shop: furniture
+shop: Möbel
 ---

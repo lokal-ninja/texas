@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /texarkana/michaels/
-shop: craft
+shop: Basteln
 ---

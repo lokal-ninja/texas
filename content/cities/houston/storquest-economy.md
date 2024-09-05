@@ -1,5 +1,5 @@
 ---
 title: "StorQuest Economy"
 url: /houston/storquest-economy/
-shop: storage rental
+shop: Mieten
 ---

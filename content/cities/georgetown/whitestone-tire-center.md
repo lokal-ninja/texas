@@ -1,5 +1,5 @@
 ---
 title: "Whitestone Tire Center"
 url: /georgetown/whitestone-tire-center/
-shop: tyres
+shop: Reifen
 ---

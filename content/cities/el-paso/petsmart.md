@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /el-paso/petsmart/
-shop: pet
+shop: Tiere
 ---

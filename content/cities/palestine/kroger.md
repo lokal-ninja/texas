@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /palestine/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

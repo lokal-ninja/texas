@@ -1,5 +1,5 @@
 ---
 title: "Lion Country Store"
 url: /roby/lion-country-store/
-shop: convenience
+shop: Lebensmittel
 ---

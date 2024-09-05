@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /alvin/7-eleven-east-state-highway-6/
-shop: convenience
+shop: Lebensmittel
 ---

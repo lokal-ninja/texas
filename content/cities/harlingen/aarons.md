@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /harlingen/aarons/
-shop: furniture
+shop: Möbel
 ---

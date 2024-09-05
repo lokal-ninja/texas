@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /longview/sport-clips-gilmer-road/
-shop: hairdresser
+shop: Friseur
 ---

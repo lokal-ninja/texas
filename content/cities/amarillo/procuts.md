@@ -1,5 +1,5 @@
 ---
 title: "ProCuts"
 url: /amarillo/procuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /bastrop/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

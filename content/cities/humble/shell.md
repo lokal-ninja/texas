@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /humble/shell/
-shop: convenience
+shop: Lebensmittel
 ---

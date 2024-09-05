@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /austin/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

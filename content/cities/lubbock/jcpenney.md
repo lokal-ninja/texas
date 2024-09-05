@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /lubbock/jcpenney/
-shop: department store
+shop: Warenhaus
 ---

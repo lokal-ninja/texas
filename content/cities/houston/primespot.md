@@ -1,5 +1,5 @@
 ---
 title: "Primespot"
 url: /houston/primespot/
-shop: convenience
+shop: Lebensmittel
 ---

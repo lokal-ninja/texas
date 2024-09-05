@@ -1,5 +1,5 @@
 ---
 title: "Vargas Ace Hardware"
 url: /eagle-pass/vargas-ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

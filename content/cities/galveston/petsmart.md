@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /galveston/petsmart/
-shop: pet
+shop: Tiere
 ---

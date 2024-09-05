@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /houston/cvs-pharmacy-east-richey-road/
-shop: chemist
+shop: Drogerie
 ---

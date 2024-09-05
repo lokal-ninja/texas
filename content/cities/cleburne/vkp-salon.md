@@ -1,5 +1,5 @@
 ---
 title: "VKP Salon"
 url: /cleburne/vkp-salon/
-shop: hairdresser
+shop: Friseur
 ---

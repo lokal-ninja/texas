@@ -1,5 +1,5 @@
 ---
 title: "KeeKopy Printing"
 url: /addison/keekopy-printing/
-shop: copyshop
+shop: Kopieren
 ---

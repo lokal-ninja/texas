@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /pearland/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

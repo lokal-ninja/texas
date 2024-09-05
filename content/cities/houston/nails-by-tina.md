@@ -1,5 +1,5 @@
 ---
 title: "Nails by Tina"
 url: /houston/nails-by-tina/
-shop: beauty
+shop: Kosmetik
 ---

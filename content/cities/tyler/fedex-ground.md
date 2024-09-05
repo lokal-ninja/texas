@@ -1,5 +1,5 @@
 ---
 title: "FedEx Ground"
 url: /tyler/fedex-ground/
-shop: copyshop
+shop: Kopieren
 ---

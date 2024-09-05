@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /pearland/skechers/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /gordonville/dollar-general/
-shop: variety store
+shop: Kramladen
 ---

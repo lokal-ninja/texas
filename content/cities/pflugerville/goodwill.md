@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /pflugerville/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /beaumont/spectrum/
-shop: mobile phone
+shop: Handy
 ---

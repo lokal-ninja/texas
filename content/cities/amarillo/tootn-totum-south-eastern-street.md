@@ -1,5 +1,5 @@
 ---
 title: "Toot'n Totum"
 url: /amarillo/tootn-totum-south-eastern-street/
-shop: convenience
+shop: Lebensmittel
 ---

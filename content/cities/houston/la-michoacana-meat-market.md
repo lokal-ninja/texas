@@ -1,5 +1,5 @@
 ---
 title: "La Michoacana Meat Market"
 url: /houston/la-michoacana-meat-market/
-shop: butcher
+shop: Metzgerei
 ---

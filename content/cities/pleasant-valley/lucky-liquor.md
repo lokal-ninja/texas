@@ -1,5 +1,5 @@
 ---
 title: "Lucky Liquor"
 url: /pleasant-valley/lucky-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

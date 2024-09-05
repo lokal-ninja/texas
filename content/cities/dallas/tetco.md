@@ -1,5 +1,5 @@
 ---
 title: "Tetco"
 url: /dallas/tetco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Popular Food Mart"
 url: /san-antonio/popular-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

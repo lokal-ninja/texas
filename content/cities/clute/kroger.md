@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /clute/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

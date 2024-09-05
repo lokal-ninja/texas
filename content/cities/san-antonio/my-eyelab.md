@@ -1,5 +1,5 @@
 ---
 title: "My Eyelab"
 url: /san-antonio/my-eyelab/
-shop: optician
+shop: Optiker
 ---

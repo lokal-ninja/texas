@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /austin/circle-k-west-slaughter-lane/
-shop: convenience
+shop: Lebensmittel
 ---

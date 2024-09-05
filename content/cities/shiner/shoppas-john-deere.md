@@ -1,5 +1,5 @@
 ---
 title: "Shoppa's John Deere"
 url: /shiner/shoppas-john-deere/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

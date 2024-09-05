@@ -1,5 +1,5 @@
 ---
 title: "Adventure Photo"
 url: /san-antonio/adventure-photo/
-shop: photo
+shop: Foto
 ---

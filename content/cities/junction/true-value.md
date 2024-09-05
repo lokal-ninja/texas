@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /junction/true-value/
-shop: hardware
+shop: Eisenwaren
 ---

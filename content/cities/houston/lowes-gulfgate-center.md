@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /houston/lowes-gulfgate-center/
-shop: doityourself
+shop: Baumarkt
 ---

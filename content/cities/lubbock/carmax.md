@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /lubbock/carmax/
-shop: car
+shop: Autohaus
 ---

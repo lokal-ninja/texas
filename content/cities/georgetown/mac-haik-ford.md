@@ -1,5 +1,5 @@
 ---
 title: "Mac Haik Ford"
 url: /georgetown/mac-haik-ford/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /new-caney/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

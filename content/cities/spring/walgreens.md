@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /spring/walgreens/
-shop: chemist
+shop: Drogerie
 ---

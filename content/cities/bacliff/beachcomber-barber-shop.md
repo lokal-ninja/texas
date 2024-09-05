@@ -1,5 +1,5 @@
 ---
 title: "Beachcomber Barber Shop"
 url: /bacliff/beachcomber-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

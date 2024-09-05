@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /manvel/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

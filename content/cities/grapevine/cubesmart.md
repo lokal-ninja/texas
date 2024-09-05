@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /grapevine/cubesmart/
-shop: storage rental
+shop: Mieten
 ---

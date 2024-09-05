@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /austin/sephora/
-shop: beauty
+shop: Kosmetik
 ---

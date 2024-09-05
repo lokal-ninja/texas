@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /irving/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /falfurrias/stripes-east-rice-street/
-shop: convenience
+shop: Lebensmittel
 ---

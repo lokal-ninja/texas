@@ -1,5 +1,5 @@
 ---
 title: "Advance"
 url: /killeen/advance/
-shop: car parts
+shop: Autoteile
 ---

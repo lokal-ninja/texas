@@ -1,5 +1,5 @@
 ---
 title: "Norma's Hair Studio"
 url: /floydada/normas-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

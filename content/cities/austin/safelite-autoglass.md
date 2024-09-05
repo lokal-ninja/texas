@@ -1,5 +1,5 @@
 ---
 title: "Safelite AutoGlass"
 url: /austin/safelite-autoglass/
-shop: car repair
+shop: Autowerkstatt
 ---

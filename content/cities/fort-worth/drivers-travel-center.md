@@ -1,5 +1,5 @@
 ---
 title: "Driver's Travel Center"
 url: /fort-worth/drivers-travel-center/
-shop: convenience
+shop: Lebensmittel
 ---

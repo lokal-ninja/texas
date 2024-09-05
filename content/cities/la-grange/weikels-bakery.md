@@ -1,5 +1,5 @@
 ---
 title: "Weikel's Bakery"
 url: /la-grange/weikels-bakery/
-shop: bakery
+shop: Bäckerei
 ---

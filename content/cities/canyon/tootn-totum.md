@@ -1,5 +1,5 @@
 ---
 title: "Toot'n Totum"
 url: /canyon/tootn-totum/
-shop: convenience
+shop: Lebensmittel
 ---

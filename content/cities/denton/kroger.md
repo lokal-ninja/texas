@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /denton/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

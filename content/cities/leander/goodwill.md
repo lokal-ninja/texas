@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /leander/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /watauga/target/
-shop: supermarket
+shop: Supermarkt
 ---

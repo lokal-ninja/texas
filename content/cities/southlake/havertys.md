@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /southlake/havertys/
-shop: furniture
+shop: Möbel
 ---

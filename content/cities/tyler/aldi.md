@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /tyler/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

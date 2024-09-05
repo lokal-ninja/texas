@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /houston/kroger-katy-freeway/
-shop: supermarket
+shop: Supermarkt
 ---

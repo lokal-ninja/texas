@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /garland/michaels/
-shop: craft
+shop: Basteln
 ---

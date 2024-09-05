@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /edinburg/stripes-south-closner-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

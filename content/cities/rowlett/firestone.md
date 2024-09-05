@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /rowlett/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

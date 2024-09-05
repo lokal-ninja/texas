@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /mansfield/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

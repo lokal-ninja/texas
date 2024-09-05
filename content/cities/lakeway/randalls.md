@@ -1,5 +1,5 @@
 ---
 title: "Randalls"
 url: /lakeway/randalls/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /odessa/loves/
-shop: convenience
+shop: Lebensmittel
 ---

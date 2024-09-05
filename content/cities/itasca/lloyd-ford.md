@@ -1,5 +1,5 @@
 ---
 title: "Lloyd Ford"
 url: /itasca/lloyd-ford/
-shop: car
+shop: Autohaus
 ---

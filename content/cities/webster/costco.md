@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /webster/costco/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chico's Outlet"
 url: /texas-city/chicos-outlet/
-shop: clothes
+shop: Kleidung
 ---

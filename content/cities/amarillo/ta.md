@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /amarillo/ta/
-shop: convenience
+shop: Lebensmittel
 ---

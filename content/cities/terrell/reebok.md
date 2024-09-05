@@ -1,5 +1,5 @@
 ---
 title: "Reebok"
 url: /terrell/reebok/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star Furniture Clearance Center"
 url: /houston/star-furniture-clearance-center/
-shop: furniture
+shop: Möbel
 ---

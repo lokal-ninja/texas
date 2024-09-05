@@ -1,5 +1,5 @@
 ---
 title: "New You Fitness Nutrition"
 url: /mesquite/new-you-fitness-nutrition/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

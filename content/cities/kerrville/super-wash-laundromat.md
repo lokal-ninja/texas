@@ -1,5 +1,5 @@
 ---
 title: "Super Wash Laundromat"
 url: /kerrville/super-wash-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

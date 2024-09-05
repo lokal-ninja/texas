@@ -1,5 +1,5 @@
 ---
 title: "Rhea Lanas"
 url: /san-marcos/rhea-lanas/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avenue"
 url: /mcallen/avenue/
-shop: clothes
+shop: Kleidung
 ---

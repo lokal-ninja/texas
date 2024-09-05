@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /perryton/cefco/
-shop: convenience
+shop: Lebensmittel
 ---

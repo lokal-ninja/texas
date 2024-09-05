@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /laredo/shoe-carnival/
-shop: shoes
+shop: Schuhe
 ---

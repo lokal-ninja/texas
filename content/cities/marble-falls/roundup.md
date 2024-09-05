@@ -1,5 +1,5 @@
 ---
 title: "Roundup"
 url: /marble-falls/roundup/
-shop: convenience
+shop: Lebensmittel
 ---

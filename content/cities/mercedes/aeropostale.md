@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /mercedes/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

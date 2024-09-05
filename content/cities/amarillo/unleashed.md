@@ -1,5 +1,5 @@
 ---
 title: "Unleashed"
 url: /amarillo/unleashed/
-shop: pet grooming
+shop: Tiersalon
 ---

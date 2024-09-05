@@ -1,5 +1,5 @@
 ---
 title: "United Supermarkets"
 url: /odessa/united-supermarkets-north-county-road-west/
-shop: supermarket
+shop: Supermarkt
 ---

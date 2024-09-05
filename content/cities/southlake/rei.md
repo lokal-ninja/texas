@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /southlake/rei/
-shop: outdoor
+shop: Outdoor
 ---

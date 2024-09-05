@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /paris/cefco-bonham-street/
-shop: convenience
+shop: Lebensmittel
 ---

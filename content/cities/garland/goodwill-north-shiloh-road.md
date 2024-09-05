@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /garland/goodwill-north-shiloh-road/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revel Workshop"
 url: /dallas/revel-workshop/
-shop: hairdresser
+shop: Friseur
 ---

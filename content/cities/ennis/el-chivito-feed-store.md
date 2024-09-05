@@ -1,5 +1,5 @@
 ---
 title: "El Chivito Feed Store"
 url: /ennis/el-chivito-feed-store/
-shop: general
+shop: Dorfladen
 ---

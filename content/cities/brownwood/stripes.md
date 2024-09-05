@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /brownwood/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

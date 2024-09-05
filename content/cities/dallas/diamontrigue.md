@@ -1,5 +1,5 @@
 ---
 title: "Diamontrigue"
 url: /dallas/diamontrigue/
-shop: jewelry
+shop: Schmuck
 ---

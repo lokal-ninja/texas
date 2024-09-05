@@ -1,5 +1,5 @@
 ---
 title: "Tri-Star"
 url: /houston/tri-star/
-shop: convenience
+shop: Lebensmittel
 ---

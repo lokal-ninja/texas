@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /fort-worth/meineke/
-shop: car repair
+shop: Autowerkstatt
 ---

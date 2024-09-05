@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /mesquite/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

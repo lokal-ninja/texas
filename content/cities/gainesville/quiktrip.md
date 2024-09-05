@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /gainesville/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

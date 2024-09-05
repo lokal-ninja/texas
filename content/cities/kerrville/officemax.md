@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /kerrville/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

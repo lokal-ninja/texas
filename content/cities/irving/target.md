@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /irving/target/
-shop: supermarket
+shop: Supermarkt
 ---

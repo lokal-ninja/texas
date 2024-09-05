@@ -1,5 +1,5 @@
 ---
 title: "Smoketronix"
 url: /brenham/smoketronix/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

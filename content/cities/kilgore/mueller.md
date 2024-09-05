@@ -1,5 +1,5 @@
 ---
 title: "Mueller"
 url: /kilgore/mueller/
-shop: trade
+shop: Baustoffe
 ---

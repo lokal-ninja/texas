@@ -1,5 +1,5 @@
 ---
 title: "Twice Is Nice"
 url: /greenville/twice-is-nice/
-shop: charity
+shop: Gebrauchtwaren
 ---

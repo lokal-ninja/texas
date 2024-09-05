@@ -1,5 +1,5 @@
 ---
 title: "E-Z Wash"
 url: /san-antonio/e-z-wash/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anixter"
 url: /stanton/anixter/
-shop: trade
+shop: Baustoffe
 ---

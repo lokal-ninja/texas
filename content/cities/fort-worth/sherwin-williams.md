@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /fort-worth/sherwin-williams/
-shop: paint
+shop: Farben
 ---

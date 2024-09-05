@@ -1,5 +1,5 @@
 ---
 title: "Antina"
 url: /quitaque/antina/
-shop: vacant
+shop: Leerstehend
 ---

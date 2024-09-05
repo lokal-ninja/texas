@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /longview/bridgestone/
-shop: tyres
+shop: Reifen
 ---

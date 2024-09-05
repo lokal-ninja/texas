@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /brownsville/h-e-b-southmost-road/
-shop: supermarket
+shop: Supermarkt
 ---

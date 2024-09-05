@@ -1,5 +1,5 @@
 ---
 title: "TX7"
 url: /san-marcos/tx7/
-shop: clothes
+shop: Kleidung
 ---

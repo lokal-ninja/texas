@@ -1,5 +1,5 @@
 ---
 title: "Crumpton TV"
 url: /greenville/crumpton-tv/
-shop: electronics
+shop: Elektronik
 ---

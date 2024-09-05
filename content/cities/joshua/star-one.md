@@ -1,5 +1,5 @@
 ---
 title: "Star One"
 url: /joshua/star-one/
-shop: convenience
+shop: Lebensmittel
 ---

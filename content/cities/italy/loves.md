@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /italy/loves/
-shop: convenience
+shop: Lebensmittel
 ---

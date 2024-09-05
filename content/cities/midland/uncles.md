@@ -1,5 +1,5 @@
 ---
 title: "Uncle's"
 url: /midland/uncles/
-shop: convenience
+shop: Lebensmittel
 ---

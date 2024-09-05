@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /kerrville/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /converse/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

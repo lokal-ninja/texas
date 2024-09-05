@@ -1,5 +1,5 @@
 ---
 title: "Francesca's"
 url: /katy/francescas/
-shop: clothes
+shop: Kleidung
 ---

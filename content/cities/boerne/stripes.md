@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /boerne/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

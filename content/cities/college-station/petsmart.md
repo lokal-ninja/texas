@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /college-station/petsmart/
-shop: pet
+shop: Tiere
 ---

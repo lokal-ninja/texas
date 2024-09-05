@@ -1,5 +1,5 @@
 ---
 title: "Food Mart"
 url: /el-paso/food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

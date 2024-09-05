@@ -1,5 +1,5 @@
 ---
 title: "Elie Tahari"
 url: /san-marcos/elie-tahari/
-shop: clothes
+shop: Kleidung
 ---

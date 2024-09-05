@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pantego/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /plainview/titlemax/
-shop: pawnbroker
+shop: Leiher
 ---

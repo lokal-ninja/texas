@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /sunset-valley/academy-sports-outdoors/
-shop: sports
+shop: Sport
 ---

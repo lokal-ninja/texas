@@ -1,5 +1,5 @@
 ---
 title: "A-AAAKEY Mini Storage"
 url: /san-antonio/a-aaakey-mini-storage/
-shop: storage rental
+shop: Mieten
 ---

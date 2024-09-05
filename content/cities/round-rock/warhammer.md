@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /round-rock/warhammer/
-shop: games
+shop: Spiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rodriquez Meat Market"
 url: /seminole/rodriquez-meat-market/
-shop: butcher
+shop: Metzgerei
 ---

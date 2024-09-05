@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /dallas/kroger-haskell/
-shop: supermarket
+shop: Supermarkt
 ---

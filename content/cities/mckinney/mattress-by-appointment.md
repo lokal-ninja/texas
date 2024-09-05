@@ -1,5 +1,5 @@
 ---
 title: "Mattress by Appointment"
 url: /mckinney/mattress-by-appointment/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /friendswood/ntb/
-shop: tyres
+shop: Reifen
 ---

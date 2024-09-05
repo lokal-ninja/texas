@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /texarkana/petsmart/
-shop: pet
+shop: Tiere
 ---

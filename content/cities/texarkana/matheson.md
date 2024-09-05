@@ -1,5 +1,5 @@
 ---
 title: "Matheson"
 url: /texarkana/matheson/
-shop: gas
+shop: Gasflaschen
 ---

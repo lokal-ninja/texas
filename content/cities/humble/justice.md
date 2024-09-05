@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /humble/justice/
-shop: clothes
+shop: Kleidung
 ---

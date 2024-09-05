@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /fort-worth/michaels-carroll-street/
-shop: craft
+shop: Basteln
 ---

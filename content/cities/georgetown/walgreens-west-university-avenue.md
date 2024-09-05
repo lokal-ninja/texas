@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /georgetown/walgreens-west-university-avenue/
-shop: chemist
+shop: Drogerie
 ---

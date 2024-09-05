@@ -1,5 +1,5 @@
 ---
 title: "Stage"
 url: /jacksonville/stage/
-shop: clothes
+shop: Kleidung
 ---

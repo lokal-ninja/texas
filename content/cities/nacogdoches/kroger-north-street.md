@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /nacogdoches/kroger-north-street/
-shop: supermarket
+shop: Supermarkt
 ---

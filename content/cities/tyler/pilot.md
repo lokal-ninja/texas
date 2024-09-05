@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /tyler/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

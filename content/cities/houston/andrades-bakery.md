@@ -1,5 +1,5 @@
 ---
 title: "Andrade's Bakery"
 url: /houston/andrades-bakery/
-shop: bakery
+shop: Bäckerei
 ---

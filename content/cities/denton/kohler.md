@@ -1,5 +1,5 @@
 ---
 title: "Kohler"
 url: /denton/kohler/
-shop: bathroom
+shop: Badezimmer
 ---

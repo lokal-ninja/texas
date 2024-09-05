@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /harker-heights/h-e-b/
-shop: supermarket
+shop: Supermarkt
 ---

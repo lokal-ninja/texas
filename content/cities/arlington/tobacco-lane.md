@@ -1,5 +1,5 @@
 ---
 title: "Tobacco Lane"
 url: /arlington/tobacco-lane/
-shop: tobacco
+shop: Tabak
 ---

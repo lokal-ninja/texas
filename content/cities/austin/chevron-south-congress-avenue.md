@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /austin/chevron-south-congress-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /spring/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "With Love Doggie Salon"
 url: /midland/with-love-doggie-salon/
-shop: pet grooming
+shop: Tiersalon
 ---

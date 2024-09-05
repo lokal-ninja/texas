@@ -1,5 +1,5 @@
 ---
 title: "Simem America"
 url: /san-antonio/simem-america/
-shop: trade
+shop: Baustoffe
 ---

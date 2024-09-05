@@ -1,5 +1,5 @@
 ---
 title: "Metroplex Welding Supply"
 url: /dallas/metroplex-welding-supply/
-shop: hardware
+shop: Eisenwaren
 ---

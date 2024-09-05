@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /houston/circle-k-westheimer-road/
-shop: convenience
+shop: Lebensmittel
 ---

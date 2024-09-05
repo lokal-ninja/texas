@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /austin/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

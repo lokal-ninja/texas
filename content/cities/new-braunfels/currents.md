@@ -1,5 +1,5 @@
 ---
 title: "Currents"
 url: /new-braunfels/currents/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /temple/walmart-supercenter-west-adams-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

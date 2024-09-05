@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /moody/sunoco/
-shop: convenience
+shop: Lebensmittel
 ---

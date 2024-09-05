@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /mcgregor/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

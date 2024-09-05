@@ -1,5 +1,5 @@
 ---
 title: "BoxDrop"
 url: /harlingen/boxdrop/
-shop: bed
+shop: Betten
 ---

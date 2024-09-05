@@ -1,5 +1,5 @@
 ---
 title: "Atlas Credit"
 url: /san-antonio/atlas-credit/
-shop: pawnbroker
+shop: Leiher
 ---

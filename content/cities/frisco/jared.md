@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /frisco/jared/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vape City"
 url: /madisonviie/vape-city/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

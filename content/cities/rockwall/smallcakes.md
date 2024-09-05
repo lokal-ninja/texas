@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /rockwall/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

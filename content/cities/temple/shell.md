@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /temple/shell/
-shop: convenience
+shop: Lebensmittel
 ---

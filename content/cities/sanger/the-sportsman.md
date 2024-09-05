@@ -1,5 +1,5 @@
 ---
 title: "The Sportsman"
 url: /sanger/the-sportsman/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Half of Half"
 url: /richardson/half-of-half/
-shop: charity
+shop: Gebrauchtwaren
 ---

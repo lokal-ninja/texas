@@ -1,5 +1,5 @@
 ---
 title: "Mueller"
 url: /anthony/mueller/
-shop: trade
+shop: Baustoffe
 ---

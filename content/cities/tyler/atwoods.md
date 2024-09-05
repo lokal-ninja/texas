@@ -1,5 +1,5 @@
 ---
 title: "Atwoods"
 url: /tyler/atwoods/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Passport"
 url: /sherman/passport/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /baytown/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

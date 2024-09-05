@@ -1,5 +1,5 @@
 ---
 title: "All Season Food Store"
 url: /houston/all-season-food-store-airline-drive/
-shop: convenience
+shop: Lebensmittel
 ---

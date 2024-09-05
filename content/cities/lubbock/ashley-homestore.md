@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /lubbock/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

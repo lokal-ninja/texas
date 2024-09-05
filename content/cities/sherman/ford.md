@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /sherman/ford/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reminisce"
 url: /amarillo/reminisce/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kalologie Medspa"
 url: /austin/kalologie-medspa/
-shop: beauty
+shop: Kosmetik
 ---

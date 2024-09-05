@@ -1,5 +1,5 @@
 ---
 title: "Cart Castle"
 url: /liberty-hill/cart-castle/
-shop: shop
+shop: Allgemein
 ---

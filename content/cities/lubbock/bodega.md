@@ -1,5 +1,5 @@
 ---
 title: "Bodega"
 url: /lubbock/bodega/
-shop: convenience
+shop: Lebensmittel
 ---

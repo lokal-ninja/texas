@@ -1,5 +1,5 @@
 ---
 title: "Northside Ford"
 url: /san-antonio/northside-ford/
-shop: car
+shop: Autohaus
 ---

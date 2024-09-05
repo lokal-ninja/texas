@@ -1,5 +1,5 @@
 ---
 title: "Melrose"
 url: /san-antonio/melrose/
-shop: clothes
+shop: Kleidung
 ---

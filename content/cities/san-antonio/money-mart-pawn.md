@@ -1,5 +1,5 @@
 ---
 title: "Money Mart Pawn"
 url: /san-antonio/money-mart-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

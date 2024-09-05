@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /cleburne/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

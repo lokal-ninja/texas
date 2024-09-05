@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /spring/walmart-supercenter-woodlands-parkway/
-shop: supermarket
+shop: Supermarkt
 ---

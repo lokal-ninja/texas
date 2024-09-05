@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /spring/maurices/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "United Supermarkets"
 url: /burkburnett/united-supermarkets/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /richardson/insomnia-cookies/
-shop: pastry
+shop: Konditorei
 ---

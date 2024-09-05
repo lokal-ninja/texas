@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /houston/mattress-firm-san-felipe-street/
-shop: bed
+shop: Betten
 ---

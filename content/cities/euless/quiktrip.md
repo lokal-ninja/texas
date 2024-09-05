@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /euless/quiktrip/
-shop: convenience
+shop: Lebensmittel
 ---

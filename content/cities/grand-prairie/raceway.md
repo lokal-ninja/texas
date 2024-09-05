@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /grand-prairie/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

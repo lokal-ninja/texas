@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /hawley/yesway/
-shop: convenience
+shop: Lebensmittel
 ---

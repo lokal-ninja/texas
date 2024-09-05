@@ -1,5 +1,5 @@
 ---
 title: "Homeboys"
 url: /garland/homeboys/
-shop: convenience
+shop: Lebensmittel
 ---

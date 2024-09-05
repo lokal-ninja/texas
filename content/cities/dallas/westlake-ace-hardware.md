@@ -1,5 +1,5 @@
 ---
 title: "Westlake Ace Hardware"
 url: /dallas/westlake-ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BodyBilt"
 url: /navasota/bodybilt/
-shop: furniture
+shop: Möbel
 ---

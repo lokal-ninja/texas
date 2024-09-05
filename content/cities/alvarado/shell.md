@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /alvarado/shell/
-shop: convenience
+shop: Lebensmittel
 ---

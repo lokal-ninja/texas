@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /cedar-park/petsmart-east-whitestone-boulevard/
-shop: pet
+shop: Tiere
 ---

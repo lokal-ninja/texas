@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lubbock/stripes-clovis-road-2/
-shop: convenience
+shop: Lebensmittel
 ---

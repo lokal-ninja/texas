@@ -1,5 +1,5 @@
 ---
 title: "Aldine Mini Market"
 url: /houston/aldine-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

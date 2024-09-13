@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /denton/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

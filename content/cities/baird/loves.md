@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /baird/loves/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cinnaholic"
 url: /dallas/cinnaholic/
-shop: Konditorei
+shop: pastry
 ---

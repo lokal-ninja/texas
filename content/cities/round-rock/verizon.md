@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /round-rock/verizon/
-shop: Handy
+shop: mobile phone
 ---

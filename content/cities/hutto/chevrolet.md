@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /hutto/chevrolet/
-shop: Autohaus
+shop: car
 ---

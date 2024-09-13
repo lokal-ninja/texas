@@ -1,5 +1,5 @@
 ---
 title: "Color It Custom"
 url: /lubbock/color-it-custom/
-shop: Autowerkstatt
+shop: car repair
 ---

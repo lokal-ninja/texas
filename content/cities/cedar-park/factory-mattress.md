@@ -1,5 +1,5 @@
 ---
 title: "Factory Mattress"
 url: /cedar-park/factory-mattress/
-shop: Betten
+shop: bed
 ---

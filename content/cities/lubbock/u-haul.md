@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /lubbock/u-haul/
-shop: Mieten
+shop: storage rental
 ---

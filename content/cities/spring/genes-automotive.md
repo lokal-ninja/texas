@@ -1,5 +1,5 @@
 ---
 title: "Gene's Automotive"
 url: /spring/genes-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

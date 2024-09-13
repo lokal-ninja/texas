@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /balcones-heights/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

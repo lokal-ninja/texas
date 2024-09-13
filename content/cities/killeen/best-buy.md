@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /killeen/best-buy/
-shop: Elektronik
+shop: electronics
 ---

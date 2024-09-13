@@ -1,5 +1,5 @@
 ---
 title: "Williams Auto Salvage"
 url: /houston/williams-auto-salvage/
-shop: Allgemein
+shop: shop
 ---

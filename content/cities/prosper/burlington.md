@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /prosper/burlington/
-shop: Warenhaus
+shop: department store
 ---

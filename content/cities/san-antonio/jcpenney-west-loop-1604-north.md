@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /san-antonio/jcpenney-west-loop-1604-north/
-shop: Warenhaus
+shop: department store
 ---

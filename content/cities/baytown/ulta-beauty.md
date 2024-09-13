@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /baytown/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

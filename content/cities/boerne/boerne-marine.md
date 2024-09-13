@@ -1,5 +1,5 @@
 ---
 title: "Boerne Marine"
 url: /boerne/boerne-marine/
-shop: Boot
+shop: boat
 ---

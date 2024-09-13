@@ -1,5 +1,5 @@
 ---
 title: "Royal Blue Grocery"
 url: /austin/royal-blue-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

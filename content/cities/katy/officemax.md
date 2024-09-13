@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /katy/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

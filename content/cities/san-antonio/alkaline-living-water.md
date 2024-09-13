@@ -1,5 +1,5 @@
 ---
 title: "Alkaline Living Water"
 url: /san-antonio/alkaline-living-water/
-shop: Wasser
+shop: water
 ---

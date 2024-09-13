@@ -1,5 +1,5 @@
 ---
 title: "Immortal Inc"
 url: /waxahachie/immortal-inc/
-shop: Tattoo
+shop: tattoo
 ---

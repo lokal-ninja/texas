@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /houston/big-lots-north-shepherd-drive/
-shop: Warenhaus
+shop: department store
 ---

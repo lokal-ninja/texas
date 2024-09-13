@@ -1,5 +1,5 @@
 ---
 title: "Randalls"
 url: /austin/randalls/
-shop: Supermarkt
+shop: supermarket
 ---

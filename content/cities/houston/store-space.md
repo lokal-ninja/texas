@@ -1,5 +1,5 @@
 ---
 title: "Store Space"
 url: /houston/store-space/
-shop: Mieten
+shop: storage rental
 ---

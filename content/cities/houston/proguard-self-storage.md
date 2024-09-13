@@ -1,5 +1,5 @@
 ---
 title: "Proguard Self Storage"
 url: /houston/proguard-self-storage/
-shop: Mieten
+shop: storage rental
 ---

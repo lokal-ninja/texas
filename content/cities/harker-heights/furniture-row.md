@@ -1,5 +1,5 @@
 ---
 title: "Furniture Row"
 url: /harker-heights/furniture-row/
-shop: Möbel
+shop: furniture
 ---

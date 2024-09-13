@@ -1,5 +1,5 @@
 ---
 title: "RMC Pawn"
 url: /coleman/rmc-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

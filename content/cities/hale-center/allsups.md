@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /hale-center/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

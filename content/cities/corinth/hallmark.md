@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /corinth/hallmark/
-shop: Andenken
+shop: gift
 ---

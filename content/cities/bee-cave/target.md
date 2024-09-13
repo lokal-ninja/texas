@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bee-cave/target/
-shop: Warenhaus
+shop: department store
 ---

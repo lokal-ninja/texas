@@ -1,5 +1,5 @@
 ---
 title: "Amarillo Armory"
 url: /amarillo/amarillo-armory/
-shop: Jagd
+shop: hunting
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Williams Supply Company"
 url: /marion/williams-supply-company/
-shop: Baustoffe
+shop: trade
 ---

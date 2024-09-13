@@ -1,5 +1,5 @@
 ---
 title: "TW's Auto Repair"
 url: /new-braunfels/tws-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /austin/h-e-b-research-boulevard-2/
-shop: Supermarkt
+shop: supermarket
 ---

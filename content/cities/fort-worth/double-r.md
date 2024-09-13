@@ -1,5 +1,5 @@
 ---
 title: "Double R"
 url: /fort-worth/double-r/
-shop: Kleidung
+shop: clothes
 ---

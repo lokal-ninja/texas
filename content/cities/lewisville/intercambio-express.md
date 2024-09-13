@@ -1,5 +1,5 @@
 ---
 title: "InterCambio Express"
 url: /lewisville/intercambio-express/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /austin/walgreens-tech-ridge-boulevard/
-shop: Drogerie
+shop: chemist
 ---

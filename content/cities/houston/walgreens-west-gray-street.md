@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /houston/walgreens-west-gray-street/
-shop: Drogerie
+shop: chemist
 ---

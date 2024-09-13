@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /cypress/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

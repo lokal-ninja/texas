@@ -1,5 +1,5 @@
 ---
 title: "Auto Tint Design"
 url: /waxahachie/auto-tint-design/
-shop: Autowerkstatt
+shop: car repair
 ---

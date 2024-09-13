@@ -1,5 +1,5 @@
 ---
 title: "Aritzia"
 url: /austin/aritzia/
-shop: Kleidung
+shop: clothes
 ---

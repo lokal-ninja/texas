@@ -1,5 +1,5 @@
 ---
 title: "Dejablue"
 url: /lubbock/dejablue/
-shop: Kleidung
+shop: clothes
 ---

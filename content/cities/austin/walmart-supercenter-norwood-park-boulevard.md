@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /austin/walmart-supercenter-norwood-park-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

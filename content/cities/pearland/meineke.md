@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /pearland/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

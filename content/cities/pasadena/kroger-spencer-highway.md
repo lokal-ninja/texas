@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /pasadena/kroger-spencer-highway/
-shop: Supermarkt
+shop: supermarket
 ---

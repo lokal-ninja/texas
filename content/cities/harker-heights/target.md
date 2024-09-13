@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /harker-heights/target/
-shop: Warenhaus
+shop: department store
 ---

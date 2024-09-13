@@ -1,5 +1,5 @@
 ---
 title: "Town Talk Foods"
 url: /arlington/town-talk-foods/
-shop: Supermarkt
+shop: supermarket
 ---

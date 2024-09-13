@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /lubbock/bealls/
-shop: Kleidung
+shop: clothes
 ---

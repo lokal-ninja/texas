@@ -1,5 +1,5 @@
 ---
 title: "United Rentals"
 url: /denton/united-rentals/
-shop: Mieten
+shop: storage rental
 ---

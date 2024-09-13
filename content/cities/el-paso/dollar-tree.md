@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /el-paso/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

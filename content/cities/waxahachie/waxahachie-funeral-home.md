@@ -1,5 +1,5 @@
 ---
 title: "Waxahachie Funeral Home"
 url: /waxahachie/waxahachie-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

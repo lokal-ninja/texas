@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /gun-barrel-city/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobile Magic"
 url: /houston/mobile-magic/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Academy Sports + Outdoors"
 url: /missouri-city/academy-sports-outdoors/
-shop: Sport
+shop: sports
 ---

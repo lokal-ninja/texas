@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /sherman/sprint/
-shop: Handy
+shop: mobile phone
 ---

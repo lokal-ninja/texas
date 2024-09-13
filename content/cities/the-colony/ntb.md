@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /the-colony/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

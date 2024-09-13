@@ -1,5 +1,5 @@
 ---
 title: "Matress Depot"
 url: /denton/matress-depot/
-shop: Betten
+shop: bed
 ---

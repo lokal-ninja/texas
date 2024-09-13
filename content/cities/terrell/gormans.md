@@ -1,5 +1,5 @@
 ---
 title: "Gorman's"
 url: /terrell/gormans/
-shop: Metzgerei
+shop: butcher
 ---

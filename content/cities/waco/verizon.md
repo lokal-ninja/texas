@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /waco/verizon/
-shop: Handy
+shop: mobile phone
 ---

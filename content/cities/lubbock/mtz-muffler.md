@@ -1,5 +1,5 @@
 ---
 title: "MTZ Muffler"
 url: /lubbock/mtz-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

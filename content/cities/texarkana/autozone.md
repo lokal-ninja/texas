@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /texarkana/autozone/
-shop: Autoteile
+shop: car parts
 ---

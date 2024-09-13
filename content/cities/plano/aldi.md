@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /plano/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

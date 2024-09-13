@@ -1,5 +1,5 @@
 ---
 title: "TXB"
 url: /midland/txb/
-shop: Lebensmittel
+shop: convenience
 ---

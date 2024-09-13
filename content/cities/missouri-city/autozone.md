@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /missouri-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beauty Mart"
 url: /denton/beauty-mart/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

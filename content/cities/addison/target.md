@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /addison/target/
-shop: Supermarkt
+shop: supermarket
 ---

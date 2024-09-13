@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /lubbock/great-clips-4th-street/
-shop: Friseur
+shop: hairdresser
 ---

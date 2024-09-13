@@ -1,5 +1,5 @@
 ---
 title: "Cricket"
 url: /houston/cricket/
-shop: Handy
+shop: mobile phone
 ---

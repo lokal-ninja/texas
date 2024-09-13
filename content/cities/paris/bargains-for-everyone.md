@@ -1,5 +1,5 @@
 ---
 title: "Bargains for Everyone"
 url: /paris/bargains-for-everyone/
-shop: Andenken
+shop: gift
 ---

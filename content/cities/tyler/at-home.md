@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /tyler/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modesty Hair Studio"
 url: /austin/modesty-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

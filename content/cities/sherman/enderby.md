@@ -1,5 +1,5 @@
 ---
 title: "Enderby"
 url: /sherman/enderby/
-shop: Lebensmittel
+shop: convenience
 ---

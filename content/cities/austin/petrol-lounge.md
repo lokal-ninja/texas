@@ -1,5 +1,5 @@
 ---
 title: "Petrol Lounge"
 url: /austin/petrol-lounge/
-shop: Mieten
+shop: storage rental
 ---

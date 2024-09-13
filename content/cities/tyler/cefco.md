@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /tyler/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

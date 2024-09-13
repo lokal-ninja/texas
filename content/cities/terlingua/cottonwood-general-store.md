@@ -1,5 +1,5 @@
 ---
 title: "Cottonwood General Store"
 url: /terlingua/cottonwood-general-store/
-shop: Dorfladen
+shop: general
 ---

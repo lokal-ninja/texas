@@ -1,5 +1,5 @@
 ---
 title: "Ridgeway Coin Laundry"
 url: /cleburne/ridgeway-coin-laundry/
-shop: Wäscherei
+shop: laundry
 ---

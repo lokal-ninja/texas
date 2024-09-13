@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /aledo/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "River Hills Mall"
 url: /kerrville/river-hills-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brutal Off Road"
 url: /bandera/brutal-off-road/
-shop: Autowerkstatt
+shop: car repair
 ---

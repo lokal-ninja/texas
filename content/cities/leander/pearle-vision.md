@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /leander/pearle-vision/
-shop: Optiker
+shop: optician
 ---

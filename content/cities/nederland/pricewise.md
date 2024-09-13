@@ -1,5 +1,5 @@
 ---
 title: "Pricewise"
 url: /nederland/pricewise/
-shop: Lebensmittel
+shop: convenience
 ---

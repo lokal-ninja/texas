@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /granbury/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

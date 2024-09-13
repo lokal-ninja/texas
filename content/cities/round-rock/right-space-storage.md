@@ -1,5 +1,5 @@
 ---
 title: "Right Space Storage"
 url: /round-rock/right-space-storage/
-shop: Mieten
+shop: storage rental
 ---

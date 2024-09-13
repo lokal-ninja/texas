@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bastrop/petco/
-shop: Tiere
+shop: pet
 ---

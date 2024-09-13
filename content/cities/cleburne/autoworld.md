@@ -1,5 +1,5 @@
 ---
 title: "AutoWorld"
 url: /cleburne/autoworld/
-shop: Autohaus
+shop: car
 ---

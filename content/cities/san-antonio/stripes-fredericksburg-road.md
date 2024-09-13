@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /san-antonio/stripes-fredericksburg-road/
-shop: Lebensmittel
+shop: convenience
 ---

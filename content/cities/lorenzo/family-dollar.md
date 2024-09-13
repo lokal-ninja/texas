@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /lorenzo/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

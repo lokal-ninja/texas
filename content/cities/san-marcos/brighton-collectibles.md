@@ -1,5 +1,5 @@
 ---
 title: "Brighton Collectibles"
 url: /san-marcos/brighton-collectibles/
-shop: Modehaus
+shop: boutique
 ---

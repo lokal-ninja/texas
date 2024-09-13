@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /humble/target/
-shop: Warenhaus
+shop: department store
 ---

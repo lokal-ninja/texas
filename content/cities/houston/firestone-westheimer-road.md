@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /houston/firestone-westheimer-road/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "High Five Tires"
 url: /richardson/high-five-tires/
-shop: Reifen
+shop: tyres
 ---

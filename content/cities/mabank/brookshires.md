@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /mabank/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

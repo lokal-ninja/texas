@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /rockwall/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

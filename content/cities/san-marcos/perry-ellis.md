@@ -1,5 +1,5 @@
 ---
 title: "Perry Ellis"
 url: /san-marcos/perry-ellis/
-shop: Kleidung
+shop: clothes
 ---

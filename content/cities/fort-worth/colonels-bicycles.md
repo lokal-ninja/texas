@@ -1,5 +1,5 @@
 ---
 title: "Colonel's Bicycles"
 url: /fort-worth/colonels-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

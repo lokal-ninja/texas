@@ -1,5 +1,5 @@
 ---
 title: "Chrome"
 url: /lubbock/chrome/
-shop: Kleidung
+shop: clothes
 ---

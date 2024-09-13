@@ -1,5 +1,5 @@
 ---
 title: "fred's"
 url: /daingerfield/freds/
-shop: Warenhaus
+shop: department store
 ---

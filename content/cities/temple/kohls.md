@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /temple/kohls/
-shop: Warenhaus
+shop: department store
 ---

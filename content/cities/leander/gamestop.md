@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /leander/gamestop/
-shop: Videospiele
+shop: video games
 ---

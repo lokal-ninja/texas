@@ -1,5 +1,5 @@
 ---
 title: "The Framer's Gallery"
 url: /georgetown/the-framers-gallery/
-shop: Rahmen
+shop: frame
 ---

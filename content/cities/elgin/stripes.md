@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /elgin/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /lubbock/airgas/
-shop: Gasflaschen
+shop: gas
 ---

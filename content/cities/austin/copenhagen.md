@@ -1,5 +1,5 @@
 ---
 title: "Copenhagen"
 url: /austin/copenhagen/
-shop: Möbel
+shop: furniture
 ---

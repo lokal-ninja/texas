@@ -1,5 +1,5 @@
 ---
 title: "Joshua Pharmacy"
 url: /joshua/joshua-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

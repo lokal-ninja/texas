@@ -1,5 +1,5 @@
 ---
 title: "Graceful"
 url: /bandera/graceful/
-shop: Andenken
+shop: gift
 ---

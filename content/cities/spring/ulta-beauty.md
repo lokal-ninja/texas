@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /spring/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

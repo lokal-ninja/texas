@@ -1,5 +1,5 @@
 ---
 title: "Cordero Garage"
 url: /hurst/cordero-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

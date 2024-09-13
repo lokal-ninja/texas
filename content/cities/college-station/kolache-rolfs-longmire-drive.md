@@ -1,5 +1,5 @@
 ---
 title: "Kolache Rolf's"
 url: /college-station/kolache-rolfs-longmire-drive/
-shop: Bäckerei
+shop: bakery
 ---

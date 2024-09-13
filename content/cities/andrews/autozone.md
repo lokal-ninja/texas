@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /andrews/autozone/
-shop: Autoteile
+shop: car parts
 ---

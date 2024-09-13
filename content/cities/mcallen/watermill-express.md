@@ -1,5 +1,5 @@
 ---
 title: "Watermill Express"
 url: /mcallen/watermill-express/
-shop: Wasser
+shop: water
 ---

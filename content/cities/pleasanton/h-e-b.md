@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /pleasanton/h-e-b/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Batky Jewellers"
 url: /dallas/batky-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

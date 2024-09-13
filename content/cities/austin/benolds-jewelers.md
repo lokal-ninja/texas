@@ -1,5 +1,5 @@
 ---
 title: "Benold's Jewelers"
 url: /austin/benolds-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

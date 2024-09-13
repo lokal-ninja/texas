@@ -1,5 +1,5 @@
 ---
 title: "Collision Lab"
 url: /houston/collision-lab/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dirty Dawgz"
 url: /dallas/dirty-dawgz/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /humble/family-dollar-will-clayton-boulevard/
-shop: Kramladen
+shop: variety store
 ---

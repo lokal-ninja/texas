@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /new-braunfels/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

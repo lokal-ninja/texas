@@ -1,6 +1,6 @@
 ---
 title: San Augustine
 url: /san-augustine/
-latitude: 31.531
+latitude: 31.533
 longitude: -94.12
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /pharr/sprint/
-shop: Handy
+shop: mobile phone
 ---

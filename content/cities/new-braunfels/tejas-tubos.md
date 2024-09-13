@@ -1,5 +1,5 @@
 ---
 title: "Tejas Tubos"
 url: /new-braunfels/tejas-tubos/
-shop: Mieten
+shop: storage rental
 ---

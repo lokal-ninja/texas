@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /liberty-hill/autozone/
-shop: Autoteile
+shop: car parts
 ---

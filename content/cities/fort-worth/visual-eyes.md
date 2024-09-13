@@ -1,5 +1,5 @@
 ---
 title: "Visual Eyes"
 url: /fort-worth/visual-eyes/
-shop: Optiker
+shop: optician
 ---

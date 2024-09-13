@@ -1,5 +1,5 @@
 ---
 title: "Destination Cycle"
 url: /kerrville/destination-cycle/
-shop: Fahrrad
+shop: bicycle
 ---

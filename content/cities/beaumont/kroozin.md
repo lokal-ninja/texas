@@ -1,5 +1,5 @@
 ---
 title: "Kroozin"
 url: /beaumont/kroozin/
-shop: Lebensmittel
+shop: convenience
 ---

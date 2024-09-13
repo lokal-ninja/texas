@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /corsicana/autozone/
-shop: Autoteile
+shop: car parts
 ---

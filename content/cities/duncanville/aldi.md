@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /duncanville/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

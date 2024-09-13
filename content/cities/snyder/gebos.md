@@ -1,5 +1,5 @@
 ---
 title: "Gebo's"
 url: /snyder/gebos/
-shop: Dorfladen
+shop: general
 ---

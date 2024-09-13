@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /waco/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

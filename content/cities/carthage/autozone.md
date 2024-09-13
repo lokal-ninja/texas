@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /carthage/autozone/
-shop: Autoteile
+shop: car parts
 ---

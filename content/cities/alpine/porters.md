@@ -1,5 +1,5 @@
 ---
 title: "Porter's"
 url: /alpine/porters/
-shop: Supermarkt
+shop: supermarket
 ---

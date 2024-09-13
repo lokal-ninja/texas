@@ -1,5 +1,5 @@
 ---
 title: "Cigar Emporium"
 url: /houston/cigar-emporium/
-shop: Tabak
+shop: tobacco
 ---

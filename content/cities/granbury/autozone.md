@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /granbury/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /la-porte/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /wichita-falls/burlington/
-shop: Warenhaus
+shop: department store
 ---

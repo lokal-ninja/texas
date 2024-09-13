@@ -1,5 +1,5 @@
 ---
 title: "Flowers Baking"
 url: /wichita-falls/flowers-baking/
-shop: Bäckerei
+shop: bakery
 ---

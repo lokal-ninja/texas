@@ -1,5 +1,5 @@
 ---
 title: "Lexus"
 url: /lakeway/lexus/
-shop: Autowerkstatt
+shop: car repair
 ---

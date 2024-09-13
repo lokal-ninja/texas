@@ -1,5 +1,5 @@
 ---
 title: "Perrault"
 url: /dallas/perrault/
-shop: Wein
+shop: wine
 ---

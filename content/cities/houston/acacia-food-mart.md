@@ -1,5 +1,5 @@
 ---
 title: "Acacia Food Mart"
 url: /houston/acacia-food-mart/
-shop: Supermarkt
+shop: supermarket
 ---

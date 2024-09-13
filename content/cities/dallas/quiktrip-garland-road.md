@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /dallas/quiktrip-garland-road/
-shop: Lebensmittel
+shop: convenience
 ---

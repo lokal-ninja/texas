@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /corinth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Worry Free RV"
 url: /huntsville/worry-free-rv/
-shop: Autowerkstatt
+shop: car repair
 ---

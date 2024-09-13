@@ -1,5 +1,5 @@
 ---
 title: "Diamonds Direct"
 url: /san-antonio/diamonds-direct/
-shop: Schmuck
+shop: jewelry
 ---

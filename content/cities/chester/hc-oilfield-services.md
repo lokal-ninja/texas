@@ -1,5 +1,5 @@
 ---
 title: "HC Oilfield Services"
 url: /chester/hc-oilfield-services/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Steamers"
 url: /austin/the-steamers/
-shop: Teppiche
+shop: carpet
 ---

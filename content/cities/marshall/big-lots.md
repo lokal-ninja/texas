@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /marshall/big-lots/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /san-elizario/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

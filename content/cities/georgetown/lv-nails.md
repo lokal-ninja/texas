@@ -1,5 +1,5 @@
 ---
 title: "LV Nails"
 url: /georgetown/lv-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /georgetown/public-storage/
-shop: Mieten
+shop: storage rental
 ---

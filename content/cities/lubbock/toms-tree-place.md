@@ -1,5 +1,5 @@
 ---
 title: "Tom's Tree Place"
 url: /lubbock/toms-tree-place/
-shop: Garten-Center
+shop: garden centre
 ---

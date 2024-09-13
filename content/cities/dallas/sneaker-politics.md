@@ -1,5 +1,5 @@
 ---
 title: "Sneaker Politics"
 url: /dallas/sneaker-politics/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /conroe/mattress-firm/
-shop: Betten
+shop: bed
 ---

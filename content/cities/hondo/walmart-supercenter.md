@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /hondo/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

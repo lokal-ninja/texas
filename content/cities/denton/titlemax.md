@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /denton/titlemax/
-shop: Leiher
+shop: pawnbroker
 ---

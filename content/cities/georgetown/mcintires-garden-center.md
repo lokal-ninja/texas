@@ -1,5 +1,5 @@
 ---
 title: "McIntire's Garden Center"
 url: /georgetown/mcintires-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

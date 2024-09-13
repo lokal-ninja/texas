@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /cleburne/bealls/
-shop: Kleidung
+shop: clothes
 ---

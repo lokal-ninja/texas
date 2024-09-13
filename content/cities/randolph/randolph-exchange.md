@@ -1,5 +1,5 @@
 ---
 title: "Randolph Exchange"
 url: /randolph/randolph-exchange/
-shop: Einkaufszentrum
+shop: mall
 ---

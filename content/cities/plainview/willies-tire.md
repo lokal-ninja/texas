@@ -1,5 +1,5 @@
 ---
 title: "Willies Tire"
 url: /plainview/willies-tire/
-shop: Reifen
+shop: tyres
 ---

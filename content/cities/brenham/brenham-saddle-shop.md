@@ -1,5 +1,5 @@
 ---
 title: "Brenham Saddle Shop"
 url: /brenham/brenham-saddle-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "South Plains Implement"
 url: /san-angelo/south-plains-implement/
-shop: Baustoffe
+shop: trade
 ---

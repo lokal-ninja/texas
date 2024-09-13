@@ -1,5 +1,5 @@
 ---
 title: "Branded T's"
 url: /san-antonio/branded-ts/
-shop: Kleidung
+shop: clothes
 ---

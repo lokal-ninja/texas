@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /kaufman/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

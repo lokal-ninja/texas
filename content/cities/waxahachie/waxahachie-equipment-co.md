@@ -1,5 +1,5 @@
 ---
 title: "Waxahachie Equipment Co"
 url: /waxahachie/waxahachie-equipment-co/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

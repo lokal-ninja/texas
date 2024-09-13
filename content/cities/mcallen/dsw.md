@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /mcallen/dsw/
-shop: Schuhe
+shop: shoes
 ---

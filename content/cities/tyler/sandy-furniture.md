@@ -1,5 +1,5 @@
 ---
 title: "Sandy Furniture"
 url: /tyler/sandy-furniture/
-shop: Möbel
+shop: furniture
 ---

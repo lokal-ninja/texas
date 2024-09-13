@@ -1,5 +1,5 @@
 ---
 title: "Southlawn Liquors"
 url: /amarillo/southlawn-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

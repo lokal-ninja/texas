@@ -1,5 +1,5 @@
 ---
 title: "Hodges Collision Center"
 url: /magnolia/hodges-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

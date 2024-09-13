@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /amarillo/walgreens-southeast-34th-avenue/
-shop: Drogerie
+shop: chemist
 ---

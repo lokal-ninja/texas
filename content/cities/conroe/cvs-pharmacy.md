@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /conroe/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

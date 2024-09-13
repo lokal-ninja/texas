@@ -1,5 +1,5 @@
 ---
 title: "Hi Plains Auto Repair"
 url: /dumas/hi-plains-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

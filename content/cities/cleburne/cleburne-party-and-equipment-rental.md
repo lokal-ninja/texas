@@ -1,5 +1,5 @@
 ---
 title: "Cleburne Party and Equipment Rental"
 url: /cleburne/cleburne-party-and-equipment-rental/
-shop: Mieten
+shop: storage rental
 ---

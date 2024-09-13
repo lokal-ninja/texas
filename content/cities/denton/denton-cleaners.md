@@ -1,5 +1,5 @@
 ---
 title: "Denton Cleaners"
 url: /denton/denton-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

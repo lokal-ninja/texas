@@ -1,5 +1,5 @@
 ---
 title: "Cork House"
 url: /waxahachie/cork-house/
-shop: Wein
+shop: wine
 ---

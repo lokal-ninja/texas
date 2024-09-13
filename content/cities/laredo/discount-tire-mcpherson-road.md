@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /laredo/discount-tire-mcpherson-road/
-shop: Reifen
+shop: tyres
 ---

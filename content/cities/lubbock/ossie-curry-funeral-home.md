@@ -1,5 +1,5 @@
 ---
 title: "Ossie Curry Funeral Home"
 url: /lubbock/ossie-curry-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

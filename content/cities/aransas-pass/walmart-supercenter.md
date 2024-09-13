@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /aransas-pass/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

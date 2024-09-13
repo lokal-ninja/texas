@@ -1,5 +1,5 @@
 ---
 title: "Thrive Nutrition"
 url: /vega/thrive-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

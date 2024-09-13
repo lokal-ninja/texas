@@ -1,5 +1,5 @@
 ---
 title: "Elgin Funeral Home"
 url: /elgin/elgin-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

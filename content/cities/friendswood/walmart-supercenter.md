@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /friendswood/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vacuum Shop"
 url: /waxahachie/vacuum-shop/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

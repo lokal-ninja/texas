@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /friendswood/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

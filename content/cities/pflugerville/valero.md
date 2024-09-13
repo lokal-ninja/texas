@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /pflugerville/valero/
-shop: Lebensmittel
+shop: convenience
 ---

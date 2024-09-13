@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /uvalde/hibbett-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Painted Rose"
 url: /cleburne/the-painted-rose/
-shop: Tattoo
+shop: tattoo
 ---

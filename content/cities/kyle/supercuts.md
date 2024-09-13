@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /kyle/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

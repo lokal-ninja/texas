@@ -1,5 +1,5 @@
 ---
 title: "Torres Transmission"
 url: /houston/torres-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

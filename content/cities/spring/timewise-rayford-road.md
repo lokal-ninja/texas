@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /spring/timewise-rayford-road/
-shop: Lebensmittel
+shop: convenience
 ---

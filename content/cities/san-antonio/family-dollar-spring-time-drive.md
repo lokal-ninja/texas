@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /san-antonio/family-dollar-spring-time-drive/
-shop: Kramladen
+shop: variety store
 ---

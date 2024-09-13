@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /beaumont/cvs-pharmacy-college-street/
-shop: Drogerie
+shop: chemist
 ---

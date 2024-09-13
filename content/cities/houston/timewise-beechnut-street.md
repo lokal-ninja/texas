@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /houston/timewise-beechnut-street/
-shop: Lebensmittel
+shop: convenience
 ---

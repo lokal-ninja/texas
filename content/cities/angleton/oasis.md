@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /angleton/oasis/
-shop: Lebensmittel
+shop: convenience
 ---

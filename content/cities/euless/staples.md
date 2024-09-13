@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /euless/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

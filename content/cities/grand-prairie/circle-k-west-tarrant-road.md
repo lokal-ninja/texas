@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /grand-prairie/circle-k-west-tarrant-road/
-shop: Lebensmittel
+shop: convenience
 ---

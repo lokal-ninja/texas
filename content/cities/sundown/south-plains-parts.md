@@ -1,5 +1,5 @@
 ---
 title: "South Plains Parts"
 url: /sundown/south-plains-parts/
-shop: Autoteile
+shop: car parts
 ---

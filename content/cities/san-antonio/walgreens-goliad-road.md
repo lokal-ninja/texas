@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /san-antonio/walgreens-goliad-road/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /lufkin/burlington/
-shop: Warenhaus
+shop: department store
 ---

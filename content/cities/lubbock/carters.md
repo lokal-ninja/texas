@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /lubbock/carters/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duluth Trading Company"
 url: /arlington/duluth-trading-company/
-shop: Kleidung
+shop: clothes
 ---

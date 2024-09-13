@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /round-rock/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /pearland/pandora/
-shop: Schmuck
+shop: jewelry
 ---

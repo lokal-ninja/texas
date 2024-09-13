@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /laredo/burlington/
-shop: Warenhaus
+shop: department store
 ---

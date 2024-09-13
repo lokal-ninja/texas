@@ -1,5 +1,5 @@
 ---
 title: "Dallas Vintage Shop"
 url: /plano/dallas-vintage-shop/
-shop: Kleidung
+shop: clothes
 ---

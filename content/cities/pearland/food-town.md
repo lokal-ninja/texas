@@ -1,5 +1,5 @@
 ---
 title: "Food Town"
 url: /pearland/food-town/
-shop: Supermarkt
+shop: supermarket
 ---

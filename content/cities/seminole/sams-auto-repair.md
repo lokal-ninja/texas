@@ -1,5 +1,5 @@
 ---
 title: "Sam's Auto Repair"
 url: /seminole/sams-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

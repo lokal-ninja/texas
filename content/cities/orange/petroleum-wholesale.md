@@ -1,5 +1,5 @@
 ---
 title: "Petroleum Wholesale"
 url: /orange/petroleum-wholesale/
-shop: Lebensmittel
+shop: convenience
 ---

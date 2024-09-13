@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /texarkana/cvs-pharmacy-richmond-road/
-shop: Drogerie
+shop: chemist
 ---

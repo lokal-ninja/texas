@@ -1,5 +1,5 @@
 ---
 title: "Magnum Corner Store"
 url: /houston/magnum-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taft"
 url: /houston/taft/
-shop: Schuhe
+shop: shoes
 ---

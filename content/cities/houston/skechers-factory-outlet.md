@@ -1,5 +1,5 @@
 ---
 title: "Skechers Factory Outlet"
 url: /houston/skechers-factory-outlet/
-shop: Schuhe
+shop: shoes
 ---

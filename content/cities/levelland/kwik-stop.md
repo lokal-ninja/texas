@@ -1,5 +1,5 @@
 ---
 title: "Kwik Stop"
 url: /levelland/kwik-stop/
-shop: Lebensmittel
+shop: convenience
 ---

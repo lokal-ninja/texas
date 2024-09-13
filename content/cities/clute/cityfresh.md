@@ -1,5 +1,5 @@
 ---
 title: "CityFresh"
 url: /clute/cityfresh/
-shop: Lebensmittel
+shop: convenience
 ---

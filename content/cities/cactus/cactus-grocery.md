@@ -1,5 +1,5 @@
 ---
 title: "Cactus Grocery"
 url: /cactus/cactus-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

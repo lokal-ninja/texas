@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /georgetown/public-storage-south-interstate-35/
-shop: Mieten
+shop: storage rental
 ---

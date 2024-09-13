@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /lubbock/ross-slide-road/
-shop: Warenhaus
+shop: department store
 ---

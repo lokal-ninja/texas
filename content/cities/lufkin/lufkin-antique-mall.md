@@ -1,5 +1,5 @@
 ---
 title: "Lufkin Antique Mall"
 url: /lufkin/lufkin-antique-mall/
-shop: Antiquitäten
+shop: antiques
 ---

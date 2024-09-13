@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /cleburne/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /san-antonio/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

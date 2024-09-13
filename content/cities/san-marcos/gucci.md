@@ -1,5 +1,5 @@
 ---
 title: "Gucci"
 url: /san-marcos/gucci/
-shop: Kleidung
+shop: clothes
 ---

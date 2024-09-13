@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /nolanville/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

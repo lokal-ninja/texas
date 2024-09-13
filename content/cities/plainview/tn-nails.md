@@ -1,5 +1,5 @@
 ---
 title: "TN Nails"
 url: /plainview/tn-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Henderson's Garage"
 url: /sweetwater/hendersons-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

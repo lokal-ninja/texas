@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /san-antonio/walmart-supercenter-bandera-road/
-shop: Supermarkt
+shop: supermarket
 ---

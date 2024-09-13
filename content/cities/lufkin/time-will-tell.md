@@ -1,5 +1,5 @@
 ---
 title: "Time Will Tell"
 url: /lufkin/time-will-tell/
-shop: Schmuck
+shop: jewelry
 ---

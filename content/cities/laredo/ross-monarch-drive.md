@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /laredo/ross-monarch-drive/
-shop: Warenhaus
+shop: department store
 ---

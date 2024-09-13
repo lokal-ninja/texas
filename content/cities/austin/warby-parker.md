@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
 url: /austin/warby-parker/
-shop: Optiker
+shop: optician
 ---

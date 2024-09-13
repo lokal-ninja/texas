@@ -1,5 +1,5 @@
 ---
 title: "Z-Ty Cleaners"
 url: /dumas/z-ty-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

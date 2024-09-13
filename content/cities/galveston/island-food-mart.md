@@ -1,5 +1,5 @@
 ---
 title: "Island Food Mart"
 url: /galveston/island-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

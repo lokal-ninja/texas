@@ -1,5 +1,5 @@
 ---
 title: "Magnolia Market"
 url: /waco/magnolia-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

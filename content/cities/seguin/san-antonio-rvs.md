@@ -1,5 +1,5 @@
 ---
 title: "San Antonio RVs"
 url: /seguin/san-antonio-rvs/
-shop: Wohnwagen
+shop: caravan
 ---

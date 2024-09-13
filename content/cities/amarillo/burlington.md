@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /amarillo/burlington/
-shop: Warenhaus
+shop: department store
 ---

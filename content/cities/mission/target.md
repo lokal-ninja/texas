@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mission/target/
-shop: Warenhaus
+shop: department store
 ---

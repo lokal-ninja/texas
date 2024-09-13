@@ -1,5 +1,5 @@
 ---
 title: "TopLine"
 url: /eastland/topline/
-shop: Lebensmittel
+shop: convenience
 ---

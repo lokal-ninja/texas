@@ -1,5 +1,5 @@
 ---
 title: "Commissary"
 url: /fort-bliss/commissary/
-shop: Supermarkt
+shop: supermarket
 ---

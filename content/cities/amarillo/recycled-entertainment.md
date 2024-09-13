@@ -1,5 +1,5 @@
 ---
 title: "Recycled Entertainment"
 url: /amarillo/recycled-entertainment/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /baytown/petco/
-shop: Tiere
+shop: pet
 ---

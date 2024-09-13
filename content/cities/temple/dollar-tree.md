@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /temple/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

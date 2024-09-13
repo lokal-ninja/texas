@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /plano/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

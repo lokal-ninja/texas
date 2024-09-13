@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /austin/t-mobile-west-parmer-lane-2/
-shop: Handy
+shop: mobile phone
 ---

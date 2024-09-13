@@ -1,5 +1,5 @@
 ---
 title: "Nickolina's"
 url: /beaumont/nickolinas/
-shop: Raumausstattung
+shop: interior decoration
 ---

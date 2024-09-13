@@ -1,5 +1,5 @@
 ---
 title: "Roucou Salon"
 url: /richmond/roucou-salon/
-shop: Kosmetik
+shop: beauty
 ---

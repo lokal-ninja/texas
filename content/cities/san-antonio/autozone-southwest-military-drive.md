@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-antonio/autozone-southwest-military-drive/
-shop: Autoteile
+shop: car parts
 ---

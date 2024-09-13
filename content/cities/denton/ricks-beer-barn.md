@@ -1,5 +1,5 @@
 ---
 title: "Rick's Beer Barn"
 url: /denton/ricks-beer-barn/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Ponderosa River Outfitters"
 url: /new-braunfels/little-ponderosa-river-outfitters/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Champs Sports"
 url: /houston/champs-sports/
-shop: Sport
+shop: sports
 ---

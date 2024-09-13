@@ -1,5 +1,5 @@
 ---
 title: "Rex Perry Autoplex"
 url: /nacogdoches/rex-perry-autoplex/
-shop: Autohaus
+shop: car
 ---

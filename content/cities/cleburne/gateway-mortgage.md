@@ -1,5 +1,5 @@
 ---
 title: "Gateway Mortgage"
 url: /cleburne/gateway-mortgage/
-shop: Leiher
+shop: pawnbroker
 ---

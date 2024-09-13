@@ -1,5 +1,5 @@
 ---
 title: "Summmit Racing Equipment"
 url: /arlington/summmit-racing-equipment/
-shop: Außenstelle
+shop: outpost
 ---

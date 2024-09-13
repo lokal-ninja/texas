@@ -1,5 +1,5 @@
 ---
 title: "Janie's Salon"
 url: /houston/janies-salon/
-shop: Friseur
+shop: hairdresser
 ---

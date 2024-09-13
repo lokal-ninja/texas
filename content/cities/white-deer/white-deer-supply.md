@@ -1,5 +1,5 @@
 ---
 title: "White Deer Supply"
 url: /white-deer/white-deer-supply/
-shop: Dorfladen
+shop: general
 ---

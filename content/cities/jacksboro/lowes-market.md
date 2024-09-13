@@ -1,5 +1,5 @@
 ---
 title: "Lowe's Market"
 url: /jacksboro/lowes-market/
-shop: Supermarkt
+shop: supermarket
 ---

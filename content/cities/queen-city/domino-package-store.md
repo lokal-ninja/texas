@@ -1,5 +1,5 @@
 ---
 title: "Domino Package Store"
 url: /queen-city/domino-package-store/
-shop: Spirituosen
+shop: alcohol
 ---

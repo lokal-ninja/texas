@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /mesquite/kroger-gus-thomasson-road/
-shop: Supermarkt
+shop: supermarket
 ---

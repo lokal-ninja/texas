@@ -1,5 +1,5 @@
 ---
 title: "Alaniz Funeral Home"
 url: /falfurrias/alaniz-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

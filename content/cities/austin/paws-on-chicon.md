@@ -1,5 +1,5 @@
 ---
 title: "Paws on Chicon"
 url: /austin/paws-on-chicon/
-shop: Tiere
+shop: pet
 ---

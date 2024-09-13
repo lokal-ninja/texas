@@ -1,5 +1,5 @@
 ---
 title: "Latif's Antiques"
 url: /tyler/latifs-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

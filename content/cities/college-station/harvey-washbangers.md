@@ -1,5 +1,5 @@
 ---
 title: "Harvey Washbangers"
 url: /college-station/harvey-washbangers/
-shop: Wäscherei
+shop: laundry
 ---

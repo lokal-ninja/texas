@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /garland/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

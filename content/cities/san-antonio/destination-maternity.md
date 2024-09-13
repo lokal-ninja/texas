@@ -1,5 +1,5 @@
 ---
 title: "Destination Maternity"
 url: /san-antonio/destination-maternity/
-shop: Babysachen
+shop: baby goods
 ---

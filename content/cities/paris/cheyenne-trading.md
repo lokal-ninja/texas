@@ -1,5 +1,5 @@
 ---
 title: "Cheyenne Trading"
 url: /paris/cheyenne-trading/
-shop: Tabak
+shop: tobacco
 ---

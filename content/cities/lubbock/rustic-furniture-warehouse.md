@@ -1,5 +1,5 @@
 ---
 title: "Rustic Furniture Warehouse"
 url: /lubbock/rustic-furniture-warehouse/
-shop: Möbel
+shop: furniture
 ---

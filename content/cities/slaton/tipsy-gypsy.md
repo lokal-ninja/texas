@@ -1,5 +1,5 @@
 ---
 title: "Tipsy Gypsy"
 url: /slaton/tipsy-gypsy/
-shop: Kleidung
+shop: clothes
 ---

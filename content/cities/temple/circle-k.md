@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /temple/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

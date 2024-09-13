@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /austin/supercuts-north-interstate-35/
-shop: Friseur
+shop: hairdresser
 ---

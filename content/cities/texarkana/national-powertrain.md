@@ -1,5 +1,5 @@
 ---
 title: "National Powertrain"
 url: /texarkana/national-powertrain/
-shop: Autowerkstatt
+shop: car repair
 ---

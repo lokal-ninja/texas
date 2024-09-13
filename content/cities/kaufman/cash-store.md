@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /kaufman/cash-store/
-shop: Leiher
+shop: pawnbroker
 ---

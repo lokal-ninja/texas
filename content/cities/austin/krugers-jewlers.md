@@ -1,5 +1,5 @@
 ---
 title: "Kruger's Jewlers"
 url: /austin/krugers-jewlers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brakes Plus"
 url: /mckinney/brakes-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

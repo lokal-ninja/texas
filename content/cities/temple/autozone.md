@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /temple/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buc-ee's"
 url: /bastrop/buc-ees/
-shop: Lebensmittel
+shop: convenience
 ---

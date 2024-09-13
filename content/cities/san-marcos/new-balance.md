@@ -1,5 +1,5 @@
 ---
 title: "New Balance"
 url: /san-marcos/new-balance/
-shop: Schuhe
+shop: shoes
 ---

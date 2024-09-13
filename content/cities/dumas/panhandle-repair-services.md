@@ -1,5 +1,5 @@
 ---
 title: "Panhandle Repair Services"
 url: /dumas/panhandle-repair-services/
-shop: Allgemein
+shop: shop
 ---

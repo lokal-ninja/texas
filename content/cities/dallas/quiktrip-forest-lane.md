@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /dallas/quiktrip-forest-lane/
-shop: Lebensmittel
+shop: convenience
 ---

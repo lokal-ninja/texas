@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /galveston/gamestop/
-shop: Videospiele
+shop: video games
 ---

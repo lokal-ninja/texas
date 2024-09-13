@@ -1,5 +1,5 @@
 ---
 title: "Vision Auto Repair"
 url: /amarillo/vision-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

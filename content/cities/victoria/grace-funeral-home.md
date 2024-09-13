@@ -1,5 +1,5 @@
 ---
 title: "Grace Funeral Home"
 url: /victoria/grace-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

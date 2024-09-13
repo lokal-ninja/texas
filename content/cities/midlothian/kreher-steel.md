@@ -1,5 +1,5 @@
 ---
 title: "Kreher Steel"
 url: /midlothian/kreher-steel/
-shop: Eisenwaren
+shop: hardware
 ---

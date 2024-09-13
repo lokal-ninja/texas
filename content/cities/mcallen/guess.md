@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /mcallen/guess/
-shop: Kleidung
+shop: clothes
 ---

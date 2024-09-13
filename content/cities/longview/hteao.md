@@ -1,5 +1,5 @@
 ---
 title: "HTeaO"
 url: /longview/hteao/
-shop: Tee
+shop: tea
 ---

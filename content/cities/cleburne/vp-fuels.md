@@ -1,5 +1,5 @@
 ---
 title: "VP Fuels"
 url: /cleburne/vp-fuels/
-shop: Lebensmittel
+shop: convenience
 ---

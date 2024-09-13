@@ -1,5 +1,5 @@
 ---
 title: "Eagle Transmission"
 url: /mesquite/eagle-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

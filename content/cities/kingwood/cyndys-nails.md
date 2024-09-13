@@ -1,5 +1,5 @@
 ---
 title: "Cyndy's Nails"
 url: /kingwood/cyndys-nails/
-shop: Kosmetik
+shop: beauty
 ---

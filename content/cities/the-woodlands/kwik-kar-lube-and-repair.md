@@ -1,5 +1,5 @@
 ---
 title: "Kwik Kar Lube and Repair"
 url: /the-woodlands/kwik-kar-lube-and-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

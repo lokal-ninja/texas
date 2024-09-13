@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /longview/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /harlingen/target/
-shop: Warenhaus
+shop: department store
 ---

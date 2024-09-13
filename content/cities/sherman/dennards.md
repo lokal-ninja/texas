@@ -1,5 +1,5 @@
 ---
 title: "Dennard's"
 url: /sherman/dennards/
-shop: Kleidung
+shop: clothes
 ---

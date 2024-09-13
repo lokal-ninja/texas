@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dallas/autozone-park-lane/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scheel's"
 url: /the-colony/scheels/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thompson Convenience Store"
 url: /tyler/thompson-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

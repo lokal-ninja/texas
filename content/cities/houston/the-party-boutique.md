@@ -1,5 +1,5 @@
 ---
 title: "The Party Boutique"
 url: /houston/the-party-boutique/
-shop: Partyzubehör
+shop: party
 ---

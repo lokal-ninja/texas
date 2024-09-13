@@ -1,5 +1,5 @@
 ---
 title: "Chester Jiffy Market"
 url: /chester/chester-jiffy-market/
-shop: Lebensmittel
+shop: convenience
 ---

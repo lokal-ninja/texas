@@ -1,5 +1,5 @@
 ---
 title: "ABC Auto Parts"
 url: /paris/abc-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prima Dora Georgetown"
 url: /georgetown/prima-dora-georgetown/
-shop: Andenken
+shop: gift
 ---

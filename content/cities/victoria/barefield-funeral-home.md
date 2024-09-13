@@ -1,5 +1,5 @@
 ---
 title: "Barefield Funeral Home"
 url: /victoria/barefield-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

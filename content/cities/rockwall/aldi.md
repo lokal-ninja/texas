@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rockwall/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /denton/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

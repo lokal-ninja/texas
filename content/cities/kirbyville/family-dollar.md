@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /kirbyville/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

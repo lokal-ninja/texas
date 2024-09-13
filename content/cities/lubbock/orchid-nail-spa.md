@@ -1,5 +1,5 @@
 ---
 title: "Orchid Nail Spa"
 url: /lubbock/orchid-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

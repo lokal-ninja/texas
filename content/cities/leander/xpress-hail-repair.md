@@ -1,5 +1,5 @@
 ---
 title: "Xpress Hail Repair"
 url: /leander/xpress-hail-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

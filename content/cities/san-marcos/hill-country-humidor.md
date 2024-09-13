@@ -1,5 +1,5 @@
 ---
 title: "Hill Country Humidor"
 url: /san-marcos/hill-country-humidor/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /texas-city/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

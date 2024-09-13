@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Bar"
 url: /houston/chocolate-bar/
-shop: Schokolade
+shop: chocolate
 ---

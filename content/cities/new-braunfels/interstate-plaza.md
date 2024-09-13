@@ -1,5 +1,5 @@
 ---
 title: "Interstate Plaza"
 url: /new-braunfels/interstate-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

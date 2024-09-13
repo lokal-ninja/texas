@@ -1,5 +1,5 @@
 ---
 title: "Mendoza's Auto Repair"
 url: /seguin/mendozas-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /baytown/ta/
-shop: Lebensmittel
+shop: convenience
 ---

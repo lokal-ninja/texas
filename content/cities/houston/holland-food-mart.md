@@ -1,5 +1,5 @@
 ---
 title: "Holland Food Mart"
 url: /houston/holland-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

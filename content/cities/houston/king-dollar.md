@@ -1,5 +1,5 @@
 ---
 title: "King Dollar"
 url: /houston/king-dollar/
-shop: Kramladen
+shop: variety store
 ---

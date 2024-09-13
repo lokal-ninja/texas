@@ -1,5 +1,5 @@
 ---
 title: "Metal Warehouse Inc."
 url: /sherman/metal-warehouse-inc/
-shop: Baustoffe
+shop: trade
 ---

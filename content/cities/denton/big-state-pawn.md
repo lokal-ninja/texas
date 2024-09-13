@@ -1,5 +1,5 @@
 ---
 title: "Big State Pawn"
 url: /denton/big-state-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

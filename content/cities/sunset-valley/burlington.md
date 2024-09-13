@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /sunset-valley/burlington/
-shop: Warenhaus
+shop: department store
 ---

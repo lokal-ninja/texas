@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /euless/ross/
-shop: Warenhaus
+shop: department store
 ---

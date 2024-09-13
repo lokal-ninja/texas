@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /brenham/metro-by-t-mobile/
-shop: Handy
+shop: mobile phone
 ---

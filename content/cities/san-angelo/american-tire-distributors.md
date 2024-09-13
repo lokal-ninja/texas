@@ -1,5 +1,5 @@
 ---
 title: "American Tire Distributors"
 url: /san-angelo/american-tire-distributors/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Creative Edge Art Studio"
 url: /pearland/creative-edge-art-studio/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /bastrop/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

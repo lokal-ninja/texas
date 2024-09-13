@@ -1,5 +1,5 @@
 ---
 title: "Dazu Food Mart"
 url: /stephenville/dazu-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

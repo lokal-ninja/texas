@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /waco/office-depot-south-jack-kultgen-expressway/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Medical Massage Rx II"
 url: /frisco/medical-massage-rx-ii/
-shop: Massage
+shop: massage
 ---

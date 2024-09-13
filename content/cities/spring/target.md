@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /spring/target/
-shop: Warenhaus
+shop: department store
 ---

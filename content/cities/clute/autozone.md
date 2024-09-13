@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /clute/autozone/
-shop: Autoteile
+shop: car parts
 ---

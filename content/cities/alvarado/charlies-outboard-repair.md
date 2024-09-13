@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Outboard Repair"
 url: /alvarado/charlies-outboard-repair/
-shop: Boot
+shop: boat
 ---

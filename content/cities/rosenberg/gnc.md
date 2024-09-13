@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /rosenberg/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

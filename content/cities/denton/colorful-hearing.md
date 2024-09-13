@@ -1,5 +1,5 @@
 ---
 title: "Colorful Hearing"
 url: /denton/colorful-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Knives Plus"
 url: /amarillo/knives-plus/
-shop: Waffen
+shop: weapons
 ---

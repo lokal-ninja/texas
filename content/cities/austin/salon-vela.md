@@ -1,5 +1,5 @@
 ---
 title: "Salon Vela"
 url: /austin/salon-vela/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Texan"
 url: /monahans/the-texan/
-shop: Lebensmittel
+shop: convenience
 ---

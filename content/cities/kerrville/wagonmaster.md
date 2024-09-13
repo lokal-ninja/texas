@@ -1,5 +1,5 @@
 ---
 title: "Wagonmaster"
 url: /kerrville/wagonmaster/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liquor Lot"
 url: /humble/liquor-lot/
-shop: Spirituosen
+shop: alcohol
 ---

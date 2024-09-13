@@ -1,5 +1,5 @@
 ---
 title: "Faithful Hands Therapy"
 url: /navasota/faithful-hands-therapy/
-shop: Massage
+shop: massage
 ---

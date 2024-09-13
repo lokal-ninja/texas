@@ -1,5 +1,5 @@
 ---
 title: "Gator Garage Door Repair"
 url: /austin/gator-garage-door-repair/
-shop: Türen
+shop: doors
 ---

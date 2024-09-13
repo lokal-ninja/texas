@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /weatherford/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

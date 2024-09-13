@@ -1,5 +1,5 @@
 ---
 title: "Dr Daquari"
 url: /humble/dr-daquari/
-shop: Spirituosen
+shop: alcohol
 ---

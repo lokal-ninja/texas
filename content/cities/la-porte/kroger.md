@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /la-porte/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

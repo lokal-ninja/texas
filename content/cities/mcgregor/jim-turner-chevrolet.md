@@ -1,5 +1,5 @@
 ---
 title: "Jim Turner Chevrolet"
 url: /mcgregor/jim-turner-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /riviera/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

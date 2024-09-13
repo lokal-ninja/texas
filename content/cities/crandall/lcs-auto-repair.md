@@ -1,5 +1,5 @@
 ---
 title: "LC's Auto Repair"
 url: /crandall/lcs-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

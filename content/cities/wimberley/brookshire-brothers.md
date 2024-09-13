@@ -1,5 +1,5 @@
 ---
 title: "Brookshire Brothers"
 url: /wimberley/brookshire-brothers/
-shop: Supermarkt
+shop: supermarket
 ---

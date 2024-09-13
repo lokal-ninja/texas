@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /sherman/gamestop/
-shop: Videospiele
+shop: video games
 ---

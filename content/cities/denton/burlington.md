@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /denton/burlington/
-shop: Warenhaus
+shop: department store
 ---

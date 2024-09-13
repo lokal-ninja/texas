@@ -1,5 +1,5 @@
 ---
 title: "Basket House"
 url: /lubbock/basket-house/
-shop: Andenken
+shop: gift
 ---

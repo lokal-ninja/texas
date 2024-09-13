@@ -1,5 +1,5 @@
 ---
 title: "Phenix Salon Suites"
 url: /mckinney/phenix-salon-suites/
-shop: Friseur
+shop: hairdresser
 ---

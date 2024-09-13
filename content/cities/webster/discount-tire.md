@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /webster/discount-tire/
-shop: Reifen
+shop: tyres
 ---

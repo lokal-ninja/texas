@@ -1,5 +1,5 @@
 ---
 title: "Armstrong McCall"
 url: /denton/armstrong-mccall/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

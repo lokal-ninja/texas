@@ -1,5 +1,5 @@
 ---
-title: "Total by Verizon"
+title: "Total By Verizon"
 url: /houston/total-by-verizon/
-shop: Handy
+shop: mobile phone
 ---

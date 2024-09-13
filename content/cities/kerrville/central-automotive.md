@@ -1,5 +1,5 @@
 ---
 title: "Central Automotive"
 url: /kerrville/central-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

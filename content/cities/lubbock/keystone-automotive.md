@@ -1,5 +1,5 @@
 ---
 title: "Keystone Automotive"
 url: /lubbock/keystone-automotive/
-shop: Autoteile
+shop: car parts
 ---

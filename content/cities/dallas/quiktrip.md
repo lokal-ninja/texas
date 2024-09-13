@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /dallas/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap Factory"
 url: /san-marcos/gap-factory/
-shop: Kleidung
+shop: clothes
 ---

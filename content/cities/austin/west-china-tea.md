@@ -1,5 +1,5 @@
 ---
 title: "West China Tea"
 url: /austin/west-china-tea/
-shop: Tee
+shop: tea
 ---

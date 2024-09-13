@@ -1,5 +1,5 @@
 ---
 title: "Prince Fireworks"
 url: /ennis/prince-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

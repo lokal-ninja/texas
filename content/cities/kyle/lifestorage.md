@@ -1,5 +1,5 @@
 ---
 title: "LifeStorage"
 url: /kyle/lifestorage/
-shop: Mieten
+shop: storage rental
 ---

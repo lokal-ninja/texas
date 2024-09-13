@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /midland/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

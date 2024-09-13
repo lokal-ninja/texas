@@ -1,5 +1,5 @@
 ---
 title: "Dancing Pony Boutique"
 url: /new-braunfels/dancing-pony-boutique/
-shop: Kleidung
+shop: clothes
 ---

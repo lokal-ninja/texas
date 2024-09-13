@@ -1,5 +1,5 @@
 ---
 title: "Bunch Custom Cabinets"
 url: /granbury/bunch-custom-cabinets/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /frisco/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

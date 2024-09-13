@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /kilgore/walgreens/
-shop: Drogerie
+shop: chemist
 ---

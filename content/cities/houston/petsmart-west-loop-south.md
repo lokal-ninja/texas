@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /houston/petsmart-west-loop-south/
-shop: Tiere
+shop: pet
 ---

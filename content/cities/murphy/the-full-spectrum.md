@@ -1,5 +1,5 @@
 ---
 title: "The Full Spectrum"
 url: /murphy/the-full-spectrum/
-shop: Friseur
+shop: hairdresser
 ---

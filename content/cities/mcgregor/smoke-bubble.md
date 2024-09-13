@@ -1,5 +1,5 @@
 ---
 title: "Smoke Bubble"
 url: /mcgregor/smoke-bubble/
-shop: Tabak
+shop: tobacco
 ---

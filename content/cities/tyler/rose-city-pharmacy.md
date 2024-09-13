@@ -1,5 +1,5 @@
 ---
 title: "Rose City Pharmacy"
 url: /tyler/rose-city-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

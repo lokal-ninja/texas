@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /pampa/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

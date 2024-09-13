@@ -1,5 +1,5 @@
 ---
 title: "Automotive Plus"
 url: /mesquite/automotive-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

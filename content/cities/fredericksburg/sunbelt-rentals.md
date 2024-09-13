@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /fredericksburg/sunbelt-rentals/
-shop: Allgemein
+shop: shop
 ---

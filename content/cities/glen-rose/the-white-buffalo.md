@@ -1,5 +1,5 @@
 ---
 title: "The White Buffalo"
 url: /glen-rose/the-white-buffalo/
-shop: Möbel
+shop: furniture
 ---

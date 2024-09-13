@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fort-worth/walgreens-westcreek-drive/
-shop: Drogerie
+shop: chemist
 ---

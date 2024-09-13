@@ -1,5 +1,5 @@
 ---
 title: "Fast Jewelry Repair"
 url: /denton/fast-jewelry-repair/
-shop: Schmuck
+shop: jewelry
 ---

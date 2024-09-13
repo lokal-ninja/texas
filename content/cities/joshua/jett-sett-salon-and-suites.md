@@ -1,5 +1,5 @@
 ---
 title: "Jett Sett Salon and Suites"
 url: /joshua/jett-sett-salon-and-suites/
-shop: Friseur
+shop: hairdresser
 ---

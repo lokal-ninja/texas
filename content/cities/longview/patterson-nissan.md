@@ -1,5 +1,5 @@
 ---
 title: "Patterson Nissan"
 url: /longview/patterson-nissan/
-shop: Autohaus
+shop: car
 ---

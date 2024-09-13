@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /houston/firestone-washington-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

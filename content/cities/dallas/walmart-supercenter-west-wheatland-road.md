@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /dallas/walmart-supercenter-west-wheatland-road/
-shop: Supermarkt
+shop: supermarket
 ---

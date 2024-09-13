@@ -1,5 +1,5 @@
 ---
 title: "The SJ"
 url: /san-antonio/the-sj/
-shop: Außenstelle
+shop: outpost
 ---

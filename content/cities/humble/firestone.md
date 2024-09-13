@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /humble/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

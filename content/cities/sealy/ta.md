@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /sealy/ta/
-shop: Lebensmittel
+shop: convenience
 ---

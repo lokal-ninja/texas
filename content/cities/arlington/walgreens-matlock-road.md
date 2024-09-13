@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /arlington/walgreens-matlock-road/
-shop: Drogerie
+shop: chemist
 ---

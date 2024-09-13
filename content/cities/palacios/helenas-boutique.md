@@ -1,5 +1,5 @@
 ---
 title: "Helena's Boutique"
 url: /palacios/helenas-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flying J Travel Center"
 url: /edinburg/flying-j-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

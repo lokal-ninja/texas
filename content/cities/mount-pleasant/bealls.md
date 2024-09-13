@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /mount-pleasant/bealls/
-shop: Warenhaus
+shop: department store
 ---

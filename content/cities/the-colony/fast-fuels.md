@@ -1,5 +1,5 @@
 ---
 title: "Fast Fuels"
 url: /the-colony/fast-fuels/
-shop: Lebensmittel
+shop: convenience
 ---

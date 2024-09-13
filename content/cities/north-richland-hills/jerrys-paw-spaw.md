@@ -1,5 +1,5 @@
 ---
 title: "Jerry's Paw Spaw"
 url: /north-richland-hills/jerrys-paw-spaw/
-shop: Tiersalon
+shop: pet grooming
 ---

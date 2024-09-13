@@ -1,5 +1,5 @@
 ---
 title: "Alliance Auto Auction"
 url: /longview/alliance-auto-auction/
-shop: Autohaus
+shop: car
 ---

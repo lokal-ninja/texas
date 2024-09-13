@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /mansfield/ross/
-shop: Warenhaus
+shop: department store
 ---

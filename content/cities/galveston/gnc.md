@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /galveston/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /new-caney/ross/
-shop: Warenhaus
+shop: department store
 ---

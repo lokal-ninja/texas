@@ -1,5 +1,5 @@
 ---
 title: "Houston Custom Carpets"
 url: /kingwood/houston-custom-carpets/
-shop: Fußböden
+shop: flooring
 ---

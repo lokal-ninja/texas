@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /forney/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

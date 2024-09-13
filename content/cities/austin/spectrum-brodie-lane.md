@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /austin/spectrum-brodie-lane/
-shop: Handy
+shop: mobile phone
 ---

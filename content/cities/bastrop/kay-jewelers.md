@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /bastrop/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

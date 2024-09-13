@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /plano/kohls/
-shop: Warenhaus
+shop: department store
 ---

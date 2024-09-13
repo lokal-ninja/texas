@@ -1,5 +1,5 @@
 ---
 title: "Rack Room Shoes"
 url: /el-paso/rack-room-shoes/
-shop: Schuhe
+shop: shoes
 ---

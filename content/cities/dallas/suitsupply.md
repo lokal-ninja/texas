@@ -1,5 +1,5 @@
 ---
 title: "Suitsupply"
 url: /dallas/suitsupply/
-shop: Kleidung
+shop: clothes
 ---

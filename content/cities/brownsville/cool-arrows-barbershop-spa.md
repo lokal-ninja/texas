@@ -1,5 +1,5 @@
 ---
 title: "Cool Arrows Barbershop Spa"
 url: /brownsville/cool-arrows-barbershop-spa/
-shop: Friseur
+shop: hairdresser
 ---

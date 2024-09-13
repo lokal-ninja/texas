@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /waxahachie/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

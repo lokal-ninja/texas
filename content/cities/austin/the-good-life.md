@@ -1,5 +1,5 @@
 ---
 title: "The Good Life"
 url: /austin/the-good-life/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnes Funeral Home"
 url: /texas-city/carnes-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

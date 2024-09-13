@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /royse-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

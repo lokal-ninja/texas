@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /san-antonio/metro-by-t-mobile-east-houston-street/
-shop: Handy
+shop: mobile phone
 ---

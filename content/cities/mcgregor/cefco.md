@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /mcgregor/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

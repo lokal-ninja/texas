@@ -1,5 +1,5 @@
 ---
 title: "Postal + Copy Center"
 url: /houston/postal-copy-center/
-shop: Kopieren
+shop: copyshop
 ---

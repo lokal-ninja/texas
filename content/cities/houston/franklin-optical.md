@@ -1,5 +1,5 @@
 ---
 title: "Franklin Optical"
 url: /houston/franklin-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb"
 url: /rockwall/tom-thumb/
-shop: Supermarkt
+shop: supermarket
 ---

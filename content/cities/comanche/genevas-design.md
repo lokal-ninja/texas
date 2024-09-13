@@ -1,5 +1,5 @@
 ---
 title: "Geneva's Design"
 url: /comanche/genevas-design/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rare Motorsports"
 url: /meridian/rare-motorsports/
-shop: Motorrad
+shop: motorcycle
 ---

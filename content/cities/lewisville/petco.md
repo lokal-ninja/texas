@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /lewisville/petco/
-shop: Tiere
+shop: pet
 ---

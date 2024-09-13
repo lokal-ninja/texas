@@ -1,5 +1,5 @@
 ---
 title: "Lowe's Market"
 url: /cross-plains/lowes-market/
-shop: Supermarkt
+shop: supermarket
 ---

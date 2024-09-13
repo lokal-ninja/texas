@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /weatherford/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

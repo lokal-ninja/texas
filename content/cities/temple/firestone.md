@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /temple/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

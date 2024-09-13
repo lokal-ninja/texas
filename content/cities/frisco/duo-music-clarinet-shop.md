@@ -1,5 +1,5 @@
 ---
 title: "Duo Music (Clarinet Shop)"
 url: /frisco/duo-music-clarinet-shop/
-shop: Instrumente
+shop: musical instrument
 ---

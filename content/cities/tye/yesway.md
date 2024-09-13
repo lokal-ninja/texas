@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /tye/yesway/
-shop: Lebensmittel
+shop: convenience
 ---

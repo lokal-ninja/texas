@@ -1,5 +1,5 @@
 ---
 title: "Texas City Grocery Store"
 url: /texas-city/texas-city-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

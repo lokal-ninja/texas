@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /magnolia/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

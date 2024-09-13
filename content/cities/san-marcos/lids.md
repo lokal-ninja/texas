@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /san-marcos/lids/
-shop: Kleidung
+shop: clothes
 ---

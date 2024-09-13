@@ -1,5 +1,5 @@
 ---
 title: "Brookshire Brothers Express"
 url: /sour-lake/brookshire-brothers-express/
-shop: Supermarkt
+shop: supermarket
 ---

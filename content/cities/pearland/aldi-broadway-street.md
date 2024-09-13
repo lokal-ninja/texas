@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pearland/aldi-broadway-street/
-shop: Supermarkt
+shop: supermarket
 ---

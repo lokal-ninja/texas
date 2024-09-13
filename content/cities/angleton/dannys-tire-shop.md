@@ -1,5 +1,5 @@
 ---
 title: "Danny's Tire Shop"
 url: /angleton/dannys-tire-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

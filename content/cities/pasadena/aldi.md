@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pasadena/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

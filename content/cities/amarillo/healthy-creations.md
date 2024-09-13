@@ -1,5 +1,5 @@
 ---
 title: "Healthy Creations"
 url: /amarillo/healthy-creations/
-shop: Bioladen
+shop: health food
 ---

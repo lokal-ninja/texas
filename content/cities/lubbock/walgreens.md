@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lubbock/walgreens/
-shop: Drogerie
+shop: chemist
 ---

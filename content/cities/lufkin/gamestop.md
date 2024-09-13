@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /lufkin/gamestop/
-shop: Videospiele
+shop: video games
 ---

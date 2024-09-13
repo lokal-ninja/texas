@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /austin/discount-tire-west-ben-white-boulevard/
-shop: Reifen
+shop: tyres
 ---

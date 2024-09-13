@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /fredericksburg/cash-store/
-shop: Leiher
+shop: pawnbroker
 ---

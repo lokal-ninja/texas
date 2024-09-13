@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /waller/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

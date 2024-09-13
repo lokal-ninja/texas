@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /granite-shoals/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

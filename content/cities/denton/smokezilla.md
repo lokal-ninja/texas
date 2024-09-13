@@ -1,5 +1,5 @@
 ---
 title: "SMOKEZILLA"
 url: /denton/smokezilla/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

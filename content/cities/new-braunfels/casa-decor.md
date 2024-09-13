@@ -1,5 +1,5 @@
 ---
 title: "Casa Decor"
 url: /new-braunfels/casa-decor/
-shop: Möbel
+shop: furniture
 ---

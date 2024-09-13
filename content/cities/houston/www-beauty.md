@@ -1,5 +1,5 @@
 ---
 title: "WWW.Beauty"
 url: /houston/www-beauty/
-shop: Kosmetik
+shop: beauty
 ---

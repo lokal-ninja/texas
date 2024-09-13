@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /grand-prairie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mesquite Mitsubishi"
 url: /mesquite/mesquite-mitsubishi/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Al's Formal Wear"
 url: /arlington/als-formal-wear/
-shop: Kleidung
+shop: clothes
 ---

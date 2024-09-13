@@ -1,5 +1,5 @@
 ---
 title: "Gumby Performance"
 url: /leander/gumby-performance/
-shop: Autowerkstatt
+shop: car repair
 ---

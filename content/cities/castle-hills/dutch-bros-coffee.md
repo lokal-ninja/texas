@@ -1,5 +1,5 @@
 ---
 title: "Dutch Bros. Coffee"
 url: /castle-hills/dutch-bros-coffee/
-shop: Kaffee
+shop: coffee
 ---

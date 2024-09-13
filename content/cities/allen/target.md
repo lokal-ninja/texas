@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /allen/target/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /cleveland/dollar-general-fostoria-road/
-shop: Kramladen
+shop: variety store
 ---

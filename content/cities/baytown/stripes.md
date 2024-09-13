@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /baytown/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

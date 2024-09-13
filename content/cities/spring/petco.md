@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /spring/petco/
-shop: Tiere
+shop: pet
 ---

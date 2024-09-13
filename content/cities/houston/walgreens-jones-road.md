@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /houston/walgreens-jones-road/
-shop: Drogerie
+shop: chemist
 ---

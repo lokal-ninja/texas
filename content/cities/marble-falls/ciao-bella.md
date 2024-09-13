@@ -1,5 +1,5 @@
 ---
 title: "Ciao Bella"
 url: /marble-falls/ciao-bella/
-shop: Kleidung
+shop: clothes
 ---

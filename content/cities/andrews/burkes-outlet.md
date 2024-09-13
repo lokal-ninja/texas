@@ -1,5 +1,5 @@
 ---
 title: "Burkes Outlet"
 url: /andrews/burkes-outlet/
-shop: Kleidung
+shop: clothes
 ---

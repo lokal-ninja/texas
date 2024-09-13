@@ -1,5 +1,5 @@
 ---
 title: "MAACO"
 url: /san-antonio/maaco/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /killeen/stripes-west-trimmier-road/
-shop: Lebensmittel
+shop: convenience
 ---

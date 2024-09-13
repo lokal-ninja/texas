@@ -1,5 +1,5 @@
 ---
 title: "Kwik Kar"
 url: /frisco/kwik-kar/
-shop: Autowerkstatt
+shop: car repair
 ---

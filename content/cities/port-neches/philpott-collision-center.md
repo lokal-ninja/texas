@@ -1,5 +1,5 @@
 ---
 title: "Philpott Collision Center"
 url: /port-neches/philpott-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /cypress/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

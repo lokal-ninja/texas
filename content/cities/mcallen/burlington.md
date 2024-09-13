@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /mcallen/burlington/
-shop: Warenhaus
+shop: department store
 ---

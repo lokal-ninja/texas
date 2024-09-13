@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /waco/valero/
-shop: Lebensmittel
+shop: convenience
 ---

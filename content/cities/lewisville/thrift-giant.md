@@ -1,5 +1,5 @@
 ---
 title: "Thrift Giant"
 url: /lewisville/thrift-giant/
-shop: Gebrauchtwaren
+shop: charity
 ---

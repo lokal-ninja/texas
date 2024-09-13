@@ -1,5 +1,5 @@
 ---
 title: "MedSavers Pharmacy"
 url: /austin/medsavers-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

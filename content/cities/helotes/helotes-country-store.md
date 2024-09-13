@@ -1,5 +1,5 @@
 ---
 title: "Helotes Country Store"
 url: /helotes/helotes-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

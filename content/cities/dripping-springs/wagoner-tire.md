@@ -1,5 +1,5 @@
 ---
 title: "Wagoner Tire"
 url: /dripping-springs/wagoner-tire/
-shop: Reifen
+shop: tyres
 ---

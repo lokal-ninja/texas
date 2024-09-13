@@ -1,5 +1,5 @@
 ---
 title: "AE Creative Works"
 url: /san-antonio/ae-creative-works/
-shop: Allgemein
+shop: shop
 ---

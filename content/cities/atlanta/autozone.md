@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /atlanta/autozone/
-shop: Autoteile
+shop: car parts
 ---

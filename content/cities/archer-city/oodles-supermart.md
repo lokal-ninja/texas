@@ -1,5 +1,5 @@
 ---
 title: "Oodles Supermart"
 url: /archer-city/oodles-supermart/
-shop: Lebensmittel
+shop: convenience
 ---

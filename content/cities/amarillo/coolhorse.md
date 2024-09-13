@@ -1,5 +1,5 @@
 ---
 title: "Coolhorse"
 url: /amarillo/coolhorse/
-shop: Pferde
+shop: equestrian
 ---

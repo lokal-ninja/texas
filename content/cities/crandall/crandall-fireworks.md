@@ -1,5 +1,5 @@
 ---
 title: "Crandall Fireworks"
 url: /crandall/crandall-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /el-paso/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

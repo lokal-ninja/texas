@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /eagle-pass/dollar-general-north-veterans-boulevard/
-shop: Kramladen
+shop: variety store
 ---

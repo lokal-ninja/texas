@@ -1,5 +1,5 @@
 ---
 title: "D2 Wireless"
 url: /saginaw/d2-wireless/
-shop: Handy
+shop: mobile phone
 ---

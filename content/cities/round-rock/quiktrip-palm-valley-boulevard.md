@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /round-rock/quiktrip-palm-valley-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

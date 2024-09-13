@@ -1,5 +1,5 @@
 ---
 title: "Champion"
 url: /san-marcos/champion/
-shop: Kleidung
+shop: clothes
 ---

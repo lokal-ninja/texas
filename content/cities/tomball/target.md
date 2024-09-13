@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tomball/target/
-shop: Warenhaus
+shop: department store
 ---

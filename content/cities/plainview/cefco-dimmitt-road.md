@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /plainview/cefco-dimmitt-road/
-shop: Lebensmittel
+shop: convenience
 ---

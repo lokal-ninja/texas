@@ -1,5 +1,5 @@
 ---
 title: "Lowe's Market"
 url: /cotulla/lowes-market/
-shop: Supermarkt
+shop: supermarket
 ---

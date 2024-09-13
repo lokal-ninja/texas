@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /houston/autozone-griggs-road/
-shop: Autoteile
+shop: car parts
 ---

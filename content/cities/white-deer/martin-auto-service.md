@@ -1,5 +1,5 @@
 ---
 title: "Martin Auto Service"
 url: /white-deer/martin-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

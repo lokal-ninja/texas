@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /corinth/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /conroe/kohls/
-shop: Warenhaus
+shop: department store
 ---

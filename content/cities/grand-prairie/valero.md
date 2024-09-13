@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /grand-prairie/valero/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /el-paso/walgreens-geronimo-drive/
-shop: Drogerie
+shop: chemist
 ---

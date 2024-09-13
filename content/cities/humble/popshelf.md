@@ -1,5 +1,5 @@
 ---
 title: "Popshelf"
 url: /humble/popshelf/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cibolo Creek Garage"
 url: /marion/cibolo-creek-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

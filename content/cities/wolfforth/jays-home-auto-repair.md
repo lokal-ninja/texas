@@ -1,5 +1,5 @@
 ---
 title: "Jays Home Auto Repair"
 url: /wolfforth/jays-home-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

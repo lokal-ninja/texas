@@ -1,5 +1,5 @@
 ---
 title: "Spec's"
 url: /magnolia/specs/
-shop: Spirituosen
+shop: alcohol
 ---

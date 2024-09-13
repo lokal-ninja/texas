@@ -1,5 +1,5 @@
 ---
 title: "Service King Collision"
 url: /spring/service-king-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

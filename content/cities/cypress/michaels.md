@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /cypress/michaels/
-shop: Basteln
+shop: craft
 ---

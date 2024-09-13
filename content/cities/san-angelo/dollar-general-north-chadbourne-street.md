@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /san-angelo/dollar-general-north-chadbourne-street/
-shop: Kramladen
+shop: variety store
 ---

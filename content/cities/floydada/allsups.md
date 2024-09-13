@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /floydada/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

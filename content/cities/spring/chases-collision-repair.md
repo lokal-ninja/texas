@@ -1,5 +1,5 @@
 ---
 title: "Chase's Collision Repair"
 url: /spring/chases-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /houston/oreilly-auto-parts-south-post-oak-road/
-shop: Autoteile
+shop: car parts
 ---

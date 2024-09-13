@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /san-antonio/ross-southwest-military-drive/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallyu Cosmetics"
 url: /austin/hallyu-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

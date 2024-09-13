@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /humble/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /rockdale/carquest/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /conroe/burlington/
-shop: Warenhaus
+shop: department store
 ---

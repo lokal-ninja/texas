@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /bonham/braums/
-shop: Milch
+shop: dairy
 ---

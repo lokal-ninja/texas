@@ -1,5 +1,5 @@
 ---
 title: "Sunmart"
 url: /abbott/sunmart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Spot"
 url: /austin/food-spot/
-shop: Lebensmittel
+shop: convenience
 ---

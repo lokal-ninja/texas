@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kaufman/dollar-general-south-washington-street/
-shop: Kramladen
+shop: variety store
 ---

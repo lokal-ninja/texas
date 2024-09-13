@@ -1,5 +1,5 @@
 ---
 title: "Cinderella"
 url: /laredo/cinderella/
-shop: Kleidung
+shop: clothes
 ---

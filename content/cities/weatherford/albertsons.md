@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /weatherford/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

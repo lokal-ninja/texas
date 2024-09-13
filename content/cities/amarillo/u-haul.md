@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /amarillo/u-haul/
-shop: Mieten
+shop: storage rental
 ---

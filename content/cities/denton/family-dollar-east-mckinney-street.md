@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /denton/family-dollar-east-mckinney-street/
-shop: Kramladen
+shop: variety store
 ---

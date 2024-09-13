@@ -1,5 +1,5 @@
 ---
 title: "All-Natchur-L"
 url: /cleburne/all-natchur-l/
-shop: Hofladen
+shop: farm
 ---

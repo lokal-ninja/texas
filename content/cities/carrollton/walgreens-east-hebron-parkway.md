@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /carrollton/walgreens-east-hebron-parkway/
-shop: Drogerie
+shop: chemist
 ---

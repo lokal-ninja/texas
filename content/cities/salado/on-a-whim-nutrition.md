@@ -1,5 +1,5 @@
 ---
 title: "On A Whim Nutrition"
 url: /salado/on-a-whim-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

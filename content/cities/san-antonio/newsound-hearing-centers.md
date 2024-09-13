@@ -1,5 +1,5 @@
 ---
 title: "NewSound Hearing Centers"
 url: /san-antonio/newsound-hearing-centers/
-shop: Hörgeräte
+shop: hearing aids
 ---

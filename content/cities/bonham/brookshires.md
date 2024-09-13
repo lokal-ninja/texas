@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /bonham/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

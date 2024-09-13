@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /falfurrias/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

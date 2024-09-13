@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /lubbock/petsmart/
-shop: Tiere
+shop: pet
 ---

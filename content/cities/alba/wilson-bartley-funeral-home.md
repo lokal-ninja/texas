@@ -1,5 +1,5 @@
 ---
 title: "Wilson-Bartley Funeral Home"
 url: /alba/wilson-bartley-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

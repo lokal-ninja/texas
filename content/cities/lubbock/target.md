@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lubbock/target/
-shop: Warenhaus
+shop: department store
 ---

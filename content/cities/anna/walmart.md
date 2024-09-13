@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /anna/walmart/
-shop: Lebensmittel
+shop: convenience
 ---

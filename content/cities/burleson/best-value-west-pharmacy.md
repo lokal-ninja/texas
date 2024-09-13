@@ -1,5 +1,5 @@
 ---
 title: "Best Value West Pharmacy"
 url: /burleson/best-value-west-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

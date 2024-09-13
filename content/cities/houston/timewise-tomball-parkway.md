@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /houston/timewise-tomball-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

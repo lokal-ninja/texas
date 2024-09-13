@@ -1,5 +1,5 @@
 ---
 title: "Smith's Grocery"
 url: /angleton/smiths-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

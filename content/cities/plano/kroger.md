@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /plano/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /longview/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

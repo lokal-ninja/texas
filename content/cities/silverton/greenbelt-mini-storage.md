@@ -1,5 +1,5 @@
 ---
 title: "Greenbelt Mini-Storage"
 url: /silverton/greenbelt-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

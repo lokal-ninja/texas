@@ -1,5 +1,5 @@
 ---
 title: "Fishville Trading Post"
 url: /palacios/fishville-trading-post/
-shop: Dorfladen
+shop: general
 ---

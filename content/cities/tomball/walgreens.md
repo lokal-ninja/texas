@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /tomball/walgreens/
-shop: Drogerie
+shop: chemist
 ---

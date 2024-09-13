@@ -1,5 +1,5 @@
 ---
 title: "Wayne Boze Funeral Home"
 url: /waxahachie/wayne-boze-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automotive Fitness Center"
 url: /san-antonio/automotive-fitness-center/
-shop: Autowerkstatt
+shop: car repair
 ---

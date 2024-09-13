@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /spring/timewise/
-shop: Lebensmittel
+shop: convenience
 ---

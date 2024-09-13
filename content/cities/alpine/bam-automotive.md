@@ -1,5 +1,5 @@
 ---
 title: "BAM Automotive"
 url: /alpine/bam-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

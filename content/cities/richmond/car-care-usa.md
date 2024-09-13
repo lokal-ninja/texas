@@ -1,5 +1,5 @@
 ---
 title: "Car Care USA"
 url: /richmond/car-care-usa/
-shop: Autowerkstatt
+shop: car repair
 ---

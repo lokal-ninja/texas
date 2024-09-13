@@ -1,5 +1,5 @@
 ---
 title: "C. Jane"
 url: /austin/c-jane/
-shop: Kleidung
+shop: clothes
 ---

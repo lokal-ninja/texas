@@ -1,5 +1,5 @@
 ---
 title: "La Super Economica"
 url: /amarillo/la-super-economica/
-shop: Supermarkt
+shop: supermarket
 ---

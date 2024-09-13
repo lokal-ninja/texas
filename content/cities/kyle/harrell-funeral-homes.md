@@ -1,5 +1,5 @@
 ---
 title: "Harrell Funeral Homes"
 url: /kyle/harrell-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

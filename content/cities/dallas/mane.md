@@ -1,5 +1,5 @@
 ---
 title: "Mane"
 url: /dallas/mane/
-shop: Friseur
+shop: hairdresser
 ---

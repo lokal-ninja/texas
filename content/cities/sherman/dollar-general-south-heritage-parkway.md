@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /sherman/dollar-general-south-heritage-parkway/
-shop: Kramladen
+shop: variety store
 ---

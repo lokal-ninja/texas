@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
 url: /lubbock/7-eleven-university-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

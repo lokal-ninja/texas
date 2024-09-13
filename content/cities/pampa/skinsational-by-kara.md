@@ -1,5 +1,5 @@
 ---
 title: "Skinsational by Kara"
 url: /pampa/skinsational-by-kara/
-shop: Kosmetik
+shop: beauty
 ---

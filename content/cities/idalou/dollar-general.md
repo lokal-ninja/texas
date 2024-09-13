@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /idalou/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covington's Nursery"
 url: /rowlett/covingtons-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

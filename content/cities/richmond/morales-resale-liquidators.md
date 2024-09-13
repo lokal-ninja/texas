@@ -1,5 +1,5 @@
 ---
 title: "Morales Resale Liquidators"
 url: /richmond/morales-resale-liquidators/
-shop: Gebrauchtwaren
+shop: charity
 ---

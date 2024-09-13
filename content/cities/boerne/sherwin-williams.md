@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /boerne/sherwin-williams/
-shop: Farben
+shop: paint
 ---

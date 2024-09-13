@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /burleson/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

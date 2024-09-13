@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /houston/kroger-jones-road/
-shop: Supermarkt
+shop: supermarket
 ---

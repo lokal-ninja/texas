@@ -1,5 +1,5 @@
 ---
 title: "Tide Dry Cleaners"
 url: /lubbock/tide-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Queen City Funeral Home"
 url: /queen-city/queen-city-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

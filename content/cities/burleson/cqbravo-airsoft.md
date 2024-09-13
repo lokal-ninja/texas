@@ -1,5 +1,5 @@
 ---
 title: "CQBravo Airsoft"
 url: /burleson/cqbravo-airsoft/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /dallas/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

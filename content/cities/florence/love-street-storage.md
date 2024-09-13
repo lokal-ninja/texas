@@ -1,5 +1,5 @@
 ---
 title: "Love Street Storage"
 url: /florence/love-street-storage/
-shop: Mieten
+shop: storage rental
 ---

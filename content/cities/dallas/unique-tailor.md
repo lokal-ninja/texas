@@ -1,5 +1,5 @@
 ---
 title: "Unique Tailor"
 url: /dallas/unique-tailor/
-shop: Schneiderei
+shop: tailor
 ---

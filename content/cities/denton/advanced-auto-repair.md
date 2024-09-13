@@ -1,5 +1,5 @@
 ---
 title: "Advanced Auto Repair"
 url: /denton/advanced-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

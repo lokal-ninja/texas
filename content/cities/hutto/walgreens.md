@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hutto/walgreens/
-shop: Drogerie
+shop: chemist
 ---

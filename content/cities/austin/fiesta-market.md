@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Market"
 url: /austin/fiesta-market/
-shop: Supermarkt
+shop: supermarket
 ---

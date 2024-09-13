@@ -1,5 +1,5 @@
 ---
 title: "DG Market"
 url: /houston/dg-market/
-shop: Kramladen
+shop: variety store
 ---

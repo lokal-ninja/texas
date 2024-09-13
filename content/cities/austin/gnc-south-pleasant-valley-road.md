@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /austin/gnc-south-pleasant-valley-road/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

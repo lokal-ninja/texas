@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /leander/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

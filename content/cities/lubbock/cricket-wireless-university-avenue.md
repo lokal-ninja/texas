@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /lubbock/cricket-wireless-university-avenue/
-shop: Handy
+shop: mobile phone
 ---

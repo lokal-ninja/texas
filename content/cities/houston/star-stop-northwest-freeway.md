@@ -1,5 +1,5 @@
 ---
 title: "Star Stop"
 url: /houston/star-stop-northwest-freeway/
-shop: Lebensmittel
+shop: convenience
 ---

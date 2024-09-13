@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /texarkana/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

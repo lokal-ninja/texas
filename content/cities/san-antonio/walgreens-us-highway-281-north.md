@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /san-antonio/walgreens-us-highway-281-north/
-shop: Drogerie
+shop: chemist
 ---

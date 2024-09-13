@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /kyle/cubesmart-interstate-35/
-shop: Mieten
+shop: storage rental
 ---

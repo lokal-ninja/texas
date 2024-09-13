@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /houston/family-dollar-homestead-road/
-shop: Kramladen
+shop: variety store
 ---

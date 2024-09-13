@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /buda/autozone/
-shop: Autoteile
+shop: car parts
 ---

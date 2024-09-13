@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /wharton/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teasley Donut"
 url: /denton/teasley-donut/
-shop: Bäckerei
+shop: bakery
 ---

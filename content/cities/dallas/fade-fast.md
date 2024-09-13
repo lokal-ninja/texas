@@ -1,5 +1,5 @@
 ---
 title: "Fade Fast"
 url: /dallas/fade-fast/
-shop: Tattoo
+shop: tattoo
 ---

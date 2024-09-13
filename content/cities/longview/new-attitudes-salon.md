@@ -1,5 +1,5 @@
 ---
 title: "New Attitudes Salon"
 url: /longview/new-attitudes-salon/
-shop: Kosmetik
+shop: beauty
 ---

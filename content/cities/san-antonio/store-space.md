@@ -1,5 +1,5 @@
 ---
 title: "Store Space"
 url: /san-antonio/store-space/
-shop: Mieten
+shop: storage rental
 ---

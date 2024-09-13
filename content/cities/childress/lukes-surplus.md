@@ -1,5 +1,5 @@
 ---
 title: "Luke's Surplus"
 url: /childress/lukes-surplus/
-shop: Eisenwaren
+shop: hardware
 ---

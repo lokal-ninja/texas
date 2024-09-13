@@ -1,5 +1,5 @@
 ---
 title: "Raffkind's"
 url: /amarillo/raffkinds/
-shop: Kleidung
+shop: clothes
 ---

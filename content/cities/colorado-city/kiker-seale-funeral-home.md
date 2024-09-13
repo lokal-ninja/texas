@@ -1,5 +1,5 @@
 ---
 title: "Kiker Seale Funeral Home"
 url: /colorado-city/kiker-seale-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

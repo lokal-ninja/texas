@@ -1,5 +1,5 @@
 ---
 title: "Freeze Carpet"
 url: /mineral-wells/freeze-carpet/
-shop: Teppiche
+shop: carpet
 ---

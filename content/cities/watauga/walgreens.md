@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /watauga/walgreens/
-shop: Drogerie
+shop: chemist
 ---

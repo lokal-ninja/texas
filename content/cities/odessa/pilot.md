@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /odessa/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

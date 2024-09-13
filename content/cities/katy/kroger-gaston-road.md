@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /katy/kroger-gaston-road/
-shop: Supermarkt
+shop: supermarket
 ---

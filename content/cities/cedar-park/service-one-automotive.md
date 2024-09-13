@@ -1,5 +1,5 @@
 ---
 title: "Service One Automotive"
 url: /cedar-park/service-one-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

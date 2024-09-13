@@ -1,5 +1,5 @@
 ---
 title: "Sunny's Express"
 url: /houston/sunnys-express/
-shop: Lebensmittel
+shop: convenience
 ---

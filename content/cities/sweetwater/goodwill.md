@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /sweetwater/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

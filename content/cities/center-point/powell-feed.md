@@ -1,5 +1,5 @@
 ---
 title: "Powell Feed"
 url: /center-point/powell-feed/
-shop: Dorfladen
+shop: general
 ---

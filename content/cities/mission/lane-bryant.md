@@ -1,5 +1,5 @@
 ---
 title: "Lane Bryant"
 url: /mission/lane-bryant/
-shop: Kleidung
+shop: clothes
 ---

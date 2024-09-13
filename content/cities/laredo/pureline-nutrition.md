@@ -1,5 +1,5 @@
 ---
 title: "Pureline Nutrition"
 url: /laredo/pureline-nutrition/
-shop: Bioladen
+shop: health food
 ---

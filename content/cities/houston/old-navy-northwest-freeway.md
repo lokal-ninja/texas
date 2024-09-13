@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /houston/old-navy-northwest-freeway/
-shop: Kleidung
+shop: clothes
 ---

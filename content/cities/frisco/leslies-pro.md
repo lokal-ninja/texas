@@ -1,5 +1,5 @@
 ---
 title: "Leslie's Pro"
 url: /frisco/leslies-pro/
-shop: Pool
+shop: swimming pool
 ---

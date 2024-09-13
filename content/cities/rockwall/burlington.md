@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /rockwall/burlington/
-shop: Warenhaus
+shop: department store
 ---

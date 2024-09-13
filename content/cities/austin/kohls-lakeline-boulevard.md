@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /austin/kohls-lakeline-boulevard/
-shop: Warenhaus
+shop: department store
 ---

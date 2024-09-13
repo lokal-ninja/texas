@@ -1,5 +1,5 @@
 ---
 title: "Twins Discount"
 url: /amarillo/twins-discount/
-shop: Lebensmittel
+shop: convenience
 ---

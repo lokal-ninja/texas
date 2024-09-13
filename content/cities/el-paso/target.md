@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /el-paso/target/
-shop: Supermarkt
+shop: department store
 ---

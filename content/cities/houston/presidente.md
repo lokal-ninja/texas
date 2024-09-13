@@ -1,5 +1,5 @@
 ---
 title: "Presidente"
 url: /houston/presidente/
-shop: Spirituosen
+shop: alcohol
 ---

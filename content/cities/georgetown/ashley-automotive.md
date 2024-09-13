@@ -1,5 +1,5 @@
 ---
 title: "Ashley Automotive"
 url: /georgetown/ashley-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

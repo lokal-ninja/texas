@@ -1,5 +1,5 @@
 ---
 title: "Choices"
 url: /perryton/choices/
-shop: Gebrauchtwaren
+shop: charity
 ---

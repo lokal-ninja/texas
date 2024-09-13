@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /corsicana/murphy-usa/
-shop: Kiosk
+shop: kiosk
 ---

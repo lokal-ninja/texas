@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /el-paso/albertsons-north-mesa-street/
-shop: Supermarkt
+shop: supermarket
 ---

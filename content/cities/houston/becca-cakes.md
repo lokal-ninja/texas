@@ -1,5 +1,5 @@
 ---
 title: "Becca Cakes"
 url: /houston/becca-cakes/
-shop: Konditorei
+shop: pastry
 ---

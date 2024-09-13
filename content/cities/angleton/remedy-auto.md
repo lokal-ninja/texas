@@ -1,5 +1,5 @@
 ---
 title: "Remedy Auto"
 url: /angleton/remedy-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /fort-worth/sleep-number/
-shop: Betten
+shop: bed
 ---

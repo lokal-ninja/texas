@@ -1,5 +1,5 @@
 ---
 title: "Guess Factory Store"
 url: /texas-city/guess-factory-store/
-shop: Kleidung
+shop: clothes
 ---

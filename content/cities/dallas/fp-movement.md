@@ -1,5 +1,5 @@
 ---
 title: "FP Movement"
 url: /dallas/fp-movement/
-shop: Kleidung
+shop: clothes
 ---

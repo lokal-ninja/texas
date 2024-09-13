@@ -1,5 +1,5 @@
 ---
 title: "Oportun"
 url: /mission/oportun/
-shop: Leiher
+shop: pawnbroker
 ---

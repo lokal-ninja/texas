@@ -1,5 +1,5 @@
 ---
 title: "Addison Haircutting Company"
 url: /addison/addison-haircutting-company/
-shop: Friseur
+shop: hairdresser
 ---

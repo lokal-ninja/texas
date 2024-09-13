@@ -1,5 +1,5 @@
 ---
 title: "CAT Rental"
 url: /lufkin/cat-rental/
-shop: Autohaus
+shop: car
 ---

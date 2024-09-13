@@ -1,5 +1,5 @@
 ---
 title: "J's Cheaper Cigarettes"
 url: /denton/js-cheaper-cigarettes/
-shop: Lebensmittel
+shop: convenience
 ---

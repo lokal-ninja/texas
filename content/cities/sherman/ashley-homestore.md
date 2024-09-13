@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /sherman/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

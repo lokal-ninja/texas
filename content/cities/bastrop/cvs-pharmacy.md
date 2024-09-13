@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /bastrop/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

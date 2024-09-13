@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /round-rock/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hirschbach"
 url: /denton/hirschbach/
-shop: Autowerkstatt
+shop: car repair
 ---

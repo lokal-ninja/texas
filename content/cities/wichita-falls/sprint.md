@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /wichita-falls/sprint/
-shop: Handy
+shop: mobile phone
 ---

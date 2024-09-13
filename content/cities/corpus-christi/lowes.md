@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /corpus-christi/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

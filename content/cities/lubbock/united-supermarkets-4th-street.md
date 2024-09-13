@@ -1,5 +1,5 @@
 ---
 title: "United Supermarkets"
 url: /lubbock/united-supermarkets-4th-street/
-shop: Supermarkt
+shop: supermarket
 ---

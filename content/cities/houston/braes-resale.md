@@ -1,5 +1,5 @@
 ---
 title: "Braes Resale"
 url: /houston/braes-resale/
-shop: Gebrauchtwaren
+shop: charity
 ---

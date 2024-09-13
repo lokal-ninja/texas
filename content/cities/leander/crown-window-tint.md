@@ -1,5 +1,5 @@
 ---
 title: "Crown Window Tint"
 url: /leander/crown-window-tint/
-shop: Autowerkstatt
+shop: car repair
 ---

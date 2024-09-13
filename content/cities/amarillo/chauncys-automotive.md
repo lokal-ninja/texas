@@ -1,5 +1,5 @@
 ---
 title: "Chauncy's Automotive"
 url: /amarillo/chauncys-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /katy/kroger-westheimer-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

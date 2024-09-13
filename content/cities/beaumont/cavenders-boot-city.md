@@ -1,5 +1,5 @@
 ---
 title: "Cavender's Boot City"
 url: /beaumont/cavenders-boot-city/
-shop: Schuhe
+shop: shoes
 ---

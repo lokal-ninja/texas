@@ -1,5 +1,5 @@
 ---
 title: "JT Nails Spa"
 url: /kerrville/jt-nails-spa/
-shop: Kosmetik
+shop: beauty
 ---

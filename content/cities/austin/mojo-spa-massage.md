@@ -1,5 +1,5 @@
 ---
 title: "Mojo Spa Massage"
 url: /austin/mojo-spa-massage/
-shop: Massage
+shop: massage
 ---

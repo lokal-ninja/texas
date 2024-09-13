@@ -1,5 +1,5 @@
 ---
 title: "Azul Salon"
 url: /houston/azul-salon/
-shop: Friseur
+shop: hairdresser
 ---

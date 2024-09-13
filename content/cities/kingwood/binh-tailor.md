@@ -1,5 +1,5 @@
 ---
 title: "Binh Tailor"
 url: /kingwood/binh-tailor/
-shop: Schneiderei
+shop: tailor
 ---

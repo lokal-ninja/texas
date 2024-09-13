@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /dallas/chevron-north-central-expressway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /humble/costco/
-shop: Großhandel
+shop: wholesale
 ---

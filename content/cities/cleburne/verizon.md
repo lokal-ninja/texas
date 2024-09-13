@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /cleburne/verizon/
-shop: Handy
+shop: mobile phone
 ---

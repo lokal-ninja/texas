@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cypress/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

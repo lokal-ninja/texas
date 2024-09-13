@@ -1,5 +1,5 @@
 ---
 title: "Gunter Liquor"
 url: /gunter/gunter-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

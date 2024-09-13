@@ -1,5 +1,5 @@
 ---
 title: "Buck's Farm Supply"
 url: /denison/bucks-farm-supply/
-shop: Dorfladen
+shop: general
 ---

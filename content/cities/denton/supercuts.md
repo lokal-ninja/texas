@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /denton/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

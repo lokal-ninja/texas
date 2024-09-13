@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /dallas/shell/
-shop: Lebensmittel
+shop: convenience
 ---

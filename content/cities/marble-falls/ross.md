@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /marble-falls/ross/
-shop: Warenhaus
+shop: department store
 ---

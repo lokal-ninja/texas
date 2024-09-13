@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /belton/valero/
-shop: Lebensmittel
+shop: convenience
 ---

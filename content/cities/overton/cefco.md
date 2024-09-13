@@ -1,5 +1,5 @@
 ---
 title: "CEFCO"
 url: /overton/cefco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /amarillo/carters/
-shop: Kleidung
+shop: clothes
 ---

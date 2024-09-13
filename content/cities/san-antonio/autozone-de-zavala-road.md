@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-antonio/autozone-de-zavala-road/
-shop: Autoteile
+shop: car parts
 ---

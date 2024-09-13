@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /arlington/quiktrip-south-watson-road/
-shop: Lebensmittel
+shop: convenience
 ---

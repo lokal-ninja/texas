@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lubbock/stripes-north-frankford-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

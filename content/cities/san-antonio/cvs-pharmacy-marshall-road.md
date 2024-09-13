@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /san-antonio/cvs-pharmacy-marshall-road/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mueller, Inc."
 url: /comfort/mueller-inc/
-shop: Baustoffe
+shop: trade
 ---

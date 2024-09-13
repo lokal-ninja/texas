@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /arlington/kroger-west-pleasant-ridge-road/
-shop: Supermarkt
+shop: supermarket
 ---

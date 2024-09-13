@@ -1,5 +1,5 @@
 ---
 title: "Tex Best"
 url: /von-ormy/tex-best/
-shop: Lebensmittel
+shop: convenience
 ---

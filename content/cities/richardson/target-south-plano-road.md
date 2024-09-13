@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /richardson/target-south-plano-road/
-shop: Supermarkt
+shop: supermarket
 ---

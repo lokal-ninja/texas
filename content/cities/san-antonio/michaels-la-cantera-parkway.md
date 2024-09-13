@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /san-antonio/michaels-la-cantera-parkway/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /round-rock/dsw/
-shop: Schuhe
+shop: shoes
 ---

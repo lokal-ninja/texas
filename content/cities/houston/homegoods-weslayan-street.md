@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /houston/homegoods-weslayan-street/
-shop: Haushaltsartikel
+shop: houseware
 ---

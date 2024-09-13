@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /amarillo/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

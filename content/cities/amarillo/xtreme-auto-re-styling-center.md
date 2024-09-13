@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Auto Re-Styling Center"
 url: /amarillo/xtreme-auto-re-styling-center/
-shop: Autowerkstatt
+shop: car repair
 ---

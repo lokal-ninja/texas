@@ -1,5 +1,5 @@
 ---
 title: "American Auto Credit"
 url: /athens/american-auto-credit/
-shop: Autohaus
+shop: car
 ---

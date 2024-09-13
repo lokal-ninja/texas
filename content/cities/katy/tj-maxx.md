@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /katy/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

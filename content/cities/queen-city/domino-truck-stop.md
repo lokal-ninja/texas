@@ -1,5 +1,5 @@
 ---
 title: "Domino Truck Stop"
 url: /queen-city/domino-truck-stop/
-shop: Lebensmittel
+shop: convenience
 ---

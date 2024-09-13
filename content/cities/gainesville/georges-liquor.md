@@ -1,5 +1,5 @@
 ---
 title: "George's Liquor"
 url: /gainesville/georges-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

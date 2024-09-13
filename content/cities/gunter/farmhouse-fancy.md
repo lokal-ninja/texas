@@ -1,5 +1,5 @@
 ---
 title: "FarmHouse Fancy"
 url: /gunter/farmhouse-fancy/
-shop: Haushaltsartikel
+shop: houseware
 ---

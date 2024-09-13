@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /eagle-pass/dollar-general-el-indio-highway/
-shop: Kramladen
+shop: variety store
 ---

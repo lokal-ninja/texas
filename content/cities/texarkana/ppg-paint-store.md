@@ -1,5 +1,5 @@
 ---
 title: "PPG Paint Store"
 url: /texarkana/ppg-paint-store/
-shop: Farben
+shop: paint
 ---

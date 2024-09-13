@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /prosper/target/
-shop: Warenhaus
+shop: department store
 ---

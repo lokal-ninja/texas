@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /san-antonio/quiktrip-south-us-highway-181/
-shop: Lebensmittel
+shop: convenience
 ---

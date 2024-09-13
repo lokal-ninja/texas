@@ -1,5 +1,5 @@
 ---
 title: "NetWork Finance"
 url: /amarillo/network-finance/
-shop: Leiher
+shop: pawnbroker
 ---

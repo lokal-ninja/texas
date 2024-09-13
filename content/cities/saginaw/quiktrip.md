@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /saginaw/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

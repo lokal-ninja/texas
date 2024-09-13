@@ -1,5 +1,5 @@
 ---
 title: "Cleo's Furniture"
 url: /texarkana/cleos-furniture/
-shop: Möbel
+shop: furniture
 ---

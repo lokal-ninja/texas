@@ -1,5 +1,5 @@
 ---
 title: "Winfield Travel Center"
 url: /winfield/winfield-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

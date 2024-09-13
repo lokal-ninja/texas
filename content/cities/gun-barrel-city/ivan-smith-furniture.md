@@ -1,5 +1,5 @@
 ---
 title: "Ivan Smith Furniture"
 url: /gun-barrel-city/ivan-smith-furniture/
-shop: Möbel
+shop: furniture
 ---

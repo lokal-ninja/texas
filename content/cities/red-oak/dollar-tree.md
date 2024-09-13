@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /red-oak/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

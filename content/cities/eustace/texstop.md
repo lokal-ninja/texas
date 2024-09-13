@@ -1,5 +1,5 @@
 ---
 title: "Texstop"
 url: /eustace/texstop/
-shop: Lebensmittel
+shop: convenience
 ---

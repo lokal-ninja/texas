@@ -1,5 +1,5 @@
 ---
 title: "Penshorn's Meat Market"
 url: /marion/penshorns-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

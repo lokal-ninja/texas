@@ -1,5 +1,5 @@
 ---
 title: "Sleep Experts"
 url: /fort-worth/sleep-experts/
-shop: Betten
+shop: bed
 ---

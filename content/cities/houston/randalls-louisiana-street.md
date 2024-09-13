@@ -1,5 +1,5 @@
 ---
 title: "Randalls"
 url: /houston/randalls-louisiana-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /irving/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

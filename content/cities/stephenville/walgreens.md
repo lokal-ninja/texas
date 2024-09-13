@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /stephenville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

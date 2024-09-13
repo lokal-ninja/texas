@@ -1,5 +1,5 @@
 ---
 title: "Cellular Sales- Verizon Authorized Retailer"
 url: /seabrook/cellular-sales-verizon-authorized-retailer/
-shop: Handy
+shop: mobile phone
 ---

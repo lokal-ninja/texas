@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /caddo-mills/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

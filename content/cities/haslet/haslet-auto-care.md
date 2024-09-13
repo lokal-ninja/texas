@@ -1,5 +1,5 @@
 ---
 title: "Haslet Auto Care"
 url: /haslet/haslet-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

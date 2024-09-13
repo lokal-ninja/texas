@@ -1,5 +1,5 @@
 ---
 title: "Penzoil"
 url: /san-marcos/penzoil/
-shop: Autowerkstatt
+shop: car repair
 ---

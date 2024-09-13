@@ -1,5 +1,5 @@
 ---
 title: "The Blossom Shop"
 url: /dumas/the-blossom-shop/
-shop: Blumen
+shop: florist
 ---

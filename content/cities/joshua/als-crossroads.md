@@ -1,5 +1,5 @@
 ---
 title: "Al's Crossroads"
 url: /joshua/als-crossroads/
-shop: Lebensmittel
+shop: convenience
 ---

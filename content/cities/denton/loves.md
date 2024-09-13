@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /denton/loves/
-shop: Lebensmittel
+shop: convenience
 ---

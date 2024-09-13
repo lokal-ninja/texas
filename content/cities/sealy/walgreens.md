@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sealy/walgreens/
-shop: Drogerie
+shop: chemist
 ---

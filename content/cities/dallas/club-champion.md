@@ -1,5 +1,5 @@
 ---
 title: "Club Champion"
 url: /dallas/club-champion/
-shop: Sport
+shop: sports
 ---

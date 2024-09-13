@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /abilene/walmart-supercenter-southwest-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /georgetown/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

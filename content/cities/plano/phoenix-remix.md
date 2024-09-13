@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Remix"
 url: /plano/phoenix-remix/
-shop: Modehaus
+shop: boutique
 ---

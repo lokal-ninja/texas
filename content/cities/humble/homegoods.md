@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /humble/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

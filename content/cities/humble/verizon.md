@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /humble/verizon/
-shop: Handy
+shop: mobile phone
 ---

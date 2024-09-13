@@ -1,5 +1,5 @@
 ---
 title: "Relic"
 url: /amarillo/relic/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hansom Hank's"
 url: /fort-worth/hansom-hanks/
-shop: Lebensmittel
+shop: convenience
 ---

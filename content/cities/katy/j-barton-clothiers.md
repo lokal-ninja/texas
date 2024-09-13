@@ -1,5 +1,5 @@
 ---
 title: "J. Barton Clothiers"
 url: /katy/j-barton-clothiers/
-shop: Kleidung
+shop: clothes
 ---

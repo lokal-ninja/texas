@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /frisco/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /san-antonio/petsmart-de-zavala-road/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Village Liquor"
 url: /houston/village-liquor-gessner-road/
-shop: Spirituosen
+shop: alcohol
 ---

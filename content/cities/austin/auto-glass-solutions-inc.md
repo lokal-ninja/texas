@@ -1,5 +1,5 @@
 ---
 title: "Auto Glass Solutions, Inc"
 url: /austin/auto-glass-solutions-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

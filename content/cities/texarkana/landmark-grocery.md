@@ -1,5 +1,5 @@
 ---
 title: "Landmark Grocery"
 url: /texarkana/landmark-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

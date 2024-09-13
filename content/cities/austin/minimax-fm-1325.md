@@ -1,5 +1,5 @@
 ---
 title: "miniMax"
 url: /austin/minimax-fm-1325/
-shop: Lebensmittel
+shop: convenience
 ---

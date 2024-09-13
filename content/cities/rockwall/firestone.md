@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /rockwall/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

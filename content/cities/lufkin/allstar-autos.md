@@ -1,5 +1,5 @@
 ---
 title: "Allstar Autos"
 url: /lufkin/allstar-autos/
-shop: Autohaus
+shop: car
 ---

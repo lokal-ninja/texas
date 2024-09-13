@@ -1,5 +1,5 @@
 ---
 title: "Brinson Chrysler Dodge Jeep Ram"
 url: /corsicana/brinson-chrysler-dodge-jeep-ram/
-shop: Autohaus
+shop: car
 ---

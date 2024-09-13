@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /mesquite/raceway/
-shop: Lebensmittel
+shop: convenience
 ---

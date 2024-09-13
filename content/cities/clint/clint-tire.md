@@ -1,5 +1,5 @@
 ---
 title: "Clint Tire"
 url: /clint/clint-tire/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jim's Garage"
 url: /wichita-falls/jims-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

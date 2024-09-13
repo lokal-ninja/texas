@@ -1,5 +1,5 @@
 ---
 title: "Brighton Jones"
 url: /houston/brighton-jones/
-shop: Supermarkt
+shop: supermarket
 ---

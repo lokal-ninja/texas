@@ -1,5 +1,5 @@
 ---
 title: "Luxury Nail Bar"
 url: /denton/luxury-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

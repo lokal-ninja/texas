@@ -1,5 +1,5 @@
 ---
 title: "Big D's Auto Supply"
 url: /joshua/big-ds-auto-supply/
-shop: Autoteile
+shop: car parts
 ---

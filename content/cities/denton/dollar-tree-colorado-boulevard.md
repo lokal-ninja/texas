@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /denton/dollar-tree-colorado-boulevard/
-shop: Kramladen
+shop: variety store
 ---

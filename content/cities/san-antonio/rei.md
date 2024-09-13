@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /san-antonio/rei/
-shop: Outdoor
+shop: outdoor
 ---

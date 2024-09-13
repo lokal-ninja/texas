@@ -1,5 +1,5 @@
 ---
 title: "Ambius"
 url: /san-antonio/ambius/
-shop: Raumausstattung
+shop: interior decoration
 ---

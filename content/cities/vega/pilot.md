@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /vega/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simply Sweet Cupcakes"
 url: /bastrop/simply-sweet-cupcakes/
-shop: Bäckerei
+shop: bakery
 ---

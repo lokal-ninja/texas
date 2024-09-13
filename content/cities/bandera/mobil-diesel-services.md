@@ -1,5 +1,5 @@
 ---
 title: "Mobil Diesel Services"
 url: /bandera/mobil-diesel-services/
-shop: Autowerkstatt
+shop: car repair
 ---

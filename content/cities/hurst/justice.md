@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /hurst/justice/
-shop: Kleidung
+shop: clothes
 ---

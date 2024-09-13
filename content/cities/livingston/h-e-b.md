@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /livingston/h-e-b/
-shop: Supermarkt
+shop: supermarket
 ---

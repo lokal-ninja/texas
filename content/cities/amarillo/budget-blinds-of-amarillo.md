@@ -1,5 +1,5 @@
 ---
 title: "Budget Blinds of Amarillo"
 url: /amarillo/budget-blinds-of-amarillo/
-shop: Jalousien
+shop: window blind
 ---

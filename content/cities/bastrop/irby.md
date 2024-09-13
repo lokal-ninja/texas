@@ -1,5 +1,5 @@
 ---
 title: "Irby"
 url: /bastrop/irby/
-shop: Baustoffe
+shop: trade
 ---

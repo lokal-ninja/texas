@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /cypress/ross/
-shop: Warenhaus
+shop: department store
 ---

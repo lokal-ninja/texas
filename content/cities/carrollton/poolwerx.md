@@ -1,5 +1,5 @@
 ---
 title: "Poolwerx"
 url: /carrollton/poolwerx/
-shop: Pool
+shop: swimming pool
 ---

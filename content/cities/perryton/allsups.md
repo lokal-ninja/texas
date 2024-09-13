@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /perryton/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

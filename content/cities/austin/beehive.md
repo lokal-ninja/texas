@@ -1,5 +1,5 @@
 ---
 title: "Beehive"
 url: /austin/beehive/
-shop: Kleidung
+shop: clothes
 ---

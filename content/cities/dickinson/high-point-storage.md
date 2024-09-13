@@ -1,5 +1,5 @@
 ---
 title: "High Point Storage"
 url: /dickinson/high-point-storage/
-shop: Mieten
+shop: storage rental
 ---

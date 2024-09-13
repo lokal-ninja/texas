@@ -1,5 +1,5 @@
 ---
 title: "Cherry"
 url: /beaumont/cherry/
-shop: Lebensmittel
+shop: convenience
 ---

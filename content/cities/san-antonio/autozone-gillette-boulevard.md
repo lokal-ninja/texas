@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-antonio/autozone-gillette-boulevard/
-shop: Autoteile
+shop: car parts
 ---

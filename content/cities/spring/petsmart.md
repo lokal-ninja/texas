@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /spring/petsmart/
-shop: Tiere
+shop: pet
 ---

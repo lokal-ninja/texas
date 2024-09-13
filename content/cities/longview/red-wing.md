@@ -1,5 +1,5 @@
 ---
 title: "Red Wing"
 url: /longview/red-wing/
-shop: Schuhe
+shop: shoes
 ---

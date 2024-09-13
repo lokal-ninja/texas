@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cuero/walmart/
-shop: Warenhaus
+shop: department store
 ---

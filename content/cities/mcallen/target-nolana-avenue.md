@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mcallen/target-nolana-avenue/
-shop: Warenhaus
+shop: department store
 ---

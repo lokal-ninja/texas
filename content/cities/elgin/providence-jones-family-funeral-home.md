@@ -1,5 +1,5 @@
 ---
 title: "Providence-Jones Family Funeral Home"
 url: /elgin/providence-jones-family-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

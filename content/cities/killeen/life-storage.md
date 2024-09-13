@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /killeen/life-storage/
-shop: Mieten
+shop: storage rental
 ---

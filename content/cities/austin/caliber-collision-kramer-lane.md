@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /austin/caliber-collision-kramer-lane/
-shop: Autowerkstatt
+shop: car repair
 ---

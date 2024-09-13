@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /kenedy/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Birds Barbershop"
 url: /austin/birds-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

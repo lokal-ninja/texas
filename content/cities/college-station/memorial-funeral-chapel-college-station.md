@@ -1,5 +1,5 @@
 ---
 title: "Memorial Funeral Chapel—College Station"
 url: /college-station/memorial-funeral-chapel-college-station/
-shop: Bestattungen
+shop: funeral directors
 ---

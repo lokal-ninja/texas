@@ -1,5 +1,5 @@
 ---
 title: "Town Square Antique Mall"
 url: /slaton/town-square-antique-mall/
-shop: Antiquitäten
+shop: antiques
 ---

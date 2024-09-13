@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /amarillo/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

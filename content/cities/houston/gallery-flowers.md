@@ -1,5 +1,5 @@
 ---
 title: "Gallery Flowers"
 url: /houston/gallery-flowers/
-shop: Blumen
+shop: florist
 ---

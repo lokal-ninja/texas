@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /killeen/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

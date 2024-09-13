@@ -1,5 +1,5 @@
 ---
 title: "Salado Antique Mall"
 url: /salado/salado-antique-mall/
-shop: Antiquitäten
+shop: antiques
 ---

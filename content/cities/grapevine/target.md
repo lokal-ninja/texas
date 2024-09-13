@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /grapevine/target/
-shop: Supermarkt
+shop: supermarket
 ---

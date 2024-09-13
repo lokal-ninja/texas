@@ -1,5 +1,5 @@
 ---
 title: "ECS"
 url: /dumas/ecs/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

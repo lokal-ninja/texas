@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /lufkin/sears/
-shop: Warenhaus
+shop: department store
 ---

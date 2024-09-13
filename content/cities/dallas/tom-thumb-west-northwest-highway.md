@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb"
 url: /dallas/tom-thumb-west-northwest-highway/
-shop: Supermarkt
+shop: supermarket
 ---

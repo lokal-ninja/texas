@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /san-antonio/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

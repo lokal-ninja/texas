@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /san-angelo/airgas/
-shop: Gasflaschen
+shop: gas
 ---

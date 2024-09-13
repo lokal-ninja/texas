@@ -1,5 +1,5 @@
 ---
 title: "Apex Threading"
 url: /lubbock/apex-threading/
-shop: Kosmetik
+shop: beauty
 ---

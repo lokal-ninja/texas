@@ -1,5 +1,5 @@
 ---
 title: "J.Jill"
 url: /southlake/j-jill/
-shop: Kleidung
+shop: clothes
 ---

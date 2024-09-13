@@ -1,5 +1,5 @@
 ---
 title: "Panadería La Unica"
 url: /houston/panaderia-la-unica/
-shop: Bäckerei
+shop: bakery
 ---

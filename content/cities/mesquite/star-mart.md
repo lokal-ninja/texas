@@ -1,5 +1,5 @@
 ---
 title: "Star Mart"
 url: /mesquite/star-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iStorage"
 url: /conroe/istorage/
-shop: Mieten
+shop: storage rental
 ---

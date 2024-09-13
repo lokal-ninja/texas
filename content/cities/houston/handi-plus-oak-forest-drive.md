@@ -1,5 +1,5 @@
 ---
 title: "Handi Plus"
 url: /houston/handi-plus-oak-forest-drive/
-shop: Lebensmittel
+shop: convenience
 ---

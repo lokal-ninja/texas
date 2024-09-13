@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /humble/mattress-firm/
-shop: Betten
+shop: bed
 ---

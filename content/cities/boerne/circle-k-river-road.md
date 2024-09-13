@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /boerne/circle-k-river-road/
-shop: Lebensmittel
+shop: convenience
 ---

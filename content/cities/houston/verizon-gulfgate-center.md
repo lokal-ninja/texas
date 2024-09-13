@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /houston/verizon-gulfgate-center/
-shop: Handy
+shop: mobile phone
 ---

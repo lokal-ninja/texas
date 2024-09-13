@@ -1,5 +1,5 @@
 ---
 title: "Results Paintless Dent Repair"
 url: /carrollton/results-paintless-dent-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

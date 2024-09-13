@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /houston/ulta-beauty-cypress-creek-parkway/
-shop: Kosmetik
+shop: beauty
 ---

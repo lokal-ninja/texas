@@ -1,5 +1,5 @@
 ---
 title: "Texas Pawn and Jewelry"
 url: /liberty-hill/texas-pawn-and-jewelry/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware Brenham"
 url: /brenham/ace-hardware-brenham/
-shop: Baumarkt
+shop: doityourself
 ---

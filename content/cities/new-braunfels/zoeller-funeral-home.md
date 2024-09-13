@@ -1,5 +1,5 @@
 ---
 title: "Zoeller Funeral Home"
 url: /new-braunfels/zoeller-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TA"
 url: /denton/ta/
-shop: Lebensmittel
+shop: convenience
 ---

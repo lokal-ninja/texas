@@ -1,5 +1,5 @@
 ---
 title: "Simply Wood"
 url: /mcgregor/simply-wood/
-shop: Möbel
+shop: furniture
 ---

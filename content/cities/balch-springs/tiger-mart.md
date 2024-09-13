@@ -1,5 +1,5 @@
 ---
 title: "Tiger Mart"
 url: /balch-springs/tiger-mart/
-shop: Lebensmittel
+shop: convenience
 ---

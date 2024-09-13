@@ -1,5 +1,5 @@
 ---
 title: "Everest Mart"
 url: /lubbock/everest-mart/
-shop: Lebensmittel
+shop: convenience
 ---

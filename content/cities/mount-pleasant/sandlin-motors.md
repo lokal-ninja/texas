@@ -1,5 +1,5 @@
 ---
 title: "Sandlin Motors"
 url: /mount-pleasant/sandlin-motors/
-shop: Autohaus
+shop: car
 ---

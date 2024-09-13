@@ -1,5 +1,5 @@
 ---
 title: "Corner Service"
 url: /borger/corner-service/
-shop: Lebensmittel
+shop: convenience
 ---

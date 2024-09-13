@@ -1,5 +1,5 @@
 ---
 title: "North Texas Laundromat"
 url: /denton/north-texas-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

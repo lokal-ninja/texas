@@ -1,5 +1,5 @@
 ---
 title: "Kent Kwik"
 url: /midland/kent-kwik-north-midland-drive/
-shop: Lebensmittel
+shop: convenience
 ---

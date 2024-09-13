@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /abilene/burlington/
-shop: Warenhaus
+shop: department store
 ---

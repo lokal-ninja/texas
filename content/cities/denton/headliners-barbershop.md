@@ -1,5 +1,5 @@
 ---
 title: "Headliner's barbershop"
 url: /denton/headliners-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

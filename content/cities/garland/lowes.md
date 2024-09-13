@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /garland/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

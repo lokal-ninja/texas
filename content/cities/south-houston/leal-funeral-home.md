@@ -1,5 +1,5 @@
 ---
 title: "Leal Funeral Home"
 url: /south-houston/leal-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

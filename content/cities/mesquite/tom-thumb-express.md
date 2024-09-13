@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb Express"
 url: /mesquite/tom-thumb-express/
-shop: Lebensmittel
+shop: convenience
 ---

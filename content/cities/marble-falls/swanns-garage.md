@@ -1,5 +1,5 @@
 ---
 title: "Swann's Garage"
 url: /marble-falls/swanns-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

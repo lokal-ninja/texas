@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lamesa/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

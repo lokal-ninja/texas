@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /round-rock/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

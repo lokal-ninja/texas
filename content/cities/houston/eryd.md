@@ -1,5 +1,5 @@
 ---
 title: "ERYD"
 url: /houston/eryd/
-shop: Mieten
+shop: storage rental
 ---

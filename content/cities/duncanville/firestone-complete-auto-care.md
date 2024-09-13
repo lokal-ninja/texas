@@ -1,5 +1,5 @@
 ---
 title: "Firestone Complete Auto Care"
 url: /duncanville/firestone-complete-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

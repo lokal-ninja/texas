@@ -1,5 +1,5 @@
 ---
 title: "Popshelf"
 url: /houston/popshelf/
-shop: Kramladen
+shop: variety store
 ---

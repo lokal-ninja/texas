@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /garland/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

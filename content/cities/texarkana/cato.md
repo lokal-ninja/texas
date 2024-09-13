@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /texarkana/cato/
-shop: Kleidung
+shop: clothes
 ---

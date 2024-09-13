@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /hewitt/iga/
-shop: Supermarkt
+shop: supermarket
 ---

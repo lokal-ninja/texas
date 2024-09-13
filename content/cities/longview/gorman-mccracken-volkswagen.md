@@ -1,5 +1,5 @@
 ---
 title: "Gorman McCracken Volkswagen"
 url: /longview/gorman-mccracken-volkswagen/
-shop: Autohaus
+shop: car
 ---

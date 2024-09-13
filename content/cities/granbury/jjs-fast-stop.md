@@ -1,5 +1,5 @@
 ---
 title: "JJ's Fast Stop"
 url: /granbury/jjs-fast-stop/
-shop: Lebensmittel
+shop: convenience
 ---

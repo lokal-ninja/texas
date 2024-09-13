@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /livingston/exxon/
-shop: Lebensmittel
+shop: convenience
 ---

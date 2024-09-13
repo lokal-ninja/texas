@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /new-caney/burlington/
-shop: Warenhaus
+shop: department store
 ---

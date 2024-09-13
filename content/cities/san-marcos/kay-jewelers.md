@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /san-marcos/kay-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

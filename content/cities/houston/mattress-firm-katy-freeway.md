@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /houston/mattress-firm-katy-freeway/
-shop: Betten
+shop: bed
 ---

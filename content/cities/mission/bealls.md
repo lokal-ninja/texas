@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /mission/bealls/
-shop: Warenhaus
+shop: department store
 ---

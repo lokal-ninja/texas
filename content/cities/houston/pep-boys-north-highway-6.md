@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /houston/pep-boys-north-highway-6/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BJ Liquor"
 url: /wichita-falls/bj-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

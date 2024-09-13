@@ -1,5 +1,5 @@
 ---
 title: "Mr T's Automotive"
 url: /georgetown/mr-ts-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

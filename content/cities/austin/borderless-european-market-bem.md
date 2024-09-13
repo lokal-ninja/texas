@@ -1,5 +1,5 @@
 ---
 title: "Borderless European Market (BEM)"
 url: /austin/borderless-european-market-bem/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bulverde/autozone/
-shop: Autoteile
+shop: car parts
 ---

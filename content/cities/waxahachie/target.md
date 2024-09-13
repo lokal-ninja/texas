@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /waxahachie/target/
-shop: Warenhaus
+shop: department store
 ---

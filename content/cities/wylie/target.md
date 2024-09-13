@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /wylie/target/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /lubbock/petsmart-slide-road/
-shop: Tiere
+shop: pet
 ---

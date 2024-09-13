@@ -1,5 +1,5 @@
 ---
 title: "Toyota of Grapevine"
 url: /grapevine/toyota-of-grapevine/
-shop: Autohaus
+shop: car
 ---

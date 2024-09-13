@@ -1,5 +1,5 @@
 ---
 title: "Barret Motors"
 url: /greenville/barret-motors/
-shop: Autohaus
+shop: car
 ---

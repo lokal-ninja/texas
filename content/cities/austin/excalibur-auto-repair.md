@@ -1,5 +1,5 @@
 ---
 title: "Excalibur Auto Repair"
 url: /austin/excalibur-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

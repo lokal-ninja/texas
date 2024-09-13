@@ -1,5 +1,5 @@
 ---
 title: "Gallery Furniture"
 url: /houston/gallery-furniture-north-freeway/
-shop: Möbel
+shop: furniture
 ---

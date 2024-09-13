@@ -1,5 +1,5 @@
 ---
 title: "Smoke Palace"
 url: /fort-worth/smoke-palace/
-shop: Tabak
+shop: tobacco
 ---

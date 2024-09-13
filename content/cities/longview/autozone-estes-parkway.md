@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /longview/autozone-estes-parkway/
-shop: Autoteile
+shop: car parts
 ---

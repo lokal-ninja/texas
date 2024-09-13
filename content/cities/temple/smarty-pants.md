@@ -1,5 +1,5 @@
 ---
 title: "Smarty Pants"
 url: /temple/smarty-pants/
-shop: Kleidung
+shop: clothes
 ---

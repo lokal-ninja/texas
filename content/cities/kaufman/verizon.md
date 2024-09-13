@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kaufman/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /san-marcos/raceway/
-shop: Lebensmittel
+shop: convenience
 ---

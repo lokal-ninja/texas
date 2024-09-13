@@ -1,5 +1,5 @@
 ---
 title: "West Texas Wholesale Floral"
 url: /lubbock/west-texas-wholesale-floral/
-shop: Blumen
+shop: florist
 ---

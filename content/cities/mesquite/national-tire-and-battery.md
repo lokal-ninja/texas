@@ -1,5 +1,5 @@
 ---
 title: "National Tire and Battery"
 url: /mesquite/national-tire-and-battery/
-shop: Autowerkstatt
+shop: car repair
 ---

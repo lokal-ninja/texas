@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /irving/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

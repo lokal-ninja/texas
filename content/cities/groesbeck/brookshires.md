@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /groesbeck/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /bastrop/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

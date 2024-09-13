@@ -1,5 +1,5 @@
 ---
 title: "calico"
 url: /austin/calico/
-shop: Raumausstattung
+shop: interior decoration
 ---

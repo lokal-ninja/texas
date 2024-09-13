@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /refugio/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

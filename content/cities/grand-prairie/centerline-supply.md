@@ -1,5 +1,5 @@
 ---
 title: "Centerline Supply"
 url: /grand-prairie/centerline-supply/
-shop: Allgemein
+shop: shop
 ---

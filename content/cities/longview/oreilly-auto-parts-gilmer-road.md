@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /longview/oreilly-auto-parts-gilmer-road/
-shop: Autoteile
+shop: car parts
 ---

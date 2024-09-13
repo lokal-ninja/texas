@@ -1,5 +1,5 @@
 ---
 title: "Fischer's Market"
 url: /canyon-lake/fischers-market/
-shop: Lebensmittel
+shop: convenience
 ---

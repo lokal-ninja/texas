@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /the-colony/the-home-depot/
-shop: Baumarkt
+shop: doityourself
 ---

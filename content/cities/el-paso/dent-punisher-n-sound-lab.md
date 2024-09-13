@@ -1,5 +1,5 @@
 ---
 title: "Dent Punisher n Sound Lab"
 url: /el-paso/dent-punisher-n-sound-lab/
-shop: Autowerkstatt
+shop: car repair
 ---

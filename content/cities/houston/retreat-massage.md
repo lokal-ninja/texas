@@ -1,5 +1,5 @@
 ---
 title: "Retreat Massage"
 url: /houston/retreat-massage/
-shop: Massage
+shop: massage
 ---

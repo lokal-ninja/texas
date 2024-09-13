@@ -1,5 +1,5 @@
 ---
 title: "Jupiter Chevrolet"
 url: /garland/jupiter-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geometric"
 url: /irving/geometric/
-shop: Sport
+shop: sports
 ---

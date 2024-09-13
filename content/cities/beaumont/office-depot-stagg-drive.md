@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /beaumont/office-depot-stagg-drive/
-shop: Schreibwaren
+shop: office supplies
 ---

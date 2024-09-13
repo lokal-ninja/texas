@@ -1,5 +1,5 @@
 ---
 title: "Imran's"
 url: /houston/imrans/
-shop: Kleidung
+shop: clothes
 ---

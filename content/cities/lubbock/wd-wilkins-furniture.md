@@ -1,5 +1,5 @@
 ---
 title: "WD Wilkins Furniture"
 url: /lubbock/wd-wilkins-furniture/
-shop: Möbel
+shop: furniture
 ---

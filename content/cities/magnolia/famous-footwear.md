@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /magnolia/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

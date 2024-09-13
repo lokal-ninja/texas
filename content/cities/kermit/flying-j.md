@@ -1,5 +1,5 @@
 ---
 title: "Flying J"
 url: /kermit/flying-j/
-shop: Lebensmittel
+shop: convenience
 ---

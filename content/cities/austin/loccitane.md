@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /austin/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

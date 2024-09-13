@@ -1,5 +1,5 @@
 ---
 title: "Speedy Stop"
 url: /austin/speedy-stop-east-parmer-lane/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /san-marcos/carters/
-shop: Kleidung
+shop: clothes
 ---

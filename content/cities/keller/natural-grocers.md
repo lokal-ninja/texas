@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /keller/natural-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

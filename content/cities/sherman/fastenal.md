@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /sherman/fastenal/
-shop: Baustoffe
+shop: trade
 ---

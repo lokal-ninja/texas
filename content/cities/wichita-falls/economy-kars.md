@@ -1,5 +1,5 @@
 ---
 title: "Economy Kars"
 url: /wichita-falls/economy-kars/
-shop: Autohaus
+shop: car
 ---

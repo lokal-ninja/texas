@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /rockwall/petsmart/
-shop: Tiere
+shop: pet
 ---

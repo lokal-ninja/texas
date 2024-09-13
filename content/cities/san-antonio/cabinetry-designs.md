@@ -1,5 +1,5 @@
 ---
 title: "Cabinetry Designs"
 url: /san-antonio/cabinetry-designs/
-shop: Küchen
+shop: kitchen
 ---

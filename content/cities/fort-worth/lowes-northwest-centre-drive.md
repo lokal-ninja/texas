@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /fort-worth/lowes-northwest-centre-drive/
-shop: Baumarkt
+shop: doityourself
 ---

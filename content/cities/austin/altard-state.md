@@ -1,5 +1,5 @@
 ---
 title: "Altar'd State"
 url: /austin/altard-state/
-shop: Kleidung
+shop: clothes
 ---

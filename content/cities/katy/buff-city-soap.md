@@ -1,5 +1,5 @@
 ---
 title: "Buff City Soap"
 url: /katy/buff-city-soap/
-shop: Kosmetik
+shop: beauty
 ---

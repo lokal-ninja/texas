@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /cypress/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

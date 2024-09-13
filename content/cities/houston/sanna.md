@@ -1,5 +1,5 @@
 ---
 title: "Sanna"
 url: /houston/sanna/
-shop: Kleidung
+shop: clothes
 ---

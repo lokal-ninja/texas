@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /austin/firestone-north-ranch-road-620/
-shop: Autowerkstatt
+shop: car repair
 ---

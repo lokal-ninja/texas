@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /austin/firestone-research-boulevard/
-shop: Autowerkstatt
+shop: car repair
 ---

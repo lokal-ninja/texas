@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /fort-worth/loves/
-shop: Lebensmittel
+shop: convenience
 ---

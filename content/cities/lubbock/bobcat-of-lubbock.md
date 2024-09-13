@@ -1,5 +1,5 @@
 ---
 title: "Bobcat of Lubbock"
 url: /lubbock/bobcat-of-lubbock/
-shop: Mieten
+shop: storage rental
 ---

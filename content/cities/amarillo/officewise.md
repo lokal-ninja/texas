@@ -1,5 +1,5 @@
 ---
 title: "Officewise"
 url: /amarillo/officewise/
-shop: Schreibwaren
+shop: office supplies
 ---

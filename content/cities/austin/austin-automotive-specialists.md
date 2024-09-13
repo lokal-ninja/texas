@@ -1,5 +1,5 @@
 ---
 title: "Austin Automotive Specialists"
 url: /austin/austin-automotive-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

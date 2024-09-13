@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-marcos/autozone/
-shop: Autoteile
+shop: car parts
 ---

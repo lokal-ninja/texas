@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /burleson/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

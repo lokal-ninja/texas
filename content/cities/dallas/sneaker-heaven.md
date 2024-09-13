@@ -1,5 +1,5 @@
 ---
 title: "Sneaker Heaven"
 url: /dallas/sneaker-heaven/
-shop: Schuhe
+shop: shoes
 ---

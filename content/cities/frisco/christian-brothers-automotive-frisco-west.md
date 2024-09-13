@@ -1,5 +1,5 @@
 ---
 title: "Christian Brothers Automotive Frisco West"
 url: /frisco/christian-brothers-automotive-frisco-west/
-shop: Autowerkstatt
+shop: car repair
 ---

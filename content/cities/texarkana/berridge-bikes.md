@@ -1,5 +1,5 @@
 ---
 title: "Berridge Bikes"
 url: /texarkana/berridge-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

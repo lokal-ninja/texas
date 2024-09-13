@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /lewisville/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

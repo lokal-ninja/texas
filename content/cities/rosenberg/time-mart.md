@@ -1,5 +1,5 @@
 ---
 title: "Time Mart"
 url: /rosenberg/time-mart/
-shop: Lebensmittel
+shop: convenience
 ---

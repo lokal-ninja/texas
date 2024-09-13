@@ -1,5 +1,5 @@
 ---
 title: "Pleasanton Truck Company"
 url: /pleasanton/pleasanton-truck-company/
-shop: Reifen
+shop: tyres
 ---

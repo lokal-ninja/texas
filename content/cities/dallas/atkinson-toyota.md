@@ -1,5 +1,5 @@
 ---
 title: "Atkinson Toyota"
 url: /dallas/atkinson-toyota/
-shop: Autohaus
+shop: car
 ---

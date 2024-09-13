@@ -1,5 +1,5 @@
 ---
 title: "Harrison Enterprises"
 url: /cotulla/harrison-enterprises/
-shop: Schmuck
+shop: jewelry
 ---

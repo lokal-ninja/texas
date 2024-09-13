@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /laredo/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

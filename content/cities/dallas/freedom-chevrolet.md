@@ -1,5 +1,5 @@
 ---
 title: "Freedom Chevrolet"
 url: /dallas/freedom-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Service King"
 url: /fort-worth/service-king/
-shop: Autowerkstatt
+shop: car repair
 ---

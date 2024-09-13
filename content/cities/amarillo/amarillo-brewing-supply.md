@@ -1,5 +1,5 @@
 ---
 title: "Amarillo Brewing Supply"
 url: /amarillo/amarillo-brewing-supply/
-shop: Brauerei
+shop: brewery
 ---

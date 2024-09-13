@@ -1,5 +1,5 @@
 ---
 title: "San Anthony Jewelry"
 url: /new-braunfels/san-anthony-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

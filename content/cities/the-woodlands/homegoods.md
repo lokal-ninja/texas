@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /the-woodlands/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

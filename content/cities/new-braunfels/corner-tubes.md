@@ -1,5 +1,5 @@
 ---
 title: "Corner Tubes"
 url: /new-braunfels/corner-tubes/
-shop: Mieten
+shop: storage rental
 ---

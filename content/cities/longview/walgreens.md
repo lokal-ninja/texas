@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /longview/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bay Products Inc."
 url: /bacliff/bay-products-inc/
-shop: Baustoffe
+shop: trade
 ---

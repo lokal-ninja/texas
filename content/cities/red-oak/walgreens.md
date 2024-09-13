@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /red-oak/walgreens/
-shop: Drogerie
+shop: chemist
 ---

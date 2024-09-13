@@ -1,5 +1,5 @@
 ---
 title: "Lakehills Grocery"
 url: /austin/lakehills-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

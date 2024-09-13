@@ -1,5 +1,5 @@
 ---
 title: "Hayne's Jewelry"
 url: /gatesville/haynes-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

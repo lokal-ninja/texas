@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /bastrop/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

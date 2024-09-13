@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /austin/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /euless/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

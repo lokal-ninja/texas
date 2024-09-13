@@ -1,5 +1,5 @@
 ---
 title: "Spur Chevrolet GMC"
 url: /gatesville/spur-chevrolet-gmc/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colonial Funeral Home"
 url: /victoria/colonial-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

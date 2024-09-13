@@ -1,5 +1,5 @@
 ---
 title: "San Jose Funeral Home"
 url: /fabens/san-jose-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

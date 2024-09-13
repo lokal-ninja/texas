@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /corpus-christi/autozone/
-shop: Autoteile
+shop: car parts
 ---

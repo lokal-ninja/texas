@@ -1,5 +1,5 @@
 ---
 title: "JA Autos"
 url: /howe/ja-autos/
-shop: Autohaus
+shop: car
 ---

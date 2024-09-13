@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mineral-wells/autozone/
-shop: Autoteile
+shop: car parts
 ---

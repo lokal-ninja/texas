@@ -1,5 +1,5 @@
 ---
 title: "Toot'n Totum"
 url: /amarillo/tootn-totum-east-interstate-drive/
-shop: Lebensmittel
+shop: convenience
 ---

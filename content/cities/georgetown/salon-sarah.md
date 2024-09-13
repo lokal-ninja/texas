@@ -1,5 +1,5 @@
 ---
 title: "Salon Sarah"
 url: /georgetown/salon-sarah/
-shop: Friseur
+shop: hairdresser
 ---

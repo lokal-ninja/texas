@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /lake-jackson/verizon/
-shop: Handy
+shop: mobile phone
 ---

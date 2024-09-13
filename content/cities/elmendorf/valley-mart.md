@@ -1,5 +1,5 @@
 ---
 title: "Valley Mart"
 url: /elmendorf/valley-mart/
-shop: Lebensmittel
+shop: convenience
 ---

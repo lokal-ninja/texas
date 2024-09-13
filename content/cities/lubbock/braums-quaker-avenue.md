@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /lubbock/braums-quaker-avenue/
-shop: Milch
+shop: dairy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /temple/target/
-shop: Warenhaus
+shop: department store
 ---

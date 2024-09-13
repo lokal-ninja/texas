@@ -1,5 +1,5 @@
 ---
 title: "Vernon Ford"
 url: /vernon/vernon-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /harker-heights/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

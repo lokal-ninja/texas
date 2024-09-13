@@ -1,5 +1,5 @@
 ---
 title: "Miko's"
 url: /joshua/mikos/
-shop: Pool
+shop: swimming pool
 ---

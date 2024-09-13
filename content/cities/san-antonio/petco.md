@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /san-antonio/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karma Vape + Smoke Shop"
 url: /watauga/karma-vape-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amigos"
 url: /lubbock/amigos/
-shop: Supermarkt
+shop: supermarket
 ---

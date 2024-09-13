@@ -1,5 +1,5 @@
 ---
 title: "Ashley Homestore"
 url: /eagle-pass/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

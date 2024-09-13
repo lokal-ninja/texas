@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /frisco/burlington/
-shop: Warenhaus
+shop: department store
 ---

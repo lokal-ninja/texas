@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /arlington/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

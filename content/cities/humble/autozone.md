@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /humble/autozone/
-shop: Autoteile
+shop: car parts
 ---

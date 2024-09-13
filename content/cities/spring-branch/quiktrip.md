@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /spring-branch/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

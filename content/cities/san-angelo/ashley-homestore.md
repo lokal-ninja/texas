@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /san-angelo/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

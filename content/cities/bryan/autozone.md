@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bryan/autozone/
-shop: Autoteile
+shop: car parts
 ---

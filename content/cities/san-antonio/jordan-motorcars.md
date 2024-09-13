@@ -1,5 +1,5 @@
 ---
 title: "Jordan Motorcars"
 url: /san-antonio/jordan-motorcars/
-shop: Autohaus
+shop: car
 ---

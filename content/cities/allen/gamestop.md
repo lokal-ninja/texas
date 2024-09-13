@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /allen/gamestop/
-shop: Videospiele
+shop: video games
 ---

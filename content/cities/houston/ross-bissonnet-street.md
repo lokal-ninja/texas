@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /houston/ross-bissonnet-street/
-shop: Warenhaus
+shop: department store
 ---

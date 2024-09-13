@@ -1,5 +1,5 @@
 ---
 title: "National Wholesale Supply"
 url: /houston/national-wholesale-supply/
-shop: Baustoffe
+shop: trade
 ---

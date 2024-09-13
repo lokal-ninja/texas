@@ -1,5 +1,5 @@
 ---
 title: "Donovan Marine"
 url: /denton/donovan-marine/
-shop: Baustoffe
+shop: trade
 ---

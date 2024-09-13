@@ -1,5 +1,5 @@
 ---
 title: "Higginbotham Brothers"
 url: /gatesville/higginbotham-brothers/
-shop: Eisenwaren
+shop: hardware
 ---

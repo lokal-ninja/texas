@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /little-elm/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

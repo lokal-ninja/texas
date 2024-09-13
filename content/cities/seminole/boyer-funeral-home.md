@@ -1,5 +1,5 @@
 ---
 title: "Boyer Funeral Home"
 url: /seminole/boyer-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

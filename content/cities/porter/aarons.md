@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /porter/aarons/
-shop: Möbel
+shop: furniture
 ---

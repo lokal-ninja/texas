@@ -1,5 +1,5 @@
 ---
 title: "Canyon Glass"
 url: /canyon/canyon-glass/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /houston/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

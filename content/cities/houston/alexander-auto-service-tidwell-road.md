@@ -1,5 +1,5 @@
 ---
 title: "Alexander Auto Service"
 url: /houston/alexander-auto-service-tidwell-road/
-shop: Autowerkstatt
+shop: car repair
 ---

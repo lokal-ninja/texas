@@ -1,5 +1,5 @@
 ---
 title: "Ravi's Liquor"
 url: /lubbock/ravis-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

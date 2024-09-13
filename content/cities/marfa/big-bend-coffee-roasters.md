@@ -1,5 +1,5 @@
 ---
 title: "Big Bend Coffee Roasters"
 url: /marfa/big-bend-coffee-roasters/
-shop: Kaffee
+shop: coffee
 ---

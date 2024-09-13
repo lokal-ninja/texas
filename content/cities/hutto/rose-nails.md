@@ -1,5 +1,5 @@
 ---
 title: "Rose Nails"
 url: /hutto/rose-nails/
-shop: Kosmetik
+shop: beauty
 ---

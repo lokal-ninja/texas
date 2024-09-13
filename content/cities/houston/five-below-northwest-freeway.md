@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /houston/five-below-northwest-freeway/
-shop: Kramladen
+shop: variety store
 ---

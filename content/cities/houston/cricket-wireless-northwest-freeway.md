@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /houston/cricket-wireless-northwest-freeway/
-shop: Handy
+shop: mobile phone
 ---

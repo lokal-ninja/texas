@@ -1,5 +1,5 @@
 ---
 title: "Ali Guler Furniture"
 url: /houston/ali-guler-furniture/
-shop: Möbel
+shop: furniture
 ---

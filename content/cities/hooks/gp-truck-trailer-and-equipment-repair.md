@@ -1,5 +1,5 @@
 ---
 title: "GP Truck, Trailer and Equipment Repair"
 url: /hooks/gp-truck-trailer-and-equipment-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

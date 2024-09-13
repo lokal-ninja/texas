@@ -1,5 +1,5 @@
 ---
 title: "Miracle-Ear"
 url: /denton/miracle-ear/
-shop: Hörgeräte
+shop: hearing aids
 ---

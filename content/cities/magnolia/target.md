@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /magnolia/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill Central Texas"
 url: /austin/goodwill-central-texas/
-shop: Allgemein
+shop: shop
 ---

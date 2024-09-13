@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /gladewater/cash-store/
-shop: Leiher
+shop: pawnbroker
 ---

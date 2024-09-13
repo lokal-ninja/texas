@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /houston/fedex-office-gulfgate-center/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Music Box"
 url: /lamesa/music-box/
-shop: Musik
+shop: music
 ---

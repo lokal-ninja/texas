@@ -1,5 +1,5 @@
 ---
 title: "Ngoc Tran Jewelry"
 url: /austin/ngoc-tran-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

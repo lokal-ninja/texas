@@ -1,5 +1,5 @@
 ---
 title: "Covert Chevrolet Bastrop"
 url: /bastrop/covert-chevrolet-bastrop/
-shop: Autohaus
+shop: car
 ---

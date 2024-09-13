@@ -1,5 +1,5 @@
 ---
 title: "Ideal Image"
 url: /garland/ideal-image/
-shop: Kosmetik
+shop: beauty
 ---

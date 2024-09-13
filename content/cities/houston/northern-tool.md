@@ -1,5 +1,5 @@
 ---
 title: "Northern Tool"
 url: /houston/northern-tool/
-shop: Eisenwaren
+shop: hardware
 ---

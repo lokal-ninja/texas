@@ -1,5 +1,5 @@
 ---
 title: "Bell-HI Grocery"
 url: /heidenheimer/bell-hi-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

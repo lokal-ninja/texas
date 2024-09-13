@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /hillsboro/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

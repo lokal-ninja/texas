@@ -1,5 +1,5 @@
 ---
 title: "Hillsboro Ford"
 url: /hillsboro/hillsboro-ford/
-shop: Autohaus
+shop: car
 ---

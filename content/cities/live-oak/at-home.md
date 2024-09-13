@@ -1,5 +1,5 @@
 ---
 title: "At Home"
 url: /live-oak/at-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

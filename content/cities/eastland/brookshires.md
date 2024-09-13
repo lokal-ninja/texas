@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /eastland/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

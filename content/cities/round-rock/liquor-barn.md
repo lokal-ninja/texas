@@ -1,5 +1,5 @@
 ---
 title: "Liquor Barn"
 url: /round-rock/liquor-barn/
-shop: Spirituosen
+shop: alcohol
 ---

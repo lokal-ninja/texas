@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /pearland/visionworks/
-shop: Optiker
+shop: optician
 ---

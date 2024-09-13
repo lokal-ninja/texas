@@ -1,5 +1,5 @@
 ---
 title: "Hillside Outdoors"
 url: /gatesville/hillside-outdoors/
-shop: Platzpflege
+shop: groundskeeping
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burrowing Owl Books"
 url: /amarillo/burrowing-owl-books/
-shop: Bücher
+shop: books
 ---

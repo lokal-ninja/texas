@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /comfort/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

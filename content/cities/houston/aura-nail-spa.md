@@ -1,5 +1,5 @@
 ---
 title: "Aura Nail Spa"
 url: /houston/aura-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

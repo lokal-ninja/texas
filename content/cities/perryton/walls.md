@@ -1,5 +1,5 @@
 ---
 title: "Walls"
 url: /perryton/walls/
-shop: Warenhaus
+shop: department store
 ---

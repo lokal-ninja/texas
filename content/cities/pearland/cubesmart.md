@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /pearland/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

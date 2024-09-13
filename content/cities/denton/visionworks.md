@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /denton/visionworks/
-shop: Optiker
+shop: optician
 ---

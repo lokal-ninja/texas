@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /el-paso/ross-sunland-park-drive/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aurora Massage"
 url: /round-rock/aurora-massage/
-shop: Massage
+shop: massage
 ---

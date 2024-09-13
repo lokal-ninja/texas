@@ -1,5 +1,5 @@
 ---
 title: "Parkway Buick GMC"
 url: /sherman/parkway-buick-gmc/
-shop: Autohaus
+shop: car
 ---

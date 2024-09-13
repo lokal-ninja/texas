@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /austin/goodwill-south-pleasant-valley-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

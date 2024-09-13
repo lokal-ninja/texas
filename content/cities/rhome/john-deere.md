@@ -1,5 +1,5 @@
 ---
 title: "John Deere"
 url: /rhome/john-deere/
-shop: Baustoffe
+shop: trade
 ---

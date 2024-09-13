@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /spring/best-buy/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nooners"
 url: /converse/nooners/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ringtail Records"
 url: /alpine/ringtail-records/
-shop: Musik
+shop: music
 ---

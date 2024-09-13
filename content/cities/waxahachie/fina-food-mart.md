@@ -1,5 +1,5 @@
 ---
 title: "Fina Food Mart"
 url: /waxahachie/fina-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

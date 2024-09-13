@@ -1,5 +1,5 @@
 ---
 title: "Gebo's"
 url: /brownfield/gebos/
-shop: Eisenwaren
+shop: hardware
 ---

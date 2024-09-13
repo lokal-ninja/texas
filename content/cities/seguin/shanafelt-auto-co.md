@@ -1,5 +1,5 @@
 ---
 title: "Shanafelt Auto Co."
 url: /seguin/shanafelt-auto-co/
-shop: Autowerkstatt
+shop: car repair
 ---

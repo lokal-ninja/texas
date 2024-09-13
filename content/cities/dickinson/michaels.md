@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /dickinson/michaels/
-shop: Basteln
+shop: craft
 ---

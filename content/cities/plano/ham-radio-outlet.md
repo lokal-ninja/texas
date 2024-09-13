@@ -1,5 +1,5 @@
 ---
 title: "Ham Radio Outlet"
 url: /plano/ham-radio-outlet/
-shop: Elektronik
+shop: electronics
 ---

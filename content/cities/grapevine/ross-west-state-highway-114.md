@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /grapevine/ross-west-state-highway-114/
-shop: Warenhaus
+shop: department store
 ---

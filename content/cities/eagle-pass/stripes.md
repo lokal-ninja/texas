@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /eagle-pass/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

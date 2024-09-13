@@ -1,5 +1,5 @@
 ---
 title: "Los Cristales"
 url: /new-braunfels/los-cristales/
-shop: Babysachen
+shop: baby goods
 ---

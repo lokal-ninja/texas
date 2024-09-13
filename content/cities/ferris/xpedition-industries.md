@@ -1,5 +1,5 @@
 ---
 title: "Xpedition Industries"
 url: /ferris/xpedition-industries/
-shop: Autowerkstatt
+shop: car repair
 ---

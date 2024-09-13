@@ -1,5 +1,5 @@
 ---
 title: "Burkes Outlet"
 url: /perryton/burkes-outlet/
-shop: Warenhaus
+shop: department store
 ---

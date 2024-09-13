@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /houston/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

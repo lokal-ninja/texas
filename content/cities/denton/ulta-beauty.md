@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /denton/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

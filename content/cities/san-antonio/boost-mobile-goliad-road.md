@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /san-antonio/boost-mobile-goliad-road/
-shop: Handy
+shop: mobile phone
 ---

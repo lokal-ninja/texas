@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /rockwall/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

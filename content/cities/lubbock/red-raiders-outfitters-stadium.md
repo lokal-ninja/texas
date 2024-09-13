@@ -1,5 +1,5 @@
 ---
 title: "Red Raiders Outfitters - Stadium"
 url: /lubbock/red-raiders-outfitters-stadium/
-shop: Kleidung
+shop: clothes
 ---

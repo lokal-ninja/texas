@@ -1,5 +1,5 @@
 ---
 title: "Gymboree"
 url: /katy/gymboree/
-shop: Kleidung
+shop: clothes
 ---

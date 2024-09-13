@@ -1,5 +1,5 @@
 ---
 title: "Landa River Trips"
 url: /new-braunfels/landa-river-trips/
-shop: Mieten
+shop: storage rental
 ---

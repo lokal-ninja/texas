@@ -1,5 +1,5 @@
 ---
 title: "Texas Sounds"
 url: /san-antonio/texas-sounds/
-shop: Autoteile
+shop: car parts
 ---

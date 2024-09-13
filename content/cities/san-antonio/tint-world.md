@@ -1,5 +1,5 @@
 ---
 title: "Tint World"
 url: /san-antonio/tint-world/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /el-paso/gamestop/
-shop: Videospiele
+shop: video games
 ---

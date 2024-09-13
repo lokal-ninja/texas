@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /san-antonio/quiktrip-northwest-loop-410/
-shop: Lebensmittel
+shop: convenience
 ---

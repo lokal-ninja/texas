@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /victoria/discount-tire-houston-highway/
-shop: Reifen
+shop: tyres
 ---

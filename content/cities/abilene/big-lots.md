@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /abilene/big-lots/
-shop: Warenhaus
+shop: department store
 ---

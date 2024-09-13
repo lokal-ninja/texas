@@ -1,5 +1,5 @@
 ---
 title: "Diana's Beauty Salon"
 url: /humble/dianas-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

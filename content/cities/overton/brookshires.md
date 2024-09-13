@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /overton/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

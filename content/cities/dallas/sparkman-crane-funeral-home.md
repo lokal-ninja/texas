@@ -1,5 +1,5 @@
 ---
 title: "Sparkman-Crane Funeral Home"
 url: /dallas/sparkman-crane-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

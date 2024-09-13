@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /texarkana/verizon/
-shop: Handy
+shop: mobile phone
 ---

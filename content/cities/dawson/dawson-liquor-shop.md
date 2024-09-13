@@ -1,5 +1,5 @@
 ---
 title: "Dawson Liquor Shop"
 url: /dawson/dawson-liquor-shop/
-shop: Spirituosen
+shop: alcohol
 ---

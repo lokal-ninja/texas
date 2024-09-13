@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /kermit/dollar-general-van-street/
-shop: Kramladen
+shop: variety store
 ---

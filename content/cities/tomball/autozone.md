@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tomball/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /westlake-hills/h-e-b-capital-of-texas-highway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H-E-B"
 url: /conroe/h-e-b-west-davis-street/
-shop: Supermarkt
+shop: supermarket
 ---

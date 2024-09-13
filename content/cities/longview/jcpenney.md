@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /longview/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

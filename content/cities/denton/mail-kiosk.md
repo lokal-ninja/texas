@@ -1,5 +1,5 @@
 ---
 title: "Mail Kiosk"
 url: /denton/mail-kiosk/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keemat Grocers"
 url: /houston/keemat-grocers/
-shop: Supermarkt
+shop: supermarket
 ---

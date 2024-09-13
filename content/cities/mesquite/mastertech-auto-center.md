@@ -1,5 +1,5 @@
 ---
 title: "MasterTech Auto Center"
 url: /mesquite/mastertech-auto-center/
-shop: Autowerkstatt
+shop: car repair
 ---

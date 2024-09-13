@@ -1,5 +1,5 @@
 ---
 title: "EchoPark Automotive"
 url: /houston/echopark-automotive/
-shop: Autohaus
+shop: car
 ---

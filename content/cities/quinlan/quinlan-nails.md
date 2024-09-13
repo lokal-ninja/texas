@@ -1,5 +1,5 @@
 ---
 title: "Quinlan Nails"
 url: /quinlan/quinlan-nails/
-shop: Kosmetik
+shop: beauty
 ---

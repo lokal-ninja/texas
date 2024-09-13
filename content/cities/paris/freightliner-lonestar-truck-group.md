@@ -1,5 +1,5 @@
 ---
 title: "Freightliner Lonestar Truck Group"
 url: /paris/freightliner-lonestar-truck-group/
-shop: Autowerkstatt
+shop: car repair
 ---

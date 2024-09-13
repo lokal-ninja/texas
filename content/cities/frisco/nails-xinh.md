@@ -1,5 +1,5 @@
 ---
 title: "Nails Xinh"
 url: /frisco/nails-xinh/
-shop: Allgemein
+shop: shop
 ---

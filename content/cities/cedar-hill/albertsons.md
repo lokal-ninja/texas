@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /cedar-hill/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

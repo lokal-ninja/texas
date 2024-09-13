@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /leander/verizon/
-shop: Handy
+shop: mobile phone
 ---

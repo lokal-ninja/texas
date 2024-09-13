@@ -1,5 +1,5 @@
 ---
 title: "Daniel's Tire Shop"
 url: /paige/daniels-tire-shop/
-shop: Reifen
+shop: tyres
 ---

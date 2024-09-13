@@ -1,5 +1,5 @@
 ---
 title: "Schilling Overhead Door"
 url: /kerrville/schilling-overhead-door/
-shop: Baustoffe
+shop: trade
 ---

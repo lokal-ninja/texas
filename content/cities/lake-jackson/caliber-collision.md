@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /lake-jackson/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

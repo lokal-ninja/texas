@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /sherman/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

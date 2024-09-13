@@ -1,5 +1,5 @@
 ---
 title: "Truckfitters"
 url: /boerne/truckfitters/
-shop: Autoteile
+shop: car parts
 ---

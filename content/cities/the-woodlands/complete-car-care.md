@@ -1,5 +1,5 @@
 ---
 title: "Complete Car Care"
 url: /the-woodlands/complete-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

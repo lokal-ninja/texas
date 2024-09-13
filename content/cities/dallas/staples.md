@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /dallas/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

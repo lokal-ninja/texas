@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /dallas/chevron/
-shop: Lebensmittel
+shop: convenience
 ---

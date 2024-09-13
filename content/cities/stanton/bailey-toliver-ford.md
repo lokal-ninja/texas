@@ -1,5 +1,5 @@
 ---
 title: "Bailey Toliver Ford"
 url: /stanton/bailey-toliver-ford/
-shop: Autohaus
+shop: car
 ---

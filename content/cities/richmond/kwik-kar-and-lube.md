@@ -1,5 +1,5 @@
 ---
 title: "Kwik Kar and Lube"
 url: /richmond/kwik-kar-and-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

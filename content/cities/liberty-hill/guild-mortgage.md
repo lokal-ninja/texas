@@ -1,5 +1,5 @@
 ---
 title: "Guild Mortgage"
 url: /liberty-hill/guild-mortgage/
-shop: Leiher
+shop: pawnbroker
 ---

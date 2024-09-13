@@ -1,5 +1,5 @@
 ---
 title: "HomeZone Furniture"
 url: /hudson-oaks/homezone-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /mesquite/dillards/
-shop: Warenhaus
+shop: department store
 ---

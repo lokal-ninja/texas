@@ -1,5 +1,5 @@
 ---
 title: "Malakoff Liquor"
 url: /malakoff/malakoff-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sherman/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

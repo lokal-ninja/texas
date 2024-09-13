@@ -1,5 +1,5 @@
 ---
 title: "Best Barber Shop"
 url: /killeen/best-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /arlington/walgreens-new-york-avenue/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brookshire Brothers"
 url: /silsbee/brookshire-brothers/
-shop: Supermarkt
+shop: supermarket
 ---

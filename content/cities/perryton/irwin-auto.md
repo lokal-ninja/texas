@@ -1,5 +1,5 @@
 ---
 title: "Irwin Auto"
 url: /perryton/irwin-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

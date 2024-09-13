@@ -1,5 +1,5 @@
 ---
 title: "Lonestar Collision and Towing"
 url: /cleburne/lonestar-collision-and-towing/
-shop: Autowerkstatt
+shop: car repair
 ---

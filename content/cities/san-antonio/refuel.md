@@ -1,5 +1,5 @@
 ---
 title: "Refuel"
 url: /san-antonio/refuel/
-shop: Lebensmittel
+shop: convenience
 ---

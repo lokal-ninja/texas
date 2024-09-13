@@ -1,5 +1,5 @@
 ---
 title: "Winnie Liquor Store"
 url: /winnie/winnie-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

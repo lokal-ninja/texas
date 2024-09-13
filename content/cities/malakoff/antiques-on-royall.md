@@ -1,5 +1,5 @@
 ---
 title: "Antiques on Royall"
 url: /malakoff/antiques-on-royall/
-shop: Antiquitäten
+shop: antiques
 ---

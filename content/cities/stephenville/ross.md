@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /stephenville/ross/
-shop: Warenhaus
+shop: department store
 ---

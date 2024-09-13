@@ -1,5 +1,5 @@
 ---
 title: "Nollege"
 url: /dallas/nollege/
-shop: Schuhe
+shop: shoes
 ---

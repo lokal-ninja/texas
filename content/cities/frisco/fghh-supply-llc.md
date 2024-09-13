@@ -1,5 +1,5 @@
 ---
 title: "FGHH Supply LLC"
 url: /frisco/fghh-supply-llc/
-shop: Allgemein
+shop: shop
 ---

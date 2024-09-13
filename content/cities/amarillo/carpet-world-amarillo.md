@@ -1,5 +1,5 @@
 ---
 title: "Carpet World Amarillo"
 url: /amarillo/carpet-world-amarillo/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valero"
 url: /bastrop/valero/
-shop: Lebensmittel
+shop: convenience
 ---

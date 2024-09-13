@@ -1,5 +1,5 @@
 ---
 title: "Uncle's Store"
 url: /big-spring/uncles-store/
-shop: Lebensmittel
+shop: convenience
 ---

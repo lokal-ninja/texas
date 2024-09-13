@@ -1,5 +1,5 @@
 ---
 title: "Clint's"
 url: /olney/clints/
-shop: Lebensmittel
+shop: convenience
 ---

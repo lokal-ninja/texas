@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /houston/old-navy-westheimer-road/
-shop: Kleidung
+shop: clothes
 ---

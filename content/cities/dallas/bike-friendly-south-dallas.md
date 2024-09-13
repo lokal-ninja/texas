@@ -1,5 +1,5 @@
 ---
 title: "Bike Friendly South Dallas"
 url: /dallas/bike-friendly-south-dallas/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surplus City"
 url: /killeen/surplus-city/
-shop: Militär
+shop: military
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /austin/lowes-brodie-lane/
-shop: Baumarkt
+shop: doityourself
 ---

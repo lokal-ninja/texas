@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /san-antonio/walgreens-walzem-road/
-shop: Drogerie
+shop: chemist
 ---

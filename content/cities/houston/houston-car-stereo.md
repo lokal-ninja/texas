@@ -1,5 +1,5 @@
 ---
 title: "Houston Car Stereo"
 url: /houston/houston-car-stereo/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Top Ten Nails"
 url: /amarillo/top-ten-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Verde Store"
 url: /austin/the-verde-store/
-shop: Andenken
+shop: gift
 ---

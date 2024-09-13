@@ -1,5 +1,5 @@
 ---
 title: "CubeSmart"
 url: /bastrop/cubesmart/
-shop: Mieten
+shop: storage rental
 ---

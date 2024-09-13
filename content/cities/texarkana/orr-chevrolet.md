@@ -1,5 +1,5 @@
 ---
 title: "Orr Chevrolet"
 url: /texarkana/orr-chevrolet/
-shop: Autohaus
+shop: car
 ---

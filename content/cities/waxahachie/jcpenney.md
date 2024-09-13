@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /waxahachie/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

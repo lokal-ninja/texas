@@ -1,5 +1,5 @@
 ---
 title: "Anjouil's"
 url: /houston/anjouils/
-shop: Kleidung
+shop: clothes
 ---

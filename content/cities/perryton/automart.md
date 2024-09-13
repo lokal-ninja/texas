@@ -1,5 +1,5 @@
 ---
 title: "Automart"
 url: /perryton/automart/
-shop: Autohaus
+shop: car
 ---

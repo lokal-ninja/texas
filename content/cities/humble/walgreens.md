@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /humble/walgreens/
-shop: Drogerie
+shop: chemist
 ---

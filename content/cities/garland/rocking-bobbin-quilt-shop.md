@@ -1,5 +1,5 @@
 ---
 title: "Rocking Bobbin Quilt Shop"
 url: /garland/rocking-bobbin-quilt-shop/
-shop: Nähzubehör
+shop: sewing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MainLane"
 url: /bastrop/mainlane/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flying J"
 url: /cotulla/flying-j/
-shop: Lebensmittel
+shop: convenience
 ---

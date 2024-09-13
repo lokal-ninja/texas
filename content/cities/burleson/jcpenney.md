@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /burleson/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

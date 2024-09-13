@@ -1,5 +1,5 @@
 ---
 title: "Carpet Giant"
 url: /houston/carpet-giant/
-shop: Raumausstattung
+shop: interior decoration
 ---

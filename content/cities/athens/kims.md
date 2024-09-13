@@ -1,5 +1,5 @@
 ---
 title: "Kim's"
 url: /athens/kims/
-shop: Lebensmittel
+shop: convenience
 ---

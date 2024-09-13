@@ -1,5 +1,5 @@
 ---
 title: "Xfinity"
 url: /spring/xfinity/
-shop: Handy
+shop: mobile phone
 ---

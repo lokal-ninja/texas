@@ -1,5 +1,5 @@
 ---
 title: "Mothers Window Tint, Car Alarm"
 url: /san-antonio/mothers-window-tint-car-alarm-bandera-road/
-shop: Autoteile
+shop: car parts
 ---

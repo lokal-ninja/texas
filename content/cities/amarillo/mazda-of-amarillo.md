@@ -1,5 +1,5 @@
 ---
 title: "Mazda of Amarillo"
 url: /amarillo/mazda-of-amarillo/
-shop: Autohaus
+shop: car
 ---

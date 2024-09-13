@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /austin/sleep-number/
-shop: Betten
+shop: bed
 ---

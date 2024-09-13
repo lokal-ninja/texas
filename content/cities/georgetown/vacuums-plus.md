@@ -1,5 +1,5 @@
 ---
 title: "Vacuums Plus"
 url: /georgetown/vacuums-plus/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

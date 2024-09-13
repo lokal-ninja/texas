@@ -1,5 +1,5 @@
 ---
 title: "Kitty Bodega"
 url: /houston/kitty-bodega/
-shop: Tiere
+shop: pet
 ---

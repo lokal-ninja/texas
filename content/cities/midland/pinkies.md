@@ -1,5 +1,5 @@
 ---
 title: "Pinkies"
 url: /midland/pinkies/
-shop: Spirituosen
+shop: alcohol
 ---

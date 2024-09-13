@@ -1,5 +1,5 @@
 ---
 title: "The Published Page"
 url: /cleburne/the-published-page/
-shop: Bücher
+shop: books
 ---

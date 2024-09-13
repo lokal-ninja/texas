@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /corpus-christi/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

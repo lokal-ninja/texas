@@ -1,5 +1,5 @@
 ---
 title: "Grandview Feed Store"
 url: /grandview/grandview-feed-store/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

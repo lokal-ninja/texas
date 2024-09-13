@@ -1,5 +1,5 @@
 ---
 title: "RightSpace Self Storage"
 url: /georgetown/rightspace-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /terrell/torrid/
-shop: Kleidung
+shop: clothes
 ---

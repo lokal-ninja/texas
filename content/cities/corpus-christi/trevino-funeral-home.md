@@ -1,5 +1,5 @@
 ---
 title: "Trevino Funeral Home"
 url: /corpus-christi/trevino-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

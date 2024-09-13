@@ -1,5 +1,5 @@
 ---
 title: "PC Investments"
 url: /sherman/pc-investments/
-shop: Autohaus
+shop: car
 ---

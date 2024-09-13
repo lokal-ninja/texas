@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /round-rock/burlington/
-shop: Warenhaus
+shop: department store
 ---

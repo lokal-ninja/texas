@@ -1,5 +1,5 @@
 ---
 title: "Kim's"
 url: /atlanta/kims/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dynasty Propane"
 url: /seguin/dynasty-propane/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mini Mart"
 url: /kerrville/mini-mart-ranchero-road/
-shop: Lebensmittel
+shop: convenience
 ---

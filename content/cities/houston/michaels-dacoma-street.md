@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /houston/michaels-dacoma-street/
-shop: Basteln
+shop: craft
 ---

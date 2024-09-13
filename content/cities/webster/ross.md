@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /webster/ross/
-shop: Warenhaus
+shop: department store
 ---

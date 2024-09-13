@@ -1,5 +1,5 @@
 ---
 title: "Sharp's Auto Paint"
 url: /amarillo/sharps-auto-paint/
-shop: Farben
+shop: paint
 ---

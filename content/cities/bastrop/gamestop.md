@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bastrop/gamestop/
-shop: Videospiele
+shop: video games
 ---

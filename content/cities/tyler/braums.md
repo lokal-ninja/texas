@@ -1,5 +1,5 @@
 ---
 title: "Braum's"
 url: /tyler/braums/
-shop: Milch
+shop: dairy
 ---

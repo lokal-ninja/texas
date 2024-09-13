@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /san-antonio/michaels/
-shop: Basteln
+shop: craft
 ---

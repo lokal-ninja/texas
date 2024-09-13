@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /houston/family-dollar-irvington-boulevard/
-shop: Kramladen
+shop: variety store
 ---

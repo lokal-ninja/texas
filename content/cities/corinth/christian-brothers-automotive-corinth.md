@@ -1,5 +1,5 @@
 ---
 title: "Christian Brothers Automotive Corinth"
 url: /corinth/christian-brothers-automotive-corinth/
-shop: Autowerkstatt
+shop: car repair
 ---

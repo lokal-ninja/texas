@@ -1,5 +1,5 @@
 ---
 title: "HCTC"
 url: /mason/hctc/
-shop: Handy
+shop: mobile phone
 ---

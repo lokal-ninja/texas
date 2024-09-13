@@ -1,5 +1,5 @@
 ---
 title: "Nissan of McKinney"
 url: /mckinney/nissan-of-mckinney/
-shop: Autohaus
+shop: car
 ---

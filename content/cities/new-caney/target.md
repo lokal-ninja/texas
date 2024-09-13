@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /new-caney/target/
-shop: Warenhaus
+shop: department store
 ---

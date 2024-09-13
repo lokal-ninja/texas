@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless Authorized Retailer"
 url: /kyle/cricket-wireless-authorized-retailer/
-shop: Handy
+shop: mobile phone
 ---

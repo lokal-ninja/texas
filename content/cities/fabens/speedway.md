@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fabens/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

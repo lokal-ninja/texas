@@ -1,5 +1,5 @@
 ---
 title: "Mr D's"
 url: /canton/mr-ds/
-shop: Lebensmittel
+shop: convenience
 ---

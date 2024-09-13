@@ -1,5 +1,5 @@
 ---
 title: "Coldest Drinks in Town"
 url: /falfurrias/coldest-drinks-in-town/
-shop: Lebensmittel
+shop: convenience
 ---

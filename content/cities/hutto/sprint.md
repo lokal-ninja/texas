@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /hutto/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /san-antonio/walmart-supercenter-austin-highway/
-shop: Supermarkt
+shop: supermarket
 ---

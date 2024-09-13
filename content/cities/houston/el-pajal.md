@@ -1,5 +1,5 @@
 ---
 title: "El Pajal"
 url: /houston/el-pajal/
-shop: Schuhe
+shop: shoes
 ---

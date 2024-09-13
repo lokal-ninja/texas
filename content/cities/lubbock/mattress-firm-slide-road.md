@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /lubbock/mattress-firm-slide-road/
-shop: Betten
+shop: bed
 ---

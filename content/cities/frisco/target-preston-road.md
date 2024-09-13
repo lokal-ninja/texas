@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /frisco/target-preston-road/
-shop: Supermarkt
+shop: supermarket
 ---

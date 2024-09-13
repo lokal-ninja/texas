@@ -1,5 +1,5 @@
 ---
 title: "Keith Ace Hardware"
 url: /meridian/keith-ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

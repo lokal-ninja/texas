@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /austin/costco-w-william-cannon-drive/
-shop: Großhandel
+shop: wholesale
 ---

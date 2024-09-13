@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /laredo/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

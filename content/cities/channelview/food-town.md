@@ -1,5 +1,5 @@
 ---
 title: "Food Town"
 url: /channelview/food-town/
-shop: Supermarkt
+shop: supermarket
 ---

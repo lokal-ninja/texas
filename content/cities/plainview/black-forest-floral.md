@@ -1,5 +1,5 @@
 ---
 title: "Black Forest Floral"
 url: /plainview/black-forest-floral/
-shop: Blumen
+shop: florist
 ---

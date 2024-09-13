@@ -1,5 +1,5 @@
 ---
 title: "Tiny Grocer"
 url: /austin/tiny-grocer/
-shop: Lebensmittel
+shop: convenience
 ---

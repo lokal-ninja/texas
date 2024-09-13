@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /pearland/jd-sports/
-shop: Sport
+shop: sports
 ---

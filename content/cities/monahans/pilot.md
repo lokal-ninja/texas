@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /monahans/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

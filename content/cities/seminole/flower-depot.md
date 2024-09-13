@@ -1,5 +1,5 @@
 ---
 title: "Flower Depot"
 url: /seminole/flower-depot/
-shop: Blumen
+shop: florist
 ---

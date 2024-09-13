@@ -1,5 +1,5 @@
 ---
 title: "Zoom-Zooms"
 url: /denton/zoom-zooms/
-shop: Lebensmittel
+shop: convenience
 ---

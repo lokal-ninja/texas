@@ -1,5 +1,5 @@
 ---
 title: "Mattress One"
 url: /austin/mattress-one/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martin Tire Company"
 url: /canutillo/martin-tire-company/
-shop: Autowerkstatt
+shop: car repair
 ---

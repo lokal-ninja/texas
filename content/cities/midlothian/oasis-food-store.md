@@ -1,5 +1,5 @@
 ---
 title: "Oasis Food Store"
 url: /midlothian/oasis-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

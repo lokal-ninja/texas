@@ -1,5 +1,5 @@
 ---
 title: "First Cash Pawn"
 url: /round-rock/first-cash-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

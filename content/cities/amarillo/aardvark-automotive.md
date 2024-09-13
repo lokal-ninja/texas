@@ -1,5 +1,5 @@
 ---
 title: "Aardvark Automotive"
 url: /amarillo/aardvark-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

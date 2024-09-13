@@ -1,5 +1,5 @@
 ---
 title: "Lee's Service"
 url: /rotan/lees-service/
-shop: Autowerkstatt
+shop: car repair
 ---

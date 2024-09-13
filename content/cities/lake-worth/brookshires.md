@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /lake-worth/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

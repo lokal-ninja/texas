@@ -1,5 +1,5 @@
 ---
 title: "Cash Advance"
 url: /lubbock/cash-advance/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Browning Warehouse Self Storage"
 url: /kerrville/browning-warehouse-self-storage/
-shop: Mieten
+shop: storage rental
 ---

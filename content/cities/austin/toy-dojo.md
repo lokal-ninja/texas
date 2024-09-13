@@ -1,5 +1,5 @@
 ---
 title: "Toy Dojo"
 url: /austin/toy-dojo/
-shop: Spielzeug
+shop: toys
 ---

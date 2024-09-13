@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /pasadena/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

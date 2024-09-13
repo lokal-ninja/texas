@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /hewitt/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

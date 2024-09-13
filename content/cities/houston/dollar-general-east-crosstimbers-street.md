@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /houston/dollar-general-east-crosstimbers-street/
-shop: Kramladen
+shop: variety store
 ---

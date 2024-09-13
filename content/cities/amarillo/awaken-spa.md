@@ -1,5 +1,5 @@
 ---
 title: "Awaken Spa"
 url: /amarillo/awaken-spa/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurofed Automotive"
 url: /austin/eurofed-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

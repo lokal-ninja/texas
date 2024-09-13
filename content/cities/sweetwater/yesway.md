@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /sweetwater/yesway/
-shop: Lebensmittel
+shop: convenience
 ---

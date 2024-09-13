@@ -1,5 +1,5 @@
 ---
 title: "Cindy’s Sweets"
 url: /abilene/cindys-sweets/
-shop: Bäckerei
+shop: bakery
 ---

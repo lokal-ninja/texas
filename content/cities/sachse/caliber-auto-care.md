@@ -1,5 +1,5 @@
 ---
 title: "Caliber Auto Care"
 url: /sachse/caliber-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /victoria/stripes-north-john-stockbauer-drive/
-shop: Lebensmittel
+shop: convenience
 ---

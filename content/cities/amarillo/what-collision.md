@@ -1,5 +1,5 @@
 ---
 title: "What Collision?"
 url: /amarillo/what-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

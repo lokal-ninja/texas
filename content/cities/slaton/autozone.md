@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /slaton/autozone/
-shop: Autoteile
+shop: car parts
 ---

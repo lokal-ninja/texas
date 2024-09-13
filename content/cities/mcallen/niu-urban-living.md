@@ -1,5 +1,5 @@
 ---
 title: "Niu Urban Living"
 url: /mcallen/niu-urban-living/
-shop: Möbel
+shop: furniture
 ---

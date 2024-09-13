@@ -1,5 +1,5 @@
 ---
 title: "Stonewall One Stop"
 url: /stonewall/stonewall-one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

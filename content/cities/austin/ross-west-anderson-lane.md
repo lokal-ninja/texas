@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /austin/ross-west-anderson-lane/
-shop: Warenhaus
+shop: department store
 ---

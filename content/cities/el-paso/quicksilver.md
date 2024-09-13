@@ -1,5 +1,5 @@
 ---
 title: "Quicksilver"
 url: /el-paso/quicksilver/
-shop: Lebensmittel
+shop: convenience
 ---

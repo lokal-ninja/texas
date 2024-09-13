@@ -1,5 +1,5 @@
 ---
 title: "Floydada Storage Spot"
 url: /floydada/floydada-storage-spot/
-shop: Mieten
+shop: storage rental
 ---

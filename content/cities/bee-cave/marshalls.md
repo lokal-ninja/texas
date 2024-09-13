@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /bee-cave/marshalls/
-shop: Warenhaus
+shop: department store
 ---

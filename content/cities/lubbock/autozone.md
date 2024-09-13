@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lubbock/autozone/
-shop: Autoteile
+shop: car parts
 ---

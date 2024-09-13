@@ -1,5 +1,5 @@
 ---
 title: "Woodhaven Pharmacy"
 url: /fort-worth/woodhaven-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

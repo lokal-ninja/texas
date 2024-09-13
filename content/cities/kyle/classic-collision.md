@@ -1,5 +1,5 @@
 ---
 title: "Classic Collision"
 url: /kyle/classic-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

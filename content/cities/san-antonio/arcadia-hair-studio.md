@@ -1,5 +1,5 @@
 ---
 title: "Arcadia Hair Studio"
 url: /san-antonio/arcadia-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

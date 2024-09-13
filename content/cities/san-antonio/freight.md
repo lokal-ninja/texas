@@ -1,5 +1,5 @@
 ---
 title: "Freight"
 url: /san-antonio/freight/
-shop: Kunst
+shop: art
 ---

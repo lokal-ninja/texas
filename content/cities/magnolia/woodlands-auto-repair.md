@@ -1,5 +1,5 @@
 ---
 title: "Woodlands Auto Repair"
 url: /magnolia/woodlands-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

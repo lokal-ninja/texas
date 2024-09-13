@@ -1,5 +1,5 @@
 ---
 title: "food mart"
 url: /webster/food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sidelinez Barber Shop"
 url: /houston/sidelinez-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

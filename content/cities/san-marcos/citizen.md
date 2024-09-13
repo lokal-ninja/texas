@@ -1,5 +1,5 @@
 ---
 title: "Citizen"
 url: /san-marcos/citizen/
-shop: Uhren
+shop: watches
 ---

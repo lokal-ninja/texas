@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /sachse/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

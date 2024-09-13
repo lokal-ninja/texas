@@ -1,5 +1,5 @@
 ---
 title: "JW Collision Repair"
 url: /borger/jw-collision-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

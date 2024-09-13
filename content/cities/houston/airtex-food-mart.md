@@ -1,5 +1,5 @@
 ---
 title: "Airtex Food Mart"
 url: /houston/airtex-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

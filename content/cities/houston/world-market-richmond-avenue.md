@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /houston/world-market-richmond-avenue/
-shop: Raumausstattung
+shop: interior decoration
 ---

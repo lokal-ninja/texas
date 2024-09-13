@@ -1,5 +1,5 @@
 ---
 title: "Chic Lash Boutique"
 url: /houston/chic-lash-boutique/
-shop: Kosmetik
+shop: beauty
 ---

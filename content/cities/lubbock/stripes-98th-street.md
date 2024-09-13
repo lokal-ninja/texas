@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lubbock/stripes-98th-street/
-shop: Lebensmittel
+shop: convenience
 ---

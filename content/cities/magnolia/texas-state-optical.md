@@ -1,5 +1,5 @@
 ---
 title: "Texas State Optical"
 url: /magnolia/texas-state-optical/
-shop: Optiker
+shop: optician
 ---

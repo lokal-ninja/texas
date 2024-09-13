@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /pearland/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

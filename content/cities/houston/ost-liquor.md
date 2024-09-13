@@ -1,5 +1,5 @@
 ---
 title: "OST Liquor"
 url: /houston/ost-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

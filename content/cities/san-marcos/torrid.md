@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /san-marcos/torrid/
-shop: Kleidung
+shop: clothes
 ---

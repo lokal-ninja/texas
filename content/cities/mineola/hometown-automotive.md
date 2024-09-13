@@ -1,5 +1,5 @@
 ---
 title: "Hometown Automotive"
 url: /mineola/hometown-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /corpus-christi/target/
-shop: Warenhaus
+shop: department store
 ---

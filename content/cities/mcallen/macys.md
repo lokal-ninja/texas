@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /mcallen/macys/
-shop: Warenhaus
+shop: department store
 ---

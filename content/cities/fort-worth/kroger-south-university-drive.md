@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /fort-worth/kroger-south-university-drive/
-shop: Supermarkt
+shop: supermarket
 ---

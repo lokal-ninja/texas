@@ -1,5 +1,5 @@
 ---
 title: "Whips"
 url: /addison/whips/
-shop: Autohaus
+shop: car
 ---

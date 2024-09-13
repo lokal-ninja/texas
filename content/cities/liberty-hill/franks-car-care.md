@@ -1,5 +1,5 @@
 ---
 title: "Frank's Car Care"
 url: /liberty-hill/franks-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

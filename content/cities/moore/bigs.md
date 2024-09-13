@@ -1,5 +1,5 @@
 ---
 title: "Big's"
 url: /moore/bigs/
-shop: Lebensmittel
+shop: convenience
 ---

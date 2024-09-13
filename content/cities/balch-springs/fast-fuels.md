@@ -1,5 +1,5 @@
 ---
 title: "Fast Fuels"
 url: /balch-springs/fast-fuels/
-shop: Lebensmittel
+shop: convenience
 ---

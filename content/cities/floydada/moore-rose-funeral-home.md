@@ -1,5 +1,5 @@
 ---
 title: "Moore-Rose Funeral Home"
 url: /floydada/moore-rose-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

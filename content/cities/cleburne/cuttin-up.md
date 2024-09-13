@@ -1,5 +1,5 @@
 ---
 title: "Cuttin' Up"
 url: /cleburne/cuttin-up/
-shop: Friseur
+shop: hairdresser
 ---

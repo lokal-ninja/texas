@@ -1,5 +1,5 @@
 ---
 title: "Crystal's Nails"
 url: /houston/crystals-nails/
-shop: Kosmetik
+shop: beauty
 ---

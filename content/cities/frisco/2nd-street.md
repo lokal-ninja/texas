@@ -1,5 +1,5 @@
 ---
 title: "2nd Street"
 url: /frisco/2nd-street/
-shop: Kleidung
+shop: clothes
 ---

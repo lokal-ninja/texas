@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /austin/walgreens-burnet-road/
-shop: Drogerie
+shop: chemist
 ---

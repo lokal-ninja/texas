@@ -1,5 +1,5 @@
 ---
 title: "Jewell Auto"
 url: /fort-worth/jewell-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

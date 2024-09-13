@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /rowlett/walgreens/
-shop: Drogerie
+shop: chemist
 ---

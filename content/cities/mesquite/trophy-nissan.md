@@ -1,5 +1,5 @@
 ---
 title: "Trophy Nissan"
 url: /mesquite/trophy-nissan/
-shop: Autohaus
+shop: car
 ---

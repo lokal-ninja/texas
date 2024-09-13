@@ -1,5 +1,5 @@
 ---
 title: "Twin Liquors"
 url: /dripping-springs/twin-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red McCombs Ford"
 url: /san-antonio/red-mccombs-ford/
-shop: Autohaus
+shop: car
 ---

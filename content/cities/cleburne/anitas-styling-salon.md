@@ -1,5 +1,5 @@
 ---
 title: "Anita's Styling Salon"
 url: /cleburne/anitas-styling-salon/
-shop: Friseur
+shop: hairdresser
 ---

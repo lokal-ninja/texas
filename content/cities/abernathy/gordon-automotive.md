@@ -1,5 +1,5 @@
 ---
 title: "Gordon Automotive"
 url: /abernathy/gordon-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

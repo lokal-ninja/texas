@@ -1,5 +1,5 @@
 ---
 title: "Wooten Service Center"
 url: /greenville/wooten-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

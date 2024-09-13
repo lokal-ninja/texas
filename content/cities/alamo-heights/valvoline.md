@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /alamo-heights/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

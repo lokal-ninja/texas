@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /dallas/target-skillman-street/
-shop: Supermarkt
+shop: supermarket
 ---

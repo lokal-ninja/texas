@@ -1,5 +1,5 @@
 ---
 title: "Gunter Self Storage"
 url: /gunter/gunter-self-storage/
-shop: Mieten
+shop: storage rental
 ---

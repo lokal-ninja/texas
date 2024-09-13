@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /houston/target-northwest-freeway/
-shop: Warenhaus
+shop: department store
 ---

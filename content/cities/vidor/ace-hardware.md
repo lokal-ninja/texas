@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /vidor/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

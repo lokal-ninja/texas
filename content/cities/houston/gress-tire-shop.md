@@ -1,5 +1,5 @@
 ---
 title: "Gress Tire Shop"
 url: /houston/gress-tire-shop/
-shop: Reifen
+shop: tyres
 ---

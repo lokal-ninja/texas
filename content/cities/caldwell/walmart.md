@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /caldwell/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

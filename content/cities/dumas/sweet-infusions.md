@@ -1,5 +1,5 @@
 ---
 title: "Sweet Infusions"
 url: /dumas/sweet-infusions/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HTeaO"
 url: /waco/hteao/
-shop: Tee
+shop: tea
 ---

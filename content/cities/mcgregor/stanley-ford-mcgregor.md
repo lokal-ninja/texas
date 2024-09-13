@@ -1,5 +1,5 @@
 ---
 title: "Stanley Ford-McGregor"
 url: /mcgregor/stanley-ford-mcgregor/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barricades Unlimited"
 url: /lubbock/barricades-unlimited/
-shop: Baustoffe
+shop: trade
 ---

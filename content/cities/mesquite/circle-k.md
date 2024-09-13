@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /mesquite/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

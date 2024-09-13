@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /schulenberg/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

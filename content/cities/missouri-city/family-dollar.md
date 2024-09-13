@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /missouri-city/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

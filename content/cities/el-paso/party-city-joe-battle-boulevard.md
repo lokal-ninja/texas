@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /el-paso/party-city-joe-battle-boulevard/
-shop: Partyzubehör
+shop: party
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elie's Wine Bar"
 url: /houston/elies-wine-bar/
-shop: Wein
+shop: wine
 ---

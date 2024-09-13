@@ -1,5 +1,5 @@
 ---
 title: "Thrift City"
 url: /richardson/thrift-city/
-shop: Gebrauchtwaren
+shop: charity
 ---

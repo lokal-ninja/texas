@@ -1,5 +1,5 @@
 ---
 title: "Southern Tire Mart"
 url: /amarillo/southern-tire-mart/
-shop: Reifen
+shop: tyres
 ---

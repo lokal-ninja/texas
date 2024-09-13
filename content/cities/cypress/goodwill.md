@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /cypress/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luxe Beauty Parlor"
 url: /mineral-wells/luxe-beauty-parlor/
-shop: Kosmetik
+shop: beauty
 ---

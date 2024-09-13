@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /san-antonio/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

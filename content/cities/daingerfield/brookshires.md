@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /daingerfield/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

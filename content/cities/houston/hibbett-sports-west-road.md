@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /houston/hibbett-sports-west-road/
-shop: Sport
+shop: sports
 ---

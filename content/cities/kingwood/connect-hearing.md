@@ -1,5 +1,5 @@
 ---
 title: "Connect Hearing"
 url: /kingwood/connect-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

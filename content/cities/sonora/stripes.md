@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /sonora/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

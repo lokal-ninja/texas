@@ -1,5 +1,5 @@
 ---
 title: "Mcbride's Transmissions"
 url: /palestine/mcbrides-transmissions/
-shop: Motorrad
+shop: motorcycle
 ---

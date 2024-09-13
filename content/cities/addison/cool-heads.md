@@ -1,5 +1,5 @@
 ---
 title: "Cool Heads"
 url: /addison/cool-heads/
-shop: Friseur
+shop: hairdresser
 ---

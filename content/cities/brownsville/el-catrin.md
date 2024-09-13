@@ -1,5 +1,5 @@
 ---
 title: "El Catrin"
 url: /brownsville/el-catrin/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oilspot"
 url: /houston/oilspot/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Capital Mortgage Services"
 url: /lubbock/capital-mortgage-services/
-shop: Leiher
+shop: pawnbroker
 ---

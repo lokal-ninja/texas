@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /weatherford/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /amarillo/autozone/
-shop: Autoteile
+shop: car parts
 ---

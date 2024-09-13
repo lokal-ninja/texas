@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /austin/office-depot-west-anderson-lane/
-shop: Schreibwaren
+shop: office supplies
 ---

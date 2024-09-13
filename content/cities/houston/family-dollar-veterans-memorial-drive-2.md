@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /houston/family-dollar-veterans-memorial-drive-2/
-shop: Kramladen
+shop: variety store
 ---

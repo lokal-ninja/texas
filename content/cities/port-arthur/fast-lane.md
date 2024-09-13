@@ -1,5 +1,5 @@
 ---
 title: "Fast Lane"
 url: /port-arthur/fast-lane/
-shop: Lebensmittel
+shop: convenience
 ---

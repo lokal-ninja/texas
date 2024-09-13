@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /buffalo/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

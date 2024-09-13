@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /troup/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

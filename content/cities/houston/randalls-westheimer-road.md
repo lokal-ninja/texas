@@ -1,5 +1,5 @@
 ---
 title: "Randall's"
 url: /houston/randalls-westheimer-road/
-shop: Supermarkt
+shop: supermarket
 ---

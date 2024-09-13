@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /pflugerville/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

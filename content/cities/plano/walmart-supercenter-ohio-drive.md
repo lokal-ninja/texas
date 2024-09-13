@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /plano/walmart-supercenter-ohio-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lake-jackson/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

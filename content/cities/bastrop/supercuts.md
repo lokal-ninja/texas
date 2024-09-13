@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /bastrop/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

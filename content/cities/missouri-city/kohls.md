@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /missouri-city/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /brownsville/stripes-international-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

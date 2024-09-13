@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /brownsville/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

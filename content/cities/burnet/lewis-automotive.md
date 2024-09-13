@@ -1,5 +1,5 @@
 ---
 title: "Lewis Automotive"
 url: /burnet/lewis-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

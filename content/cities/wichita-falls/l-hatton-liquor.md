@@ -1,5 +1,5 @@
 ---
 title: "L. Hatton Liquor"
 url: /wichita-falls/l-hatton-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

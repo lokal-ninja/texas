@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /pearland/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

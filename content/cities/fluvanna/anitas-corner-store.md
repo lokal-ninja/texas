@@ -1,5 +1,5 @@
 ---
 title: "Anita's Corner Store"
 url: /fluvanna/anitas-corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

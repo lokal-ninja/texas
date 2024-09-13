@@ -1,5 +1,5 @@
 ---
 title: "Austin County Auto/Truck Station"
 url: /sealy/austin-county-auto-truck-station/
-shop: Autoteile
+shop: car parts
 ---

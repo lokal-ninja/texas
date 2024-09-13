@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /san-antonio/burlington/
-shop: Warenhaus
+shop: department store
 ---

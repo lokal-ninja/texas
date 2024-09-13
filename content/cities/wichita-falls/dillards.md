@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /wichita-falls/dillards/
-shop: Warenhaus
+shop: department store
 ---

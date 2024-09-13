@@ -1,5 +1,5 @@
 ---
 title: "Mattress Galleria"
 url: /mcallen/mattress-galleria/
-shop: Betten
+shop: bed
 ---

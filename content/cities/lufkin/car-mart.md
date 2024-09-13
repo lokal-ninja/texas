@@ -1,5 +1,5 @@
 ---
 title: "Car-Mart"
 url: /lufkin/car-mart/
-shop: Autohaus
+shop: car
 ---

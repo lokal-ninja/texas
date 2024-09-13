@@ -1,5 +1,5 @@
 ---
 title: "Vapor-ettes"
 url: /corinth/vapor-ettes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Henry's"
 url: /the-woodlands/henrys/
-shop: Friseur
+shop: hairdresser
 ---

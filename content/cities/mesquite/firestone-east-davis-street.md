@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /mesquite/firestone-east-davis-street/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Southwest Tire"
 url: /del-rio/southwest-tire/
-shop: Reifen
+shop: tyres
 ---

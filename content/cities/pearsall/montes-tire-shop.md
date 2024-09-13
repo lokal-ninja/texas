@@ -1,5 +1,5 @@
 ---
 title: "Montes Tire Shop"
 url: /pearsall/montes-tire-shop/
-shop: Reifen
+shop: tyres
 ---

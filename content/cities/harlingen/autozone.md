@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /harlingen/autozone/
-shop: Autoteile
+shop: car parts
 ---

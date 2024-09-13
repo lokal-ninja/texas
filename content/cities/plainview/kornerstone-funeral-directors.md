@@ -1,5 +1,5 @@
 ---
 title: "Kornerstone Funeral Directors"
 url: /plainview/kornerstone-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

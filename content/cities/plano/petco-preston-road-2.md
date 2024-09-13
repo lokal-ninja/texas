@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /plano/petco-preston-road-2/
-shop: Tiere
+shop: pet
 ---

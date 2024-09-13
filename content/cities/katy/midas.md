@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /katy/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

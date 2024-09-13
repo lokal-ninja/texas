@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /houston/timewise-westheimer-road/
-shop: Lebensmittel
+shop: convenience
 ---

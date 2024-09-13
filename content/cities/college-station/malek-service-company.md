@@ -1,5 +1,5 @@
 ---
 title: "Malek Service Company"
 url: /college-station/malek-service-company/
-shop: Haushaltsgeräte
+shop: appliance
 ---

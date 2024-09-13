@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
 url: /addison/warby-parker/
-shop: Optiker
+shop: optician
 ---

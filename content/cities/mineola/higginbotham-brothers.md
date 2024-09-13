@@ -1,5 +1,5 @@
 ---
 title: "Higginbotham Brothers"
 url: /mineola/higginbotham-brothers/
-shop: Eisenwaren
+shop: hardware
 ---

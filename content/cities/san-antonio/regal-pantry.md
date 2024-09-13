@@ -1,5 +1,5 @@
 ---
 title: "Regal Pantry"
 url: /san-antonio/regal-pantry/
-shop: Lebensmittel
+shop: convenience
 ---

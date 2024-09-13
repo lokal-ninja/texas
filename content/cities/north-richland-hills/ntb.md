@@ -1,5 +1,5 @@
 ---
 title: "NTB"
 url: /north-richland-hills/ntb/
-shop: Autowerkstatt
+shop: car repair
 ---

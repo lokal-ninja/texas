@@ -1,5 +1,5 @@
 ---
 title: "Scott's Funeral Home"
 url: /gatesville/scotts-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

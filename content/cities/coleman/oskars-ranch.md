@@ -1,5 +1,5 @@
 ---
 title: "OsKars Ranch"
 url: /coleman/oskars-ranch/
-shop: Andenken
+shop: gift
 ---

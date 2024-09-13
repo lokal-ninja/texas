@@ -1,5 +1,5 @@
 ---
 title: "Davis Tire and Automotive"
 url: /liberty-hill/davis-tire-and-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

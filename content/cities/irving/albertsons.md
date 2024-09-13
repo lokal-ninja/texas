@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /irving/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

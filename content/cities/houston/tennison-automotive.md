@@ -1,5 +1,5 @@
 ---
 title: "Tennison Automotive"
 url: /houston/tennison-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

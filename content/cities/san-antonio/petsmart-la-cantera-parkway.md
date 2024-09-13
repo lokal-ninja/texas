@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /san-antonio/petsmart-la-cantera-parkway/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /lacy-lakeview/chevron-new-dallas-highway/
-shop: Lebensmittel
+shop: convenience
 ---

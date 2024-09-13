@@ -1,5 +1,5 @@
 ---
 title: "Relax The Back"
 url: /dallas/relax-the-back/
-shop: Möbel
+shop: furniture
 ---

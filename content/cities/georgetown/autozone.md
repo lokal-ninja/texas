@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /georgetown/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /longview/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

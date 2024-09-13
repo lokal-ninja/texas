@@ -1,5 +1,5 @@
 ---
 title: "OneMain Financial"
 url: /bastrop/onemain-financial/
-shop: Leiher
+shop: pawnbroker
 ---

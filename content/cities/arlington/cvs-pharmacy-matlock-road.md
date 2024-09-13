@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /arlington/cvs-pharmacy-matlock-road/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harley's Liquor"
 url: /longview/harleys-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

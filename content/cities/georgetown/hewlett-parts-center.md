@@ -1,5 +1,5 @@
 ---
 title: "Hewlett Parts Center"
 url: /georgetown/hewlett-parts-center/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humphries Greenhouses"
 url: /canyon/humphries-greenhouses/
-shop: Garten-Center
+shop: garden centre
 ---

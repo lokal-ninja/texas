@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /snyder/autozone/
-shop: Autoteile
+shop: car parts
 ---

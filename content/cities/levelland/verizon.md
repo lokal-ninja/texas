@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /levelland/verizon/
-shop: Handy
+shop: mobile phone
 ---

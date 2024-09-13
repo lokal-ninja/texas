@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /forney/metro-by-t-mobile/
-shop: Handy
+shop: mobile phone
 ---

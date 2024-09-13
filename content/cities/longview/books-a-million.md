@@ -1,5 +1,5 @@
 ---
 title: "Books-A-Million"
 url: /longview/books-a-million/
-shop: Bücher
+shop: books
 ---

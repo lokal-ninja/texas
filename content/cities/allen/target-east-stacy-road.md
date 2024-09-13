@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /allen/target-east-stacy-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /fulshear/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

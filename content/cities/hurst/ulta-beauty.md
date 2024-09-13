@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /hurst/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

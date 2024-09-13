@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /roman-forest/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

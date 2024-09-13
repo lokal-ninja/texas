@@ -1,5 +1,5 @@
 ---
 title: "Addison Circle Post"
 url: /addison/addison-circle-post/
-shop: Kopieren
+shop: copyshop
 ---

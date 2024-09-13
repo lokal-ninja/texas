@@ -1,5 +1,5 @@
 ---
 title: "Baby Biz"
 url: /midland/baby-biz/
-shop: Babysachen
+shop: baby goods
 ---

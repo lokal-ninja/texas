@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /houston/kroger-cypresswood-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cedar-hill/target/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smith Hamilton"
 url: /lubbock/smith-hamilton/
-shop: Allgemein
+shop: shop
 ---

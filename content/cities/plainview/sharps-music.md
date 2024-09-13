@@ -1,5 +1,5 @@
 ---
 title: "Sharps Music"
 url: /plainview/sharps-music/
-shop: Musik
+shop: music
 ---

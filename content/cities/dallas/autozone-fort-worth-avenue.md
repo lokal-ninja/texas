@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /dallas/autozone-fort-worth-avenue/
-shop: Autoteile
+shop: car parts
 ---

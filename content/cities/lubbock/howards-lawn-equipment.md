@@ -1,5 +1,5 @@
 ---
 title: "Howard's Lawn Equipment"
 url: /lubbock/howards-lawn-equipment/
-shop: Garten-Center
+shop: garden centre
 ---

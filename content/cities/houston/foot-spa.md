@@ -1,5 +1,5 @@
 ---
 title: "Foot Spa"
 url: /houston/foot-spa/
-shop: Kosmetik
+shop: beauty
 ---

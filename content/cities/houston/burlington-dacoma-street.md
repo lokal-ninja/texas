@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /houston/burlington-dacoma-street/
-shop: Warenhaus
+shop: department store
 ---

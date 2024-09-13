@@ -1,5 +1,5 @@
 ---
 title: "Zebra Car Care"
 url: /grandview/zebra-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Furniture-N-Cabinets"
 url: /forney/furniture-n-cabinets/
-shop: Möbel
+shop: furniture
 ---

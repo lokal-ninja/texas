@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /el-paso/ross-alameda-avenue/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /allen/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

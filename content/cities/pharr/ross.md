@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /pharr/ross/
-shop: Warenhaus
+shop: department store
 ---

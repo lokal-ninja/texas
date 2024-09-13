@@ -1,5 +1,5 @@
 ---
 title: "Bedrock City Comic Company"
 url: /houston/bedrock-city-comic-company-washington-avenue/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /corpus-christi/kohls/
-shop: Warenhaus
+shop: department store
 ---

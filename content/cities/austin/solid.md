@@ -1,5 +1,5 @@
 ---
 title: "Solid"
 url: /austin/solid/
-shop: Möbel
+shop: furniture
 ---

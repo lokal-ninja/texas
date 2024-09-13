@@ -1,5 +1,5 @@
 ---
 title: "Adams Furniture"
 url: /huntsville/adams-furniture/
-shop: Möbel
+shop: furniture
 ---

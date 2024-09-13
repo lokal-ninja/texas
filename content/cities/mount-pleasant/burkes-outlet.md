@@ -1,5 +1,5 @@
 ---
 title: "Burkes Outlet"
 url: /mount-pleasant/burkes-outlet/
-shop: Kleidung
+shop: clothes
 ---

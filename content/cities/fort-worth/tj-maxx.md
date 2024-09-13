@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /fort-worth/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

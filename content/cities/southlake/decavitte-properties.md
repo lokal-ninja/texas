@@ -1,5 +1,5 @@
 ---
 title: "DeCavitte Properties"
 url: /southlake/decavitte-properties/
-shop: Baumarkt
+shop: doityourself
 ---

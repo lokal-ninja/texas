@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /round-rock/walgreens-rm-620/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ampex Business Machines"
 url: /houston/ampex-business-machines/
-shop: Schreibwaren
+shop: office supplies
 ---

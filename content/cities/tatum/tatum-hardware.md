@@ -1,5 +1,5 @@
 ---
 title: "Tatum Hardware"
 url: /tatum/tatum-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

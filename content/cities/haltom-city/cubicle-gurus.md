@@ -1,5 +1,5 @@
 ---
 title: "Cubicle Gurus"
 url: /haltom-city/cubicle-gurus/
-shop: Möbel
+shop: furniture
 ---

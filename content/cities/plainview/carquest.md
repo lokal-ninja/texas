@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /plainview/carquest/
-shop: Autoteile
+shop: car parts
 ---

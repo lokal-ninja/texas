@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /mineola/autozone/
-shop: Autoteile
+shop: car parts
 ---

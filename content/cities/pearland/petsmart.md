@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /pearland/petsmart/
-shop: Tiere
+shop: pet
 ---

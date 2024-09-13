@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /georgetown/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

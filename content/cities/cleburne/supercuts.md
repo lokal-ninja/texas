@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /cleburne/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

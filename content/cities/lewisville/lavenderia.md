@@ -1,5 +1,5 @@
 ---
 title: "Lavenderia"
 url: /lewisville/lavenderia/
-shop: Wäscherei
+shop: laundry
 ---

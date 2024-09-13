@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /windcrest/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eagle Transmission"
 url: /lewisville/eagle-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

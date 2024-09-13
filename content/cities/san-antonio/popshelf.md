@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /san-antonio/popshelf/
-shop: Kramladen
+shop: variety store
 ---

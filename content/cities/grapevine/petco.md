@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /grapevine/petco/
-shop: Tiere
+shop: pet
 ---

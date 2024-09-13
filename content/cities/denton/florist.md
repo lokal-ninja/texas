@@ -1,5 +1,5 @@
 ---
 title: "Florist"
 url: /denton/florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Connection"
 url: /seminole/car-connection/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "POB"
 url: /graford/pob/
-shop: Lebensmittel
+shop: convenience
 ---

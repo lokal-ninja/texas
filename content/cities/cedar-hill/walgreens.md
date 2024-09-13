@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /cedar-hill/walgreens/
-shop: Drogerie
+shop: chemist
 ---

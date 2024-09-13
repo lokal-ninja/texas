@@ -1,5 +1,5 @@
 ---
 title: "Quick Mart"
 url: /texarkana/quick-mart-south-lake-drive/
-shop: Lebensmittel
+shop: convenience
 ---

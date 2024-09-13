@@ -1,5 +1,5 @@
 ---
 title: "Market Street Beverage"
 url: /baird/market-street-beverage/
-shop: Spirituosen
+shop: alcohol
 ---

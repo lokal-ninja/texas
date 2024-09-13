@@ -1,5 +1,5 @@
 ---
 title: "Laundromat Lavanderia Fox"
 url: /dallas/laundromat-lavanderia-fox/
-shop: Wäscherei
+shop: laundry
 ---

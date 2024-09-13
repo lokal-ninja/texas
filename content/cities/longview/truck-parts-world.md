@@ -1,5 +1,5 @@
 ---
 title: "Truck Parts World"
 url: /longview/truck-parts-world/
-shop: Autoteile
+shop: car parts
 ---

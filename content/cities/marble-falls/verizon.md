@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /marble-falls/verizon/
-shop: Handy
+shop: mobile phone
 ---

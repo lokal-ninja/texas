@@ -1,5 +1,5 @@
 ---
 title: "Foodie's"
 url: /austin/foodies/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Complete Auto Repair"
 url: /spring/complete-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

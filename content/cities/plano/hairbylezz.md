@@ -1,5 +1,5 @@
 ---
 title: "HairbyLezz"
 url: /plano/hairbylezz/
-shop: Friseur
+shop: hairdresser
 ---

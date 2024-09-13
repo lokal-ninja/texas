@@ -1,5 +1,5 @@
 ---
 title: "Earthman Resthaven Funeral Home"
 url: /houston/earthman-resthaven-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

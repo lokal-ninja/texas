@@ -1,5 +1,5 @@
 ---
 title: "Family Health Market"
 url: /frisco/family-health-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minaya Beauty Spa"
 url: /plano/minaya-beauty-spa/
-shop: Kosmetik
+shop: beauty
 ---

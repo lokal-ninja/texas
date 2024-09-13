@@ -1,5 +1,5 @@
 ---
 title: "Primo Discount"
 url: /denton/primo-discount/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Guard Shop"
 url: /bullard/the-guard-shop/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /san-marcos/guess/
-shop: Kleidung
+shop: clothes
 ---

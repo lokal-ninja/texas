@@ -1,5 +1,5 @@
 ---
 title: "Crash Champions - Colleyville"
 url: /north-richland-hills/crash-champions-colleyville/
-shop: Autowerkstatt
+shop: car repair
 ---

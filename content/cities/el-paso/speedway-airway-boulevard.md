@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /el-paso/speedway-airway-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

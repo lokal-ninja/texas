@@ -1,5 +1,5 @@
 ---
 title: "Experimax"
 url: /houston/experimax/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /frisco/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

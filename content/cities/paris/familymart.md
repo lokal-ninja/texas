@@ -1,5 +1,5 @@
 ---
 title: "FamilyMart"
 url: /paris/familymart/
-shop: Lebensmittel
+shop: convenience
 ---

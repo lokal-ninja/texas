@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /mcallen/shoe-carnival-north-10th-street/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woven Roots"
 url: /comanche/woven-roots/
-shop: Raumausstattung
+shop: interior decoration
 ---

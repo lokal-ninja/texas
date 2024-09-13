@@ -1,5 +1,5 @@
 ---
 title: "Pampered Pets Grooming"
 url: /jarrell/pampered-pets-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

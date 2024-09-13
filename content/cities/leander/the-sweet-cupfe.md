@@ -1,5 +1,5 @@
 ---
 title: "The Sweet Cupfe"
 url: /leander/the-sweet-cupfe/
-shop: Bäckerei
+shop: bakery
 ---

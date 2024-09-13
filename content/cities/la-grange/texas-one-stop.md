@@ -1,5 +1,5 @@
 ---
 title: "Texas One Stop"
 url: /la-grange/texas-one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

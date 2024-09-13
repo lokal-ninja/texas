@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-antonio/autozone-marbach-road/
-shop: Autoteile
+shop: car parts
 ---

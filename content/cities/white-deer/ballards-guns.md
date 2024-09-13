@@ -1,5 +1,5 @@
 ---
 title: "Ballard's Guns"
 url: /white-deer/ballards-guns/
-shop: Waffen
+shop: weapons
 ---

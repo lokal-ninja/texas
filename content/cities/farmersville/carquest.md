@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /farmersville/carquest/
-shop: Autoteile
+shop: car parts
 ---

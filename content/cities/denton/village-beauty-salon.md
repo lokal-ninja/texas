@@ -1,5 +1,5 @@
 ---
 title: "Village Beauty Salon"
 url: /denton/village-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilken Family Eye Care"
 url: /coppell/wilken-family-eye-care/
-shop: Optiker
+shop: optician
 ---

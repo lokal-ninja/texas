@@ -1,5 +1,5 @@
 ---
 title: "Jackie's Antiques"
 url: /meridian/jackies-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

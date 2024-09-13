@@ -1,5 +1,5 @@
 ---
 title: "Daiso Japan"
 url: /austin/daiso-japan/
-shop: Kramladen
+shop: variety store
 ---

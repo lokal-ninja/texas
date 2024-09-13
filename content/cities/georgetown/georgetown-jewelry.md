@@ -1,5 +1,5 @@
 ---
 title: "Georgetown Jewelry"
 url: /georgetown/georgetown-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

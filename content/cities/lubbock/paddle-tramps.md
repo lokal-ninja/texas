@@ -1,5 +1,5 @@
 ---
 title: "Paddle Tramps"
 url: /lubbock/paddle-tramps/
-shop: Pokal
+shop: trophy
 ---

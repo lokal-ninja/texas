@@ -1,5 +1,5 @@
 ---
 title: "Truxx Outfitters"
 url: /denton/truxx-outfitters/
-shop: Autoteile
+shop: car parts
 ---

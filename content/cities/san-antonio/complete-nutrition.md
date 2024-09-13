@@ -1,5 +1,5 @@
 ---
 title: "Complete Nutrition"
 url: /san-antonio/complete-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gulf Antiques"
 url: /pipe-creek/gulf-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

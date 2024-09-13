@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /bastrop/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

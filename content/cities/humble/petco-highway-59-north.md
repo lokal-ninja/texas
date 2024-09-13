@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /humble/petco-highway-59-north/
-shop: Tiere
+shop: pet
 ---

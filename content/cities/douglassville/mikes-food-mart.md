@@ -1,5 +1,5 @@
 ---
 title: "Mikes Food Mart"
 url: /douglassville/mikes-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

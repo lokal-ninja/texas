@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /texas-city/clarks/
-shop: Schuhe
+shop: shoes
 ---

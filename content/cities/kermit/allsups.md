@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /kermit/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

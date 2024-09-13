@@ -1,5 +1,5 @@
 ---
 title: "Black Tie Liquor"
 url: /aubrey/black-tie-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Land Rover San Antonio"
 url: /san-antonio/land-rover-san-antonio/
-shop: Autohaus
+shop: car
 ---

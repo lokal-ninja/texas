@@ -1,5 +1,5 @@
 ---
 title: "Luke's Country Mart"
 url: /bulverde/lukes-country-mart/
-shop: Lebensmittel
+shop: convenience
 ---

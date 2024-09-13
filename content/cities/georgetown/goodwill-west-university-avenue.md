@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /georgetown/goodwill-west-university-avenue/
-shop: Gebrauchtwaren
+shop: charity
 ---

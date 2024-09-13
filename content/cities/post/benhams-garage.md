@@ -1,5 +1,5 @@
 ---
 title: "Benham's Garage"
 url: /post/benhams-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

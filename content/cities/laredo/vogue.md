@@ -1,5 +1,5 @@
 ---
 title: "Vogue"
 url: /laredo/vogue/
-shop: Warenhaus
+shop: department store
 ---

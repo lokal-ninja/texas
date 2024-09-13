@@ -1,5 +1,5 @@
 ---
 title: "NobiliTea"
 url: /wichita-falls/nobilitea/
-shop: Tee
+shop: tea
 ---

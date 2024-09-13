@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /quitaque/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

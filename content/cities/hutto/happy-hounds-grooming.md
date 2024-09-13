@@ -1,5 +1,5 @@
 ---
 title: "Happy Hounds Grooming"
 url: /hutto/happy-hounds-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

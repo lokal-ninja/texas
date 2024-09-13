@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /round-rock/five-below/
-shop: Kramladen
+shop: variety store
 ---

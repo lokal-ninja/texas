@@ -1,5 +1,5 @@
 ---
 title: "The Boardroom"
 url: /houston/the-boardroom/
-shop: Friseur
+shop: hairdresser
 ---

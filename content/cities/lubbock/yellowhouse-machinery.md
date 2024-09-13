@@ -1,5 +1,5 @@
 ---
 title: "Yellowhouse Machinery"
 url: /lubbock/yellowhouse-machinery/
-shop: Mieten
+shop: storage rental
 ---

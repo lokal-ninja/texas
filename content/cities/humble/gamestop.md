@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /humble/gamestop/
-shop: Videospiele
+shop: video games
 ---

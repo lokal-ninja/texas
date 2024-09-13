@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /sugarland/petsmart/
-shop: Tiere
+shop: pet
 ---

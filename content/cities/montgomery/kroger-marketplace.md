@@ -1,5 +1,5 @@
 ---
 title: "Kroger Marketplace"
 url: /montgomery/kroger-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

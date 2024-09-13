@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /seguin/loves/
-shop: Lebensmittel
+shop: convenience
 ---

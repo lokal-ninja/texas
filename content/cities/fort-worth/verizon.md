@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /fort-worth/verizon/
-shop: Handy
+shop: mobile phone
 ---

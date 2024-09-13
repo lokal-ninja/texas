@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /corpus-christi/stripes-morgan-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

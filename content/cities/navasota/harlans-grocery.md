@@ -1,5 +1,5 @@
 ---
 title: "Harlan's Grocery"
 url: /navasota/harlans-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

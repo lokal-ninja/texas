@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /cedar-park/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

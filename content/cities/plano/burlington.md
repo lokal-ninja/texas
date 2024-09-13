@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /plano/burlington/
-shop: Warenhaus
+shop: department store
 ---

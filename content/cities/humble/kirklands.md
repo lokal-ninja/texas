@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /humble/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

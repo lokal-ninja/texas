@@ -1,5 +1,5 @@
 ---
 title: "Burkes"
 url: /pampa/burkes/
-shop: Kleidung
+shop: clothes
 ---

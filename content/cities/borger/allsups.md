@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /borger/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

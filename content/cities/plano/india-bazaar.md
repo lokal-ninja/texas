@@ -1,5 +1,5 @@
 ---
 title: "India Bazaar"
 url: /plano/india-bazaar/
-shop: Supermarkt
+shop: supermarket
 ---

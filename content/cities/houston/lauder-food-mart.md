@@ -1,5 +1,5 @@
 ---
 title: "Lauder Food Mart"
 url: /houston/lauder-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

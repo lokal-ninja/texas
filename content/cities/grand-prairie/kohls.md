@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /grand-prairie/kohls/
-shop: Warenhaus
+shop: department store
 ---

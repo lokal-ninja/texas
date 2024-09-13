@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /magnolia/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

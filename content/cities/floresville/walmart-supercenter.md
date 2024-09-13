@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /floresville/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shiro Grocery"
 url: /richards/shiro-grocery/
-shop: Dorfladen
+shop: general
 ---

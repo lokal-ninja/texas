@@ -1,5 +1,5 @@
 ---
 title: "drybar"
 url: /houston/drybar/
-shop: Friseur
+shop: hairdresser
 ---

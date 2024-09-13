@@ -1,5 +1,5 @@
 ---
 title: "Hid Kitz"
 url: /houston/hid-kitz/
-shop: Autowerkstatt
+shop: car repair
 ---

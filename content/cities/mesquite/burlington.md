@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /mesquite/burlington/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heartland Mall"
 url: /early/heartland-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

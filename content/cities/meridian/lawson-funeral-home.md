@@ -1,5 +1,5 @@
 ---
 title: "Lawson Funeral Home"
 url: /meridian/lawson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

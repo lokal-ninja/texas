@@ -1,5 +1,5 @@
 ---
 title: "The Trading Post"
 url: /graford/the-trading-post/
-shop: Supermarkt
+shop: supermarket
 ---

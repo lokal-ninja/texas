@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /texas-city/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

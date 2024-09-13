@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /san-antonio/kohls/
-shop: Warenhaus
+shop: department store
 ---

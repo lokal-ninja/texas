@@ -1,5 +1,5 @@
 ---
 title: "228 Mini Storage"
 url: /grapeland/228-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

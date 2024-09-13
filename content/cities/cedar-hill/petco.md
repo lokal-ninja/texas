@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /cedar-hill/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /austin/sprouts-farmers-market-manchaca-road/
-shop: Supermarkt
+shop: supermarket
 ---

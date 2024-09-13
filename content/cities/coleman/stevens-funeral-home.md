@@ -1,5 +1,5 @@
 ---
 title: "Stevens Funeral Home"
 url: /coleman/stevens-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

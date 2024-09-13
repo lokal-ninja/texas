@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /tyler/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

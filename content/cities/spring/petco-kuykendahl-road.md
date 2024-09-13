@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /spring/petco-kuykendahl-road/
-shop: Tiere
+shop: pet
 ---

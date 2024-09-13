@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /new-braunfels/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SmokeHead Shop"
 url: /lubbock/smokehead-shop/
-shop: Tabak
+shop: tobacco
 ---

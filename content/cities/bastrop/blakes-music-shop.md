@@ -1,5 +1,5 @@
 ---
 title: "Blake's Music Shop"
 url: /bastrop/blakes-music-shop/
-shop: Instrumente
+shop: musical instrument
 ---

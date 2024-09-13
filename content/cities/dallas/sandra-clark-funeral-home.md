@@ -1,5 +1,5 @@
 ---
 title: "Sandra Clark Funeral Home"
 url: /dallas/sandra-clark-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

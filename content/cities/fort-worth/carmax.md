@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /fort-worth/carmax/
-shop: Autohaus
+shop: car
 ---

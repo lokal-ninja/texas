@@ -1,5 +1,5 @@
 ---
 title: "Modern Elite Firearms"
 url: /hill-country-village/modern-elite-firearms/
-shop: Waffen
+shop: weapons
 ---

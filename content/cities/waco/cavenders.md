@@ -1,5 +1,5 @@
 ---
 title: "Cavender's"
 url: /waco/cavenders/
-shop: Kleidung
+shop: clothes
 ---

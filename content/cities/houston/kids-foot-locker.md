@@ -1,5 +1,5 @@
 ---
 title: "Kids Foot Locker"
 url: /houston/kids-foot-locker/
-shop: Schuhe
+shop: shoes
 ---

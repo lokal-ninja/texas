@@ -1,5 +1,5 @@
 ---
 title: "PRO2 Medical"
 url: /lubbock/pro2-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

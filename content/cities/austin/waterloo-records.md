@@ -1,5 +1,5 @@
 ---
 title: "Waterloo Records"
 url: /austin/waterloo-records/
-shop: Musik
+shop: music
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scooterville"
 url: /kemah/scooterville/
-shop: Motorrad
+shop: motorcycle
 ---

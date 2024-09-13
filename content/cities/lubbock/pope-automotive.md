@@ -1,5 +1,5 @@
 ---
 title: "Pope Automotive"
 url: /lubbock/pope-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

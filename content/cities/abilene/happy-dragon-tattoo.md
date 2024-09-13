@@ -1,5 +1,5 @@
 ---
 title: "Happy Dragon Tattoo"
 url: /abilene/happy-dragon-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

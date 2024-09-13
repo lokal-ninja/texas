@@ -1,5 +1,5 @@
 ---
 title: "Live Well"
 url: /leander/live-well/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /mcallen/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /temple/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /san-antonio/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

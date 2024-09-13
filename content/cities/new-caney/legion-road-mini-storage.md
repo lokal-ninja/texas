@@ -1,5 +1,5 @@
 ---
 title: "Legion Road Mini Storage"
 url: /new-caney/legion-road-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seguin RV"
 url: /seguin/seguin-rv/
-shop: Autohaus
+shop: car
 ---

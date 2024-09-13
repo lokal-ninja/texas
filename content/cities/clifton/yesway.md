@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /clifton/yesway/
-shop: Lebensmittel
+shop: convenience
 ---

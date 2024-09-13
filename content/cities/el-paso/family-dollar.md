@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /el-paso/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

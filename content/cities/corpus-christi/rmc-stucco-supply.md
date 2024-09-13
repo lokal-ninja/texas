@@ -1,5 +1,5 @@
 ---
 title: "RMC Stucco Supply"
 url: /corpus-christi/rmc-stucco-supply/
-shop: Allgemein
+shop: shop
 ---

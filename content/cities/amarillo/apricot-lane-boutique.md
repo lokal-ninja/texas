@@ -1,5 +1,5 @@
 ---
 title: "Apricot Lane Boutique"
 url: /amarillo/apricot-lane-boutique/
-shop: Kleidung
+shop: clothes
 ---

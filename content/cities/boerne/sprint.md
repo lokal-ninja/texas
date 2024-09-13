@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /boerne/sprint/
-shop: Handy
+shop: mobile phone
 ---

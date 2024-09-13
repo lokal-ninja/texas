@@ -1,5 +1,5 @@
 ---
 title: "Caprock Irrigation Systems"
 url: /floydada/caprock-irrigation-systems/
-shop: Baustoffe
+shop: trade
 ---

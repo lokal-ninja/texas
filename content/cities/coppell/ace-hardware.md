@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /coppell/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

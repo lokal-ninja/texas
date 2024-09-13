@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /conroe/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

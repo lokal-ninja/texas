@@ -1,5 +1,5 @@
 ---
 title: "Family Food Store"
 url: /mesquite/family-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

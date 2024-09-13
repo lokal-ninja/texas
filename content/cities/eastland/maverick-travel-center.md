@@ -1,5 +1,5 @@
 ---
 title: "Maverick Travel Center"
 url: /eastland/maverick-travel-center/
-shop: Lebensmittel
+shop: convenience
 ---

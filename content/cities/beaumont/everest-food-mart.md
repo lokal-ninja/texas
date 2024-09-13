@@ -1,5 +1,5 @@
 ---
 title: "Everest Food Mart"
 url: /beaumont/everest-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mason True Value"
 url: /mount-pleasant/mason-true-value/
-shop: Eisenwaren
+shop: hardware
 ---

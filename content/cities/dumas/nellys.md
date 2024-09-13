@@ -1,5 +1,5 @@
 ---
 title: "Nelly's"
 url: /dumas/nellys/
-shop: Gebrauchtwaren
+shop: charity
 ---

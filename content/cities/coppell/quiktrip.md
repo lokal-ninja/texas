@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
 url: /coppell/quiktrip/
-shop: Lebensmittel
+shop: convenience
 ---

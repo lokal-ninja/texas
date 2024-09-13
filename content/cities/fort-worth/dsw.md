@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /fort-worth/dsw/
-shop: Schuhe
+shop: shoes
 ---

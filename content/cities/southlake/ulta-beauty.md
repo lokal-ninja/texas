@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /southlake/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

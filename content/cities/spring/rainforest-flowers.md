@@ -1,5 +1,5 @@
 ---
 title: "Rainforest Flowers"
 url: /spring/rainforest-flowers/
-shop: Blumen
+shop: florist
 ---

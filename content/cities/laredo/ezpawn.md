@@ -1,5 +1,5 @@
 ---
 title: "EZPAWN"
 url: /laredo/ezpawn/
-shop: Leiher
+shop: pawnbroker
 ---

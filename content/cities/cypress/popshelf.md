@@ -1,5 +1,5 @@
 ---
 title: "Popshelf"
 url: /cypress/popshelf/
-shop: Kramladen
+shop: variety store
 ---

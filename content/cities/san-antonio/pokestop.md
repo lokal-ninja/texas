@@ -1,5 +1,5 @@
 ---
 title: "Pokestop"
 url: /san-antonio/pokestop/
-shop: Videospiele
+shop: video games
 ---

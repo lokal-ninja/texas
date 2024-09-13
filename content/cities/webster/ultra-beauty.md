@@ -1,5 +1,5 @@
 ---
 title: "Ultra Beauty"
 url: /webster/ultra-beauty/
-shop: Kosmetik
+shop: beauty
 ---

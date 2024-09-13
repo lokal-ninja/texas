@@ -1,5 +1,5 @@
 ---
 title: "Surfhouse"
 url: /houston/surfhouse/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /texarkana/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

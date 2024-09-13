@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /waco/petsmart/
-shop: Tiere
+shop: pet
 ---

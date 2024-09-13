@@ -1,5 +1,5 @@
 ---
 title: "Timewise"
 url: /magnolia/timewise/
-shop: Lebensmittel
+shop: convenience
 ---

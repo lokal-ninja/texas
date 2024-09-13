@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /midland/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

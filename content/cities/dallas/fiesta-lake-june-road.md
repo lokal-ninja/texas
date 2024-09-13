@@ -1,5 +1,5 @@
 ---
 title: "Fiesta"
 url: /dallas/fiesta-lake-june-road/
-shop: Supermarkt
+shop: supermarket
 ---

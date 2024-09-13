@@ -1,5 +1,5 @@
 ---
 title: "Goodyear Motors"
 url: /houston/goodyear-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main Street Market"
 url: /spring/main-street-market/
-shop: Lebensmittel
+shop: convenience
 ---

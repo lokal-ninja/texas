@@ -1,5 +1,5 @@
 ---
 title: "Flor"
 url: /austin/flor/
-shop: Teppiche
+shop: carpet
 ---

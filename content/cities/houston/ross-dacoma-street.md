@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /houston/ross-dacoma-street/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Athens Paint and Body"
 url: /athens/athens-paint-and-body/
-shop: Autowerkstatt
+shop: car repair
 ---

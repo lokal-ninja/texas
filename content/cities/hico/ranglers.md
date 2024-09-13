@@ -1,5 +1,5 @@
 ---
 title: "Ranglers"
 url: /hico/ranglers/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glenrio Smoke Stop"
 url: /glenrio/glenrio-smoke-stop/
-shop: Hanf
+shop: cannabis
 ---

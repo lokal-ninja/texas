@@ -1,5 +1,5 @@
 ---
 title: "BookWoman"
 url: /austin/bookwoman/
-shop: Bücher
+shop: books
 ---

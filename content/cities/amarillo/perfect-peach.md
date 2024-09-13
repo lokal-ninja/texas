@@ -1,5 +1,5 @@
 ---
 title: "Perfect Peach"
 url: /amarillo/perfect-peach/
-shop: Kosmetik
+shop: beauty
 ---

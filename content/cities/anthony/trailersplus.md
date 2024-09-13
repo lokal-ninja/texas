@@ -1,5 +1,5 @@
 ---
 title: "TrailersPlus"
 url: /anthony/trailersplus/
-shop: Autohaus
+shop: car
 ---

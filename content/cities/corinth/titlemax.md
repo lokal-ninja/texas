@@ -1,5 +1,5 @@
 ---
 title: "TitleMax"
 url: /corinth/titlemax/
-shop: Leiher
+shop: pawnbroker
 ---

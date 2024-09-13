@@ -1,5 +1,5 @@
 ---
 title: "Classic"
 url: /corinth/classic/
-shop: Autohaus
+shop: car
 ---

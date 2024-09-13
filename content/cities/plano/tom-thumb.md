@@ -1,5 +1,5 @@
 ---
 title: "Tom Thumb"
 url: /plano/tom-thumb/
-shop: Supermarkt
+shop: supermarket
 ---

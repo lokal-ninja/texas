@@ -1,5 +1,5 @@
 ---
 title: "Center City Furniture"
 url: /amarillo/center-city-furniture/
-shop: Möbel
+shop: furniture
 ---

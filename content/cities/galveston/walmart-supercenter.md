@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /galveston/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

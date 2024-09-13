@@ -1,5 +1,5 @@
 ---
 title: "Stor-It"
 url: /levelland/stor-it/
-shop: Mieten
+shop: storage rental
 ---

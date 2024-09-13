@@ -1,5 +1,5 @@
 ---
 title: "Rebate Haus"
 url: /new-braunfels/rebate-haus/
-shop: Leiher
+shop: pawnbroker
 ---

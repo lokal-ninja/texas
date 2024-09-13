@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /pampa/allsups-alcock-street/
-shop: Lebensmittel
+shop: convenience
 ---

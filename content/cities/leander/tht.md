@@ -1,5 +1,5 @@
 ---
 title: "THT"
 url: /leander/tht/
-shop: Autowerkstatt
+shop: car repair
 ---

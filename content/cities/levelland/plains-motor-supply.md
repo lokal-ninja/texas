@@ -1,5 +1,5 @@
 ---
 title: "Plains Motor Supply"
 url: /levelland/plains-motor-supply/
-shop: Autoteile
+shop: car parts
 ---

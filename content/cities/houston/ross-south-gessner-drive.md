@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /houston/ross-south-gessner-drive/
-shop: Warenhaus
+shop: department store
 ---

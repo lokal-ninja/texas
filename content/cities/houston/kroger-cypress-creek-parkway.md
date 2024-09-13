@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /houston/kroger-cypress-creek-parkway/
-shop: Supermarkt
+shop: supermarket
 ---

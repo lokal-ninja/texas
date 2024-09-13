@@ -1,5 +1,5 @@
 ---
 title: "Red River Fireworks"
 url: /iowa-park/red-river-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

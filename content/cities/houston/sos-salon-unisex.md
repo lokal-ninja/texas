@@ -1,5 +1,5 @@
 ---
 title: "SOS Salon Unisex"
 url: /houston/sos-salon-unisex/
-shop: Friseur
+shop: hairdresser
 ---

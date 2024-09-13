@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /lamesa/bealls/
-shop: Warenhaus
+shop: department store
 ---

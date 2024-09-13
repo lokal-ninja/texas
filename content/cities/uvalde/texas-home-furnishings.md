@@ -1,5 +1,5 @@
 ---
 title: "Texas Home Furnishings"
 url: /uvalde/texas-home-furnishings/
-shop: Möbel
+shop: furniture
 ---

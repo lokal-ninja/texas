@@ -1,5 +1,5 @@
 ---
 title: "Fast Break Food Store"
 url: /vidor/fast-break-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

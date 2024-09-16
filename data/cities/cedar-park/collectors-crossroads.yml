@@ -1,11 +1,11 @@
 id: 29159524
-type: way
+type: node
 latitude: 30.46803
 longitude: -97.80316
 postcode: "78613"
 city: Cedar Park
-street: "Pecan Park Boulevard"
-housenumber: 11066
-phone: "+1-512-593-5930"
-opening_hours: "Su-Th 11:00-18:00; Fr-Sa 11:00-20:00"
-website: "https://collectorscrossroads.com/"
+street: Pecan Park Boulevard
+housenumber: "11066"
+phone: +1-512-593-5930
+opening_hours: Su-Th 11:00-18:00; Fr-Sa 11:00-20:00
+website: https://collectorscrossroads.com/

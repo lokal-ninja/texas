@@ -1,11 +1,11 @@
 id: 748708791
-type: way
+type: node
 latitude: 35.14786
 longitude: -101.92085
 postcode: "79119"
 city: Amarillo
-street: "South Coulter Street"
-housenumber: 5820
-phone: "+1-806-358-4773"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/tx/amarillo/s/1761"
+street: South Coulter Street
+housenumber: "5820"
+phone: +1-806-358-4773
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/store/tx/amarillo/s/1761

@@ -1,11 +1,11 @@
 id: 411122743
-type: way
+type: node
 latitude: 31.33344
 longitude: -94.72948
 postcode: "75901"
 city: Lufkin
-street: "South First Street"
-housenumber: 601
-phone: "+1 936 634 5717"
+street: South First Street
+housenumber: "601"
+phone: +1 936 634 5717
 opening_hours: ""
 website: ""

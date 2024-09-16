@@ -1,11 +1,11 @@
 id: 470791709
-type: way
+type: node
 latitude: 32.01959
 longitude: -102.12434
 postcode: ""
 city: Midland
-street: "West Wadley Avenue"
-housenumber: 3221
+street: West Wadley Avenue
+housenumber: "3221"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3221+w+wadley+ave-midland-tx-79705/id=13681"
+website: https://www.walgreens.com/locator/walgreens-3221+w+wadley+ave-midland-tx-79705/id=13681

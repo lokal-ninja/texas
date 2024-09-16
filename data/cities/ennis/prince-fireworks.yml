@@ -1,11 +1,11 @@
 id: 805605807
-type: way
+type: node
 latitude: 32.28643
 longitude: -96.54696
 postcode: "75119"
 city: Ennis
-street: "South Interstate 45"
-housenumber: 6451
+street: South Interstate 45
+housenumber: "6451"
 phone: ""
 opening_hours: ""
 website: ""

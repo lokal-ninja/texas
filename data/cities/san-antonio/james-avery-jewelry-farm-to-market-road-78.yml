@@ -4,8 +4,8 @@ latitude: 29.48452
 longitude: -98.35132
 postcode: "78244"
 city: San Antonio
-street: "Farm-to-Market Road 78"
-housenumber: 6914
-phone: "+1-210-476-5844"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.jamesavery.com/custserv/store_details.jsp?storeId=945"
+street: Farm-to-Market Road 78
+housenumber: "6914"
+phone: +1-210-476-5844
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=945

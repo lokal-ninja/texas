@@ -1,11 +1,11 @@
 id: 1246408632
-type: way
+type: node
 latitude: 29.26723
 longitude: -95.94737
-postcode: "77420-9660"
+postcode: 77420-9660
 city: Boling
-street: "FM 1301"
-housenumber: 10553
-phone: "+1 979-428-4820"
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/tx/boling/14344"
+street: FM 1301
+housenumber: "10553"
+phone: +1 979-428-4820
+opening_hours: Su-Sa 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/tx/boling/14344

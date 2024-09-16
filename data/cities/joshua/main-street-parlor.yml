@@ -4,8 +4,8 @@ latitude: 32.46172
 longitude: -97.38874
 postcode: "76058"
 city: Joshua
-street: "North Main Street"
-housenumber: 101
-phone: "+1-817-526-5696"
+street: North Main Street
+housenumber: "101"
+phone: +1-817-526-5696
 opening_hours: ""
-website: "https://www.mainstreetparlor.com/"
+website: https://www.mainstreetparlor.com/

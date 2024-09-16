@@ -1,11 +1,11 @@
 id: 131361457
-type: way
+type: node
 latitude: 29.5435
 longitude: -98.6561
 postcode: "78250"
 city: San Antonio
-street: "Bandera Road"
-housenumber: 10718
+street: Bandera Road
+housenumber: "10718"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10718+bandera+rd-san+antonio-tx-78250/id=6336"
+website: https://www.walgreens.com/locator/walgreens-10718+bandera+rd-san+antonio-tx-78250/id=6336

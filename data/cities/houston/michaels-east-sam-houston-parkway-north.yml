@@ -1,11 +1,11 @@
 id: 525232734
-type: way
+type: node
 latitude: 29.92701
 longitude: -95.20528
 postcode: "77044"
 city: Houston
-street: "East Sam Houston Parkway North"
-housenumber: 14287
-phone: "+1 281-668-7828"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/houston/1310"
+street: East Sam Houston Parkway North
+housenumber: "14287"
+phone: +1 281-668-7828
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/houston/1310

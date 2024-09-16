@@ -1,11 +1,11 @@
 id: 641970479
-type: way
+type: node
 latitude: 32.75087
 longitude: -97.0981
 postcode: "76011"
 city: Arlington
-street: "North Collins Street"
-housenumber: 1020
+street: North Collins Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1020+n+collins+st-arlington-tx-76011/id=2537"
+website: https://www.walgreens.com/locator/walgreens-1020+n+collins+st-arlington-tx-76011/id=2537

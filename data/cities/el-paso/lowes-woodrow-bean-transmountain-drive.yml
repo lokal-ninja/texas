@@ -1,11 +1,11 @@
 id: 990210983
-type: way
+type: node
 latitude: 31.90151
 longitude: -106.43928
 postcode: "79924"
 city: El Paso
-street: "Woodrow Bean Transmountain Drive"
-housenumber: 4531
-phone: "+1 915-755-9155"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-el-paso/1137"
+street: Woodrow Bean Transmountain Drive
+housenumber: "4531"
+phone: +1 915-755-9155
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-el-paso/1137

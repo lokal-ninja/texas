@@ -1,11 +1,11 @@
 id: 753752809
-type: way
+type: node
 latitude: 32.49175
 longitude: -99.72696
 postcode: "79601"
 city: Abilene
-street: "West Overland Trail"
-housenumber: 502
+street: West Overland Trail
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

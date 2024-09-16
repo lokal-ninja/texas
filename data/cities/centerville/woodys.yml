@@ -1,11 +1,11 @@
 id: 882660369
-type: way
+type: node
 latitude: 31.25904
 longitude: -95.98606
 postcode: "75833"
 city: Centerville
-street: "West Saint Mary's Street"
-housenumber: 947
+street: West Saint Mary's Street
+housenumber: "947"
 phone: ""
 opening_hours: ""
 website: ""

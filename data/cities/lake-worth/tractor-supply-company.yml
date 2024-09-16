@@ -1,11 +1,11 @@
 id: 664545150
-type: way
+type: node
 latitude: 32.81413
 longitude: -97.43327
 postcode: "76135"
 city: Lake Worth
-street: "Telephone Road"
-housenumber: 3919
-phone: "+1 817-237-5222"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Telephone Road
+housenumber: "3919"
+phone: +1 817-237-5222
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

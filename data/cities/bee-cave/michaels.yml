@@ -1,11 +1,11 @@
 id: 755037343
-type: way
+type: node
 latitude: 30.30608
 longitude: -97.94029
 postcode: "78738"
 city: Bee Cave
-street: "Shops Parkway"
-housenumber: 12770
-phone: "+1 512-263-8543"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/bee-caves/6700"
+street: Shops Parkway
+housenumber: "12770"
+phone: +1 512-263-8543
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/bee-caves/6700

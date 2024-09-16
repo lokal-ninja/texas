@@ -1,11 +1,11 @@
 id: 444083520
-type: way
+type: node
 latitude: 33.50619
 longitude: -101.92325
 postcode: "79424"
 city: Lubbock
-street: "98th Street"
-housenumber: 5208
+street: 98th Street
+housenumber: "5208"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lubbock-tx-pharmacies/5208-98th-st-lubbock-tx-79424/storeid=7830"
+website: https://www.cvs.com/store-locator/lubbock-tx-pharmacies/5208-98th-st-lubbock-tx-79424/storeid=7830

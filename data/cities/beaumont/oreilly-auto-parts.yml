@@ -1,11 +1,11 @@
 id: 772287586
-type: way
+type: node
 latitude: 30.11973
 longitude: -94.1443
 postcode: "77708"
 city: Beaumont
-street: "East Lucas Drive"
-housenumber: 4330
+street: East Lucas Drive
+housenumber: "4330"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/beaumont/autoparts-444.html"
+website: https://locations.oreillyauto.com/tx/beaumont/autoparts-444.html

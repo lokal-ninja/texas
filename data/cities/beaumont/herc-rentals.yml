@@ -1,11 +1,11 @@
 id: 773584287
-type: way
+type: node
 latitude: 30.02136
 longitude: -94.04713
 postcode: "77705"
 city: Beaumont
-street: "Highway 347"
-housenumber: 6325
+street: Highway 347
+housenumber: "6325"
 phone: ""
 opening_hours: ""
 website: ""

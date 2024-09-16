@@ -1,11 +1,11 @@
 id: 1149563100
-type: way
+type: node
 latitude: 33.07396
 longitude: -97.29646
 postcode: "76247"
 city: Justin
-street: "Wallace Drive"
-housenumber: 300
+street: Wallace Drive
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/justin/300-wallace-dr.html"
+website: https://www.autozone.com/locations/tx/justin/300-wallace-dr.html

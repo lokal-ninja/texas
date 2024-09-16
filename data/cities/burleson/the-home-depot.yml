@@ -1,11 +1,11 @@
 id: 711163297
-type: way
+type: node
 latitude: 32.52637
 longitude: -97.35115
 postcode: "76028"
 city: Burleson
-street: "Northwest John Jones Drive"
-housenumber: 300
-phone: "+1 817-447-6602"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/burleson/tx/burleson/76028/8438"
+street: Northwest John Jones Drive
+housenumber: "300"
+phone: +1 817-447-6602
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/burleson/tx/burleson/76028/8438

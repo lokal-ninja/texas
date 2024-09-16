@@ -1,11 +1,11 @@
 id: 979895875
-type: way
+type: node
 latitude: 32.43849
 longitude: -94.71741
 postcode: "75603"
 city: Longview
-street: "Estes Parkway"
-housenumber: 3663
+street: Estes Parkway
+housenumber: "3663"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/longview/3663-estes-pkwy.html"
+website: https://www.autozone.com/locations/tx/longview/3663-estes-pkwy.html

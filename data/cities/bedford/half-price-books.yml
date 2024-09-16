@@ -1,11 +1,11 @@
 id: 1230319663
-type: way
+type: node
 latitude: 32.85428
 longitude: -97.15773
 postcode: "76021"
 city: Bedford
-street: "Harwood Road"
-housenumber: 713
+street: Harwood Road
+housenumber: "713"
 phone: ""
 opening_hours: ""
 website: ""

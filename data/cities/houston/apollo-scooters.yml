@@ -1,11 +1,11 @@
 id: 367137413
-type: way
+type: node
 latitude: 29.74327
 longitude: -95.36162
 postcode: ""
 city: Houston
-street: "Gray Street"
-housenumber: 2103
+street: Gray Street
+housenumber: "2103"
 phone: ""
 opening_hours: ""
 website: ""

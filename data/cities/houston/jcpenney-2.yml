@@ -1,11 +1,11 @@
 id: 194533803
-type: way
+type: node
 latitude: 29.68754
 longitude: -95.46289
 postcode: ""
 city: Houston
 street: ""
-housenumber: 730
+housenumber: "730"
 phone: ""
 opening_hours: ""
 website: ""

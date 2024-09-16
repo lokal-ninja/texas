@@ -1,11 +1,11 @@
 id: 784827716
-type: way
+type: node
 latitude: 30.6707
 longitude: -96.32721
 postcode: "77802"
 city: Bryan
-street: "Wildflower Drive"
-housenumber: 2700
+street: Wildflower Drive
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

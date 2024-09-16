@@ -1,11 +1,11 @@
 id: 468140290
-type: way
+type: node
 latitude: 32.89828
 longitude: -96.76827
 postcode: ""
 city: Dallas
-street: "North Central Expressway"
-housenumber: 10950
+street: North Central Expressway
+housenumber: "10950"
 phone: ""
 opening_hours: ""
 website: ""

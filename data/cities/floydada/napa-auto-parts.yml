@@ -1,11 +1,11 @@
 id: 1072087912
-type: way
+type: node
 latitude: 33.9756
 longitude: -101.34307
 postcode: "79235"
 city: Floydada
-street: "South Ralls Highway"
-housenumber: 1103
+street: South Ralls Highway
+housenumber: "1103"
 phone: ""
 opening_hours: ""
 website: ""

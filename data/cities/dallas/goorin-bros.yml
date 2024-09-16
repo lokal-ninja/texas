@@ -1,11 +1,11 @@
 id: 1115411661
-type: way
+type: node
 latitude: 32.78402
 longitude: -96.78503
 postcode: "75226"
 city: Dallas
-street: "Main Street"
-housenumber: 2639
-phone: "+1 945 468 7299"
-opening_hours: "Su,We,Th 11:00-18:00; Fr,Sa 11:00-19:00"
-website: "https://www.goorin.com"
+street: Main Street
+housenumber: "2639"
+phone: +1 945 468 7299
+opening_hours: Su,We,Th 11:00-18:00; Fr,Sa 11:00-19:00
+website: https://www.goorin.com

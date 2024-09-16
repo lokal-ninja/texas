@@ -1,11 +1,11 @@
 id: 670741976
-type: way
+type: node
 latitude: 32.83403
 longitude: -97.21625
 postcode: "76180"
 city: North Richland Hills
-street: "Boulevard 26"
-housenumber: 7769
+street: Boulevard 26
+housenumber: "7769"
 phone: ""
 opening_hours: ""
 website: ""

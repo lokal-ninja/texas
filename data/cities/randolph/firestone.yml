@@ -1,11 +1,11 @@
 id: 739878968
-type: way
+type: node
 latitude: 29.53861
 longitude: -98.28525
 postcode: "78150"
 city: Randolph
-street: "Harmon Drive"
-housenumber: 611
+street: Harmon Drive
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

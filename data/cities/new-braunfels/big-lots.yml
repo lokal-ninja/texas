@@ -1,11 +1,11 @@
 id: 534893697
-type: way
+type: node
 latitude: 29.68913
 longitude: -98.11039
 postcode: "78130"
 city: New Braunfels
-street: "Interstate 35 South"
-housenumber: 139
-phone: "+1 830-608-0457"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/new-braunfels/139-s-interstate-35"
+street: Interstate 35 South
+housenumber: "139"
+phone: +1 830-608-0457
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/new-braunfels/139-s-interstate-35

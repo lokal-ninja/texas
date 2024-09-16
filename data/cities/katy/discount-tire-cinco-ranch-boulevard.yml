@@ -1,11 +1,11 @@
 id: 667219555
-type: way
+type: node
 latitude: 29.7395
 longitude: -95.78161
 postcode: "77494"
 city: Katy
-street: "Cinco Ranch Boulevard"
-housenumber: 24202
-phone: "+1-281-392-5444"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com"
+street: Cinco Ranch Boulevard
+housenumber: "24202"
+phone: +1-281-392-5444
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com

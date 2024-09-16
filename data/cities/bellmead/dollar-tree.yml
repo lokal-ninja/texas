@@ -1,11 +1,11 @@
 id: 843752031
-type: way
+type: node
 latitude: 31.60379
 longitude: -97.09836
 postcode: "76705"
 city: Bellmead
-street: "North Loop 340"
-housenumber: 522
+street: North Loop 340
+housenumber: "522"
 phone: ""
 opening_hours: ""
 website: ""

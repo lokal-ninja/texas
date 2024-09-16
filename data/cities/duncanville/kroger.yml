@@ -1,11 +1,11 @@
 id: 374588833
-type: way
+type: node
 latitude: 32.66078
 longitude: -96.90878
 postcode: "75116"
 city: Duncanville
-street: "West Camp Wisdom Road"
-housenumber: 200
-phone: "+1 972-298-9962"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/tx/duncanville/duncanville/035/00527"
+street: West Camp Wisdom Road
+housenumber: "200"
+phone: +1 972-298-9962
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/tx/duncanville/duncanville/035/00527

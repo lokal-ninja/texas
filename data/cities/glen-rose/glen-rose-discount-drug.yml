@@ -1,11 +1,11 @@
 id: 640841227
-type: way
+type: node
 latitude: 32.24239
 longitude: -97.74737
 postcode: ""
 city: Glen Rose
-street: "Northeast Big Bend Trail"
-housenumber: 906
-phone: "+1-254-897-2711"
+street: Northeast Big Bend Trail
+housenumber: "906"
+phone: +1-254-897-2711
 opening_hours: ""
-website: "https://www.glenrosedrug.com/"
+website: https://www.glenrosedrug.com/

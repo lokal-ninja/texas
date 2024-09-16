@@ -1,11 +1,11 @@
 id: 468043117
-type: way
+type: node
 latitude: 32.8628
 longitude: -96.67052
 postcode: "75218"
 city: Dallas
-street: "Garland Road"
-housenumber: 12180
+street: Garland Road
+housenumber: "12180"
 phone: ""
 opening_hours: ""
 website: ""

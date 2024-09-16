@@ -1,11 +1,11 @@
 id: 1193898869
-type: way
+type: node
 latitude: 29.69675
 longitude: -98.09001
 postcode: "78130"
 city: New Braunfels
-street: "State Highway 46 South"
-housenumber: 704
+street: State Highway 46 South
+housenumber: "704"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/newbraunfels/autoparts-6030.html"
+website: https://locations.oreillyauto.com/tx/newbraunfels/autoparts-6030.html

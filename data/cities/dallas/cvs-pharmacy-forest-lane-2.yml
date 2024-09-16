@@ -1,11 +1,11 @@
 id: 631661351
-type: way
+type: node
 latitude: 32.90965
 longitude: -96.88259
 postcode: "75234"
 city: Dallas
-street: "Forest Lane"
-housenumber: 2899
+street: Forest Lane
+housenumber: "2899"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-tx-pharmacies/2899-forest-lane-dallas-tx-75234/storeid=7149"
+website: https://www.cvs.com/store-locator/dallas-tx-pharmacies/2899-forest-lane-dallas-tx-75234/storeid=7149

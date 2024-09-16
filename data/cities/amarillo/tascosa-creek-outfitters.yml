@@ -1,11 +1,11 @@
 id: 1114699579
-type: way
+type: node
 latitude: 35.24608
 longitude: -101.88662
 postcode: "79124"
 city: Amarillo
-street: "North Western Street"
-housenumber: 3941
-phone: "+1-806-352-1515"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00"
-website: "https://www.tascosacreekoutfitters.com"
+street: North Western Street
+housenumber: "3941"
+phone: +1-806-352-1515
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-15:00
+website: https://www.tascosacreekoutfitters.com

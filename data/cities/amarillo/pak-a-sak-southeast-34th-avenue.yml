@@ -1,11 +1,11 @@
 id: 770949495
-type: way
+type: node
 latitude: 35.17779
 longitude: -101.81399
 postcode: "79118"
 city: Amarillo
-street: "Southeast 34th Avenue"
-housenumber: 2110
+street: Southeast 34th Avenue
+housenumber: "2110"
 phone: ""
 opening_hours: ""
 website: ""

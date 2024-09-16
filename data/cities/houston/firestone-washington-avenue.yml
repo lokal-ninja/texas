@@ -1,11 +1,11 @@
 id: 317796787
-type: way
+type: node
 latitude: 29.76787
 longitude: -95.37297
 postcode: ""
 city: Houston
-street: "Washington Avenue"
-housenumber: 1502
+street: Washington Avenue
+housenumber: "1502"
 phone: ""
 opening_hours: ""
 website: ""

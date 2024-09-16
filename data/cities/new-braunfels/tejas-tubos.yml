@@ -1,11 +1,11 @@
 id: 1054887451
-type: way
+type: node
 latitude: 29.6956
 longitude: -98.11315
 postcode: "78130"
 city: New Braunfels
-street: "South Seguin Avenue"
-housenumber: 921
+street: South Seguin Avenue
+housenumber: "921"
 phone: ""
 opening_hours: ""
 website: ""

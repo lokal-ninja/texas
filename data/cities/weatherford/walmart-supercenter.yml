@@ -1,11 +1,11 @@
 id: 363608378
-type: way
+type: node
 latitude: 32.73163
 longitude: -97.79578
 postcode: "76086"
 city: Weatherford
-street: "South Main Street"
-housenumber: 1836
-phone: "+1 817-594-9193"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/963/weatherford-tx/whats-new"
+street: South Main Street
+housenumber: "1836"
+phone: +1 817-594-9193
+opening_hours: 24/7
+website: https://www.walmart.com/store/963/weatherford-tx/whats-new

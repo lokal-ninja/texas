@@ -1,11 +1,11 @@
 id: 548698584
-type: way
+type: node
 latitude: 32.46199
 longitude: -96.99471
 postcode: "76065"
 city: Midlothian
-street: "FM 663"
-housenumber: 2051
+street: FM 663
+housenumber: "2051"
 phone: ""
 opening_hours: ""
 website: ""

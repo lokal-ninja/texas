@@ -1,11 +1,11 @@
 id: 258723486
-type: way
+type: node
 latitude: 30.33613
 longitude: -95.465
 postcode: "77301"
 city: Conroe
-street: "North Frazier Street"
-housenumber: 2108
-phone: "+1-936-756-1430"
+street: North Frazier Street
+housenumber: "2108"
+phone: +1-936-756-1430
 opening_hours: ""
 website: ""

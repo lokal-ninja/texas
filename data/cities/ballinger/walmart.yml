@@ -1,11 +1,11 @@
 id: 728246274
-type: way
+type: node
 latitude: 31.72076
 longitude: -99.96088
 postcode: "76821"
 city: Ballinger
-street: "Hutchings Avenue"
-housenumber: 2005
-phone: "+1 325-365-5731"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1078-ballinger-tx"
+street: Hutchings Avenue
+housenumber: "2005"
+phone: +1 325-365-5731
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1078-ballinger-tx

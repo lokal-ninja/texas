@@ -1,11 +1,11 @@
 id: 1215357485
-type: way
+type: node
 latitude: 29.18494
 longitude: -95.40921
 postcode: "77515"
 city: Angleton
-street: "East Mulberry Street"
-housenumber: 2299
+street: East Mulberry Street
+housenumber: "2299"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 843270108
-type: way
+type: node
 latitude: 30.92229
 longitude: -99.78378
 postcode: "76859"
 city: Menard
-street: "Decker Street"
-housenumber: 300
+street: Decker Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

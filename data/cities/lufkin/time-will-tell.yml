@@ -1,11 +1,11 @@
 id: 407180246
-type: way
+type: node
 latitude: 31.33827
 longitude: -94.7265
 postcode: "75901"
 city: Lufkin
-street: "East Lufkin Avenue"
-housenumber: 304
-phone: "+1 936 699 4367"
+street: East Lufkin Avenue
+housenumber: "304"
+phone: +1 936 699 4367
 opening_hours: ""
 website: ""

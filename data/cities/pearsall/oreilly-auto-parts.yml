@@ -1,11 +1,11 @@
 id: 839186651
-type: way
+type: node
 latitude: 28.89446
 longitude: -99.09429
 postcode: "78061"
 city: Pearsall
-street: "North Oak Street"
-housenumber: 308
+street: North Oak Street
+housenumber: "308"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/pearsall/autoparts-1576.html"
+website: https://locations.oreillyauto.com/tx/pearsall/autoparts-1576.html

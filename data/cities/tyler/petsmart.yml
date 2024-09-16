@@ -1,11 +1,11 @@
 id: 503389374
-type: way
+type: node
 latitude: 32.28705
 longitude: -95.30166
 postcode: "75703"
 city: Tyler
-street: "South Broadway Avenue"
-housenumber: 5610
-phone: "+1 903-534-5261"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/tyler-store0186.html"
+street: South Broadway Avenue
+housenumber: "5610"
+phone: +1 903-534-5261
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/tyler-store0186.html

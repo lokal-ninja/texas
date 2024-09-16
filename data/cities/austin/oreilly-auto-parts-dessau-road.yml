@@ -1,11 +1,11 @@
 id: 440900990
-type: way
+type: node
 latitude: 30.38855
 longitude: -97.64823
 postcode: "78754"
 city: Austin
-street: "Dessau Road"
-housenumber: 12308
+street: Dessau Road
+housenumber: "12308"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/austin/autoparts-4680.html"
+website: https://locations.oreillyauto.com/tx/austin/autoparts-4680.html

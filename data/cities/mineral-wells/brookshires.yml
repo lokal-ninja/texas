@@ -1,11 +1,11 @@
 id: 700222273
-type: way
+type: node
 latitude: 32.80897
 longitude: -98.09759
 postcode: "76067"
 city: Mineral Wells
-street: "Southeast 17th Avenue"
-housenumber: 100
+street: Southeast 17th Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

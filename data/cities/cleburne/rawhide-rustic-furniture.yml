@@ -1,11 +1,11 @@
 id: 711178216
-type: way
+type: node
 latitude: 32.36573
 longitude: -97.40348
 postcode: "76033"
 city: Cleburne
-street: "West Kilpatrick Street"
-housenumber: 424
+street: West Kilpatrick Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
-website: "http://www.rawhiderusticfurniture.com/"
+website: http://www.rawhiderusticfurniture.com/

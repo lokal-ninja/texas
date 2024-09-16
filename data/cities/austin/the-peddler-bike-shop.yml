@@ -4,8 +4,8 @@ latitude: 30.31404
 longitude: -97.71986
 postcode: "78751"
 city: Austin
-street: "Duval Street"
-housenumber: 5015
-phone: "+1-512-220-6766"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "https://www.peddlerbike.com/"
+street: Duval Street
+housenumber: "5015"
+phone: +1-512-220-6766
+opening_hours: Mo-Sa 08:00-17:00
+website: https://www.peddlerbike.com/

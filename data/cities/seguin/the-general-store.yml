@@ -1,11 +1,11 @@
 id: 342645364
-type: way
+type: node
 latitude: 29.49408
 longitude: -97.87641
 postcode: "78155"
 city: Seguin
-street: "Farm-to-Market Road 1117"
-housenumber: 6362
-phone: "+1 830-386-0051"
+street: Farm-to-Market Road 1117
+housenumber: "6362"
+phone: +1 830-386-0051
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 875105987
-type: way
+type: node
 latitude: 33.15732
 longitude: -94.95962
 postcode: "75455"
 city: Mount Pleasant
-street: "East 1st Street"
-housenumber: 705
+street: East 1st Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

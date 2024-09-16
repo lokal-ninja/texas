@@ -1,11 +1,11 @@
 id: 575552236
-type: way
+type: node
 latitude: 29.94914
 longitude: -96.25303
 postcode: "77418"
 city: Bellville
-street: "East Main Street"
-housenumber: 504
+street: East Main Street
+housenumber: "504"
 phone: ""
-opening_hours: "Mo-Fr 04:00-17:30; Sa-Su 04:00-17:00"
-website: "http://newmanscastle.com/bakery/"
+opening_hours: Mo-Fr 04:00-17:30; Sa-Su 04:00-17:00
+website: http://newmanscastle.com/bakery/

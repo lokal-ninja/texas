@@ -1,11 +1,11 @@
 id: 556195153
-type: way
+type: node
 latitude: 32.71912
 longitude: -102.64854
 postcode: "79360"
 city: Seminole
-street: "West Avenue A"
-housenumber: 306
+street: West Avenue A
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

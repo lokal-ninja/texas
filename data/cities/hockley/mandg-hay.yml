@@ -1,11 +1,11 @@
 id: 487141080
-type: way
+type: node
 latitude: 30.11343
 longitude: -95.81562
 postcode: ""
 city: Hockley
-street: "Magnolia Road"
-housenumber: 25192
+street: Magnolia Road
+housenumber: "25192"
 phone: ""
-opening_hours: "Sa 08:00-17:00; Mo-Fr call for appointment"
+opening_hours: Sa 08:00-17:00; Mo-Fr "call for appointment"
 website: ""

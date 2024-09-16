@@ -1,11 +1,11 @@
 id: 682471783
-type: way
+type: node
 latitude: 30.09255
 longitude: -96.06082
 postcode: "77445"
 city: Hempstead
-street: "US 290 Business"
-housenumber: 625
-phone: "+1 979-826-3344"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/951/hempstead-tx/whats-new"
+street: US 290 Business
+housenumber: "625"
+phone: +1 979-826-3344
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/951/hempstead-tx/whats-new

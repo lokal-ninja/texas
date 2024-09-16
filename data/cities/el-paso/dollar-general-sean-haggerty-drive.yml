@@ -1,11 +1,11 @@
 id: 990706504
-type: way
+type: node
 latitude: 31.93419
 longitude: -106.42388
 postcode: "79934"
 city: El Paso
-street: "Sean Haggerty Drive"
-housenumber: 11100
+street: Sean Haggerty Drive
+housenumber: "11100"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/el-paso/12907"
+website: https://www.dollargeneral.com/store-directory/tx/el-paso/12907

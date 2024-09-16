@@ -1,11 +1,11 @@
 id: 651858802
-type: way
+type: node
 latitude: 29.67698
 longitude: -95.40036
 postcode: "77054"
 city: Houston
-street: "South Loop West"
-housenumber: 1515
+street: South Loop West
+housenumber: "1515"
 phone: ""
 opening_hours: ""
-website: "https://www.autonationchryslerdodgejeepramhouston.com/"
+website: https://www.autonationchryslerdodgejeepramhouston.com/

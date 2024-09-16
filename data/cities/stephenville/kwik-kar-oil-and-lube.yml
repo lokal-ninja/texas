@@ -1,11 +1,11 @@
 id: 1028384422
-type: way
+type: node
 latitude: 32.23175
 longitude: -98.20953
 postcode: "76401"
 city: Stephenville
-street: "North Graham Street"
-housenumber: 1595
+street: North Graham Street
+housenumber: "1595"
 phone: ""
 opening_hours: ""
 website: ""

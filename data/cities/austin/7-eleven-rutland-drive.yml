@@ -1,11 +1,11 @@
 id: 382582687
-type: way
+type: node
 latitude: 30.37896
 longitude: -97.71142
 postcode: "78758"
 city: Austin
-street: "Rutland Drive"
-housenumber: 1822
+street: Rutland Drive
+housenumber: "1822"
 phone: ""
 opening_hours: ""
 website: ""

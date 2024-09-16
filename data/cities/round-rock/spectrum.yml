@@ -4,8 +4,8 @@ latitude: 30.56126
 longitude: -97.68985
 postcode: "78665"
 city: Round Rock
-street: "University Boulevard"
-housenumber: 200
-phone: "+1-866-874-2389"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://www.spectrum.com/locations/tx/round-rock/200-university-blvd"
+street: University Boulevard
+housenumber: "200"
+phone: +1-866-874-2389
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
+website: https://www.spectrum.com/locations/tx/round-rock/200-university-blvd

@@ -1,11 +1,11 @@
 id: 706811234
-type: way
+type: node
 latitude: 32.77139
 longitude: -96.56071
 postcode: "75182"
 city: Sunnyvale
-street: "North Aston Drive"
-housenumber: 427
+street: North Aston Drive
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

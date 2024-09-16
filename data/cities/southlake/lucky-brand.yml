@@ -1,11 +1,11 @@
 id: 605724823
-type: way
+type: node
 latitude: 32.94448
 longitude: -97.13069
 postcode: "76092"
 city: Southlake
-street: "Grand Avenue West"
-housenumber: 302
+street: Grand Avenue West
+housenumber: "302"
 phone: ""
-opening_hours: "Mo-We 10:00-20:30; Th-Sa 10:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-We 10:00-20:30; Th-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

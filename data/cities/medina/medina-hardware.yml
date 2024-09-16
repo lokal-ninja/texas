@@ -1,11 +1,11 @@
 id: 693642500
-type: way
+type: node
 latitude: 29.7981
 longitude: -99.24874
 postcode: "78055"
 city: Medina
-street: "State Highway 16 North"
-housenumber: 13958
-phone: "+1 830-589-2320"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
+street: State Highway 16 North
+housenumber: "13958"
+phone: +1 830-589-2320
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
 website: ""

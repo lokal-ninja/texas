@@ -1,11 +1,11 @@
 id: 118481529
-type: way
+type: node
 latitude: 30.46854
 longitude: -97.80519
 postcode: "78613"
 city: Cedar Park
-street: "Pecan Park Boulevard"
-housenumber: 11047
-phone: "+1-512-331-5448"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://stores.jared.com/tx/cedar-park/11047-pecan-park.html"
+street: Pecan Park Boulevard
+housenumber: "11047"
+phone: +1-512-331-5448
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://stores.jared.com/tx/cedar-park/11047-pecan-park.html

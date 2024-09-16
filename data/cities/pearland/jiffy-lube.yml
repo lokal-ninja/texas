@@ -1,11 +1,11 @@
 id: 520280244
-type: way
+type: node
 latitude: 29.5681
 longitude: -95.28659
 postcode: ""
 city: Pearland
-street: "North Main Street"
-housenumber: 2118
+street: North Main Street
+housenumber: "2118"
 phone: ""
 opening_hours: ""
 website: ""

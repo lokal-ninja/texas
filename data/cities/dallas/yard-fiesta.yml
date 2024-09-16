@@ -1,11 +1,11 @@
 id: 473091984
-type: way
+type: node
 latitude: 32.62822
 longitude: -96.94444
 postcode: "75249"
 city: Dallas
-street: "Emory Oak Lane"
-housenumber: 7023
-phone: "+1 214-903-4877"
-opening_hours: "24/7"
-website: "https://www.yardfiestas.com"
+street: Emory Oak Lane
+housenumber: "7023"
+phone: +1 214-903-4877
+opening_hours: 24/7
+website: https://www.yardfiestas.com

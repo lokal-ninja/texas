@@ -1,11 +1,11 @@
 id: 660708407
-type: way
+type: node
 latitude: 30.66562
 longitude: -96.32679
 postcode: "77802"
 city: Bryan
-street: "North Earl Rudder Freeway"
-housenumber: 600
-phone: "+1-979-776-4100"
-opening_hours: "24/7"
-website: "https://stripesstores.com/locator/detail/2463"
+street: North Earl Rudder Freeway
+housenumber: "600"
+phone: +1-979-776-4100
+opening_hours: 24/7
+website: https://stripesstores.com/locator/detail/2463

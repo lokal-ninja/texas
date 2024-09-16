@@ -1,11 +1,11 @@
 id: 506331678
-type: way
+type: node
 latitude: 26.19108
 longitude: -97.72258
 postcode: "78552"
 city: Harlingen
-street: "Bass Pro Drive"
-housenumber: 101
+street: Bass Pro Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

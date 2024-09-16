@@ -1,11 +1,11 @@
 id: 256346590
-type: way
+type: node
 latitude: 29.53918
 longitude: -98.28839
 postcode: "78150"
 city: Randolph
-street: "3rd Street West"
-housenumber: 630
+street: 3rd Street West
+housenumber: "630"
 phone: ""
 opening_hours: ""
 website: ""

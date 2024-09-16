@@ -1,11 +1,11 @@
 id: 913691578
-type: way
+type: node
 latitude: 32.24353
 longitude: -101.47437
 postcode: "79720"
 city: Big Spring
-street: "South Gregg Street"
-housenumber: 1109
+street: South Gregg Street
+housenumber: "1109"
 phone: ""
 opening_hours: ""
 website: ""

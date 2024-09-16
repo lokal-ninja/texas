@@ -1,11 +1,11 @@
 id: 1184722746
-type: way
+type: node
 latitude: 31.82996
 longitude: -99.42178
 postcode: "76834"
 city: Coleman
-street: "East Pecan Street"
-housenumber: 200
-phone: "+1-325-625-5140"
+street: East Pecan Street
+housenumber: "200"
+phone: +1-325-625-5140
 opening_hours: ""
 website: ""

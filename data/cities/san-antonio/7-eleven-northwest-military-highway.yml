@@ -1,11 +1,11 @@
 id: 375391081
-type: way
+type: node
 latitude: 29.55845
 longitude: -98.5347
 postcode: "78231"
 city: San Antonio
-street: "Northwest Military Highway"
-housenumber: 12702
+street: Northwest Military Highway
+housenumber: "12702"
 phone: ""
 opening_hours: ""
 website: ""

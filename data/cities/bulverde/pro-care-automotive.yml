@@ -1,11 +1,11 @@
 id: 765836373
-type: way
+type: node
 latitude: 29.80003
 longitude: -98.48652
 postcode: "78163"
 city: Bulverde
-street: "Laswell Lane"
-housenumber: 1011
+street: Laswell Lane
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

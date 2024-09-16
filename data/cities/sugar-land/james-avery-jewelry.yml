@@ -4,8 +4,8 @@ latitude: 29.59264
 longitude: -95.62425
 postcode: "77479"
 city: Sugar Land
-street: "Southwest Fwy Ste T2008"
-housenumber: 16535
-phone: "+1-281-565-2500"
-opening_hours: "Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.jamesavery.com/custserv/store_details.jsp?storeId=720"
+street: Southwest Fwy Ste T2008
+housenumber: "16535"
+phone: +1-281-565-2500
+opening_hours: Mo-Th 10:00-20:00; Fr,Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=720

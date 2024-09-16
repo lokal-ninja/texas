@@ -1,11 +1,11 @@
 id: 909746426
-type: way
+type: node
 latitude: 32.59296
 longitude: -97.14512
 postcode: "76063"
 city: Mansfield
-street: "West Debbie Lane"
-housenumber: 101
-phone: "+1 817-477-5725"
+street: West Debbie Lane
+housenumber: "101"
+phone: +1 817-477-5725
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/tx/mansfield/002127/"
+website: https://www.mattressfirm.com/en-us/stores/tx/mansfield/002127/

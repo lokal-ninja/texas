@@ -1,11 +1,11 @@
 id: 707274037
-type: way
+type: node
 latitude: 30.10387
 longitude: -95.43479
 postcode: "77373"
 city: Spring
-street: "North Freeway"
-housenumber: 23530
+street: North Freeway
+housenumber: "23530"
 phone: ""
 opening_hours: ""
 website: ""

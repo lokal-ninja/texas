@@ -1,11 +1,11 @@
 id: 1084264038
-type: way
+type: node
 latitude: 32.24432
 longitude: -98.19428
 postcode: "76401"
 city: Stephenville
-street: "North US Highway 281"
-housenumber: 1350
-phone: "+1 254-261-6725"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Stephenville-TX-76401_2624"
+street: North US Highway 281
+housenumber: "1350"
+phone: +1 254-261-6725
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Stephenville-TX-76401_2624

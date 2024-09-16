@@ -1,11 +1,11 @@
 id: 408225154
-type: way
+type: node
 latitude: 31.34241
 longitude: -94.71878
 postcode: "75901"
 city: Lufkin
-street: "North Timberland Drive"
-housenumber: 509
-phone: "+1 936 632 4783"
+street: North Timberland Drive
+housenumber: "509"
+phone: +1 936 632 4783
 opening_hours: ""
 website: ""

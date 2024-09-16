@@ -1,11 +1,11 @@
 id: 1075838293
-type: way
+type: node
 latitude: 30.33557
 longitude: -95.47408
 postcode: ""
 city: Conroe
-street: "West Cartwright Road"
-housenumber: 1120
+street: West Cartwright Road
+housenumber: "1120"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1120+n+loop+336+w-conroe-tx-77301/id=7287"
+website: https://www.walgreens.com/locator/walgreens-1120+n+loop+336+w-conroe-tx-77301/id=7287

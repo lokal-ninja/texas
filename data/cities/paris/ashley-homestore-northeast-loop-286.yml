@@ -1,11 +1,11 @@
 id: 1071086197
-type: way
+type: node
 latitude: 33.67182
 longitude: -95.5201
 postcode: "75460"
 city: Paris
-street: "Northeast Loop 286"
-housenumber: 3100
-phone: "+1-903-783-1100"
-opening_hours: "Mo-Sa 10:00-19:00; Su 13:00-17:00"
-website: "https://stores.ashleyfurniture.com/store/us/texas/paris/7710000431"
+street: Northeast Loop 286
+housenumber: "3100"
+phone: +1-903-783-1100
+opening_hours: Mo-Sa 10:00-19:00; Su 13:00-17:00
+website: https://stores.ashleyfurniture.com/store/us/texas/paris/7710000431

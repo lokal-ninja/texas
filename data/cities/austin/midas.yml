@@ -1,11 +1,11 @@
 id: 383904115
-type: way
+type: node
 latitude: 30.23174
 longitude: -97.79411
 postcode: "78704"
 city: Austin
-street: "West Ben White Boulevard"
-housenumber: 2415
+street: West Ben White Boulevard
+housenumber: "2415"
 phone: ""
 opening_hours: ""
 website: ""

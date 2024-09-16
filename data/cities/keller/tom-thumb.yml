@@ -1,11 +1,11 @@
 id: 493776190
-type: way
+type: node
 latitude: 32.93251
 longitude: -97.22752
 postcode: "76248"
 city: Keller
-street: "Keller Parkway"
-housenumber: 1000
+street: Keller Parkway
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/keller/1000-keller-pkwy.html"
+website: https://local.tomthumb.com/tx/keller/1000-keller-pkwy.html

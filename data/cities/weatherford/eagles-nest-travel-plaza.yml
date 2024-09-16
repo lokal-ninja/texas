@@ -1,11 +1,11 @@
 id: 1267017863
-type: way
+type: node
 latitude: 32.69959
 longitude: -97.95881
 postcode: "76087"
 city: Weatherford
-street: "FM 1189"
-housenumber: 301
+street: FM 1189
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

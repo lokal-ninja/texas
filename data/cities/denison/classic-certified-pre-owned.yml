@@ -1,11 +1,11 @@
 id: 546586818
-type: way
+type: node
 latitude: 33.77581
 longitude: -96.58225
 postcode: "75020"
 city: Denison
-street: "North Highway 75"
-housenumber: 2030
+street: North Highway 75
+housenumber: "2030"
 phone: ""
 opening_hours: ""
 website: ""

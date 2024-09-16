@@ -1,11 +1,11 @@
 id: 548012650
-type: way
+type: node
 latitude: 33.14657
 longitude: -94.95106
 postcode: "75455"
 city: Mount Pleasant
-street: "East Ferguson Road"
-housenumber: 1301
+street: East Ferguson Road
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/mount-pleasant/3730"
+website: https://www.dollargeneral.com/store-directory/tx/mount-pleasant/3730

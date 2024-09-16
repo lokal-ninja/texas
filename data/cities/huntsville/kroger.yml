@@ -1,11 +1,11 @@
 id: 879521935
-type: way
+type: node
 latitude: 30.70937
 longitude: -95.56886
 postcode: "77340"
 city: Huntsville
-street: "I-45 South"
-housenumber: 223
-phone: "+1 936-999-7000"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/huntsville/huntsville/034/00145"
+street: I-45 South
+housenumber: "223"
+phone: +1 936-999-7000
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/huntsville/huntsville/034/00145

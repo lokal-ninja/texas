@@ -1,11 +1,11 @@
 id: 257577988
-type: way
+type: node
 latitude: 26.48092
 longitude: -97.7863
 postcode: "78580"
 city: Raymondville
-street: "West Hidalgo Avenue"
-housenumber: 405
-phone: "+1-956-689-6556"
+street: West Hidalgo Avenue
+housenumber: "405"
+phone: +1-956-689-6556
 opening_hours: ""
 website: ""

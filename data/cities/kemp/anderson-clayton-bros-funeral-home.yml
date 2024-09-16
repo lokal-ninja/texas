@@ -1,11 +1,11 @@
 id: 714499850
-type: way
+type: node
 latitude: 32.43262
 longitude: -96.22449
 postcode: "75143"
 city: Kemp
-street: "South Elm Street"
-housenumber: 1226
+street: South Elm Street
+housenumber: "1226"
 phone: ""
 opening_hours: ""
 website: ""

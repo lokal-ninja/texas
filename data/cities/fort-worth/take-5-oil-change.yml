@@ -1,11 +1,11 @@
 id: 744706305
-type: way
+type: node
 latitude: 32.7507
 longitude: -97.4321
 postcode: ""
 city: Fort Worth
-street: "Altamere Drive"
-housenumber: 651
+street: Altamere Drive
+housenumber: "651"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.35974
 longitude: -97.73608
 postcode: "78757"
 city: Austin
-street: "West Anderson Lane"
-housenumber: 2900
-phone: "+1-512-451-6586"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:00"
-website: "https://andersonlanevision.com/"
+street: West Anderson Lane
+housenumber: "2900"
+phone: +1-512-451-6586
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:00
+website: https://andersonlanevision.com/

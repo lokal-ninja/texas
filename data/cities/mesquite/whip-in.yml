@@ -1,11 +1,11 @@
 id: 671664671
-type: way
+type: node
 latitude: 32.8317
 longitude: -96.61268
 postcode: "75150"
 city: Mesquite
-street: "Interstate 30"
-housenumber: 1140
+street: Interstate 30
+housenumber: "1140"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

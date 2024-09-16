@@ -1,11 +1,11 @@
 id: 1270725434
-type: way
+type: node
 latitude: 32.8112
 longitude: -96.62921
 postcode: "75150"
 city: Mesquite
-street: "North Town East Boulevard"
-housenumber: 1921
-phone: "+1 972-681-6353"
+street: North Town East Boulevard
+housenumber: "1921"
+phone: +1 972-681-6353
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/tx/mesquite/002097/"
+website: https://www.mattressfirm.com/en-us/stores/tx/mesquite/002097/

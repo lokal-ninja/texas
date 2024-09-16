@@ -1,11 +1,11 @@
 id: 628890034
-type: way
+type: node
 latitude: 32.67467
 longitude: -97.19173
 postcode: "76017"
 city: Arlington
-street: "Southwest Green Oaks Boulevard"
-housenumber: 5781
-phone: "+1 817-478-4898"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/arlington/5781-sw-green-oaks-blvd"
+street: Southwest Green Oaks Boulevard
+housenumber: "5781"
+phone: +1 817-478-4898
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/arlington/5781-sw-green-oaks-blvd

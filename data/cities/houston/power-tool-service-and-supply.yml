@@ -1,11 +1,11 @@
 id: 375573671
-type: way
+type: node
 latitude: 29.74102
 longitude: -95.34297
 postcode: ""
 city: Houston
-street: "Polk Street"
-housenumber: 3718
+street: Polk Street
+housenumber: "3718"
 phone: ""
 opening_hours: ""
 website: ""

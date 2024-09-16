@@ -1,11 +1,11 @@
 id: 954389029
-type: way
+type: node
 latitude: 30.5086
 longitude: -97.67825
 postcode: "78664"
 city: Round Rock
-street: "East Main Street"
-housenumber: 113
+street: East Main Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

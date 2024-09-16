@@ -1,11 +1,11 @@
 id: 1055940829
-type: way
+type: node
 latitude: 30.56879
 longitude: -97.84772
 postcode: "78641"
 city: Leander
-street: "East Sonny Drive"
-housenumber: 120
+street: East Sonny Drive
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

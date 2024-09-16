@@ -1,11 +1,11 @@
 id: 109673077
-type: way
+type: node
 latitude: 30.39005
 longitude: -97.71993
 postcode: "78758"
 city: Austin
-street: "West Braker Lane"
-housenumber: 2601
-phone: "+1-512-973-0330"
+street: West Braker Lane
+housenumber: "2601"
+phone: +1-512-973-0330
 opening_hours: ""
 website: ""

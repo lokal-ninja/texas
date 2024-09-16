@@ -4,8 +4,8 @@ latitude: 29.7746
 longitude: -95.40024
 postcode: "77007"
 city: Houston
-street: "Yale Street"
-housenumber: 195
-phone: "+1 713-395-4590"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/houston/the-heights/"
+street: Yale Street
+housenumber: "195"
+phone: +1 713-395-4590
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/houston/the-heights/

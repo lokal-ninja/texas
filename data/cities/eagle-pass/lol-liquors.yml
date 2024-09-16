@@ -1,11 +1,11 @@
 id: 295201637
-type: way
+type: node
 latitude: 28.71035
 longitude: -100.48402
 postcode: "78852"
 city: Eagle Pass
-street: "North Bibb Avenue"
-housenumber: 2135
+street: North Bibb Avenue
+housenumber: "2135"
 phone: "+18303691622"
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

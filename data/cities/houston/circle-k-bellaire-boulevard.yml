@@ -1,11 +1,11 @@
 id: 1078372760
-type: way
+type: node
 latitude: 29.70583
 longitude: -95.52174
 postcode: ""
 city: Houston
-street: "Bellaire Boulevard"
-housenumber: 7702
+street: Bellaire Boulevard
+housenumber: "7702"
 phone: ""
 opening_hours: ""
 website: ""

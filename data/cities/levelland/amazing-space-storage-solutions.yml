@@ -1,11 +1,11 @@
 id: 666398160
-type: way
+type: node
 latitude: 33.58359
 longitude: -102.34795
 postcode: "79336"
 city: Levelland
-street: "Alamo Road"
-housenumber: 725
+street: Alamo Road
+housenumber: "725"
 phone: ""
 opening_hours: ""
 website: ""

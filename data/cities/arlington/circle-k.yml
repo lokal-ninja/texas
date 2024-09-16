@@ -1,11 +1,11 @@
 id: 641987365
-type: way
+type: node
 latitude: 32.75685
 longitude: -97.06486
 postcode: "76011"
 city: Arlington
-street: "Six Flags Drive"
-housenumber: 920
+street: Six Flags Drive
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

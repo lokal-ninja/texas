@@ -1,11 +1,11 @@
 id: 442139844
-type: way
+type: node
 latitude: 33.51663
 longitude: -101.90121
 postcode: "79423"
 city: Lubbock
-street: "85th Street"
-housenumber: 4213
+street: 85th Street
+housenumber: "4213"
 phone: ""
 opening_hours: ""
 website: ""

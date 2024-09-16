@@ -1,11 +1,11 @@
 id: 727002858
-type: way
+type: node
 latitude: 35.23611
 longitude: -101.77021
 postcode: "79108"
 city: Amarillo
-street: "Fritch Highway"
-housenumber: 2390
+street: Fritch Highway
+housenumber: "2390"
 phone: ""
 opening_hours: ""
 website: ""

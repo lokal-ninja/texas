@@ -1,11 +1,11 @@
 id: 690614597
-type: way
+type: node
 latitude: 29.42261
 longitude: -98.47611
 postcode: "78202"
 city: San Antonio
-street: "North Cherry Street"
-housenumber: 403
-phone: "+1-210-222-1321"
+street: North Cherry Street
+housenumber: "403"
+phone: +1-210-222-1321
 opening_hours: ""
-website: "https://www.missionparks.com"
+website: https://www.missionparks.com

@@ -1,11 +1,11 @@
 id: 220971307
-type: way
+type: node
 latitude: 30.60214
 longitude: -97.41898
 postcode: "76574"
 city: Taylor
-street: "Carlos G Parker Boulevard Northwest"
-housenumber: 100
-phone: "+1-512-352-2015"
-opening_hours: "06:00-23:00"
-website: "https://www.heb.com"
+street: Carlos G Parker Boulevard Northwest
+housenumber: "100"
+phone: +1-512-352-2015
+opening_hours: 06:00-23:00
+website: https://www.heb.com

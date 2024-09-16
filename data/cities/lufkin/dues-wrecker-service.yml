@@ -1,11 +1,11 @@
 id: 407992534
-type: way
+type: node
 latitude: 31.33623
 longitude: -94.69404
 postcode: "75901"
 city: Lufkin
-street: "East Lufkin Avenue"
-housenumber: 2320
-phone: "+1 936 632 6363"
+street: East Lufkin Avenue
+housenumber: "2320"
+phone: +1 936 632 6363
 opening_hours: ""
-website: "https://dueswreckerservice.com/"
+website: https://dueswreckerservice.com/

@@ -1,11 +1,11 @@
 id: 1262306320
-type: way
+type: node
 latitude: 30.07917
 longitude: -95.42151
 postcode: "77373"
 city: Spring
-street: "Main Street"
-housenumber: 406
-phone: "+1-832-458-0606"
-opening_hours: "Mo closed; Tu-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.as2guns.com"
+street: Main Street
+housenumber: "406"
+phone: +1-832-458-0606
+opening_hours: Mo closed; Tu-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.as2guns.com

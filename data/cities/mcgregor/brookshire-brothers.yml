@@ -1,11 +1,11 @@
 id: 537282423
-type: way
+type: node
 latitude: 31.43998
 longitude: -97.41936
 postcode: "76657"
 city: McGregor
-street: "West McGregor Drive"
-housenumber: 1250
-phone: "+1-254-840-6040"
-opening_hours: "07:00-21:00"
-website: "https://www.brookshirebrothers.com"
+street: West McGregor Drive
+housenumber: "1250"
+phone: +1-254-840-6040
+opening_hours: 07:00-21:00
+website: https://www.brookshirebrothers.com

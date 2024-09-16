@@ -1,11 +1,11 @@
 id: 465298725
-type: way
+type: node
 latitude: 32.74532
 longitude: -96.81117
 postcode: "75203"
 city: Dallas
-street: "South R L Thornton Freeway"
-housenumber: 628
+street: South R L Thornton Freeway
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

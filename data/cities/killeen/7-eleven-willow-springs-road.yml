@@ -1,11 +1,11 @@
 id: 848560699
-type: way
+type: node
 latitude: 31.11323
 longitude: -97.76332
 postcode: "76549"
 city: Killeen
-street: "Willow Springs Road"
-housenumber: 1001
+street: Willow Springs Road
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

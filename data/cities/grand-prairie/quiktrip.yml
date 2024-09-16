@@ -1,11 +1,11 @@
 id: 495771784
-type: way
+type: node
 latitude: 32.75968
 longitude: -96.99384
 postcode: "75050"
 city: Grand Prairie
-street: "North Belt Line Road"
-housenumber: 1110
-phone: "+1-972-262-1171"
-opening_hours: "24/7"
+street: North Belt Line Road
+housenumber: "1110"
+phone: +1-972-262-1171
+opening_hours: 24/7
 website: ""

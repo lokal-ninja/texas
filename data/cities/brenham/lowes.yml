@@ -1,11 +1,11 @@
 id: 735360414
-type: way
+type: node
 latitude: 30.13982
 longitude: -96.39779
 postcode: "77833"
 city: Brenham
-street: "State Highway 36 South"
-housenumber: 2750
-phone: "+1 979-337-6000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/TX-Brenham/2521"
+street: State Highway 36 South
+housenumber: "2750"
+phone: +1 979-337-6000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/TX-Brenham/2521

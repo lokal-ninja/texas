@@ -1,11 +1,11 @@
 id: 739181666
-type: way
+type: node
 latitude: 30.0713
 longitude: -99.1863
 postcode: "78028"
 city: Kerrville
-street: "Junction Highway"
-housenumber: 1900
-phone: "+1-830-895-5800"
-opening_hours: "Mo-Sa 07:30-18:30"
-website: "https://www.kerrvilleranchandpet.com/"
+street: Junction Highway
+housenumber: "1900"
+phone: +1-830-895-5800
+opening_hours: Mo-Sa 07:30-18:30
+website: https://www.kerrvilleranchandpet.com/

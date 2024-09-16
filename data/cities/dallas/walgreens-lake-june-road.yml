@@ -1,11 +1,11 @@
 id: 465687181
-type: way
+type: node
 latitude: 32.7335
 longitude: -96.64917
 postcode: "75217"
 city: Dallas
-street: "Lake June Road"
-housenumber: 10152
+street: Lake June Road
+housenumber: "10152"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10152+lake+june+rd-dallas-tx-75217/id=11645"
+website: https://www.walgreens.com/locator/walgreens-10152+lake+june+rd-dallas-tx-75217/id=11645

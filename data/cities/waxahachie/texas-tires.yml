@@ -1,11 +1,11 @@
 id: 540269023
-type: way
+type: node
 latitude: 32.40112
 longitude: -96.84341
 postcode: "75165"
 city: Waxahachie
-street: "Dallas Highway"
-housenumber: 110
+street: Dallas Highway
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

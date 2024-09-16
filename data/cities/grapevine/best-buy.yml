@@ -1,11 +1,11 @@
 id: 691838388
-type: way
+type: node
 latitude: 32.92876
 longitude: -97.09587
 postcode: "76051"
 city: Grapevine
-street: "West State Highway 114"
-housenumber: 1515
-phone: "+1 817-442-9912"
+street: West State Highway 114
+housenumber: "1515"
+phone: +1 817-442-9912
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/grapevine/1515-w-state-hwy-114-148.html"
+website: https://stores.bestbuy.com/tx/grapevine/1515-w-state-hwy-114-148.html

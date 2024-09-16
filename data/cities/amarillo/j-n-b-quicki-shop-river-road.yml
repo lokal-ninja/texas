@@ -1,11 +1,11 @@
 id: 769852506
-type: way
+type: node
 latitude: 35.25909
 longitude: -101.83197
 postcode: "79108"
 city: Amarillo
-street: "River Road"
-housenumber: 4809
+street: River Road
+housenumber: "4809"
 phone: ""
 opening_hours: ""
 website: ""

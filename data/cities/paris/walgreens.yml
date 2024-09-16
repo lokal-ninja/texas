@@ -1,11 +1,11 @@
 id: 752701158
-type: way
+type: node
 latitude: 33.66241
 longitude: -95.50909
 postcode: "75460"
 city: Paris
-street: "Lamar Avenue"
-housenumber: 3603
+street: Lamar Avenue
+housenumber: "3603"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3603+lamar+ave-paris-tx-75460/id=7242"
+website: https://www.walgreens.com/locator/walgreens-3603+lamar+ave-paris-tx-75460/id=7242

@@ -1,11 +1,11 @@
 id: 690263584
-type: way
+type: node
 latitude: 26.19267
 longitude: -97.69279
 postcode: "78550"
 city: Harlingen
-street: "East Jackson Avenue"
-housenumber: 318
+street: East Jackson Avenue
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

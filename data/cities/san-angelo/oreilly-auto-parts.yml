@@ -1,11 +1,11 @@
 id: 192547858
-type: way
+type: node
 latitude: 31.43425
 longitude: -100.49895
 postcode: "76901"
 city: San Angelo
-street: "Sherwood Way"
-housenumber: 4555
+street: Sherwood Way
+housenumber: "4555"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/sanangelo/autoparts-1011.html"
+website: https://locations.oreillyauto.com/tx/sanangelo/autoparts-1011.html

@@ -1,11 +1,11 @@
 id: 1175746765
-type: way
+type: node
 latitude: 36.01973
 longitude: -101.82513
 postcode: "79086"
 city: Sunray
-street: "Main Street"
-housenumber: 500
-phone: "+1-806-421-7025"
-opening_hours: "Su 09:00-21:00; Mo-Sa 09:00-22:00"
-website: "https://www.familydollar.com/locations/tx/sunray/28928/"
+street: Main Street
+housenumber: "500"
+phone: +1-806-421-7025
+opening_hours: Su 09:00-21:00; Mo-Sa 09:00-22:00
+website: https://www.familydollar.com/locations/tx/sunray/28928/

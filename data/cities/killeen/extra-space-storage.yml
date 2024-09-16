@@ -1,11 +1,12 @@
 id: 1282019585
-type: way
+type: node
 latitude: 31.09088
 longitude: -97.80598
 postcode: "76549"
 city: Killeen
-street: "Thayer Drive"
-housenumber: 5004
-phone: "+1-254-362-5270"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-17:30 open Office Hours || Mo-Su 06:00-22:00 open Storage Gate Hours"
-website: "https://www.extraspace.com"
+street: Thayer Drive
+housenumber: "5004"
+phone: +1-254-362-5270
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-17:30 open "Office Hours" || Mo-Su 06:00-22:00
+    open "Storage Gate Hours"
+website: https://www.extraspace.com

@@ -1,11 +1,11 @@
 id: 714610291
-type: way
+type: node
 latitude: 32.74123
 longitude: -96.36241
 postcode: "75160"
 city: Terrell
-street: "West US Highway 80"
-housenumber: 6160
+street: West US Highway 80
+housenumber: "6160"
 phone: ""
 opening_hours: ""
 website: ""

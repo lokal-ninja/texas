@@ -1,11 +1,11 @@
 id: 1020185726
-type: way
+type: node
 latitude: 32.85212
 longitude: -100.46644
 postcode: "79546"
 city: Rotan
-street: "West Sammy Baugh Avenue"
-housenumber: 108
+street: West Sammy Baugh Avenue
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

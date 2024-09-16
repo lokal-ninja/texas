@@ -1,11 +1,11 @@
 id: 662537645
-type: way
+type: node
 latitude: 33.10623
 longitude: -94.19677
 postcode: "75551"
 city: Atlanta
-street: "West Main Street"
-housenumber: 2007
+street: West Main Street
+housenumber: "2007"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 438665953
-type: way
+type: node
 latitude: 29.8582
 longitude: -95.42265
 postcode: ""
 city: Houston
-street: "West Montgomery Road"
-housenumber: 6831
+street: West Montgomery Road
+housenumber: "6831"
 phone: ""
 opening_hours: ""
 website: ""

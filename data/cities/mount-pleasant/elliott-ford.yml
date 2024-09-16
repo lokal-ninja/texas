@@ -1,11 +1,11 @@
 id: 774849762
-type: way
+type: node
 latitude: 33.17454
 longitude: -94.98019
 postcode: "75455"
 city: Mount Pleasant
-street: "Burton Road"
-housenumber: 2055
+street: Burton Road
+housenumber: "2055"
 phone: ""
 opening_hours: ""
-website: "https://www.elliottautogroup.com/"
+website: https://www.elliottautogroup.com/

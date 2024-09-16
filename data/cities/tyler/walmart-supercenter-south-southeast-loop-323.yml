@@ -1,11 +1,11 @@
 id: 674538730
-type: way
+type: node
 latitude: 32.34509
 longitude: -95.26457
 postcode: "75702"
 city: Tyler
-street: "South Southeast Loop 323"
-housenumber: 450
-phone: "+1 903-405-6391"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/6467/tyler-tx/whats-new"
+street: South Southeast Loop 323
+housenumber: "450"
+phone: +1 903-405-6391
+opening_hours: 24/7
+website: https://www.walmart.com/store/6467/tyler-tx/whats-new

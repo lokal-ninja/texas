@@ -1,11 +1,11 @@
 id: 427273513
-type: way
+type: node
 latitude: 29.5716
 longitude: -95.57315
 postcode: "77459"
 city: Missouri City
-street: "TX Highway 6/Alvin-Sugarland Road"
-housenumber: 5660
-phone: "+1 281-261-8767"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/tx/missouricity-553.shtml"
+street: TX Highway 6/Alvin-Sugarland Road
+housenumber: "5660"
+phone: +1 281-261-8767
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/tx/missouricity-553.shtml

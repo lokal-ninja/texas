@@ -1,11 +1,11 @@
 id: 493481032
-type: way
+type: node
 latitude: 32.76492
 longitude: -97.21448
 postcode: "76112"
 city: Fort Worth
-street: "Bridgewood Drive"
-housenumber: 1151
-phone: "+1 817-496-3212"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/e-ft-worth/tx/fort-worth/76112/6534"
+street: Bridgewood Drive
+housenumber: "1151"
+phone: +1 817-496-3212
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/e-ft-worth/tx/fort-worth/76112/6534

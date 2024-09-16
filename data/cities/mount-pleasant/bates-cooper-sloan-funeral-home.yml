@@ -1,11 +1,11 @@
 id: 547712838
-type: way
+type: node
 latitude: 33.11862
 longitude: -94.9706
 postcode: "75455"
 city: Mount Pleasant
-street: "South Jefferson Avenue"
-housenumber: 2805
+street: South Jefferson Avenue
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

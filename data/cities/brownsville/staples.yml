@@ -1,11 +1,11 @@
 id: 171236549
-type: way
+type: node
 latitude: 25.9573
 longitude: -97.50477
 postcode: "78526"
 city: Brownsville
-street: "Pablo Kisel Boulevard"
-housenumber: 2436
-phone: "+1 956-541-1500"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/tx/brownsville/2436-pablo-kisel-blvd"
+street: Pablo Kisel Boulevard
+housenumber: "2436"
+phone: +1 956-541-1500
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/tx/brownsville/2436-pablo-kisel-blvd

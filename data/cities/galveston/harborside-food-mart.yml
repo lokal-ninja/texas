@@ -1,11 +1,11 @@
 id: 766391270
-type: way
+type: node
 latitude: 29.28755
 longitude: -94.86395
 postcode: "77554"
 city: Galveston
-street: "Harborside Drive"
-housenumber: 8220
+street: Harborside Drive
+housenumber: "8220"
 phone: ""
 opening_hours: ""
 website: ""

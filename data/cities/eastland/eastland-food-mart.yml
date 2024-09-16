@@ -1,11 +1,11 @@
 id: 1008151528
-type: way
+type: node
 latitude: 32.40227
 longitude: -98.80669
 postcode: "76448"
 city: Eastland
-street: "East Main Street"
-housenumber: 926
+street: East Main Street
+housenumber: "926"
 phone: ""
 opening_hours: ""
 website: ""

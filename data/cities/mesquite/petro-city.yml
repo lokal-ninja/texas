@@ -1,11 +1,11 @@
 id: 661279778
-type: way
+type: node
 latitude: 32.78846
 longitude: -96.65315
 postcode: "75149"
 city: Mesquite
-street: "South Town East Boulevard"
-housenumber: 1700
+street: South Town East Boulevard
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

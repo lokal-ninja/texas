@@ -1,11 +1,11 @@
 id: 767798558
-type: way
+type: node
 latitude: 30.33009
 longitude: -95.48926
 postcode: "77304"
 city: Conroe
-street: "North Loop 336 West"
-housenumber: 2045
-phone: "+1 833-478-1003"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/tx/conroe/2045-north-loop-336-west"
+street: North Loop 336 West
+housenumber: "2045"
+phone: +1 833-478-1003
+opening_hours: Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00
+website: https://stores.aldi.us/tx/conroe/2045-north-loop-336-west

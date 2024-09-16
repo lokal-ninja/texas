@@ -1,11 +1,11 @@
 id: 393302575
-type: way
+type: node
 latitude: 29.51404
 longitude: -98.55177
 postcode: "78230"
 city: San Antonio
-street: "Callaghan Road"
-housenumber: 8101
-phone: "+1-210-979-8121"
-opening_hours: "7:00-22:00"
-website: "https://www.sprouts.com/stores/details/-/store-details/view/store/118"
+street: Callaghan Road
+housenumber: "8101"
+phone: +1-210-979-8121
+opening_hours: 7:00-22:00
+website: https://www.sprouts.com/stores/details/-/store-details/view/store/118

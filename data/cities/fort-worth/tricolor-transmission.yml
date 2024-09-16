@@ -1,11 +1,11 @@
 id: 499344055
-type: way
+type: node
 latitude: 32.76942
 longitude: -97.35669
 postcode: "76114"
 city: Fort Worth
-street: "West Northside Drive"
-housenumber: 1206
+street: West Northside Drive
+housenumber: "1206"
 phone: ""
 opening_hours: ""
 website: ""

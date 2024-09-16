@@ -1,11 +1,11 @@
 id: 246566588
-type: way
+type: node
 latitude: 29.78125
 longitude: -98.73682
 postcode: "78006"
 city: Boerne
-street: "West Bandera Road"
-housenumber: 440
+street: West Bandera Road
+housenumber: "440"
 phone: ""
 opening_hours: ""
 website: ""

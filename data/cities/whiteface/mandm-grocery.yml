@@ -1,11 +1,11 @@
 id: 755041634
-type: way
+type: node
 latitude: 33.60408
 longitude: -102.61402
 postcode: "79379"
 city: Whiteface
-street: "North Taylor Street"
-housenumber: 401
+street: North Taylor Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 650391017
-type: way
+type: node
 latitude: 33.03113
 longitude: -96.70033
 postcode: "75074"
 city: Plano
-street: "East Park Boulevard"
-housenumber: 1016
-phone: "+1-972-578-9561"
+street: East Park Boulevard
+housenumber: "1016"
+phone: +1-972-578-9561
 opening_hours: ""
 website: ""

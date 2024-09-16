@@ -1,11 +1,11 @@
 id: 886872869
-type: way
+type: node
 latitude: 29.88386
 longitude: -97.93933
 postcode: "78666"
 city: San Marcos
-street: "East Hopkins Street"
-housenumber: 219
+street: East Hopkins Street
+housenumber: "219"
 phone: ""
 opening_hours: ""
 website: ""

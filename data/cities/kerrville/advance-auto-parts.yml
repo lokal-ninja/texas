@@ -1,11 +1,11 @@
 id: 739447256
-type: way
+type: node
 latitude: 30.05574
 longitude: -99.13017
 postcode: "78028"
 city: Kerrville
-street: "Sidney Baker Street"
-housenumber: 1301
+street: Sidney Baker Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/kerrville/1301-sidney-baker-st"
+website: https://stores.advanceautoparts.com/tx/kerrville/1301-sidney-baker-st

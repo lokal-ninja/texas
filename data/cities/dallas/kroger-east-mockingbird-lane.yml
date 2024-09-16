@@ -1,11 +1,11 @@
 id: 463968493
-type: way
+type: node
 latitude: 32.83878
 longitude: -96.77115
 postcode: "75206"
 city: Dallas
-street: "East Mockingbird Lane"
-housenumber: 5665
-phone: "+1 214-826-2901"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/tx/dallas/kroger-dallas/035/00518"
+street: East Mockingbird Lane
+housenumber: "5665"
+phone: +1 214-826-2901
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/tx/dallas/kroger-dallas/035/00518

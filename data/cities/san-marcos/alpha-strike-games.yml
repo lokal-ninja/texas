@@ -1,11 +1,11 @@
 id: 1149823907
-type: way
+type: node
 latitude: 29.87616
 longitude: -97.93956
 postcode: "78666"
 city: San Marcos
-street: "South LBJ Drive"
-housenumber: 408
+street: South LBJ Drive
+housenumber: "408"
 phone: ""
 opening_hours: ""
 website: ""

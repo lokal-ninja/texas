@@ -1,11 +1,11 @@
 id: 382285523
-type: way
+type: node
 latitude: 30.14678
 longitude: -97.79479
 postcode: "78748"
 city: Austin
-street: "South Interstate 35"
-housenumber: 10704
-phone: "+1-512-444-3227"
+street: South Interstate 35
+housenumber: "10704"
+phone: +1-512-444-3227
 opening_hours: ""
-website: "http://www.spillarhitches.com/"
+website: http://www.spillarhitches.com/

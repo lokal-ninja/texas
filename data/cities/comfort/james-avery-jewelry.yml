@@ -1,11 +1,11 @@
 id: 920682917
-type: way
+type: node
 latitude: 29.97587
 longitude: -98.90365
 postcode: "78013"
 city: Comfort
-street: "US Highway 87"
-housenumber: 29
+street: US Highway 87
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

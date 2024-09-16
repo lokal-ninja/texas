@@ -1,11 +1,11 @@
 id: 1080209949
-type: way
+type: node
 latitude: 29.77976
 longitude: -95.12426
 postcode: "77530"
 city: Channelview
-street: "Sheldon Road"
-housenumber: 500
-phone: "+1-281-860-0212"
+street: Sheldon Road
+housenumber: "500"
+phone: +1-281-860-0212
 opening_hours: ""
 website: ""

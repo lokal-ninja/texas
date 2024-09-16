@@ -1,11 +1,11 @@
 id: 52046505
-type: way
+type: node
 latitude: 30.25842
 longitude: -94.21584
 postcode: "77657"
 city: Lumberton
-street: "North Lhs Drive"
-housenumber: 100
-phone: "+1 409-755-1963"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/384/lumberton-tx/whats-new"
+street: North Lhs Drive
+housenumber: "100"
+phone: +1 409-755-1963
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/384/lumberton-tx/whats-new

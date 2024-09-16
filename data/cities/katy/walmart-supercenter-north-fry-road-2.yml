@@ -1,11 +1,11 @@
 id: 654873922
-type: way
+type: node
 latitude: 29.86138
 longitude: -95.71725
 postcode: "77449"
 city: Katy
-street: "North Fry Road"
-housenumber: 6060
-phone: "+1 281-550-4446"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4538/katy-tx"
+street: North Fry Road
+housenumber: "6060"
+phone: +1 281-550-4446
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4538/katy-tx

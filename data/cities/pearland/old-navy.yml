@@ -1,11 +1,11 @@
 id: 628730327
-type: way
+type: node
 latitude: 29.55847
 longitude: -95.38563
 postcode: "77584"
 city: Pearland
-street: "Smith Ranch Road"
-housenumber: 2708
+street: Smith Ranch Road
+housenumber: "2708"
 phone: ""
 opening_hours: ""
 website: ""

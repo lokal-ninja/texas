@@ -1,11 +1,11 @@
 id: 1017489605
-type: way
+type: node
 latitude: 29.02958
 longitude: -95.39672
 postcode: "77531"
 city: Clute
-street: "Brazosport Boulevard North"
-housenumber: 431
+street: Brazosport Boulevard North
+housenumber: "431"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/clute/autoparts-1479.html"
+website: https://locations.oreillyauto.com/tx/clute/autoparts-1479.html

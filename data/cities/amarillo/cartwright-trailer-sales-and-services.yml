@@ -1,11 +1,11 @@
 id: 858653424
-type: way
+type: node
 latitude: 35.19804
 longitude: -101.7415
 postcode: "79118"
 city: Amarillo
-street: "South Lakeside Drive"
-housenumber: 407
+street: South Lakeside Drive
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.36164
 longitude: -97.7401
 postcode: "78757"
 city: Austin
-street: "West Anderson Lane"
-housenumber: 3010
-phone: "+1-512-485-7750"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.peacockalley.com/"
+street: West Anderson Lane
+housenumber: "3010"
+phone: +1-512-485-7750
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.peacockalley.com/

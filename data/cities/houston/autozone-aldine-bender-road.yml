@@ -1,11 +1,11 @@
 id: 437410459
-type: way
+type: node
 latitude: 29.93074
 longitude: -95.40667
 postcode: ""
 city: Houston
-street: "Aldine Bender Road"
-housenumber: 74
+street: Aldine Bender Road
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/houston/74-aldine-bender-rd.html"
+website: https://www.autozone.com/locations/tx/houston/74-aldine-bender-rd.html

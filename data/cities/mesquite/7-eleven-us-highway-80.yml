@@ -1,11 +1,11 @@
 id: 673924806
-type: way
+type: node
 latitude: 32.79153
 longitude: -96.59637
 postcode: "75150"
 city: Mesquite
-street: "US Highway 80"
-housenumber: 105
+street: US Highway 80
+housenumber: "105"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

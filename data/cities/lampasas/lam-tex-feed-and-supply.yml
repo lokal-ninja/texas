@@ -1,11 +1,11 @@
 id: 1001219558
-type: way
+type: node
 latitude: 31.06636
 longitude: -98.17484
 postcode: "76550"
 city: Lampasas
-street: "East 4th Street"
-housenumber: 801
+street: East 4th Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

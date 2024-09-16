@@ -1,11 +1,11 @@
 id: 314359292
-type: way
+type: node
 latitude: 29.90456
 longitude: -95.55582
 postcode: "77064"
 city: Houston
-street: "West Sam Houston Parkway North"
-housenumber: 9125
-phone: "+1 281-477-0701"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tx/houston/beltway-8-west/034/00739"
+street: West Sam Houston Parkway North
+housenumber: "9125"
+phone: +1 281-477-0701
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tx/houston/beltway-8-west/034/00739

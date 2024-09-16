@@ -1,11 +1,11 @@
 id: 120317531
-type: way
+type: node
 latitude: 33.19229
 longitude: -97.1119
 postcode: "76205"
 city: Denton
-street: "San Jacinto Boulevard"
-housenumber: 2322
-phone: "+1 940-565-8105"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://www.burlington.com/store-details/denton-tx-533"
+street: San Jacinto Boulevard
+housenumber: "2322"
+phone: +1 940-565-8105
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://www.burlington.com/store-details/denton-tx-533

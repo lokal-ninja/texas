@@ -1,11 +1,11 @@
 id: 566868084
-type: way
+type: node
 latitude: 32.24309
 longitude: -101.4488
 postcode: "79720"
 city: Big Spring
-street: "East FM 700"
-housenumber: 1701
+street: East FM 700
+housenumber: "1701"
 phone: ""
 opening_hours: ""
 website: ""

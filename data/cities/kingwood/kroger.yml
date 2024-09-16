@@ -4,8 +4,8 @@ latitude: 30.06668
 longitude: -95.18713
 postcode: "77345"
 city: Kingwood
-street: "Northpark Drive"
-housenumber: 3410
-phone: "+1 281-361-7404"
-opening_hours: "06:00-12:00"
-website: "https://www.kroger.com/stores/grocery/tx/kingwood/old-kingwood/034/00310"
+street: Northpark Drive
+housenumber: "3410"
+phone: +1 281-361-7404
+opening_hours: 06:00-12:00
+website: https://www.kroger.com/stores/grocery/tx/kingwood/old-kingwood/034/00310

@@ -1,11 +1,11 @@
 id: 422101370
-type: way
+type: node
 latitude: 33.07158
 longitude: -96.87953
 postcode: "75056"
 city: The Colony
-street: "Sam Rayburn Tollway"
-housenumber: 5283
-phone: "+1-972-624-7819"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00; May Mo[-1] 07:00-17:00"
-website: "https://local.firestonecompleteautocare.com/texas/the-colony/5283-state-highway-121/"
+street: Sam Rayburn Tollway
+housenumber: "5283"
+phone: +1-972-624-7819
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00; May Mo[-1] 07:00-17:00
+website: https://local.firestonecompleteautocare.com/texas/the-colony/5283-state-highway-121/

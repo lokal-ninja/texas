@@ -1,11 +1,11 @@
 id: 384443781
-type: way
+type: node
 latitude: 30.44823
 longitude: -97.66018
 postcode: "78660"
 city: Pflugerville
-street: "West Pecan Street"
-housenumber: 2939
-phone: "+1-512-251-7551"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+street: West Pecan Street
+housenumber: "2939"
+phone: +1-512-251-7551
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 584739527
-type: way
+type: node
 latitude: 32.52537
 longitude: -95.64624
 postcode: "75790"
 city: Van
-street: "West Main Street"
-housenumber: 706
-phone: "+1-903-963-8334"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.brookshires.com/stores#/6350"
+street: West Main Street
+housenumber: "706"
+phone: +1-903-963-8334
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.brookshires.com/stores#/6350

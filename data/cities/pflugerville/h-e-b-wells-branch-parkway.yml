@@ -1,11 +1,11 @@
 id: 167921728
-type: way
+type: node
 latitude: 30.44312
 longitude: -97.66451
 postcode: "78660"
 city: Pflugerville
-street: "Wells Branch Parkway"
-housenumber: 1434
-phone: "+1-512-251-2584"
-opening_hours: "06:00-23:00"
-website: "https://www.heb.com"
+street: Wells Branch Parkway
+housenumber: "1434"
+phone: +1-512-251-2584
+opening_hours: 06:00-23:00
+website: https://www.heb.com

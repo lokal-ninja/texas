@@ -1,11 +1,11 @@
 id: 678257804
-type: way
+type: node
 latitude: 33.17019
 longitude: -96.88772
 postcode: "75068"
 city: Little Elm
-street: "Farm-to-Market Road 423"
-housenumber: 103
+street: Farm-to-Market Road 423
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

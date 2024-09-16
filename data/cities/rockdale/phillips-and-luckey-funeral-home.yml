@@ -1,11 +1,11 @@
 id: 753416367
-type: way
+type: node
 latitude: 30.64373
 longitude: -97.03706
 postcode: "76567"
 city: Rockdale
-street: "US-79"
-housenumber: 1041
+street: US-79
+housenumber: "1041"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 179394505
-type: way
+type: node
 latitude: 35.18965
 longitude: -101.91006
 postcode: "79106"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 6400
-phone: "+1-806-352-3448"
+street: West Interstate Drive
+housenumber: "6400"
+phone: +1-806-352-3448
 opening_hours: ""
-website: "https://www.rickloveladycarpets.com/"
+website: https://www.rickloveladycarpets.com/

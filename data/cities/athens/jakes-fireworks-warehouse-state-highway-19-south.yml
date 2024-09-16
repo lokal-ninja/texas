@@ -1,11 +1,11 @@
 id: 1303313069
-type: way
+type: node
 latitude: 32.15206
 longitude: -95.8351
 postcode: "75751"
 city: Athens
-street: "State Highway 19 South"
-housenumber: 7010
+street: State Highway 19 South
+housenumber: "7010"
 phone: ""
 opening_hours: ""
 website: ""

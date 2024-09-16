@@ -1,11 +1,11 @@
 id: 468812965
-type: way
+type: node
 latitude: 32.64695
 longitude: -96.94343
 postcode: "75249"
 city: Dallas
-street: "Clark Road"
-housenumber: 8817
+street: Clark Road
+housenumber: "8817"
 phone: ""
 opening_hours: ""
 website: ""

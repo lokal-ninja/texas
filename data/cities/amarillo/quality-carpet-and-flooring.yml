@@ -1,11 +1,11 @@
 id: 748829956
-type: way
+type: node
 latitude: 35.21336
 longitude: -101.85326
 postcode: "79106"
 city: Amarillo
-street: "Southwest 3rd Avenue"
-housenumber: 1500
-phone: "+1 806-373-6801"
+street: Southwest 3rd Avenue
+housenumber: "1500"
+phone: +1 806-373-6801
 opening_hours: ""
 website: ""

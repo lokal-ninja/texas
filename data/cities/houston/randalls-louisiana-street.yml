@@ -1,11 +1,11 @@
 id: 86297648
-type: way
+type: node
 latitude: 29.7493
 longitude: -95.37457
 postcode: "77002"
 city: Houston
-street: "Louisiana Street"
-housenumber: 2225
-phone: "+1-713-331-1042"
+street: Louisiana Street
+housenumber: "2225"
+phone: +1-713-331-1042
 opening_hours: ""
-website: "https://local.randalls.com/tx/houston/2225-louisiana-st.html"
+website: https://local.randalls.com/tx/houston/2225-louisiana-st.html

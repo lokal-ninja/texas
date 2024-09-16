@@ -1,11 +1,11 @@
 id: 701682082
-type: way
+type: node
 latitude: 33.00828
 longitude: -96.78287
 postcode: "75093"
 city: Plano
-street: "Ohio Drive"
-housenumber: 600
+street: Ohio Drive
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

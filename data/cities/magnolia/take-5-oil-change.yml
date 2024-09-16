@@ -1,11 +1,11 @@
 id: 735050591
-type: way
+type: node
 latitude: 30.2225
 longitude: -95.5652
 postcode: ""
 city: Magnolia
-street: "FM 1488"
-housenumber: 6414
+street: FM 1488
+housenumber: "6414"
 phone: ""
 opening_hours: ""
 website: ""

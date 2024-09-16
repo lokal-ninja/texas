@@ -1,11 +1,11 @@
 id: 680455797
-type: way
+type: node
 latitude: 29.47244
 longitude: -98.53437
 postcode: "78201"
 city: San Antonio
-street: "Babcock Road"
-housenumber: 107
+street: Babcock Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 441502139
-type: way
+type: node
 latitude: 29.70615
 longitude: -95.52098
 postcode: ""
 city: Houston
-street: "Bellaire Boulevard"
-housenumber: 7634
+street: Bellaire Boulevard
+housenumber: "7634"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-7634+bellaire+blvd-houston-tx-77036/id=3198"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-7634+bellaire+blvd-houston-tx-77036/id=3198

@@ -1,11 +1,11 @@
 id: 691430618
-type: way
+type: node
 latitude: 29.73832
 longitude: -95.50171
 postcode: ""
 city: Houston
-street: "South Voss Road"
-housenumber: 2620
+street: South Voss Road
+housenumber: "2620"
 phone: ""
 opening_hours: ""
 website: ""

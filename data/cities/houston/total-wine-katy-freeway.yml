@@ -4,8 +4,8 @@ latitude: 29.77344
 longitude: -95.38837
 postcode: "77007"
 city: Houston
-street: "Katy Freeway"
-housenumber: 2857
-phone: "+1 713-324-3718"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.totalwine.com/store-info/530"
+street: Katy Freeway
+housenumber: "2857"
+phone: +1 713-324-3718
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.totalwine.com/store-info/530

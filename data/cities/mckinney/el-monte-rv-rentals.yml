@@ -1,11 +1,11 @@
 id: 549629689
-type: way
+type: node
 latitude: 33.16503
 longitude: -96.64415
 postcode: "75070"
 city: McKinney
-street: "South Central Expressway"
-housenumber: 3500
+street: South Central Expressway
+housenumber: "3500"
 phone: ""
 opening_hours: ""
 website: ""

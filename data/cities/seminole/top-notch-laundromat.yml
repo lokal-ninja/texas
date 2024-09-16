@@ -1,11 +1,11 @@
 id: 547179800
-type: way
+type: node
 latitude: 32.71142
 longitude: -102.6504
 postcode: "79360"
 city: Seminole
-street: "Southwest 5th Street"
-housenumber: 612
+street: Southwest 5th Street
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

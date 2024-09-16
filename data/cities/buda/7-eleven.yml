@@ -1,11 +1,11 @@
 id: 293249552
-type: way
+type: node
 latitude: 30.04166
 longitude: -97.84382
 postcode: "78610"
 city: Buda
-street: "South Interstate 35"
-housenumber: 18210
+street: South Interstate 35
+housenumber: "18210"
 phone: ""
 opening_hours: ""
 website: ""

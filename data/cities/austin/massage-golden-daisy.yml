@@ -4,8 +4,8 @@ latitude: 30.42503
 longitude: -97.67009
 postcode: "78753"
 city: Austin
-street: "West Howard Lane"
-housenumber: 1200
-phone: "+1-512-252-7680"
-opening_hours: "Mo-Su 09:30-21:30"
+street: West Howard Lane
+housenumber: "1200"
+phone: +1-512-252-7680
+opening_hours: Mo-Su 09:30-21:30
 website: ""

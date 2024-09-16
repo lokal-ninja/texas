@@ -1,11 +1,11 @@
 id: 818635516
-type: way
+type: node
 latitude: 32.51054
 longitude: -94.81739
 postcode: "75604"
 city: Longview
-street: "West Marshall Avenue"
-housenumber: 5615
+street: West Marshall Avenue
+housenumber: "5615"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 926715592
-type: way
+type: node
 latitude: 29.65036
 longitude: -95.70881
 postcode: "77407"
 city: Richmond
-street: "West Grand Parkway South"
-housenumber: 10805
+street: West Grand Parkway South
+housenumber: "10805"
 phone: ""
 opening_hours: ""
 website: ""

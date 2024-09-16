@@ -1,11 +1,11 @@
 id: 1231747345
-type: way
+type: node
 latitude: 29.15085
 longitude: -95.42981
-postcode: "77515-5249"
+postcode: 77515-5249
 city: Angleton
-street: "South Velasco Street"
-housenumber: 1039
+street: South Velasco Street
+housenumber: "1039"
 phone: ""
 opening_hours: ""
-website: "https://locations.valero.com/en-us/LocationDetails/Index/1039-S-VELASCO-ST/0000007088"
+website: https://locations.valero.com/en-us/LocationDetails/Index/1039-S-VELASCO-ST/0000007088

@@ -1,11 +1,11 @@
 id: 706330809
-type: way
+type: node
 latitude: 32.78219
 longitude: -96.53775
 postcode: "75182"
 city: Sunnyvale
-street: "East US Highway 80"
-housenumber: 613
+street: East US Highway 80
+housenumber: "613"
 phone: ""
 opening_hours: ""
 website: ""

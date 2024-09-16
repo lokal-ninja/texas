@@ -1,11 +1,11 @@
 id: 462701231
-type: way
+type: node
 latitude: 33.50706
 longitude: -101.87112
 postcode: "79423"
 city: Lubbock
-street: "University Avenue"
-housenumber: 9604
+street: University Avenue
+housenumber: "9604"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/lubbock/6935"
+website: https://www.dollargeneral.com/store-directory/tx/lubbock/6935

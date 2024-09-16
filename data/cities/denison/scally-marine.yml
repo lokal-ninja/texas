@@ -1,11 +1,11 @@
 id: 852533495
-type: way
+type: node
 latitude: 33.79371
 longitude: -96.55644
 postcode: "75020"
 city: Denison
-street: "North State Highway 91"
-housenumber: 4313
+street: North State Highway 91
+housenumber: "4313"
 phone: ""
 opening_hours: ""
 website: ""

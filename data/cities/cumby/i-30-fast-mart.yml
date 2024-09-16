@@ -1,11 +1,11 @@
 id: 746222122
-type: way
+type: node
 latitude: 33.13036
 longitude: -95.83846
 postcode: "75433"
 city: Cumby
-street: "West North Service Road"
-housenumber: 107
+street: West North Service Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

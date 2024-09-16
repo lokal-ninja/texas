@@ -1,11 +1,11 @@
 id: 647398013
-type: way
+type: node
 latitude: 32.20752
 longitude: -95.84171
 postcode: "75751"
 city: Athens
-street: "East Tyler Street"
-housenumber: 807
-phone: "+1-903-675-6680"
+street: East Tyler Street
+housenumber: "807"
+phone: +1-903-675-6680
 opening_hours: ""
 website: ""

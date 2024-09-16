@@ -1,11 +1,11 @@
 id: 767391847
-type: way
+type: node
 latitude: 29.81145
 longitude: -95.42885
 postcode: ""
 city: Houston
-street: "North Loop West"
-housenumber: 1527
+street: North Loop West
+housenumber: "1527"
 phone: ""
 opening_hours: ""
 website: ""

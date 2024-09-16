@@ -1,11 +1,11 @@
 id: 805857945
-type: way
+type: node
 latitude: 32.55013
 longitude: -98.49852
 postcode: "76475"
 city: Strawn
-street: "South Front Street"
-housenumber: 202
+street: South Front Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

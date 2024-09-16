@@ -1,11 +1,11 @@
 id: 964082884
-type: way
+type: node
 latitude: 30.17538
 longitude: -97.78423
 postcode: "78745"
 city: Austin
-street: "South Congress Avenue"
-housenumber: 8327
-phone: "+1-512-280-6438"
+street: South Congress Avenue
+housenumber: "8327"
+phone: +1-512-280-6438
 opening_hours: ""
 website: ""

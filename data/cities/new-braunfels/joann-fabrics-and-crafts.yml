@@ -1,11 +1,11 @@
 id: 533769499
-type: way
+type: node
 latitude: 29.68267
 longitude: -98.13389
 postcode: "78130"
 city: New Braunfels
-street: "Interstate 35 South"
-housenumber: 1671
-phone: "+1 830-626-3108"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/tx/new-braunfels/2387/"
+street: Interstate 35 South
+housenumber: "1671"
+phone: +1 830-626-3108
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/tx/new-braunfels/2387/

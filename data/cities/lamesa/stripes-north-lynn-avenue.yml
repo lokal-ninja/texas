@@ -1,11 +1,11 @@
 id: 718503256
-type: way
+type: node
 latitude: 32.73674
 longitude: -101.94936
 postcode: "79331"
 city: Lamesa
-street: "North Lynn Avenue"
-housenumber: 411
+street: North Lynn Avenue
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

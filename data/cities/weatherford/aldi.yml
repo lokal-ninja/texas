@@ -1,11 +1,11 @@
 id: 725250645
-type: way
+type: node
 latitude: 32.73719
 longitude: -97.79736
 postcode: "76086"
 city: Weatherford
-street: "South Main Street"
-housenumber: 1710
-phone: "+1 844-475-1082"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/tx/weatherford/1710-s-main-street"
+street: South Main Street
+housenumber: "1710"
+phone: +1 844-475-1082
+opening_hours: Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00
+website: https://stores.aldi.us/tx/weatherford/1710-s-main-street

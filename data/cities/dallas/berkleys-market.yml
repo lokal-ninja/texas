@@ -4,8 +4,8 @@ latitude: 32.78099
 longitude: -96.79696
 postcode: "75201"
 city: Dallas
-street: "Main Street"
-housenumber: 1800
-phone: "+1 214-760-9686"
-opening_hours: "07:00-22:00"
-website: "https://www.berkleysmkt.com/"
+street: Main Street
+housenumber: "1800"
+phone: +1 214-760-9686
+opening_hours: 07:00-22:00
+website: https://www.berkleysmkt.com/

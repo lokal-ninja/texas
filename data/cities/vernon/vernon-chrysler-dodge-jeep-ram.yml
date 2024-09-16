@@ -1,11 +1,11 @@
 id: 815918892
-type: way
+type: node
 latitude: 34.15241
 longitude: -99.29576
 postcode: "76384"
 city: Vernon
-street: "Wilbarger Street"
-housenumber: 2803
+street: Wilbarger Street
+housenumber: "2803"
 phone: ""
 opening_hours: ""
 website: ""

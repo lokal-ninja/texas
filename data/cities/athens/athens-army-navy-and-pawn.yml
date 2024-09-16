@@ -1,11 +1,11 @@
 id: 888554853
-type: way
+type: node
 latitude: 32.20493
 longitude: -95.8684
 postcode: "75751"
 city: Athens
-street: "West Corsicana Street"
-housenumber: 704
+street: West Corsicana Street
+housenumber: "704"
 phone: ""
 opening_hours: ""
 website: ""

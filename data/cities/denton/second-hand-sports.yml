@@ -1,11 +1,11 @@
 id: 260225852
-type: way
+type: node
 latitude: 33.21642
 longitude: -97.1311
 postcode: ""
 city: Denton
-street: "East McKinney Street"
-housenumber: 204
+street: East McKinney Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 480574620
-type: way
+type: node
 latitude: 29.70235
 longitude: -96.54622
 postcode: "78934"
 city: Columbus
-street: "Fannin Street"
-housenumber: 1400
-phone: "+1 979-732-8208"
+street: Fannin Street
+housenumber: "1400"
+phone: +1 979-732-8208
 opening_hours: ""
 website: ""

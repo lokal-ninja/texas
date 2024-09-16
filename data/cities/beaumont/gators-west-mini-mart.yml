@@ -1,11 +1,11 @@
 id: 264401389
-type: way
+type: node
 latitude: 30.10454
 longitude: -94.16797
 postcode: ""
 city: Beaumont
-street: "Dowlen Road"
-housenumber: 2890
+street: Dowlen Road
+housenumber: "2890"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

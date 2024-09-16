@@ -1,11 +1,11 @@
 id: 129591196
-type: way
+type: node
 latitude: 29.81398
 longitude: -95.71858
 postcode: "77449"
 city: Katy
-street: "North Fry Road"
-housenumber: 3050
-phone: "+1-281-578-3888"
+street: North Fry Road
+housenumber: "3050"
+phone: +1-281-578-3888
 opening_hours: ""
-website: "https://local.randalls.com/tx/katy-1772.html"
+website: https://local.randalls.com/tx/katy-1772.html

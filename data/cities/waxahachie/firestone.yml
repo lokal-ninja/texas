@@ -1,11 +1,11 @@
 id: 517412792
-type: way
+type: node
 latitude: 32.41784
 longitude: -96.83665
 postcode: "75165"
 city: Waxahachie
-street: "Stadium Drive"
-housenumber: 321
+street: Stadium Drive
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

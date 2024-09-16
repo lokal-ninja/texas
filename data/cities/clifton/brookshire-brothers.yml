@@ -1,11 +1,11 @@
 id: 808054792
-type: way
+type: node
 latitude: 31.77724
 longitude: -97.57358
 postcode: "76634"
 city: Clifton
-street: "South Avenue G"
-housenumber: 614
+street: South Avenue G
+housenumber: "614"
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

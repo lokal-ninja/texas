@@ -1,11 +1,11 @@
 id: 461653834
-type: way
+type: node
 latitude: 33.5603
 longitude: -101.84334
 postcode: "79404"
 city: Lubbock
-street: "Interstate 27"
-housenumber: 3623
+street: Interstate 27
+housenumber: "3623"
 phone: ""
 opening_hours: ""
 website: ""

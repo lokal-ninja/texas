@@ -1,11 +1,11 @@
 id: 465281900
-type: way
+type: node
 latitude: 33.5869
 longitude: -101.92324
 postcode: "79416"
 city: Lubbock
-street: "Slide Road"
-housenumber: 908
+street: Slide Road
+housenumber: "908"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/lubbock/1875"
+website: https://www.dollargeneral.com/store-directory/tx/lubbock/1875

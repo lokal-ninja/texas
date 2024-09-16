@@ -1,11 +1,11 @@
 id: 1126796905
-type: way
+type: node
 latitude: 29.82238
 longitude: -95.47324
 postcode: ""
 city: Houston
-street: "Northwest Freeway"
-housenumber: 11525
+street: Northwest Freeway
+housenumber: "11525"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 29.73397
 longitude: -95.62508
 postcode: "77082"
 city: Houston
-street: "Eldridge Parkway"
-housenumber: 2602
-phone: "+1 281-531-3977"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:30-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/houston/office-depot-3312"
+street: Eldridge Parkway
+housenumber: "2602"
+phone: +1 281-531-3977
+opening_hours: Mo-Th 08:00-19:00; Fr 08:30-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/tx/houston/office-depot-3312

@@ -1,11 +1,11 @@
 id: 466473189
-type: way
+type: node
 latitude: 32.85542
 longitude: -96.74595
 postcode: "75231"
 city: Dallas
-street: "East Northwest Highway"
-housenumber: 6616
-phone: "+1-214-363-8444"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+street: East Northwest Highway
+housenumber: "6616"
+phone: +1-214-363-8444
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1149794327
-type: way
+type: node
 latitude: 32.37535
 longitude: -98.83012
 postcode: "76448"
 city: Eastland
-street: "Interstate 20"
-housenumber: 11619
+street: Interstate 20
+housenumber: "11619"
 phone: ""
 opening_hours: ""
 website: ""

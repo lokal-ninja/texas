@@ -1,11 +1,11 @@
 id: 382613608
-type: way
+type: node
 latitude: 32.5492
 longitude: -94.72498
 postcode: "75605"
 city: Longview
-street: "North Eastman Road"
-housenumber: 3096
-phone: "+1 903-663-0705"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/longview-store1862.html"
+street: North Eastman Road
+housenumber: "3096"
+phone: +1 903-663-0705
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/longview-store1862.html

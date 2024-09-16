@@ -1,11 +1,11 @@
 id: 297124302
-type: way
+type: node
 latitude: 32.64852
 longitude: -96.78222
 postcode: "75241"
 city: Dallas
-street: "South Lancaster Road"
-housenumber: 8181
+street: South Lancaster Road
+housenumber: "8181"
 phone: ""
 opening_hours: ""
 website: ""

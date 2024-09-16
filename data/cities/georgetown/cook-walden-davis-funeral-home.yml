@@ -1,11 +1,11 @@
 id: 750548754
-type: way
+type: node
 latitude: 30.66162
 longitude: -97.69174
 postcode: "78628"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 2900
-phone: "+1 512 863 2564"
-opening_hours: "24/7"
-website: "https://www.dignitymemorial.com/"
+street: Williams Drive
+housenumber: "2900"
+phone: +1 512 863 2564
+opening_hours: 24/7
+website: https://www.dignitymemorial.com/

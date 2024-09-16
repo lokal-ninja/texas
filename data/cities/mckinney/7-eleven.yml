@@ -1,11 +1,11 @@
 id: 518393614
-type: way
+type: node
 latitude: 33.16203
 longitude: -96.63496
 postcode: "75069"
 city: McKinney
-street: "Medical Center Drive"
-housenumber: 3911
+street: Medical Center Drive
+housenumber: "3911"
 phone: ""
 opening_hours: ""
 website: ""

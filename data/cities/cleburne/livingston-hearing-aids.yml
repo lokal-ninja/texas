@@ -1,11 +1,11 @@
 id: 1112437486
-type: way
+type: node
 latitude: 32.34053
 longitude: -97.40241
 postcode: "76033"
 city: Cleburne
-street: "West Henderson Street"
-housenumber: 1301
-phone: "+1 817 506 3200"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://lhac.com/"
+street: West Henderson Street
+housenumber: "1301"
+phone: +1 817 506 3200
+opening_hours: Mo-Fr 08:30-17:00
+website: https://lhac.com/

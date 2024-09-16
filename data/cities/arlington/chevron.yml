@@ -1,11 +1,11 @@
 id: 664707214
-type: way
+type: node
 latitude: 32.72113
 longitude: -97.06142
 postcode: "76010"
 city: Arlington
-street: "East Park Row Drive"
-housenumber: 2601
+street: East Park Row Drive
+housenumber: "2601"
 phone: ""
 opening_hours: ""
 website: ""

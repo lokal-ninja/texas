@@ -1,11 +1,11 @@
 id: 761866457
-type: way
+type: node
 latitude: 30.51601
 longitude: -98.29058
 postcode: "78654"
 city: Marble Falls
-street: "South US Highway 281"
-housenumber: 4011
-phone: "+1-512-261-0144"
-opening_hours: "24/7"
-website: "https://www.advantagestorage.net/storage-locations/tx/lake-hills-boat-rv-storage/"
+street: South US Highway 281
+housenumber: "4011"
+phone: +1-512-261-0144
+opening_hours: 24/7
+website: https://www.advantagestorage.net/storage-locations/tx/lake-hills-boat-rv-storage/

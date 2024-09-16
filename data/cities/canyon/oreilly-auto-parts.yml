@@ -1,11 +1,11 @@
 id: 697927962
-type: way
+type: node
 latitude: 34.97351
 longitude: -101.91882
 postcode: "79015"
 city: Canyon
-street: "23rd Street"
-housenumber: 1003
+street: 23rd Street
+housenumber: "1003"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/canyon/autoparts-853.html"
+website: https://locations.oreillyauto.com/tx/canyon/autoparts-853.html

@@ -1,11 +1,11 @@
 id: 179079956
-type: way
+type: node
 latitude: 35.18825
 longitude: -101.92768
 postcode: "79106"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 7800
-phone: "+1-877-284-0653"
+street: West Interstate Drive
+housenumber: "7800"
+phone: +1-877-284-0653
 opening_hours: ""
-website: "https://www.texasdodge.net/"
+website: https://www.texasdodge.net/

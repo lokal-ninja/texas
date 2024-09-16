@@ -1,11 +1,11 @@
 id: 597907004
-type: way
+type: node
 latitude: 32.93616
 longitude: -96.7202
 postcode: "75081"
 city: Richardson
-street: "Centennial Boulevard"
-housenumber: 536
-phone: "+1 972-437-2478"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/tx/richardson/buckingham/035/00526"
+street: Centennial Boulevard
+housenumber: "536"
+phone: +1 972-437-2478
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/tx/richardson/buckingham/035/00526

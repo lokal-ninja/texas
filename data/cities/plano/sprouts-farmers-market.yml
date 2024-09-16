@@ -1,11 +1,11 @@
 id: 663587601
-type: way
+type: node
 latitude: 33.06993
 longitude: -96.77297
 postcode: "75024"
 city: Plano
 street: ""
-housenumber: 
-phone: "+1 972-618-8902"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/plano/plano/"
+housenumber: ""
+phone: +1 972-618-8902
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/plano/plano/

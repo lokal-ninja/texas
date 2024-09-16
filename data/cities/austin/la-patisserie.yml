@@ -1,11 +1,11 @@
 id: 382454825
-type: way
+type: node
 latitude: 30.24783
 longitude: -97.75613
 postcode: "78704"
 city: Austin
-street: "West Annie Street"
-housenumber: 602
-phone: "+1 512-912-0033"
+street: West Annie Street
+housenumber: "602"
+phone: +1 512-912-0033
 opening_hours: ""
-website: "https://www.lpaustin.com/"
+website: https://www.lpaustin.com/

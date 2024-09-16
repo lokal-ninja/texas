@@ -1,11 +1,11 @@
 id: 764756204
-type: way
+type: node
 latitude: 33.75523
 longitude: -96.53893
 postcode: "75020"
 city: Denison
-street: "West Main Street"
-housenumber: 310
+street: West Main Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

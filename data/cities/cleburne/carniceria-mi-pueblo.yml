@@ -1,11 +1,11 @@
 id: 199582318
-type: way
+type: node
 latitude: 32.35999
 longitude: -97.39075
 postcode: "76033"
 city: Cleburne
-street: "North Main Street"
-housenumber: 909
+street: North Main Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
 website: ""

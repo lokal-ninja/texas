@@ -1,11 +1,11 @@
 id: 683633551
-type: way
+type: node
 latitude: 29.54394
 longitude: -95.13497
 postcode: "77598"
 city: Webster
-street: "West Bay Area Boulevard"
-housenumber: 707
-phone: "+1-281-338-2807"
+street: West Bay Area Boulevard
+housenumber: "707"
+phone: +1-281-338-2807
 opening_hours: ""
 website: ""

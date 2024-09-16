@@ -1,11 +1,11 @@
 id: 712914047
-type: way
+type: node
 latitude: 32.34792
 longitude: -97.38246
 postcode: ""
 city: Cleburne
-street: "East Chambers Street"
-housenumber: 415
+street: East Chambers Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
-website: "https://www.modernmonuments.com"
+website: https://www.modernmonuments.com

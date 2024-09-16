@@ -4,8 +4,8 @@ latitude: 29.42836
 longitude: -98.71389
 postcode: "78253"
 city: San Antonio
-street: "Texas 1604 Loop"
-housenumber: 415
-phone: "+1 210-874-5810"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/san-antonio-tx-1425"
+street: Texas 1604 Loop
+housenumber: "415"
+phone: +1 210-874-5810
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/san-antonio-tx-1425

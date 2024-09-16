@@ -1,11 +1,11 @@
 id: 1095786259
-type: way
+type: node
 latitude: 29.15119
 longitude: -95.65882
 postcode: "77486"
 city: West Columbia
-street: "North Columbia Drive"
-housenumber: 301
-phone: "+1 979-345-3147"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/482/west-columbia-tx/whats-new"
+street: North Columbia Drive
+housenumber: "301"
+phone: +1 979-345-3147
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/482/west-columbia-tx/whats-new

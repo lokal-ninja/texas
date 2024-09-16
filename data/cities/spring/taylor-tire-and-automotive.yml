@@ -1,11 +1,11 @@
 id: 317921315
-type: way
+type: node
 latitude: 30.07692
 longitude: -95.43198
 postcode: "77373"
 city: Spring
-street: "Spring Cypress Road"
-housenumber: 1136
-phone: "+1-281-353-5446"
+street: Spring Cypress Road
+housenumber: "1136"
+phone: +1-281-353-5446
 opening_hours: ""
-website: "https://www.taylortireandauto.com"
+website: https://www.taylortireandauto.com

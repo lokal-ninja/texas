@@ -1,11 +1,11 @@
 id: 1164953842
-type: way
+type: node
 latitude: 31.7919
 longitude: -97.58223
 postcode: "76634"
 city: Clifton
-street: "North Avenue G"
-housenumber: 927
-phone: "+1 254-675-6513"
-opening_hours: "Mo-Sa 07:30-18:00; Su 10:00-16:00"
+street: North Avenue G
+housenumber: "927"
+phone: +1 254-675-6513
+opening_hours: Mo-Sa 07:30-18:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 360639493
-type: way
+type: node
 latitude: 32.54902
 longitude: -94.34951
 postcode: "75670"
 city: Marshall
-street: "East End Boulevard North"
-housenumber: 400
+street: East End Boulevard North
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/marshall-tx-pharmacies/400-e-end-blvd-north-marshall-tx-75670/storeid=7293"
+website: https://www.cvs.com/store-locator/marshall-tx-pharmacies/400-e-end-blvd-north-marshall-tx-75670/storeid=7293

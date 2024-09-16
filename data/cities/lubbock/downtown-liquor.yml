@@ -1,11 +1,11 @@
 id: 443130329
-type: way
+type: node
 latitude: 33.58729
 longitude: -101.85559
 postcode: "79401"
 city: Lubbock
-street: "Avenue Q"
-housenumber: 902
+street: Avenue Q
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

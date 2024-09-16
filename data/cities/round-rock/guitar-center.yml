@@ -4,8 +4,8 @@ latitude: 30.48886
 longitude: -97.67983
 postcode: "78681"
 city: Round Rock
-street: "South Interstate 35"
-housenumber: 2000
-phone: "+1-512-244-0101"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.guitarcenter.com/"
+street: South Interstate 35
+housenumber: "2000"
+phone: +1-512-244-0101
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.guitarcenter.com/

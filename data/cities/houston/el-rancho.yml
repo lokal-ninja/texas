@@ -1,11 +1,11 @@
 id: 129611581
-type: way
+type: node
 latitude: 29.82042
 longitude: -95.46583
 postcode: "77092"
 city: Houston
-street: "West 34th Street"
-housenumber: 5264
+street: West 34th Street
+housenumber: "5264"
 phone: ""
 opening_hours: ""
 website: ""

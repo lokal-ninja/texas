@@ -1,11 +1,11 @@
 id: 1026582398
-type: way
+type: node
 latitude: 33.19055
 longitude: -97.1042
 postcode: "76205"
 city: Denton
-street: "Colorado Boulevard"
-housenumber: 2309
+street: Colorado Boulevard
+housenumber: "2309"
 phone: "+19402436182"
 opening_hours: ""
-website: "https://www.sherwin-williams.com/store-locator/paint-store/denton/tx/703573"
+website: https://www.sherwin-williams.com/store-locator/paint-store/denton/tx/703573

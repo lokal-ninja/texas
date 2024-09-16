@@ -1,11 +1,11 @@
 id: 1125702696
-type: way
+type: node
 latitude: 32.41105
 longitude: -99.49222
 postcode: "79510"
 city: Clyde
-street: "South Access Road"
-housenumber: 521
+street: South Access Road
+housenumber: "521"
 phone: ""
 opening_hours: ""
-website: "https://local.unitedsupermarkets.com/tx/clyde/521-s-access-rd-w.html"
+website: https://local.unitedsupermarkets.com/tx/clyde/521-s-access-rd-w.html

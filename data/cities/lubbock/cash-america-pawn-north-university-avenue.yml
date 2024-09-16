@@ -1,11 +1,11 @@
 id: 464128356
-type: way
+type: node
 latitude: 33.59917
 longitude: -101.87084
 postcode: "79415"
 city: Lubbock
-street: "North University Avenue"
-housenumber: 125
+street: North University Avenue
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 671735106
-type: way
+type: node
 latitude: 32.75946
 longitude: -96.56114
 postcode: "75181"
 city: Mesquite
-street: "Clay Mathis Road"
-housenumber: 520
+street: Clay Mathis Road
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

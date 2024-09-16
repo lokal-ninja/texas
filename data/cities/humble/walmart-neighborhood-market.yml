@@ -1,11 +1,11 @@
 id: 518895734
-type: way
+type: node
 latitude: 29.97834
 longitude: -95.19347
 postcode: "77346"
 city: Humble
-street: "Will Clayton Parkway"
-housenumber: 12312
-phone: "+1 281-318-2102"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/7309/humble-tx/whats-new"
+street: Will Clayton Parkway
+housenumber: "12312"
+phone: +1 281-318-2102
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/7309/humble-tx/whats-new

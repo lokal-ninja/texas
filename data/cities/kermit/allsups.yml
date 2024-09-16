@@ -1,11 +1,11 @@
 id: 1284680849
-type: way
+type: node
 latitude: 31.86057
 longitude: -103.0833
 postcode: "79745"
 city: Kermit
-street: "South East Avenue"
-housenumber: 100
+street: South East Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

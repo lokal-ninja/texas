@@ -1,11 +1,11 @@
 id: 307769113
-type: way
+type: node
 latitude: 31.7775
 longitude: -106.39264
 postcode: "79915"
 city: El Paso
-street: "Gateway Boulevard East"
-housenumber: 6700
+street: Gateway Boulevard East
+housenumber: "6700"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/TX/El-Paso/6700-Gateway-Blvd-E"
+website: https://www.speedway.com/locations/TX/El-Paso/6700-Gateway-Blvd-E

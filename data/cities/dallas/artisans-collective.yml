@@ -4,8 +4,8 @@ latitude: 32.74858
 longitude: -96.8282
 postcode: "75208"
 city: Dallas
-street: "North Bishop Avenue"
-housenumber: 410
-phone: "+1-214-943-5892"
-opening_hours: "We-Th 11:00-19:00; Fr-Sa 11:00-22:00; Su 11:00-16:00"
-website: "https://artisancollective.net/"
+street: North Bishop Avenue
+housenumber: "410"
+phone: +1-214-943-5892
+opening_hours: We-Th 11:00-19:00; Fr-Sa 11:00-22:00; Su 11:00-16:00
+website: https://artisancollective.net/

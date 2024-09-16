@@ -1,11 +1,11 @@
 id: 434949192
-type: way
+type: node
 latitude: 32.393
 longitude: -94.86371
 postcode: "75662"
 city: Kilgore
-street: "Stone Street"
-housenumber: 1211
+street: Stone Street
+housenumber: "1211"
 phone: ""
 opening_hours: ""
 website: ""

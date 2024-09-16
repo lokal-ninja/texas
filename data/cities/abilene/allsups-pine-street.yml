@@ -1,11 +1,11 @@
 id: 961198644
-type: way
+type: node
 latitude: 32.5086
 longitude: -99.74314
 postcode: "79601"
 city: Abilene
-street: "Pine Street"
-housenumber: 4526
+street: Pine Street
+housenumber: "4526"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 614990382
-type: way
+type: node
 latitude: 26.18875
 longitude: -98.23682
 postcode: "78503"
 city: McAllen
-street: "South 10th Street"
-housenumber: 2200
+street: South 10th Street
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

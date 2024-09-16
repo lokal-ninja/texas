@@ -1,11 +1,11 @@
 id: 723059212
-type: way
+type: node
 latitude: 32.4714
 longitude: -94.74092
 postcode: "75602"
 city: Longview
-street: "South High Street"
-housenumber: 1800
-phone: "+1-903-753-2773"
+street: South High Street
+housenumber: "1800"
+phone: +1-903-753-2773
 opening_hours: ""
-website: "https://www.super1foods.com/"
+website: https://www.super1foods.com/

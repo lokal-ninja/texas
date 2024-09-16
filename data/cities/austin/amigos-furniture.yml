@@ -4,8 +4,8 @@ latitude: 30.23465
 longitude: -97.72053
 postcode: "78741"
 city: Austin
-street: "South Pleasant Valley Road"
-housenumber: 1717
-phone: "+1-512-389-2000"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.amigosatx.com/"
+street: South Pleasant Valley Road
+housenumber: "1717"
+phone: +1-512-389-2000
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.amigosatx.com/

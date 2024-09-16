@@ -1,11 +1,11 @@
 id: 465038656
-type: way
+type: node
 latitude: 32.82936
 longitude: -96.8445
 postcode: "75235"
 city: Dallas
-street: "Hawes Avenue"
-housenumber: 2512
+street: Hawes Avenue
+housenumber: "2512"
 phone: ""
 opening_hours: ""
 website: ""

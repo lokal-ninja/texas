@@ -1,11 +1,11 @@
 id: 545415140
-type: way
+type: node
 latitude: 32.69695
 longitude: -102.64389
 postcode: "79360"
 city: Seminole
-street: "FM 1788"
-housenumber: 105
+street: FM 1788
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

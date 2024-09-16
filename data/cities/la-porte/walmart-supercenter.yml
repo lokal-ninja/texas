@@ -1,11 +1,11 @@
 id: 267159456
-type: way
+type: node
 latitude: 29.66633
 longitude: -95.10073
 postcode: "77571"
 city: La Porte
-street: "Spencer Highway"
-housenumber: 9025
-phone: "+1 281-479-9636"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5116/la-porte-tx/whats-new"
+street: Spencer Highway
+housenumber: "9025"
+phone: +1 281-479-9636
+opening_hours: 24/7
+website: https://www.walmart.com/store/5116/la-porte-tx/whats-new

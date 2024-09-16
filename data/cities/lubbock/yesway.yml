@@ -1,11 +1,11 @@
 id: 221382175
-type: way
+type: node
 latitude: 33.52039
 longitude: -101.9915
 postcode: "79424"
 city: Lubbock
-street: "82nd Street"
-housenumber: 7822
+street: 82nd Street
+housenumber: "7822"
 phone: ""
 opening_hours: ""
 website: ""

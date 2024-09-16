@@ -4,8 +4,8 @@ latitude: 32.85985
 longitude: -96.87998
 postcode: "75220"
 city: Dallas
-street: "Harry Hines Boulevard"
-housenumber: 10120
+street: Harry Hines Boulevard
+housenumber: "10120"
 phone: ""
-opening_hours: "24/7"
-website: "https://laundromat-fox.edan.io/"
+opening_hours: 24/7
+website: https://laundromat-fox.edan.io/

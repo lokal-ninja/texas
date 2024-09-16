@@ -1,11 +1,11 @@
 id: 404099173
-type: way
+type: node
 latitude: 29.86503
 longitude: -95.38552
 postcode: "77076"
 city: Houston
-street: "Airline Drive"
-housenumber: 7103
+street: Airline Drive
+housenumber: "7103"
 phone: ""
 opening_hours: ""
 website: ""

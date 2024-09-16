@@ -1,11 +1,11 @@
 id: 29275680
-type: way
+type: node
 latitude: 30.53204
 longitude: -97.79005
 postcode: "78613"
 city: Cedar Park
-street: "East Whitestone Boulevard"
-housenumber: 2720
-phone: "+1-512-259-4966"
+street: East Whitestone Boulevard
+housenumber: "2720"
+phone: +1-512-259-4966
 opening_hours: ""
 website: ""

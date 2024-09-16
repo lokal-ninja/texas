@@ -1,11 +1,11 @@
 id: 96099608
-type: way
+type: node
 latitude: 29.7782
 longitude: -98.74196
 postcode: "78006"
 city: Boerne
-street: "West Bandera Road"
-housenumber: 633
-phone: "+1 830-249-2834"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/boerne/tx/boerne/78006/6556"
+street: West Bandera Road
+housenumber: "633"
+phone: +1 830-249-2834
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/boerne/tx/boerne/78006/6556

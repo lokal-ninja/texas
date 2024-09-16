@@ -1,11 +1,11 @@
 id: 754058897
-type: way
+type: node
 latitude: 30.44221
 longitude: -97.66315
 postcode: "78660"
 city: Pflugerville
-street: "Wells Branch Parkway"
-housenumber: 1420
-phone: "+1-737-222-5405"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.boostmobile.com/"
+street: Wells Branch Parkway
+housenumber: "1420"
+phone: +1-737-222-5405
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.boostmobile.com/

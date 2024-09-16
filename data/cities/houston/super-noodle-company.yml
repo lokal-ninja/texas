@@ -1,11 +1,11 @@
 id: 210442587
-type: way
+type: node
 latitude: 29.74821
 longitude: -95.35615
 postcode: ""
 city: Houston
-street: "Polk Street"
-housenumber: 2212
+street: Polk Street
+housenumber: "2212"
 phone: ""
 opening_hours: ""
 website: ""

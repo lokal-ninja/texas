@@ -1,11 +1,11 @@
 id: 464762507
-type: way
+type: node
 latitude: 33.56362
 longitude: -101.87542
 postcode: "79410"
 city: Lubbock
-street: "34th Street"
-housenumber: 2702
+street: 34th Street
+housenumber: "2702"
 phone: ""
 opening_hours: ""
 website: ""

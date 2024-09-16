@@ -1,11 +1,11 @@
 id: 1180548991
-type: way
+type: node
 latitude: 30.11069
 longitude: -97.32012
 postcode: "78602"
 city: Bastrop
-street: "Main Street"
-housenumber: 1002
-phone: "+1-512-321-1010"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.bastropcopier.com/"
+street: Main Street
+housenumber: "1002"
+phone: +1-512-321-1010
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.bastropcopier.com/

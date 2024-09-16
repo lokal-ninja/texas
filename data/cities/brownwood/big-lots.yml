@@ -1,11 +1,11 @@
 id: 727578165
-type: way
+type: node
 latitude: 31.72829
 longitude: -98.97313
 postcode: "76801"
 city: Brownwood
-street: "East Commerce Street"
-housenumber: 315
-phone: "+1 325-641-8651"
-opening_hours: "Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/brownwood/315-e-commerce-st"
+street: East Commerce Street
+housenumber: "315"
+phone: +1 325-641-8651
+opening_hours: Mo-Tu 10:00-21:00; We-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/brownwood/315-e-commerce-st

@@ -1,11 +1,11 @@
 id: 169523610
-type: way
+type: node
 latitude: 33.67926
 longitude: -96.61234
 postcode: "75092"
 city: Sherman
-street: "Town Center Drive"
-housenumber: 3916
+street: Town Center Drive
+housenumber: "3916"
 phone: ""
 opening_hours: ""
 website: ""

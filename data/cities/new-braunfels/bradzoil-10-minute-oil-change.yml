@@ -1,11 +1,11 @@
 id: 540656386
-type: way
+type: node
 latitude: 29.70061
 longitude: -98.14719
 postcode: "78155"
 city: New Braunfels
-street: "Mission Drive"
-housenumber: 988
+street: Mission Drive
+housenumber: "988"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 981873937
-type: way
+type: node
 latitude: 32.47999
 longitude: -94.05983
 postcode: "75692"
 city: Waskom
-street: "North Lake Street"
-housenumber: 200
+street: North Lake Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

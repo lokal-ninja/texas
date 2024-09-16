@@ -1,11 +1,11 @@
 id: 451956898
-type: way
+type: node
 latitude: 27.50834
 longitude: -99.50517
 postcode: "78040"
 city: Laredo
-street: "San Bernardo Avenue"
-housenumber: 1020
+street: San Bernardo Avenue
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31143643
-type: way
+type: node
 latitude: 30.449
 longitude: -97.79309
 postcode: "78750"
 city: Austin
-street: "Anderson Mill Road"
-housenumber: 9700
+street: Anderson Mill Road
+housenumber: "9700"
 phone: ""
 opening_hours: ""
 website: ""

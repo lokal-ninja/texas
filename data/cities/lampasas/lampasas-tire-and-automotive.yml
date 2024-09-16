@@ -1,11 +1,11 @@
 id: 1001903979
-type: way
+type: node
 latitude: 31.06027
 longitude: -98.14027
 postcode: "76550"
 city: Lampasas
-street: "Central Texas Expressway"
-housenumber: 3005
+street: Central Texas Expressway
+housenumber: "3005"
 phone: ""
 opening_hours: ""
 website: ""

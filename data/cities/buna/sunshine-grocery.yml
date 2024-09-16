@@ -1,11 +1,11 @@
 id: 421971784
-type: way
+type: node
 latitude: 30.44795
 longitude: -93.96671
 postcode: "77612"
 city: Buna
-street: "US 96"
-housenumber: 34599
+street: US 96
+housenumber: "34599"
 phone: ""
 opening_hours: ""
 website: ""

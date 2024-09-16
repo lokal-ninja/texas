@@ -1,11 +1,11 @@
 id: 990683141
-type: way
+type: node
 latitude: 31.95522
 longitude: -106.36146
 postcode: "79934"
 city: El Paso
-street: "Dyer Street"
-housenumber: 11971
+street: Dyer Street
+housenumber: "11971"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/el-paso/17090"
+website: https://www.dollargeneral.com/store-directory/tx/el-paso/17090

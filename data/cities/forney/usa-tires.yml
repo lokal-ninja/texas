@@ -1,11 +1,11 @@
 id: 714117218
-type: way
+type: node
 latitude: 32.75244
 longitude: -96.46364
 postcode: "75126"
 city: Forney
-street: "East US Highway 80"
-housenumber: 203
+street: East US Highway 80
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 334216862
-type: way
+type: node
 latitude: 32.01679
 longitude: -102.14307
 postcode: "79703"
 city: Midland
-street: "North Midland Drive"
-housenumber: 3317
-phone: "432-689-8683"
-opening_hours: "Mo-Su 06:00-23:00"
+street: North Midland Drive
+housenumber: "3317"
+phone: 432-689-8683
+opening_hours: Mo-Su 06:00-23:00
 website: ""

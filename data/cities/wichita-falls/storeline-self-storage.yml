@@ -1,11 +1,11 @@
 id: 1081638405
-type: way
+type: node
 latitude: 33.90586
 longitude: -98.49881
 postcode: "76301"
 city: Wichita Falls
-street: "10th Street"
-housenumber: 1408
+street: 10th Street
+housenumber: "1408"
 phone: ""
 opening_hours: ""
 website: ""

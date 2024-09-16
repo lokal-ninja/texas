@@ -1,11 +1,11 @@
 id: 504124227
-type: way
+type: node
 latitude: 32.34417
 longitude: -95.34278
 postcode: "75702"
 city: Tyler
-street: "Chandler Highway"
-housenumber: 3800
+street: Chandler Highway
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

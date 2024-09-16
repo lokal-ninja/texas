@@ -1,11 +1,11 @@
 id: 758042704
-type: way
+type: node
 latitude: 32.50903
 longitude: -95.40769
 postcode: "75771"
 city: Lindale
-street: "South Main Street"
-housenumber: 720
+street: South Main Street
+housenumber: "720"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/lindale/720-s-main-st.html"
+website: https://www.autozone.com/locations/tx/lindale/720-s-main-st.html

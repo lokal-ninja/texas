@@ -1,11 +1,11 @@
 id: 1112589844
-type: way
+type: node
 latitude: 31.76405
 longitude: -106.36141
 postcode: "79925"
 city: El Paso
-street: "Viscount Boulevard"
-housenumber: 9521
-phone: "+1 915-594-3898"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 10:00-22:00"
+street: Viscount Boulevard
+housenumber: "9521"
+phone: +1 915-594-3898
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 10:00-22:00
 website: ""

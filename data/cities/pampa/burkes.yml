@@ -1,11 +1,11 @@
 id: 768598870
-type: way
+type: node
 latitude: 35.56805
 longitude: -100.9689
 postcode: "79065"
 city: Pampa
-street: "Perryton Parkway"
-housenumber: 2545
+street: Perryton Parkway
+housenumber: "2545"
 phone: ""
 opening_hours: ""
 website: ""

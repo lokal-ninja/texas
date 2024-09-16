@@ -1,11 +1,11 @@
 id: 979895876
-type: way
+type: node
 latitude: 32.43767
 longitude: -94.71727
 postcode: "75603"
 city: Longview
-street: "Estes Parkway"
-housenumber: 3667
+street: Estes Parkway
+housenumber: "3667"
 phone: ""
 opening_hours: ""
 website: ""

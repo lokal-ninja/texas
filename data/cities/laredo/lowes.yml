@@ -1,11 +1,11 @@
 id: 746711454
-type: way
+type: node
 latitude: 27.5609
 longitude: -99.49903
 postcode: "78041"
 city: Laredo
-street: "San Dario Avenue"
-housenumber: 6623
-phone: "+1 956-753-7033"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-laredo/1563"
+street: San Dario Avenue
+housenumber: "6623"
+phone: +1 956-753-7033
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-laredo/1563

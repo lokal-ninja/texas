@@ -1,11 +1,11 @@
 id: 238022168
-type: way
+type: node
 latitude: 29.66462
 longitude: -98.63441
 postcode: "78257"
 city: San Antonio
-street: "Interstate 10 West"
-housenumber: 24165
-phone: "+1-210-687-1007"
-opening_hours: "06:00-24:00"
-website: "https://www.heb.com/find-a-store/store-details.jsp?storeId=566"
+street: Interstate 10 West
+housenumber: "24165"
+phone: +1-210-687-1007
+opening_hours: 06:00-24:00
+website: https://www.heb.com/find-a-store/store-details.jsp?storeId=566

@@ -1,11 +1,11 @@
 id: 715166823
-type: way
+type: node
 latitude: 33.13412
 longitude: -95.98845
 postcode: "75422"
 city: Campbell
-street: "State Highway 24"
-housenumber: 339
+street: State Highway 24
+housenumber: "339"
 phone: ""
 opening_hours: ""
 website: ""

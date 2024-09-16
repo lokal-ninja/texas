@@ -1,11 +1,11 @@
 id: 664268734
-type: way
+type: node
 latitude: 32.64091
 longitude: -96.80667
 postcode: "75134"
 city: Lancaster
-street: "North Houston School Road"
-housenumber: 3799
+street: North Houston School Road
+housenumber: "3799"
 phone: ""
 opening_hours: ""
 website: ""

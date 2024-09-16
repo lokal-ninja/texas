@@ -1,11 +1,11 @@
 id: 384262629
-type: way
+type: node
 latitude: 30.22043
 longitude: -97.82917
 postcode: "78745"
 city: Austin
-street: "Brodie Lane"
-housenumber: 6400
-phone: "+1 512-895-5560"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-austin/2513"
+street: Brodie Lane
+housenumber: "6400"
+phone: +1 512-895-5560
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-austin/2513

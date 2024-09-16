@@ -1,11 +1,11 @@
 id: 865207621
-type: way
+type: node
 latitude: 33.64199
 longitude: -97.12662
 postcode: "76240"
 city: Gainesville
-street: "East US Highway 82"
-housenumber: 1802
+street: East US Highway 82
+housenumber: "1802"
 phone: ""
 opening_hours: ""
 website: ""

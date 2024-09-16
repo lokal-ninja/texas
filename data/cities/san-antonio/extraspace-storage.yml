@@ -1,11 +1,11 @@
 id: 660725358
-type: way
+type: node
 latitude: 29.56111
 longitude: -98.61486
 postcode: "78249"
 city: San Antonio
-street: "De Zavala Road"
-housenumber: 6450
+street: De Zavala Road
+housenumber: "6450"
 phone: ""
 opening_hours: ""
 website: ""

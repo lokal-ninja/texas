@@ -1,11 +1,11 @@
 id: 589316581
-type: way
+type: node
 latitude: 30.34927
 longitude: -97.7107
 postcode: "78753"
 city: Austin
-street: "North Lamar Boulevard"
-housenumber: 8101
+street: North Lamar Boulevard
+housenumber: "8101"
 phone: ""
 opening_hours: ""
 website: ""

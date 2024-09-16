@@ -1,11 +1,11 @@
 id: 1099895269
-type: way
+type: node
 latitude: 29.96961
 longitude: -99.20632
 postcode: "78028"
 city: Kerrville
-street: "Medina Highway"
-housenumber: 3650
+street: Medina Highway
+housenumber: "3650"
 phone: ""
 opening_hours: ""
 website: ""

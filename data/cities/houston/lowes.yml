@@ -4,8 +4,8 @@ latitude: 29.97933
 longitude: -95.51005
 postcode: "77069"
 city: Houston
-street: "FM 1960 Road West"
-housenumber: 5319
-phone: "+1 281-885-6255"
-opening_hours: "10:00-20:00"
-website: "https://www.lowes.com/store/tx-houston/3642"
+street: FM 1960 Road West
+housenumber: "5319"
+phone: +1 281-885-6255
+opening_hours: 10:00-20:00
+website: https://www.lowes.com/store/tx-houston/3642

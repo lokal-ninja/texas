@@ -1,11 +1,11 @@
 id: 722352127
-type: way
+type: node
 latitude: 29.59707
 longitude: -97.96689
 postcode: "78155"
 city: Seguin
-street: "West Interstate 10"
-housenumber: 201
-phone: "+1-830-372-0714"
+street: West Interstate 10
+housenumber: "201"
+phone: +1-830-372-0714
 opening_hours: ""
-website: "https://www.homedepot.com/l/Seguin/TX/Seguin/78155/8437"
+website: https://www.homedepot.com/l/Seguin/TX/Seguin/78155/8437

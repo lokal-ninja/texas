@@ -1,11 +1,11 @@
 id: 678090456
-type: way
+type: node
 latitude: 29.33044
 longitude: -94.93946
 postcode: "77563"
 city: Hitchcock
-street: "Highway 6"
-housenumber: 3120
+street: Highway 6
+housenumber: "3120"
 phone: ""
 opening_hours: ""
 website: ""

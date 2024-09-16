@@ -1,11 +1,11 @@
 id: 502258006
-type: way
+type: node
 latitude: 32.59778
 longitude: -95.20602
 postcode: "75765"
 city: Hawkins
-street: "Beaulah Street"
-housenumber: 850
-phone: "+1 903-613-2231"
-opening_hours: "Mo-Sa 07:30-18:00; Su 10:00-18:00"
-website: "https://www.acehardware.com/store-details/17677"
+street: Beaulah Street
+housenumber: "850"
+phone: +1 903-613-2231
+opening_hours: Mo-Sa 07:30-18:00; Su 10:00-18:00
+website: https://www.acehardware.com/store-details/17677

@@ -1,11 +1,11 @@
 id: 120316374
-type: way
+type: node
 latitude: 33.19833
 longitude: -97.09349
 postcode: "76205"
 city: Denton
-street: "South Loop 288"
-housenumber: 1200
-phone: "+1 940-387-5600"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Loop 288
+housenumber: "1200"
+phone: +1 940-387-5600
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 99055806
-type: way
+type: node
 latitude: 30.41481
 longitude: -97.67611
 postcode: "78753"
 city: Austin
-street: "North Interstate 35"
-housenumber: 13000
-phone: "+1 512-634-0070"
-opening_hours: "Mo-Sa 06:00-22:00; Su 06:00-20:00"
-website: "https://www.lowes.com/store/TX-Austin/1725"
+street: North Interstate 35
+housenumber: "13000"
+phone: +1 512-634-0070
+opening_hours: Mo-Sa 06:00-22:00; Su 06:00-20:00
+website: https://www.lowes.com/store/TX-Austin/1725

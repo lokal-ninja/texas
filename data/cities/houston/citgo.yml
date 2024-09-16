@@ -1,11 +1,11 @@
 id: 544446469
-type: way
+type: node
 latitude: 29.7324
 longitude: -95.37596
 postcode: "77004"
 city: Houston
-street: "Almeda Road"
-housenumber: 4102
+street: Almeda Road
+housenumber: "4102"
 phone: ""
 opening_hours: ""
 website: ""

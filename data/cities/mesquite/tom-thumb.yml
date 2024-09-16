@@ -1,11 +1,11 @@
 id: 130333430
-type: way
+type: node
 latitude: 32.74572
 longitude: -96.58656
 postcode: "75149"
 city: Mesquite
-street: "Pioneer Road"
-housenumber: 1501
+street: Pioneer Road
+housenumber: "1501"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.tomthumb.com/tx/mesquite/1501-pioneer-rd.html"
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.tomthumb.com/tx/mesquite/1501-pioneer-rd.html

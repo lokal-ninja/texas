@@ -1,11 +1,11 @@
 id: 1060175440
-type: way
+type: node
 latitude: 35.1917
 longitude: -101.75079
 postcode: "79118"
 city: Amarillo
-street: "East Interstate Drive"
-housenumber: 8018
+street: East Interstate Drive
+housenumber: "8018"
 phone: ""
 opening_hours: ""
 website: ""

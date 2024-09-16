@@ -1,11 +1,11 @@
 id: 617525995
-type: way
+type: node
 latitude: 28.46049
 longitude: -98.18277
 postcode: "78071"
 city: Three Rivers
-street: "West Thornton Street"
-housenumber: 102
+street: West Thornton Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

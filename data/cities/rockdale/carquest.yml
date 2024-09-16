@@ -1,11 +1,11 @@
 id: 753416356
-type: way
+type: node
 latitude: 30.64579
 longitude: -97.02289
 postcode: "76567"
 city: Rockdale
-street: "West Cameron Avenue"
-housenumber: 1817
+street: West Cameron Avenue
+housenumber: "1817"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-14:00"
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-14:00
 website: ""

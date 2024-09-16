@@ -1,11 +1,11 @@
 id: 661561763
-type: way
+type: node
 latitude: 32.92133
 longitude: -96.99263
 postcode: "75063"
 city: Irving
-street: "North Belt Line Road"
-housenumber: 8400
+street: North Belt Line Road
+housenumber: "8400"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

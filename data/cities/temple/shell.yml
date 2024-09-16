@@ -1,11 +1,11 @@
 id: 848165512
-type: way
+type: node
 latitude: 31.08815
 longitude: -97.3929
 postcode: "76502"
 city: Temple
-street: "South General Bruce Drive"
-housenumber: 4015
+street: South General Bruce Drive
+housenumber: "4015"
 phone: ""
 opening_hours: ""
 website: ""

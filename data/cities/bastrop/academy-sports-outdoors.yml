@@ -1,11 +1,11 @@
 id: 1186638808
-type: way
+type: node
 latitude: 30.11512
 longitude: -97.35462
 postcode: ""
 city: Bastrop
-street: "State Highway 71 West"
-housenumber: 749
-phone: "+1-512-321-8200"
-opening_hours: "Mo-Th,Su 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00"
-website: "https://www.academy.com/storelocator/texas/bastrop/store-0226"
+street: State Highway 71 West
+housenumber: "749"
+phone: +1-512-321-8200
+opening_hours: Mo-Th,Su 09:00-21:00; Fr 09:00-22:00; Sa 08:00-22:00
+website: https://www.academy.com/storelocator/texas/bastrop/store-0226

@@ -1,11 +1,11 @@
 id: 424315534
-type: way
+type: node
 latitude: 27.57642
 longitude: -99.47248
 postcode: "78043"
 city: Laredo
-street: "McPherson Road"
-housenumber: 7811
-phone: "+1-956-712-2459"
+street: McPherson Road
+housenumber: "7811"
+phone: +1-956-712-2459
 opening_hours: ""
 website: ""

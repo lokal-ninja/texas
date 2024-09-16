@@ -1,11 +1,11 @@
 id: 673936364
-type: way
+type: node
 latitude: 32.76614
 longitude: -96.60167
 postcode: "75149"
 city: Mesquite
-street: "West Davis Street"
-housenumber: 222
+street: West Davis Street
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

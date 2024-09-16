@@ -1,11 +1,11 @@
 id: 393484343
-type: way
+type: node
 latitude: 29.74015
 longitude: -95.51554
 postcode: "77063"
 city: Houston
-street: "Westheimer Road"
-housenumber: 8400
-phone: "+1-713-917-0510"
+street: Westheimer Road
+housenumber: "8400"
+phone: +1-713-917-0510
 opening_hours: ""
-website: "https://www.homedepot.com/l/Westheimer/TX/Houston/77063/6558"
+website: https://www.homedepot.com/l/Westheimer/TX/Houston/77063/6558

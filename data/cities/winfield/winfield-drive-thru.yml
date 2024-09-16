@@ -1,11 +1,11 @@
 id: 877421280
-type: way
+type: node
 latitude: 33.17049
 longitude: -95.1119
 postcode: "75493"
 city: Winfield
-street: "East US Highway 67"
-housenumber: 100
+street: East US Highway 67
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

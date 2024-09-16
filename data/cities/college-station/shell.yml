@@ -1,11 +1,11 @@
 id: 1013637122
-type: way
+type: node
 latitude: 30.6315
 longitude: -96.30136
 postcode: "77845"
 city: College Station
-street: "Harvey Road"
-housenumber: 2601
+street: Harvey Road
+housenumber: "2601"
 phone: ""
 opening_hours: ""
 website: ""

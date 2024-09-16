@@ -1,11 +1,11 @@
 id: 209081918
-type: way
+type: node
 latitude: 30.21792
 longitude: -97.68916
 postcode: "78704"
 city: Austin
-street: "East Ben White Boulevard"
-housenumber: 7715
+street: East Ben White Boulevard
+housenumber: "7715"
 phone: ""
 opening_hours: ""
 website: ""

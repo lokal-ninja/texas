@@ -1,11 +1,11 @@
 id: 221923147
-type: way
+type: node
 latitude: 33.05284
 longitude: -96.79729
 postcode: "75093"
 city: Plano
-street: "Preston Road"
-housenumber: 5801
+street: Preston Road
+housenumber: "5801"
 phone: ""
 opening_hours: ""
 website: ""

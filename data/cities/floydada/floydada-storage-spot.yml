@@ -1,11 +1,11 @@
 id: 1074959630
-type: way
+type: node
 latitude: 33.98658
 longitude: -101.33634
 postcode: "79235"
 city: Floydada
-street: "North 5th Street"
-housenumber: 110
+street: North 5th Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 711176962
-type: way
+type: node
 latitude: 32.49842
 longitude: -97.36842
 postcode: ""
 city: Burleson
-street: "Southwest Wilshire Boulevard"
-housenumber: 2690
-phone: "+1-817-447-2177"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/tx/burleson/2690-sw-wilshire-blvd"
+street: Southwest Wilshire Boulevard
+housenumber: "2690"
+phone: +1-817-447-2177
+opening_hours: 24/7
+website: https://locations.quiktrip.com/tx/burleson/2690-sw-wilshire-blvd

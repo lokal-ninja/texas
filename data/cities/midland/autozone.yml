@@ -1,11 +1,11 @@
 id: 1133071971
-type: way
+type: node
 latitude: 32.01542
 longitude: -102.14202
 postcode: "79707"
 city: Midland
-street: "West Wadley Avenue"
-housenumber: 4401
+street: West Wadley Avenue
+housenumber: "4401"
 phone: ""
 opening_hours: ""
 website: ""

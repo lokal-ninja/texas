@@ -1,11 +1,11 @@
 id: 1069081340
-type: way
+type: node
 latitude: 34.20664
 longitude: -101.73141
 postcode: "79072"
 city: Plainview
-street: "Dimmitt Road"
-housenumber: 2503
+street: Dimmitt Road
+housenumber: "2503"
 phone: ""
 opening_hours: ""
 website: ""

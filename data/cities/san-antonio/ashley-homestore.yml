@@ -1,11 +1,11 @@
 id: 79876810
-type: way
+type: node
 latitude: 29.55718
 longitude: -98.58609
 postcode: "78230"
 city: San Antonio
-street: "Interstate 10 West"
-housenumber: 12493
-phone: "+1 210-249-3400"
+street: Interstate 10 West
+housenumber: "12493"
+phone: +1 210-249-3400
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/texas/san-antonio/7710000437/"
+website: https://stores.ashleyfurniture.com/store/us/texas/san-antonio/7710000437/

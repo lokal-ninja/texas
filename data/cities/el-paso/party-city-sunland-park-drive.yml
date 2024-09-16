@@ -1,11 +1,11 @@
 id: 268490137
-type: way
+type: node
 latitude: 31.82114
 longitude: -106.54382
 postcode: "79912"
 city: El Paso
-street: "Sunland Park Drive"
-housenumber: 655
-phone: "+1 915-519-2915"
+street: Sunland Park Drive
+housenumber: "655"
+phone: +1 915-519-2915
 opening_hours: ""
-website: "https://stores.partycity.com/us/tx/elpaso/party-store-pc1143.html"
+website: https://stores.partycity.com/us/tx/elpaso/party-store-pc1143.html

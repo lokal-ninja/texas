@@ -1,11 +1,11 @@
 id: 382488705
-type: way
+type: node
 latitude: 30.22857
 longitude: -97.70179
 postcode: "78741"
 city: Austin
-street: "Montopolis Drive"
-housenumber: 1508
+street: Montopolis Drive
+housenumber: "1508"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 700454493
-type: way
+type: node
 latitude: 32.40126
 longitude: -98.79758
 postcode: "76448"
 city: Eastland
-street: "East Main Street"
-housenumber: 1301
-phone: "+1-254-629-8240"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.autozone.com/locations/tx/eastland/1301-e-main-st.html"
+street: East Main Street
+housenumber: "1301"
+phone: +1-254-629-8240
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.autozone.com/locations/tx/eastland/1301-e-main-st.html

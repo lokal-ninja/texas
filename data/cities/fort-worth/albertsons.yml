@@ -4,8 +4,8 @@ latitude: 32.69789
 longitude: -97.36923
 postcode: "76109"
 city: Fort Worth
-street: "Alton Road"
-housenumber: 3563
-phone: "+1 817-548-1415"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/fort-worth/3563-alton-rd.html"
+street: Alton Road
+housenumber: "3563"
+phone: +1 817-548-1415
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/fort-worth/3563-alton-rd.html

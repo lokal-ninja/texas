@@ -1,11 +1,11 @@
 id: 208124943
-type: way
+type: node
 latitude: 30.30749
 longitude: -97.93146
 postcode: "78738"
 city: Bee Cave
-street: "Bee Cave Parkway"
-housenumber: 12200
+street: Bee Cave Parkway
+housenumber: "12200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-12200+bee+cave+pkwy-bee+cave-tx-78738/id=11272"
+website: https://www.walgreens.com/locator/walgreens-12200+bee+cave+pkwy-bee+cave-tx-78738/id=11272

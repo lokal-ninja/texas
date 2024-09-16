@@ -1,11 +1,11 @@
 id: 101845124
-type: way
+type: node
 latitude: 30.5593
 longitude: -97.84765
 postcode: "78641"
 city: Leander
-street: "South Highway 183"
-housenumber: 1495
-phone: "+1 512-260-5670"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-leander/2774"
+street: South Highway 183
+housenumber: "1495"
+phone: +1 512-260-5670
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-leander/2774

@@ -1,11 +1,11 @@
 id: 28320343
-type: way
+type: node
 latitude: 32.75561
 longitude: -97.43378
 postcode: "76114"
 city: Westworth Village
-street: "Westworth Boulevard"
-housenumber: 6770
-phone: "+1 817-570-9538"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/940/westworth-village-tx/whats-new"
+street: Westworth Boulevard
+housenumber: "6770"
+phone: +1 817-570-9538
+opening_hours: 24/7
+website: https://www.walmart.com/store/940/westworth-village-tx/whats-new

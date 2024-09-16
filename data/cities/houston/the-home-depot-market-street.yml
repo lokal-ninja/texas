@@ -1,11 +1,11 @@
 id: 754799194
-type: way
+type: node
 latitude: 29.7683
 longitude: -95.18694
 postcode: "77015"
 city: Houston
-street: "Market Street"
-housenumber: 13400
-phone: "+1 713-451-9600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Market-Street/TX/Houston/77015/569"
+street: Market Street
+housenumber: "13400"
+phone: +1 713-451-9600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Market-Street/TX/Houston/77015/569

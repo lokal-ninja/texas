@@ -1,11 +1,11 @@
 id: 739181686
-type: way
+type: node
 latitude: 30.06324
 longitude: -99.17357
 postcode: "78028"
 city: Kerrville
-street: "Junction Highway"
-housenumber: 1471
-phone: "+1-830-895-5945"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-13:00"
-website: "https://locations.expresscare.com/tx/kerrville/0000597107/"
+street: Junction Highway
+housenumber: "1471"
+phone: +1-830-895-5945
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-13:00
+website: https://locations.expresscare.com/tx/kerrville/0000597107/

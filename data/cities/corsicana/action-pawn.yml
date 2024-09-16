@@ -1,11 +1,11 @@
 id: 563784702
-type: way
+type: node
 latitude: 32.08433
 longitude: -96.47835
 postcode: "75110"
 city: Corsicana
-street: "West 7th Avenue"
-housenumber: 1522
+street: West 7th Avenue
+housenumber: "1522"
 phone: ""
 opening_hours: ""
 website: ""

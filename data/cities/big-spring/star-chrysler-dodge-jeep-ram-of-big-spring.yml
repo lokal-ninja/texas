@@ -1,11 +1,11 @@
 id: 908978591
-type: way
+type: node
 latitude: 32.26176
 longitude: -101.49413
 postcode: "79720"
 city: Big Spring
-street: "West Interstate 20"
-housenumber: 821
+street: West Interstate 20
+housenumber: "821"
 phone: ""
 opening_hours: ""
 website: ""

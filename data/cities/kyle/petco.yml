@@ -1,11 +1,11 @@
 id: 987838860
-type: way
+type: node
 latitude: 30.0121
 longitude: -97.86539
 postcode: "78640"
 city: Kyle
-street: "Kyle Center Drive"
-housenumber: 5100
-phone: "+1 512-268-7428"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://stores.petco.com/tx/kyle/pet-supplies-kyle-tx-2402.html"
+street: Kyle Center Drive
+housenumber: "5100"
+phone: +1 512-268-7428
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://stores.petco.com/tx/kyle/pet-supplies-kyle-tx-2402.html

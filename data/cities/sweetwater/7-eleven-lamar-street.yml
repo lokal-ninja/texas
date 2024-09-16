@@ -1,11 +1,11 @@
 id: 729707954
-type: way
+type: node
 latitude: 32.45174
 longitude: -100.39936
 postcode: "79556"
 city: Sweetwater
-street: "Lamar Street"
-housenumber: 1712
+street: Lamar Street
+housenumber: "1712"
 phone: ""
 opening_hours: ""
 website: ""

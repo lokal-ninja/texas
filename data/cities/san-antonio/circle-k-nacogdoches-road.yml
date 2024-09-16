@@ -1,11 +1,11 @@
 id: 503483735
-type: way
+type: node
 latitude: 29.58998
 longitude: -98.35684
 postcode: "78247"
 city: San Antonio
-street: "Nacogdoches Road"
-housenumber: 16403
+street: Nacogdoches Road
+housenumber: "16403"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 500509232
-type: way
+type: node
 latitude: 32.73715
 longitude: -97.46631
 postcode: "76116"
 city: Fort Worth
-street: "Las Vegas Trail"
-housenumber: 2713
+street: Las Vegas Trail
+housenumber: "2713"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/fort-worth/2733-las-vegas-trl.html"
+website: https://www.autozone.com/locations/tx/fort-worth/2733-las-vegas-trl.html

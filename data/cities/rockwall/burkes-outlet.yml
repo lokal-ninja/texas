@@ -1,11 +1,11 @@
 id: 560268938
-type: way
+type: node
 latitude: 32.8967
 longitude: -96.46338
 postcode: "75032"
 city: Rockwall
-street: "Market Center Drive"
-housenumber: 2731
-phone: "+1 (972) 722-7827"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-21:30; Su 10:00-08:00"
-website: "https://stores.bealls.com/tx/rockwall/clothing-store-715.html"
+street: Market Center Drive
+housenumber: "2731"
+phone: +1 (972) 722-7827
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-21:30; Su 10:00-08:00
+website: https://stores.bealls.com/tx/rockwall/clothing-store-715.html

@@ -1,11 +1,11 @@
 id: 460410358
-type: way
+type: node
 latitude: 32.67564
 longitude: -102.66103
 postcode: "79360"
 city: Seminole
-street: "County Road 306-G"
-housenumber: 205
+street: County Road 306-G
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

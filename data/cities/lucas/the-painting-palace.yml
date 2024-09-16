@@ -1,11 +1,11 @@
 id: 709373871
-type: way
+type: node
 latitude: 33.08563
 longitude: -96.59227
 postcode: "75002"
 city: Lucas
-street: "West Lucas Road"
-housenumber: 1030
+street: West Lucas Road
+housenumber: "1030"
 phone: "+19727279411"
 opening_hours: ""
 website: ""

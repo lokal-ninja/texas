@@ -1,11 +1,11 @@
 id: 1308664992
-type: way
+type: node
 latitude: 27.36616
 longitude: -99.46292
 postcode: "78046"
 city: Rio Bravo
-street: "Paseo de Danubio"
-housenumber: 
+street: Paseo de Danubio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

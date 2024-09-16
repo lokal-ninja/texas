@@ -1,11 +1,11 @@
 id: 1138548686
-type: way
+type: node
 latitude: 27.59434
 longitude: -99.51367
 postcode: "78045"
 city: laredo
-street: "Mines Road"
-housenumber: 10122
+street: Mines Road
+housenumber: "10122"
 phone: ""
 opening_hours: ""
 website: ""

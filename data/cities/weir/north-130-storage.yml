@@ -1,11 +1,11 @@
 id: 1251738832
-type: way
+type: node
 latitude: 30.67799
 longitude: -97.58902
 postcode: "78626"
 city: Weir
-street: "FM 1105"
-housenumber: 345
+street: FM 1105
+housenumber: "345"
 phone: "+15129300190"
 opening_hours: ""
 website: ""

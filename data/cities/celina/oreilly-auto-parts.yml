@@ -1,11 +1,11 @@
 id: 984557065
-type: way
+type: node
 latitude: 33.31928
 longitude: -96.77877
 postcode: "75009"
 city: Celina
-street: "South Preston Road"
-housenumber: 441
+street: South Preston Road
+housenumber: "441"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/celina/autoparts-4916.html"
+website: https://locations.oreillyauto.com/tx/celina/autoparts-4916.html

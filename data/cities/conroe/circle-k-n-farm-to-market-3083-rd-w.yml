@@ -1,11 +1,11 @@
 id: 596174534
-type: way
+type: node
 latitude: 30.34002
 longitude: -95.50905
 postcode: "77304"
 city: Conroe
-street: "N Farm to Market 3083 Rd W"
-housenumber: 2016
+street: N Farm to Market 3083 Rd W
+housenumber: "2016"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

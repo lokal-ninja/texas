@@ -1,11 +1,11 @@
 id: 734238225
-type: way
+type: node
 latitude: 33.08173
 longitude: -98.58007
 postcode: "76450"
 city: Graham
-street: "State Highway 16 South"
-housenumber: 2121
-phone: "+1 940-549-7714"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/353/graham-tx/whats-new"
+street: State Highway 16 South
+housenumber: "2121"
+phone: +1 940-549-7714
+opening_hours: 24/7
+website: https://www.walmart.com/store/353/graham-tx/whats-new

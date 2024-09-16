@@ -1,11 +1,11 @@
 id: 745964410
-type: way
+type: node
 latitude: 31.43401
 longitude: -97.71636
 postcode: "76528"
 city: Gatesville
-street: "South Highway 36 Bypass"
-housenumber: 106
-phone: "+1-254-223-6252"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.spurcdjr.com"
+street: South Highway 36 Bypass
+housenumber: "106"
+phone: +1-254-223-6252
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.spurcdjr.com

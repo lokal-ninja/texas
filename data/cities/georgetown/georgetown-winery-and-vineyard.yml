@@ -4,8 +4,8 @@ latitude: 30.63685
 longitude: -97.67688
 postcode: "78626"
 city: Georgetown
-street: "South Main Street"
-housenumber: 715
-phone: "+1-512-869-8600"
-opening_hours: "Su 12:00-17:00; Tu-Th 11:00-18:00; Fr-Sa 11:00-18:30"
-website: "https://georgetownwinery.com/"
+street: South Main Street
+housenumber: "715"
+phone: +1-512-869-8600
+opening_hours: Su 12:00-17:00; Tu-Th 11:00-18:00; Fr-Sa 11:00-18:30
+website: https://georgetownwinery.com/

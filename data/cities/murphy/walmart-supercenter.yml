@@ -1,11 +1,11 @@
 id: 876360431
-type: way
+type: node
 latitude: 33.01332
 longitude: -96.61493
 postcode: "75094"
 city: Murphy
-street: "FM 544"
-housenumber: 115
-phone: "+1 972-633-0257"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2973-murphy-tx"
+street: FM 544
+housenumber: "115"
+phone: +1 972-633-0257
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2973-murphy-tx

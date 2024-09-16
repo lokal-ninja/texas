@@ -1,11 +1,11 @@
 id: 668004199
-type: way
+type: node
 latitude: 33.57625
 longitude: -102.36849
 postcode: "79336"
 city: Levelland
-street: "Clubview Drive"
-housenumber: 110
+street: Clubview Drive
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

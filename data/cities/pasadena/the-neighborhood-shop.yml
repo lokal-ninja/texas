@@ -1,11 +1,11 @@
 id: 1308944605
-type: way
+type: node
 latitude: 29.68171
 longitude: -95.19346
 postcode: ""
 city: Pasadena
-street: "Strawberry Road"
-housenumber: 2104
+street: Strawberry Road
+housenumber: "2104"
 phone: ""
 opening_hours: ""
 website: ""

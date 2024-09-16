@@ -4,8 +4,8 @@ latitude: 30.48059
 longitude: -97.68338
 postcode: "78681"
 city: Round Rock
-street: "La Frontera Boulevard"
-housenumber: 2711
-phone: "+1-512-341-2120"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.menswearhouse.com/store-locator/1212?address=78758"
+street: La Frontera Boulevard
+housenumber: "2711"
+phone: +1-512-341-2120
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.menswearhouse.com/store-locator/1212?address=78758

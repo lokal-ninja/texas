@@ -1,11 +1,11 @@
 id: 503403345
-type: way
+type: node
 latitude: 32.57034
 longitude: -96.308
 postcode: "75142"
 city: Kaufman
-street: "Kings Fort Parkway"
-housenumber: 300
-phone: "+1 469-595-7068"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4164-kaufman-tx"
+street: Kings Fort Parkway
+housenumber: "300"
+phone: +1 469-595-7068
+opening_hours: 24/7
+website: https://www.walmart.com/store/4164-kaufman-tx

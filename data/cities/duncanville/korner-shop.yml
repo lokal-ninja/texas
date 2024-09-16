@@ -1,11 +1,11 @@
 id: 433871639
-type: way
+type: node
 latitude: 32.66141
 longitude: -96.90119
 postcode: "75116"
 city: Duncanville
-street: "Oriole Boulevard"
-housenumber: 753
+street: Oriole Boulevard
+housenumber: "753"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

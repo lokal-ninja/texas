@@ -1,11 +1,11 @@
 id: 665956001
-type: way
+type: node
 latitude: 32.67316
 longitude: -97.04302
 postcode: "75052"
 city: Grand Prairie
-street: "West Interstate 20"
-housenumber: 2525
-phone: "+1 972-988-1335"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/tx/grand-prairie/great-southwest-pkwy/035/00817"
+street: West Interstate 20
+housenumber: "2525"
+phone: +1 972-988-1335
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/tx/grand-prairie/great-southwest-pkwy/035/00817

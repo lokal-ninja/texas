@@ -1,11 +1,11 @@
 id: 942015151
-type: way
+type: node
 latitude: 26.24165
 longitude: -98.23563
 postcode: "78504"
 city: McAllen
-street: "West Nolana Avenue"
-housenumber: 2024
-phone: "+1-956-687-7828"
+street: West Nolana Avenue
+housenumber: "2024"
+phone: +1-956-687-7828
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/mcallen/autoparts-474.html"
+website: https://locations.oreillyauto.com/tx/mcallen/autoparts-474.html

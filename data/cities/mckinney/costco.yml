@@ -1,11 +1,11 @@
 id: 655200621
-type: way
+type: node
 latitude: 33.21972
 longitude: -96.65818
-postcode: "75071-2934"
+postcode: 75071-2934
 city: McKinney
-street: "West University Drive"
-housenumber: 3650
-phone: "+1 469-347-6421"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/mckinney-tx-1284.html"
+street: West University Drive
+housenumber: "3650"
+phone: +1 469-347-6421
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/mckinney-tx-1284.html

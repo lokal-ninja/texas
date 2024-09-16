@@ -1,11 +1,11 @@
 id: 1199658422
-type: way
+type: node
 latitude: 31.50452
 longitude: -106.15708
 postcode: "79838"
 city: Fabens
-street: "Fabens Road"
-housenumber: 309
+street: Fabens Road
+housenumber: "309"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/fabens/309-fabens-st.html"
+website: https://www.autozone.com/locations/tx/fabens/309-fabens-st.html

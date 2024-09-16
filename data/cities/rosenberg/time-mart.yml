@@ -1,11 +1,11 @@
 id: 638410370
-type: way
+type: node
 latitude: 29.54033
 longitude: -95.74348
 postcode: "77469"
 city: Rosenberg
-street: "Minonite Road"
-housenumber: 503
-phone: "+1 281-239-3443"
-opening_hours: "Mo-Su 05:00-24:00"
+street: Minonite Road
+housenumber: "503"
+phone: +1 281-239-3443
+opening_hours: Mo-Su 05:00-24:00
 website: ""

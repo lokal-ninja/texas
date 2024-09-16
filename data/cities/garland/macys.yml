@@ -1,11 +1,11 @@
 id: 343387983
-type: way
+type: node
 latitude: 32.95205
 longitude: -96.60992
 postcode: "75040"
 city: Garland
-street: "Horseshoe Drive"
-housenumber: 701
+street: Horseshoe Drive
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/tx/garland/firewheel-town-center_672.html"
+website: https://www.macys.com/stores/tx/garland/firewheel-town-center_672.html

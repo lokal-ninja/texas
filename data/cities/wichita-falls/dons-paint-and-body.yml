@@ -1,11 +1,11 @@
 id: 710439175
-type: way
+type: node
 latitude: 33.91253
 longitude: -98.42186
 postcode: "76305"
 city: Wichita Falls
-street: "State Highway 79"
-housenumber: 2145
+street: State Highway 79
+housenumber: "2145"
 phone: ""
 opening_hours: ""
 website: ""

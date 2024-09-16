@@ -1,11 +1,11 @@
 id: 1113502047
-type: way
+type: node
 latitude: 32.78402
 longitude: -96.78359
 postcode: "75226"
 city: Dallas
-street: "Main Street"
-housenumber: 2719
-phone: "+1-214-434-1476"
-opening_hours: "Mo-Th 10:00-19:00; Fr,Su 09:00-18:00; Sa 09:00-15:00"
-website: "https://www.bladecraftbarber.com"
+street: Main Street
+housenumber: "2719"
+phone: +1-214-434-1476
+opening_hours: Mo-Th 10:00-19:00; Fr,Su 09:00-18:00; Sa 09:00-15:00
+website: https://www.bladecraftbarber.com

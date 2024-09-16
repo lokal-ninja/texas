@@ -1,11 +1,11 @@
 id: 1119666585
-type: way
+type: node
 latitude: 32.93742
 longitude: -97.1833
 postcode: "76092"
 city: Southlake
-street: "West Southlake Boulevard"
-housenumber: 2115
+street: West Southlake Boulevard
+housenumber: "2115"
 phone: ""
 opening_hours: ""
 website: ""

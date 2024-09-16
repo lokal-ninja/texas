@@ -1,11 +1,11 @@
 id: 476232815
-type: way
+type: node
 latitude: 32.72033
 longitude: -96.62115
 postcode: "75180"
 city: Balch Springs
-street: "Elam Road"
-housenumber: 11925
-phone: "+1 972-557-1272"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/tx/balch-springs/balch-springs/035/00492"
+street: Elam Road
+housenumber: "11925"
+phone: +1 972-557-1272
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/tx/balch-springs/balch-springs/035/00492

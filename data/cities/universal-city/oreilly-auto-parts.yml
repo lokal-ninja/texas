@@ -1,11 +1,11 @@
 id: 739872530
-type: way
+type: node
 latitude: 29.55166
 longitude: -98.3039
 postcode: "78148"
 city: Universal City
-street: "Pat Booker Road"
-housenumber: 1501
+street: Pat Booker Road
+housenumber: "1501"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/universalcity/autoparts-577.html"
+website: https://locations.oreillyauto.com/tx/universalcity/autoparts-577.html

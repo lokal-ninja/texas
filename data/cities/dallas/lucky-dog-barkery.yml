@@ -1,11 +1,11 @@
 id: 1160794207
-type: way
+type: node
 latitude: 32.8641
 longitude: -96.80269
 postcode: "75225"
 city: Dallas
-street: "Preston Center Plaza"
-housenumber: 8320
+street: Preston Center Plaza
+housenumber: "8320"
 phone: "+12143686000"
 opening_hours: ""
 website: ""

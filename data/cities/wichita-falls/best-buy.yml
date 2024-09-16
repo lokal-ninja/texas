@@ -1,11 +1,11 @@
 id: 719032451
-type: way
+type: node
 latitude: 33.86862
 longitude: -98.53674
 postcode: "76308"
 city: Wichita Falls
-street: "Kemp Boulevard"
-housenumber: 4100
-phone: "+1 940-692-8330"
+street: Kemp Boulevard
+housenumber: "4100"
+phone: +1 940-692-8330
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/wichita-falls/4100-kemp-blvd-195.html"
+website: https://stores.bestbuy.com/tx/wichita-falls/4100-kemp-blvd-195.html

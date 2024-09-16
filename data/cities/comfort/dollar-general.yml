@@ -1,11 +1,11 @@
 id: 356921716
-type: way
+type: node
 latitude: 29.97467
 longitude: -98.90325
 postcode: "78013"
 city: Comfort
-street: "US Highway 87"
-housenumber: 27
+street: US Highway 87
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/comfort/10965"
+website: https://www.dollargeneral.com/store-directory/tx/comfort/10965

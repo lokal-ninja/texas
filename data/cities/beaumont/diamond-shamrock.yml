@@ -1,11 +1,11 @@
 id: 139270779
-type: way
+type: node
 latitude: 30.0955
 longitude: -94.11186
 postcode: "77701"
 city: Beaumont
-street: "East I-10 Frontage Road"
-housenumber: 1595
+street: East I-10 Frontage Road
+housenumber: "1595"
 phone: ""
 opening_hours: ""
 website: ""

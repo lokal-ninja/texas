@@ -1,11 +1,11 @@
 id: 461659958
-type: way
+type: node
 latitude: 33.54937
 longitude: -101.8889
 postcode: "79413"
 city: Lubbock
-street: "50th Street"
-housenumber: 3402
+street: 50th Street
+housenumber: "3402"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/lubbock-tx-pharmacies/3402-50th-st-lubbock-tx-79413/storeid=7277"
+website: https://www.cvs.com/store-locator/lubbock-tx-pharmacies/3402-50th-st-lubbock-tx-79413/storeid=7277

@@ -1,11 +1,11 @@
 id: 401783164
-type: way
+type: node
 latitude: 31.86148
 longitude: -102.41045
 postcode: "79764"
 city: Odessa
-street: "West University Boulevard"
-housenumber: 2501
-phone: "+1-432-368-8400"
-opening_hours: "Su-Sa 06:00-23:00"
-website: "https://www.heb.com/heb-store/US/tx/odessa/odessa-h-e-b-university-blvd-711"
+street: West University Boulevard
+housenumber: "2501"
+phone: +1-432-368-8400
+opening_hours: Su-Sa 06:00-23:00
+website: https://www.heb.com/heb-store/US/tx/odessa/odessa-h-e-b-university-blvd-711

@@ -1,11 +1,11 @@
 id: 483639212
-type: way
+type: node
 latitude: 29.70022
 longitude: -95.81176
 postcode: "77406"
 city: Richmond
-street: "F.M. 1093"
-housenumber: 2050
-phone: "+1 832-586-7375"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/richmond/southpark-cinco/034/00038"
+street: F.M. 1093
+housenumber: "2050"
+phone: +1 832-586-7375
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/richmond/southpark-cinco/034/00038

@@ -1,11 +1,11 @@
 id: 481452569
-type: way
+type: node
 latitude: 30.27439
 longitude: -98.40141
 postcode: "78636"
 city: Johnson City
-street: "South US Highway 281"
-housenumber: 201
+street: South US Highway 281
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1214625192
-type: way
+type: node
 latitude: 30.11667
 longitude: -93.82183
 postcode: "77630"
 city: Orange
-street: "West I-10 Service Road"
-housenumber: 7120
+street: West I-10 Service Road
+housenumber: "7120"
 phone: ""
 opening_hours: ""
 website: ""

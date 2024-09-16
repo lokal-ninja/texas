@@ -1,11 +1,11 @@
 id: 254150399
-type: way
+type: node
 latitude: 33.11658
 longitude: -98.55976
 postcode: "76450"
 city: Graham
-street: "US 380 Bypass"
-housenumber: 1609
+street: US 380 Bypass
+housenumber: "1609"
 phone: ""
 opening_hours: ""
 website: ""

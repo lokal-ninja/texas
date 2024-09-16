@@ -1,11 +1,11 @@
 id: 1064868001
-type: way
+type: node
 latitude: 29.34385
 longitude: -99.1298
 postcode: "78861"
 city: Hondo
-street: "Menefee Street"
-housenumber: 202
-phone: "+1 830-426-2909"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Menefee Street
+housenumber: "202"
+phone: +1 830-426-2909
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

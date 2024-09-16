@@ -1,11 +1,11 @@
 id: 823888795
-type: way
+type: node
 latitude: 32.13039
 longitude: -101.78755
 postcode: "79782"
 city: Stanton
-street: "East Front Street"
-housenumber: 301
+street: East Front Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

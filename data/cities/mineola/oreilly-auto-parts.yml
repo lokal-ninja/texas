@@ -1,11 +1,11 @@
 id: 535919727
-type: way
+type: node
 latitude: 32.64918
 longitude: -95.4908
 postcode: "75773"
 city: Mineola
-street: "Debby Lane"
-housenumber: 105
-phone: "+1-903-569-9685"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://locations.oreillyauto.com/tx/mineola/autoparts-1904.html"
+street: Debby Lane
+housenumber: "105"
+phone: +1-903-569-9685
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://locations.oreillyauto.com/tx/mineola/autoparts-1904.html

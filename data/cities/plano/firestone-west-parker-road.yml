@@ -1,11 +1,11 @@
 id: 650783742
-type: way
+type: node
 latitude: 33.04076
 longitude: -96.75606
 postcode: "75075"
 city: Plano
-street: "West Parker Road"
-housenumber: 3200
+street: West Parker Road
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

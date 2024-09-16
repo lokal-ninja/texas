@@ -1,11 +1,11 @@
 id: 737131334
-type: way
+type: node
 latitude: 31.05797
 longitude: -98.17411
 postcode: "76550"
 city: Lampasas
-street: "Central Texas Expressway"
-housenumber: 469
-phone: "+1 512-556-8189"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Central Texas Expressway
+housenumber: "469"
+phone: +1 512-556-8189
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

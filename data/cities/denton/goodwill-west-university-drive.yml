@@ -1,11 +1,11 @@
 id: 260303355
-type: way
+type: node
 latitude: 33.23036
 longitude: -97.15742
 postcode: "76201"
 city: Denton
-street: "West University Drive"
-housenumber: 2030
-phone: "+1-940-566-0398"
+street: West University Drive
+housenumber: "2030"
+phone: +1-940-566-0398
 opening_hours: ""
-website: "https://www.goodwillnorthcentraltexas.org/"
+website: https://www.goodwillnorthcentraltexas.org/

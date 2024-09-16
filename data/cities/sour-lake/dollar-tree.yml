@@ -1,11 +1,11 @@
 id: 747466220
-type: way
+type: node
 latitude: 30.13929
 longitude: -94.40026
 postcode: ""
 city: Sour Lake
-street: "State Highway 105"
-housenumber: 360
+street: State Highway 105
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/tx/sour-lake/6903/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/tx/sour-lake/6903/

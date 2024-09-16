@@ -1,11 +1,11 @@
 id: 729447851
-type: way
+type: node
 latitude: 32.43348
 longitude: -100.53537
 postcode: "79545"
 city: Roscoe
-street: "South Interstate 20"
-housenumber: 12749
+street: South Interstate 20
+housenumber: "12749"
 phone: ""
 opening_hours: ""
 website: ""

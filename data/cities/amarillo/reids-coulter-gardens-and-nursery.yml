@@ -1,11 +1,11 @@
 id: 178594984
-type: way
+type: node
 latitude: 35.1638
 longitude: -101.92093
 postcode: "79109"
 city: Amarillo
-street: "South Coulter Street"
-housenumber: 4200
-phone: "+1-806-359-7432"
+street: South Coulter Street
+housenumber: "4200"
+phone: +1-806-359-7432
 opening_hours: ""
-website: "http://coultergardenamarillo.com/"
+website: http://coultergardenamarillo.com/

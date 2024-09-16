@@ -1,11 +1,11 @@
 id: 641970517
-type: way
+type: node
 latitude: 32.75761
 longitude: -97.10617
 postcode: "76011"
 city: Arlington
-street: "West Road to Six Flags Street"
-housenumber: 201
-phone: "+1 817-459-4300"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/n-arlington/tx/arlington/76011/554"
+street: West Road to Six Flags Street
+housenumber: "201"
+phone: +1 817-459-4300
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/n-arlington/tx/arlington/76011/554

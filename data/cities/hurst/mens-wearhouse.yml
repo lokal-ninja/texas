@@ -1,11 +1,11 @@
 id: 556194242
-type: way
+type: node
 latitude: 32.8234
 longitude: -97.20133
 postcode: "76053"
 city: Hurst
-street: "West Pipeline Road"
-housenumber: 1351
+street: West Pipeline Road
+housenumber: "1351"
 phone: ""
 opening_hours: ""
 website: ""

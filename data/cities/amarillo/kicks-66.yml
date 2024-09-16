@@ -1,11 +1,11 @@
 id: 821267538
-type: way
+type: node
 latitude: 35.19371
 longitude: -101.72521
 postcode: "79118"
 city: Amarillo
-street: "I-40"
-housenumber: 9525
+street: I-40
+housenumber: "9525"
 phone: ""
 opening_hours: ""
 website: ""

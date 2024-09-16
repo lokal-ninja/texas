@@ -1,11 +1,11 @@
 id: 929521526
-type: way
+type: node
 latitude: 29.5473
 longitude: -95.75325
 postcode: "77471"
 city: Rosenberg
-street: "Commercial Drive"
-housenumber: 24212
-phone: "+1 281-232-0918"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/rosenberg/officemax-6812"
+street: Commercial Drive
+housenumber: "24212"
+phone: +1 281-232-0918
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/tx/rosenberg/officemax-6812

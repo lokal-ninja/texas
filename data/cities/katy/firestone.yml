@@ -1,11 +1,11 @@
 id: 542682201
-type: way
+type: node
 latitude: 29.78279
 longitude: -95.80675
 postcode: "77494"
 city: Katy
-street: "Market Place Drive"
-housenumber: 25120
+street: Market Place Drive
+housenumber: "25120"
 phone: ""
 opening_hours: ""
 website: ""

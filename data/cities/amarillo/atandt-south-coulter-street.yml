@@ -1,11 +1,11 @@
 id: 1039139338
-type: way
+type: node
 latitude: 35.16222
 longitude: -101.92098
 postcode: "79109"
 city: Amarillo
-street: "South Coulter Street"
-housenumber: 4410
-phone: "+1-806-352-5614"
-opening_hours: "Su 11:00-18:00; Mo-Sa 09:00-19:00"
-website: "https://www.att.com/stores/texas/amarillo/81848"
+street: South Coulter Street
+housenumber: "4410"
+phone: +1-806-352-5614
+opening_hours: Su 11:00-18:00; Mo-Sa 09:00-19:00
+website: https://www.att.com/stores/texas/amarillo/81848

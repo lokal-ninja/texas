@@ -1,11 +1,11 @@
 id: 640580298
-type: way
+type: node
 latitude: 32.82284
 longitude: -96.648
 postcode: "75150"
 city: Mesquite
-street: "Oates Drive"
-housenumber: 3155
+street: Oates Drive
+housenumber: "3155"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/mesquite/autoparts-806.html"
+website: https://locations.oreillyauto.com/tx/mesquite/autoparts-806.html

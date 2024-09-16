@@ -1,11 +1,11 @@
 id: 463968524
-type: way
+type: node
 latitude: 32.83711
 longitude: -96.77049
 postcode: "75206"
 city: Dallas
-street: "East Mockingbird Lane"
-housenumber: 5671
+street: East Mockingbird Lane
+housenumber: "5671"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 683279327
-type: way
+type: node
 latitude: 33.59101
 longitude: -101.95549
 postcode: "79416"
 city: Lubbock
-street: "4th Street"
-housenumber: 6313
+street: 4th Street
+housenumber: "6313"
 phone: ""
 opening_hours: ""
-website: "https://local.unitedsupermarkets.com/tx/lubbock/6313-4th-st.html"
+website: https://local.unitedsupermarkets.com/tx/lubbock/6313-4th-st.html

@@ -1,11 +1,11 @@
 id: 264237575
-type: way
+type: node
 latitude: 33.18972
 longitude: -97.12552
 postcode: "76205"
 city: Denton
-street: "Londonderry Lane"
-housenumber: 630
+street: Londonderry Lane
+housenumber: "630"
 phone: "+19408080499"
 opening_hours: ""
 website: ""

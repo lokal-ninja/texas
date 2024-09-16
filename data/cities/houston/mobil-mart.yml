@@ -1,11 +1,11 @@
 id: 1160312418
-type: way
+type: node
 latitude: 29.67392
 longitude: -95.56246
 postcode: "77099"
 city: Houston
-street: "Bissonnet Street"
-housenumber: 10445
+street: Bissonnet Street
+housenumber: "10445"
 phone: ""
 opening_hours: ""
 website: ""

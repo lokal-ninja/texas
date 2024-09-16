@@ -1,11 +1,11 @@
 id: 520929290
-type: way
+type: node
 latitude: 29.44473
 longitude: -95.08912
 postcode: "77539"
 city: Dickinson
-street: "FM 517 W"
-housenumber: 611
-phone: "+1 281-337-6527"
-opening_hours: "Mo-Su 07:30-19:00"
-website: "https://sutherlands.com/"
+street: FM 517 W
+housenumber: "611"
+phone: +1 281-337-6527
+opening_hours: Mo-Su 07:30-19:00
+website: https://sutherlands.com/

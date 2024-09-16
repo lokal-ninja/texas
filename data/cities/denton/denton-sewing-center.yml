@@ -1,11 +1,11 @@
 id: 260480170
-type: way
+type: node
 latitude: 33.22869
 longitude: -97.14942
 postcode: "76201"
 city: Denton
-street: "Malone Street"
-housenumber: 1423
+street: Malone Street
+housenumber: "1423"
 phone: ""
 opening_hours: ""
 website: ""

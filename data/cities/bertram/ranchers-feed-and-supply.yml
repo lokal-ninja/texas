@@ -1,11 +1,11 @@
 id: 1285819723
-type: way
+type: node
 latitude: 30.74258
 longitude: -98.05552
 postcode: "78605"
 city: Bertram
-street: "East Vaughan Street"
-housenumber: 168
-phone: "+1-512-355-2145"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+street: East Vaughan Street
+housenumber: "168"
+phone: +1-512-355-2145
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:00
 website: ""

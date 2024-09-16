@@ -1,11 +1,11 @@
 id: 810376357
-type: way
+type: node
 latitude: 35.54456
 longitude: -100.99087
 postcode: "79065"
 city: Pampa
-street: "North Price Road"
-housenumber: 1051
+street: North Price Road
+housenumber: "1051"
 phone: ""
 opening_hours: ""
 website: ""

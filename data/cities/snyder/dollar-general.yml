@@ -1,11 +1,11 @@
 id: 729433018
-type: way
+type: node
 latitude: 32.7011
 longitude: -100.91998
 postcode: "79549"
 city: Snyder
-street: "College Avenue"
-housenumber: 4015
+street: College Avenue
+housenumber: "4015"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/snyder/1912"
+website: https://www.dollargeneral.com/store-directory/tx/snyder/1912

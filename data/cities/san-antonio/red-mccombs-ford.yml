@@ -1,11 +1,11 @@
 id: 393302572
-type: way
+type: node
 latitude: 29.51698
 longitude: -98.55285
 postcode: "78230"
 city: San Antonio
-street: "Interstate 10 West"
-housenumber: 8333
-phone: "+1-210-349-4949"
+street: Interstate 10 West
+housenumber: "8333"
+phone: +1-210-349-4949
 opening_hours: ""
-website: "https://www.saford.com/"
+website: https://www.saford.com/

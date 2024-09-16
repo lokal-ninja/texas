@@ -1,11 +1,11 @@
 id: 679636142
-type: way
+type: node
 latitude: 33.43146
 longitude: -101.64278
 postcode: ""
 city: Slaton
-street: "South 9th Street"
-housenumber: 850
+street: South 9th Street
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

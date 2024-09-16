@@ -1,11 +1,11 @@
 id: 373361455
-type: way
+type: node
 latitude: 29.85072
 longitude: -98.40919
 postcode: "78070"
 city: Spring Branch
-street: "US Highway 281"
-housenumber: 7765
+street: US Highway 281
+housenumber: "7765"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 472276784
-type: way
+type: node
 latitude: 33.579
 longitude: -101.81905
 postcode: "79403"
 city: Lubbock
-street: "East 19th Street"
-housenumber: 1540
+street: East 19th Street
+housenumber: "1540"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 772042178
-type: way
+type: node
 latitude: 30.03419
 longitude: -94.0642
 postcode: "77705"
 city: Beaumont
-street: "East Cardinal Drive"
-housenumber: 1755
+street: East Cardinal Drive
+housenumber: "1755"
 phone: ""
 opening_hours: ""
 website: ""

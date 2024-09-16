@@ -1,11 +1,11 @@
 id: 773792322
-type: way
+type: node
 latitude: 31.88606
 longitude: -106.5782
 postcode: "79912"
 city: El Paso
-street: "Paseo Del Norte Boulevard -"
-housenumber: 7831
-phone: "+1 915-259-1945"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5717-el-paso-tx"
+street: Paseo Del Norte Boulevard -
+housenumber: "7831"
+phone: +1 915-259-1945
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5717-el-paso-tx

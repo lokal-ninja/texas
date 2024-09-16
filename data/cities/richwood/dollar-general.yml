@@ -1,11 +1,11 @@
 id: 1017278276
-type: way
+type: node
 latitude: 29.06667
 longitude: -95.4183
 postcode: "77531"
 city: Richwood
-street: "FM 2004"
-housenumber: 1601
+street: FM 2004
+housenumber: "1601"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/richwood/7994"
+website: https://www.dollargeneral.com/store-directory/tx/richwood/7994

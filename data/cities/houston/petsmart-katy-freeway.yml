@@ -1,11 +1,11 @@
 id: 129370943
-type: way
+type: node
 latitude: 29.78736
 longitude: -95.53429
 postcode: "77055"
 city: Houston
-street: "Katy Freeway"
-housenumber: 9718
-phone: "+1 713-932-9909"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/houston-store1766.html"
+street: Katy Freeway
+housenumber: "9718"
+phone: +1 713-932-9909
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/houston-store1766.html

@@ -1,11 +1,11 @@
 id: 387888430
-type: way
+type: node
 latitude: 29.77955
 longitude: -95.75109
 postcode: ""
 city: Katy
-street: "South Mason Road"
-housenumber: 411
+street: South Mason Road
+housenumber: "411"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-411+s+mason+rd-katy-tx-77450/id=4696"
+website: https://www.walgreens.com/locator/walgreens-411+s+mason+rd-katy-tx-77450/id=4696

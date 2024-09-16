@@ -1,11 +1,11 @@
 id: 545135829
-type: way
+type: node
 latitude: 30.34995
 longitude: -97.37175
 postcode: "78621"
 city: Elgin
-street: "North Main Street"
-housenumber: 212
-phone: "+1-512-281-3959"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+street: North Main Street
+housenumber: "212"
+phone: +1-512-281-3959
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
 website: ""

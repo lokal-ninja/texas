@@ -1,11 +1,11 @@
 id: 346232406
-type: way
+type: node
 latitude: 31.44932
 longitude: -96.07831
 postcode: "75831"
 city: Buffalo
-street: "West Commerce Street"
-housenumber: 2431
+street: West Commerce Street
+housenumber: "2431"
 phone: ""
 opening_hours: ""
 website: ""

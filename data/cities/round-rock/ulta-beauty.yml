@@ -1,11 +1,11 @@
 id: 293801234
-type: way
+type: node
 latitude: 30.48233
 longitude: -97.68009
 postcode: "78681"
 city: Round Rock
-street: "Parker Drive"
-housenumber: 2701
-phone: "+1 512-310-7051"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/round-rock-tx-91"
+street: Parker Drive
+housenumber: "2701"
+phone: +1 512-310-7051
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/round-rock-tx-91

@@ -1,11 +1,11 @@
 id: 673962170
-type: way
+type: node
 latitude: 29.35112
 longitude: -98.50349
 postcode: "78221"
 city: San Antonio
-street: "Pleasanton Road"
-housenumber: 2812
-phone: "+1-210-924-1974"
+street: Pleasanton Road
+housenumber: "2812"
+phone: +1-210-924-1974
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/sanantonio/autoparts-648.html"
+website: https://locations.oreillyauto.com/tx/sanantonio/autoparts-648.html

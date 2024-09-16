@@ -1,11 +1,11 @@
 id: 230091269
-type: way
+type: node
 latitude: 29.65174
 longitude: -95.61986
 postcode: "77478"
 city: Sugar Land
-street: "Eldridge Road"
-housenumber: 2103
+street: Eldridge Road
+housenumber: "2103"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2103+eldridge+rd-sugar+land-tx-77478/id=3324"
+website: https://www.walgreens.com/locator/walgreens-2103+eldridge+rd-sugar+land-tx-77478/id=3324

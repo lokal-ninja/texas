@@ -1,11 +1,11 @@
 id: 591765843
-type: way
+type: node
 latitude: 32.52983
 longitude: -94.78734
 postcode: "75605"
 city: Longview
-street: "Gilmer Road"
-housenumber: 2220
+street: Gilmer Road
+housenumber: "2220"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/longview/autoparts-652.html"
+website: https://locations.oreillyauto.com/tx/longview/autoparts-652.html

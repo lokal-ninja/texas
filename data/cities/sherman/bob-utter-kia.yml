@@ -1,11 +1,11 @@
 id: 167025868
-type: way
+type: node
 latitude: 33.66533
 longitude: -96.59574
 postcode: "75090"
 city: Sherman
-street: "Texoma Parkway"
-housenumber: 2433
+street: Texoma Parkway
+housenumber: "2433"
 phone: ""
 opening_hours: ""
 website: ""

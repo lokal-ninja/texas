@@ -1,11 +1,11 @@
 id: 621758878
-type: way
+type: node
 latitude: 29.08995
 longitude: -97.28079
 postcode: "77954"
 city: Cuero
-street: "East Broadway Street"
-housenumber: 909
-phone: "+1-361-275-6144"
+street: East Broadway Street
+housenumber: "909"
+phone: +1-361-275-6144
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 843312041
-type: way
+type: node
 latitude: 31.07225
 longitude: -98.18517
 postcode: "76550"
 city: Lampasas
-street: "North Key Avenue"
-housenumber: 601
+street: North Key Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

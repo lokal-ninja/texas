@@ -1,11 +1,11 @@
 id: 1096155330
-type: way
+type: node
 latitude: 29.6989
 longitude: -95.48373
 postcode: "77401"
 city: Bellaire
-street: "Bissonnet Street"
-housenumber: 5861
+street: Bissonnet Street
+housenumber: "5861"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
 website: ""

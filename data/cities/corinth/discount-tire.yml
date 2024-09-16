@@ -1,11 +1,11 @@
 id: 750312850
-type: way
+type: node
 latitude: 33.13216
 longitude: -97.04063
 postcode: "76210"
 city: Corinth
-street: "South Interstate 35E"
-housenumber: 8051
-phone: "+1 940 326 6034"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+street: South Interstate 35E
+housenumber: "8051"
+phone: +1 940 326 6034
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

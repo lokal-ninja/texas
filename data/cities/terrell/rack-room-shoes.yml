@@ -1,11 +1,11 @@
 id: 788128433
-type: way
+type: node
 latitude: 32.71932
 longitude: -96.32656
 postcode: "75160"
 city: Terrell
-street: "American Way"
-housenumber: 650
+street: American Way
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

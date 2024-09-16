@@ -1,11 +1,11 @@
 id: 829479068
-type: way
+type: node
 latitude: 26.36647
 longitude: -98.79514
 postcode: "78582"
 city: Rio Grande City
-street: "East US Highway 83"
-housenumber: 4534
-phone: "+1 956-487-0090"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1958/rio-grande%20city-tx/whats-new"
+street: East US Highway 83
+housenumber: "4534"
+phone: +1 956-487-0090
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1958/rio-grande%20city-tx/whats-new

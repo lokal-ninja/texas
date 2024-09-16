@@ -1,11 +1,11 @@
 id: 640596238
-type: way
+type: node
 latitude: 32.83331
 longitude: -96.6339
 postcode: "75150"
 city: Mesquite
-street: "Oates Drive"
-housenumber: 2300
+street: Oates Drive
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

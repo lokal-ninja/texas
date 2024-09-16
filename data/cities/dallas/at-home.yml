@@ -1,11 +1,11 @@
 id: 513699503
-type: way
+type: node
 latitude: 32.8633
 longitude: -96.75282
 postcode: "75231"
 city: Dallas
-street: "Skillman Street"
-housenumber: 6051
+street: Skillman Street
+housenumber: "6051"
 phone: ""
 opening_hours: ""
 website: ""

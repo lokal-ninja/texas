@@ -1,11 +1,11 @@
 id: 962413904
-type: way
+type: node
 latitude: 32.46161
 longitude: -99.76573
 postcode: "79603"
 city: Abilene
-street: "North 10th Street"
-housenumber: 3458
+street: North 10th Street
+housenumber: "3458"
 phone: ""
 opening_hours: ""
 website: ""

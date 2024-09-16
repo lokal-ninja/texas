@@ -1,11 +1,11 @@
 id: 1208518215
-type: way
+type: node
 latitude: 30.28709
 longitude: -97.74208
 postcode: "78705"
 city: Austin
-street: "Guadalupe Street"
-housenumber: 2330
-phone: "+1-512-484-4776"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/tx/austin/2330-guadalupe-36986"
+street: Guadalupe Street
+housenumber: "2330"
+phone: +1-512-484-4776
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/tx/austin/2330-guadalupe-36986

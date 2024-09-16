@@ -1,11 +1,11 @@
 id: 843603840
-type: way
+type: node
 latitude: 32.31915
 longitude: -102.54657
 postcode: "79714"
 city: Andrews
-street: "North Main Street"
-housenumber: 104
+street: North Main Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

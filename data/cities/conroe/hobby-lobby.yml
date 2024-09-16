@@ -1,11 +1,11 @@
 id: 767809011
-type: way
+type: node
 latitude: 30.33355
 longitude: -95.4757
 postcode: "77301"
 city: Conroe
-street: "West Cartwright Road"
-housenumber: 1217
+street: West Cartwright Road
+housenumber: "1217"
 phone: ""
 opening_hours: ""
 website: ""

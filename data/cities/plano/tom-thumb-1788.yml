@@ -1,11 +1,11 @@
 id: 130306692
-type: way
+type: node
 latitude: 33.08373
 longitude: -96.71409
 postcode: "75025"
 city: Plano
-street: "Alma Drive"
-housenumber: 7801
+street: Alma Drive
+housenumber: "7801"
 phone: ""
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/plano/7801-alma-dr.html"
+website: https://local.tomthumb.com/tx/plano/7801-alma-dr.html

@@ -4,8 +4,8 @@ latitude: 32.75535
 longitude: -97.33195
 postcode: "76102"
 city: Fort Worth
-street: "Main Street"
-housenumber: 302
-phone: "+1-817-849-6840"
-opening_hours: "Mo-Sa 10:00-20:00, Su 12:00-18:00"
-website: "homaskinkadetx.com"
+street: Main Street
+housenumber: "302"
+phone: +1-817-849-6840
+opening_hours: Mo-Sa 10:00-20:00, Su 12:00-18:00
+website: homaskinkadetx.com

@@ -1,11 +1,11 @@
 id: 1282723686
-type: way
+type: node
 latitude: 33.17227
 longitude: -96.76983
 postcode: "75035"
 city: frisco
-street: "Coit Road"
-housenumber: 11401
+street: Coit Road
+housenumber: "11401"
 phone: ""
 opening_hours: ""
 website: ""

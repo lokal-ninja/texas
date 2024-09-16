@@ -1,11 +1,11 @@
 id: 1214432954
-type: way
+type: node
 latitude: 29.56847
 longitude: -96.46523
 postcode: "77412"
 city: Altair
-street: "US Highway 90A"
-housenumber: 4142
+street: US Highway 90A
+housenumber: "4142"
 phone: ""
 opening_hours: ""
 website: ""

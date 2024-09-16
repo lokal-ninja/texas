@@ -1,11 +1,11 @@
 id: 706299185
-type: way
+type: node
 latitude: 32.47172
 longitude: -95.38873
 postcode: "75771"
 city: Lindale
-street: "South Main Street"
-housenumber: 3318
+street: South Main Street
+housenumber: "3318"
 phone: ""
 opening_hours: ""
 website: ""

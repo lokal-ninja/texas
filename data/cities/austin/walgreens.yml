@@ -1,11 +1,11 @@
-id: 108059182
-type: way
-latitude: 30.39258
-longitude: -97.70713
-postcode: "78758"
+id: 30770282
+type: node
+latitude: 30.49895
+longitude: -97.77521
+postcode: "78717"
 city: Austin
-street: "West Braker Lane"
-housenumber: 1910
-phone: "+1-512-837-0819"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walgreens.com/locator/walgreens-1910+w+braker+ln-austin-tx-78758/id=4632"
+street: West Parmer Lane
+housenumber: "10600"
+phone: +1-512-238-7124
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walgreens.com/locator/walgreens-10600+w+parmer+ln-austin-tx-78717/id=7673

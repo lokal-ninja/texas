@@ -1,11 +1,11 @@
 id: 679572081
-type: way
+type: node
 latitude: 32.96653
 longitude: -96.64524
 postcode: "75040"
 city: Garland
-street: "North Garland Avenue"
-housenumber: 5401
-phone: "+1 972-675-4900"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/garland-store1109.html"
+street: North Garland Avenue
+housenumber: "5401"
+phone: +1 972-675-4900
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/garland-store1109.html

@@ -1,11 +1,11 @@
 id: 496182140
-type: way
+type: node
 latitude: 29.72909
 longitude: -99.07565
 postcode: "78003"
 city: Bandera
-street: "Main Street"
-housenumber: 808
+street: Main Street
+housenumber: "808"
 phone: ""
 opening_hours: ""
 website: ""

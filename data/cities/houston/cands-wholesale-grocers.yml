@@ -1,11 +1,11 @@
 id: 835411935
-type: way
+type: node
 latitude: 29.9976
 longitude: -95.41916
 postcode: "77073"
 city: Houston
-street: "Woodham Drive"
-housenumber: 15515
+street: Woodham Drive
+housenumber: "15515"
 phone: ""
 opening_hours: ""
 website: ""

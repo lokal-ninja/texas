@@ -1,11 +1,11 @@
 id: 357564181
-type: way
+type: node
 latitude: 29.49162
 longitude: -98.54952
 postcode: "78201"
 city: Balcones Heights
-street: "Crossroads Boulevard"
-housenumber: 200
+street: Crossroads Boulevard
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

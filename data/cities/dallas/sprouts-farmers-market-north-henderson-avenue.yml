@@ -1,11 +1,11 @@
 id: 463908427
-type: way
+type: node
 latitude: 32.81141
 longitude: -96.77267
 postcode: "75206"
 city: Dallas
-street: "North Henderson Avenue"
-housenumber: 1800
-phone: "+1 214-826-2937"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/dallas/dallas-henderson-ave/"
+street: North Henderson Avenue
+housenumber: "1800"
+phone: +1 214-826-2937
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/dallas/dallas-henderson-ave/

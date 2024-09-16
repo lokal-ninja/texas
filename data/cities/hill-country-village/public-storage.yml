@@ -1,11 +1,11 @@
 id: 682127268
-type: way
+type: node
 latitude: 29.5867
 longitude: -98.47568
 postcode: "78232"
 city: Hill Country Village
-street: "San Pedro Avenue"
-housenumber: 15889
+street: San Pedro Avenue
+housenumber: "15889"
 phone: ""
 opening_hours: ""
 website: ""

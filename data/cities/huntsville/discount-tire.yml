@@ -1,11 +1,11 @@
 id: 288678784
-type: way
+type: node
 latitude: 30.71345
 longitude: -95.5679
 postcode: "77340"
 city: Huntsville
-street: "I-45 South"
-housenumber: 171
-phone: "+1-936-435-1024"
+street: I-45 South
+housenumber: "171"
+phone: +1-936-435-1024
 opening_hours: ""
 website: ""

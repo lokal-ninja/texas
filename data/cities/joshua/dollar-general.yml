@@ -1,11 +1,11 @@
 id: 711176313
-type: way
+type: node
 latitude: 32.46792
 longitude: -97.38499
 postcode: "76058"
 city: Joshua
-street: "North Broadway Street"
-housenumber: 321
-phone: "+1-682-200-2854"
+street: North Broadway Street
+housenumber: "321"
+phone: +1-682-200-2854
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/joshua/4975"
+website: https://www.dollargeneral.com/store-directory/tx/joshua/4975

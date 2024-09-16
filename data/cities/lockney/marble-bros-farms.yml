@@ -1,11 +1,11 @@
 id: 1071099633
-type: way
+type: node
 latitude: 34.22547
 longitude: -101.31073
 postcode: "79241"
 city: Lockney
-street: "Main Street"
-housenumber: 502
+street: Main Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

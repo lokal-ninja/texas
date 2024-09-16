@@ -1,11 +1,11 @@
 id: 134166855
-type: way
+type: node
 latitude: 30.48003
 longitude: -97.66956
 postcode: "78664"
 city: Round Rock
-street: "Louis Henna Boulevard"
-housenumber: 121
-phone: "+1 512-246-7677"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/round-rock/1066"
+street: Louis Henna Boulevard
+housenumber: "121"
+phone: +1 512-246-7677
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/round-rock/1066

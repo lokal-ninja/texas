@@ -1,11 +1,11 @@
 id: 183688310
-type: way
+type: node
 latitude: 31.85491
 longitude: -102.39432
 postcode: "79763"
 city: Odessa
-street: "North County Road West"
-housenumber: 1801
-phone: "+1-432-653-5788"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://endgamebarbershop.com/"
+street: North County Road West
+housenumber: "1801"
+phone: +1-432-653-5788
+opening_hours: Tu-Sa 09:00-19:00
+website: https://endgamebarbershop.com/

@@ -1,11 +1,11 @@
 id: 713267284
-type: way
+type: node
 latitude: 32.38998
 longitude: -94.86589
 postcode: "75662"
 city: Kilgore
-street: "North US 259"
-housenumber: 905
+street: North US 259
+housenumber: "905"
 phone: ""
 opening_hours: ""
 website: ""

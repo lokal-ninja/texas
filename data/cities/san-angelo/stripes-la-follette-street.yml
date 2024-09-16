@@ -1,11 +1,11 @@
 id: 753010373
-type: way
+type: node
 latitude: 31.47671
 longitude: -100.41286
 postcode: "76905"
 city: San Angelo
-street: "La Follette Street"
-housenumber: 1601
+street: La Follette Street
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

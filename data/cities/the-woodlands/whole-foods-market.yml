@@ -1,11 +1,11 @@
 id: 435067144
-type: way
+type: node
 latitude: 30.16985
 longitude: -95.47054
 postcode: "77380"
 city: The Woodlands
-street: "Hughes Landing Boulevard"
-housenumber: 1925
-phone: "+1 832-246-5600"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/thewoodlands"
+street: Hughes Landing Boulevard
+housenumber: "1925"
+phone: +1 832-246-5600
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/thewoodlands

@@ -1,11 +1,11 @@
 id: 1079762089
-type: way
+type: node
 latitude: 33.95199
 longitude: -98.57082
 postcode: "76305"
 city: Wichita Falls
-street: "Northwest Freeway"
-housenumber: 5514
+street: Northwest Freeway
+housenumber: "5514"
 phone: ""
 opening_hours: ""
 website: ""

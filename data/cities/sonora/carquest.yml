@@ -1,11 +1,11 @@
 id: 747935425
-type: way
+type: node
 latitude: 30.56838
 longitude: -100.64459
 postcode: "76950"
 city: Sonora
-street: "South Crockett Avenue"
-housenumber: 501
+street: South Crockett Avenue
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

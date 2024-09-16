@@ -1,11 +1,11 @@
 id: 940718188
-type: way
+type: node
 latitude: 29.04605
 longitude: -95.45625
 postcode: "77566"
 city: Lake Jackson
-street: "State Highway 332 West"
-housenumber: 115
+street: State Highway 332 West
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

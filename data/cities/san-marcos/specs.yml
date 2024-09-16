@@ -1,11 +1,11 @@
 id: 886858815
-type: way
+type: node
 latitude: 29.84887
 longitude: -97.96784
 postcode: "78666"
 city: San Marcos
-street: "Barnes Drive"
-housenumber: 510
+street: Barnes Drive
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

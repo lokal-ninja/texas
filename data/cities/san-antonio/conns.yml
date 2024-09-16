@@ -1,11 +1,11 @@
 id: 131422006
-type: way
+type: node
 latitude: 29.55291
 longitude: -98.66408
 postcode: "78249"
 city: San Antonio
-street: "Bandera Road"
-housenumber: 11650
+street: Bandera Road
+housenumber: "11650"
 phone: ""
 opening_hours: ""
-website: "https://www.conns.com/store-locator/san-antonio/san-antonio-78250"
+website: https://www.conns.com/store-locator/san-antonio/san-antonio-78250

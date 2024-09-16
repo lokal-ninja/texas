@@ -1,11 +1,11 @@
 id: 97720769
-type: way
+type: node
 latitude: 29.48667
 longitude: -98.71391
 postcode: "78253"
 city: San Antonio
-street: "West Loop 1604 North"
-housenumber: 5303
-phone: "+1 210-257-2000"
-opening_hours: "Mo-Sa 6:00-22:00; Su 8:00-20:00"
-website: "https://www.lowes.com/store/tx-san-antonio/2898"
+street: West Loop 1604 North
+housenumber: "5303"
+phone: +1 210-257-2000
+opening_hours: Mo-Sa 6:00-22:00; Su 8:00-20:00
+website: https://www.lowes.com/store/tx-san-antonio/2898

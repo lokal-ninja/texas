@@ -1,11 +1,11 @@
 id: 88456152
-type: way
+type: node
 latitude: 29.49397
 longitude: -98.71028
 postcode: "78253"
 city: San Antonio
-street: "West Loop 1604 North"
-housenumber: 5355
-phone: "+1 210-424-1910"
-opening_hours: "07:00-23:00"
-website: "https://www.target.com/sl/san-antonio-culebra/2426"
+street: West Loop 1604 North
+housenumber: "5355"
+phone: +1 210-424-1910
+opening_hours: 07:00-23:00
+website: https://www.target.com/sl/san-antonio-culebra/2426

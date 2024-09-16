@@ -1,11 +1,11 @@
 id: 262625930
-type: way
+type: node
 latitude: 31.08292
 longitude: -97.46075
 postcode: "76513"
 city: Belton
-street: "North Main Street"
-housenumber: 2604
-phone: "+1 254-939-0962"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1232-belton-tx"
+street: North Main Street
+housenumber: "2604"
+phone: +1 254-939-0962
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1232-belton-tx

@@ -1,11 +1,11 @@
 id: 1247456539
-type: way
+type: node
 latitude: 33.37214
 longitude: -98.77658
 postcode: "76374"
 city: Olney
-street: "West Main Street"
-housenumber: 1435
+street: West Main Street
+housenumber: "1435"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 693435305
-type: way
+type: node
 latitude: 29.80757
 longitude: -95.41215
 postcode: ""
 city: Houston
-street: "North Durham Drive"
-housenumber: 2320
+street: North Durham Drive
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

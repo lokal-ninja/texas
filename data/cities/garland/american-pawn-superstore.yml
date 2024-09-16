@@ -1,11 +1,11 @@
 id: 645030287
-type: way
+type: node
 latitude: 32.83958
 longitude: -96.59293
 postcode: "75043"
 city: Garland
-street: "West Interstate 30"
-housenumber: 484
+street: West Interstate 30
+housenumber: "484"
 phone: ""
 opening_hours: ""
 website: ""

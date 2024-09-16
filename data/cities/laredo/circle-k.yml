@@ -1,11 +1,11 @@
 id: 1122761434
-type: way
+type: node
 latitude: 27.49758
 longitude: -99.44826
 postcode: "78043"
 city: Laredo
-street: "State Highway 359"
-housenumber: 4418
+street: State Highway 359
+housenumber: "4418"
 phone: ""
 opening_hours: ""
 website: ""

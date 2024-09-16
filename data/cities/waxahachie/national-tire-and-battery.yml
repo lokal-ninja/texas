@@ -1,11 +1,11 @@
 id: 515732315
-type: way
+type: node
 latitude: 32.42173
 longitude: -96.84125
 postcode: "75165"
 city: Waxahachie
-street: "North US Highway 77"
-housenumber: 1303
+street: North US Highway 77
+housenumber: "1303"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/tx/waxahachie/1303-n-highway-77-75165/4520"
+website: https://www.ntb.com/store/tx/waxahachie/1303-n-highway-77-75165/4520

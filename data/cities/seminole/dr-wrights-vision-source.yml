@@ -1,11 +1,11 @@
 id: 1028424883
-type: way
+type: node
 latitude: 32.71925
 longitude: -102.6536
 postcode: "79360"
 city: Seminole
-street: "Hobbs Highway"
-housenumber: 707
+street: Hobbs Highway
+housenumber: "707"
 phone: "+14327583229"
 opening_hours: ""
 website: ""

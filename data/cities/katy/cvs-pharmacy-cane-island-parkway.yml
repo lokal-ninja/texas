@@ -1,11 +1,11 @@
 id: 788638370
-type: way
+type: node
 latitude: 29.77997
 longitude: -95.84911
 postcode: ""
 city: Katy
-street: "Cane Island Parkway"
-housenumber: 322
+street: Cane Island Parkway
+housenumber: "322"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/katy-tx-pharmacies/322-cane-island-pkwy-katy-tx-77494/storeid=11098"
+website: https://www.cvs.com/store-locator/katy-tx-pharmacies/322-cane-island-pkwy-katy-tx-77494/storeid=11098

@@ -1,11 +1,11 @@
 id: 497732905
-type: way
+type: node
 latitude: 32.78979
 longitude: -97.33018
 postcode: "76106"
 city: Fort Worth
-street: "Brennan Avenue"
-housenumber: 2201
-phone: "+1 817 6242454"
+street: Brennan Avenue
+housenumber: "2201"
+phone: +1 817 6242454
 opening_hours: ""
-website: "http://nationalservicesystemsllc.com"
+website: http://nationalservicesystemsllc.com

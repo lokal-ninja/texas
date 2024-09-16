@@ -1,11 +1,11 @@
 id: 365924889
-type: way
+type: node
 latitude: 29.70319
 longitude: -95.35966
 postcode: ""
 city: Houston
-street: "Scott Street"
-housenumber: 5920
+street: Scott Street
+housenumber: "5920"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 460417802
-type: way
+type: node
 latitude: 32.71588
 longitude: -102.65669
 postcode: "79360"
 city: Seminole
-street: "Southwest 11th Street"
-housenumber: 309
+street: Southwest 11th Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

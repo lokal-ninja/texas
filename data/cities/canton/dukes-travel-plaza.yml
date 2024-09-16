@@ -1,11 +1,11 @@
 id: 758564080
-type: way
+type: node
 latitude: 32.60092
 longitude: -95.92083
 postcode: "75103"
 city: Canton
-street: "I-20 Frontage Road"
-housenumber: 21620
+street: I-20 Frontage Road
+housenumber: "21620"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384199005
-type: way
+type: node
 latitude: 30.37175
 longitude: -97.67367
 postcode: "78753"
 city: Austin
-street: "Bluff Bend Drive"
-housenumber: 11011
+street: Bluff Bend Drive
+housenumber: "11011"
 phone: ""
 opening_hours: ""
 website: ""

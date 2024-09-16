@@ -1,11 +1,11 @@
 id: 597906841
-type: way
+type: node
 latitude: 32.93805
 longitude: -96.72341
 postcode: "75081"
 city: Richardson
-street: "Centennial Boulevard"
-housenumber: 518
+street: Centennial Boulevard
+housenumber: "518"
 phone: ""
 opening_hours: ""
 website: ""

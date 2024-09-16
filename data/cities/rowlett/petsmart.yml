@@ -1,11 +1,11 @@
 id: 666164193
-type: way
+type: node
 latitude: 32.91135
 longitude: -96.55806
 postcode: "75088"
 city: Rowlett
-street: "President George Bush Highway"
-housenumber: 5709
-phone: "+1 972-412-1624"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/rowlett-store1826.html"
+street: President George Bush Highway
+housenumber: "5709"
+phone: +1 972-412-1624
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/rowlett-store1826.html

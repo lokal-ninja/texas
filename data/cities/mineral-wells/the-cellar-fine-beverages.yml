@@ -1,11 +1,11 @@
 id: 700188855
-type: way
+type: node
 latitude: 32.80338
 longitude: -98.14885
 postcode: "76067"
 city: Mineral Wells
-street: "Highway 180 West"
-housenumber: 2805
+street: Highway 180 West
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1134652420
-type: way
+type: node
 latitude: 28.99402
 longitude: -98.42882
 postcode: "78064"
 city: Pleasanton
-street: "East State Highway 97"
-housenumber: 4463
+street: East State Highway 97
+housenumber: "4463"
 phone: ""
 opening_hours: ""
 website: ""

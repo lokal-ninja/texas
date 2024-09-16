@@ -1,11 +1,11 @@
 id: 1098686379
-type: way
+type: node
 latitude: 32.65884
 longitude: -95.489
 postcode: "75773"
 city: Mineola
-street: "South Pacific Street"
-housenumber: 609
-phone: "+1-903-279-7522"
+street: South Pacific Street
+housenumber: "609"
+phone: +1-903-279-7522
 opening_hours: ""
 website: ""

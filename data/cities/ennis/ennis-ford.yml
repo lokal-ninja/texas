@@ -1,11 +1,11 @@
 id: 717723706
-type: way
+type: node
 latitude: 32.34068
 longitude: -96.61813
 postcode: "75119"
 city: Ennis
-street: "North Interstate 45"
-housenumber: 900
+street: North Interstate 45
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

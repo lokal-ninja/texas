@@ -1,11 +1,11 @@
 id: 179079933
-type: way
+type: node
 latitude: 35.1896
 longitude: -101.92621
 postcode: "79124"
 city: Amarillo
-street: "West Amarillo Boulevard"
-housenumber: 8201
-phone: "+1-806-359-9600"
+street: West Amarillo Boulevard
+housenumber: "8201"
+phone: +1-806-359-9600
 opening_hours: ""
-website: "http://www.vaitx.com/"
+website: http://www.vaitx.com/

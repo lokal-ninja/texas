@@ -1,11 +1,11 @@
 id: 483463499
-type: way
+type: node
 latitude: 32.75649
 longitude: -97.35315
 postcode: "76107"
 city: Fort Worth
-street: "Carroll Street"
-housenumber: 301
-phone: "+1 817-302-0290"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/fort-worth-central/2042"
+street: Carroll Street
+housenumber: "301"
+phone: +1 817-302-0290
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/fort-worth-central/2042

@@ -1,11 +1,11 @@
 id: 746814265
-type: way
+type: node
 latitude: 26.2077
 longitude: -98.26217
 postcode: "78501"
 city: McAllen
-street: "West Business 83"
-housenumber: 3701
+street: West Business 83
+housenumber: "3701"
 phone: ""
 opening_hours: ""
 website: ""

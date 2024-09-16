@@ -1,11 +1,11 @@
 id: 1151629545
-type: way
+type: node
 latitude: 34.18509
 longitude: -101.69756
 postcode: "79072"
 city: Plainview
-street: "North Date Street"
-housenumber: 501
+street: North Date Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

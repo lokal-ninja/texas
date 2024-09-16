@@ -1,11 +1,11 @@
 id: 172460323
-type: way
+type: node
 latitude: 31.86951
 longitude: -106.4326
 postcode: "79904"
 city: El Paso
-street: "Hondo Pass Drive"
-housenumber: 4716
-phone: "+1 915-245-3573"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5962/el-paso-tx/whats-new"
+street: Hondo Pass Drive
+housenumber: "4716"
+phone: +1 915-245-3573
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5962/el-paso-tx/whats-new

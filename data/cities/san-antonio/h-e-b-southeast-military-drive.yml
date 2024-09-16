@@ -1,11 +1,11 @@
 id: 249747982
-type: way
+type: node
 latitude: 29.35365
 longitude: -98.4342
 postcode: "78223"
 city: San Antonio
-street: "Southeast Military Drive"
-housenumber: 3323
-phone: "+1-210-333-1441"
-opening_hours: "06:00-23:00"
-website: "https://www.heb.com/"
+street: Southeast Military Drive
+housenumber: "3323"
+phone: +1-210-333-1441
+opening_hours: 06:00-23:00
+website: https://www.heb.com/

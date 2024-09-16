@@ -4,8 +4,8 @@ latitude: 29.8137
 longitude: -95.39814
 postcode: "77018"
 city: Houston
-street: "North Loop"
-housenumber: 101
-phone: "+1 713-369-0800"
-opening_hours: "Th,Sa-Tu 08:00-21:00; We,Fr 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/independenceheights"
+street: North Loop
+housenumber: "101"
+phone: +1 713-369-0800
+opening_hours: Th,Sa-Tu 08:00-21:00; We,Fr 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/independenceheights

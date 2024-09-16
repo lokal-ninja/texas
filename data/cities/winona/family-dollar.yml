@@ -1,11 +1,11 @@
 id: 1210131569
-type: way
+type: node
 latitude: 32.49357
 longitude: -95.16687
 postcode: "75792"
 city: Winona
-street: "North Main Street"
-housenumber: 311
+street: North Main Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

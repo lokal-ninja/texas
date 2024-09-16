@@ -1,11 +1,11 @@
 id: 1313388587
-type: way
+type: node
 latitude: 32.23475
 longitude: -97.75506
 postcode: ""
 city: Glen Rose
-street: "Northeast Barnard Street"
-housenumber: 108
-phone: "+1-254-228-3138"
-opening_hours: "Tu-Fr 11:00-18:00; Su 12:00-17:00"
-website: "https://paisleyreese.com/"
+street: Northeast Barnard Street
+housenumber: "108"
+phone: +1-254-228-3138
+opening_hours: Tu-Fr 11:00-18:00; Su 12:00-17:00
+website: https://paisleyreese.com/

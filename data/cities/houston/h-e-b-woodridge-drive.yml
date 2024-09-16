@@ -1,11 +1,11 @@
 id: 45493255
-type: way
+type: node
 latitude: 29.699
 longitude: -95.2951
 postcode: "77087"
 city: Houston
-street: "Woodridge Drive"
-housenumber: 3111
-phone: "+1-713-847-0025"
+street: Woodridge Drive
+housenumber: "3111"
+phone: +1-713-847-0025
 opening_hours: ""
 website: ""

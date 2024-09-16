@@ -1,11 +1,11 @@
 id: 603928337
-type: way
+type: node
 latitude: 32.93494
 longitude: -97.22878
 postcode: "76248"
 city: Keller
-street: "North Rufe Snow Drive"
-housenumber: 101
+street: North Rufe Snow Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/keller-tx-pharmacies/101-n-rufe-snow-dr-keller-tx-76248/storeid=7663"
+website: https://www.cvs.com/store-locator/keller-tx-pharmacies/101-n-rufe-snow-dr-keller-tx-76248/storeid=7663

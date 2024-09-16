@@ -1,11 +1,11 @@
 id: 507077422
-type: way
+type: node
 latitude: 32.29853
 longitude: -95.26108
 postcode: "75707"
 city: Tyler
-street: "Troup Highway"
-housenumber: 5050
-phone: "+1 903-534-1333"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1044/tyler-tx/whats-new"
+street: Troup Highway
+housenumber: "5050"
+phone: +1 903-534-1333
+opening_hours: 24/7
+website: https://www.walmart.com/store/1044/tyler-tx/whats-new

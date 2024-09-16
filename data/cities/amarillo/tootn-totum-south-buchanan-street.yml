@@ -1,11 +1,11 @@
 id: 403108340
-type: way
+type: node
 latitude: 35.20356
 longitude: -101.8336
 postcode: "79101"
 city: Amarillo
-street: "South Buchanan Street"
-housenumber: 950
+street: South Buchanan Street
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

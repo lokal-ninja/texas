@@ -1,11 +1,11 @@
 id: 751113701
-type: way
+type: node
 latitude: 32.73269
 longitude: -101.95372
 postcode: "79331"
 city: Lamesa
-street: "North 1st Street"
-housenumber: 519
+street: North 1st Street
+housenumber: "519"
 phone: ""
 opening_hours: ""
 website: ""

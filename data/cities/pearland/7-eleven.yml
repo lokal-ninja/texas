@@ -1,11 +1,11 @@
 id: 926072675
-type: way
+type: node
 latitude: 29.55656
 longitude: -95.38393
 postcode: "77581"
 city: Pearland
-street: "Broadway Street"
-housenumber: 10521
-phone: "+1 346-342-3023"
+street: Broadway Street
+housenumber: "10521"
+phone: +1 346-342-3023
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tx/pearland/10521-broadway-st-41673"
+website: https://www.7-eleven.com/locations/tx/pearland/10521-broadway-st-41673

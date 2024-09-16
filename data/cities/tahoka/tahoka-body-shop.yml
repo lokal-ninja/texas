@@ -1,11 +1,11 @@
 id: 718766404
-type: way
+type: node
 latitude: 33.16343
 longitude: -101.79726
 postcode: "79373"
 city: Tahoka
-street: "Avenue J"
-housenumber: 1431
+street: Avenue J
+housenumber: "1431"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 709033405
-type: way
+type: node
 latitude: 33.22072
 longitude: -96.82762
 postcode: "75078"
 city: Prosper
-street: "West University Drive"
-housenumber: 1566
+street: West University Drive
+housenumber: "1566"
 phone: ""
 opening_hours: ""
 website: ""

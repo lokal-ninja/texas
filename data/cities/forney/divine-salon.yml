@@ -1,11 +1,11 @@
 id: 568693611
-type: way
+type: node
 latitude: 32.75325
 longitude: -96.47078
 postcode: "75126"
 city: Forney
-street: "West Buffalo Street"
-housenumber: 320
+street: West Buffalo Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 643015779
-type: way
+type: node
 latitude: 32.85409
 longitude: -96.97541
 postcode: "75062"
 city: Irving
-street: "North Story Road"
-housenumber: 3601
+street: North Story Road
+housenumber: "3601"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:45"
+opening_hours: Mo-Su 06:00-22:45
 website: ""

@@ -1,11 +1,11 @@
 id: 821871966
-type: way
+type: node
 latitude: 26.19999
 longitude: -98.28913
 postcode: "78572"
 city: Mission
-street: "South Shary Road"
-housenumber: 120
-phone: "+1 956-583-4194"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/mission/tx/mission/78572/8519"
+street: South Shary Road
+housenumber: "120"
+phone: +1 956-583-4194
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/mission/tx/mission/78572/8519

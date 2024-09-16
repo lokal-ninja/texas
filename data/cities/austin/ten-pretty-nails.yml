@@ -4,8 +4,8 @@ latitude: 30.44195
 longitude: -97.74395
 postcode: "78727"
 city: Austin
-street: "West Parmer Lane"
-housenumber: 6001
-phone: "+1-512-249-8962"
-opening_hours: "Mo-Sa 09:30-19:00; Su 11:30-17:30"
+street: West Parmer Lane
+housenumber: "6001"
+phone: +1-512-249-8962
+opening_hours: Mo-Sa 09:30-19:00; Su 11:30-17:30
 website: ""

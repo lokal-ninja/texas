@@ -1,11 +1,11 @@
 id: 592864187
-type: way
+type: node
 latitude: 30.34626
 longitude: -97.67647
 postcode: "78754"
 city: Austin
-street: "Cameron Road"
-housenumber: 9001
+street: Cameron Road
+housenumber: "9001"
 phone: ""
 opening_hours: ""
 website: ""

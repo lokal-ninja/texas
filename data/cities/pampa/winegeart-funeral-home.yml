@@ -1,11 +1,11 @@
 id: 813714711
-type: way
+type: node
 latitude: 35.53719
 longitude: -100.96471
 postcode: "79065"
 city: Pampa
-street: "North Frost Street"
-housenumber: 303
+street: North Frost Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

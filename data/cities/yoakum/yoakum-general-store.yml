@@ -1,11 +1,11 @@
 id: 1027596477
-type: way
+type: node
 latitude: 29.28557
 longitude: -97.15195
 postcode: ""
 city: Yoakum
-street: "West Street"
-housenumber: 117
+street: West Street
+housenumber: "117"
 phone: "+13612935676"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00"
-website: "http://yoakum-general-store.jany.io/"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00
+website: http://yoakum-general-store.jany.io/

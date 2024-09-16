@@ -1,11 +1,11 @@
 id: 1000414927
-type: way
+type: node
 latitude: 30.22708
 longitude: -97.88821
 postcode: "78736"
 city: Austin
-street: "West US Highway 290"
-housenumber: 7901
-phone: "+1-512-288-5440"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.heb.com/heb-store/US/tx/austin/oak-hill-h-e-b-765"
+street: West US Highway 290
+housenumber: "7901"
+phone: +1-512-288-5440
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.heb.com/heb-store/US/tx/austin/oak-hill-h-e-b-765

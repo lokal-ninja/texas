@@ -1,11 +1,11 @@
 id: 899732853
-type: way
+type: node
 latitude: 33.42786
 longitude: -94.04234
 postcode: "71854"
 city: Texarkana
-street: "East 7th Street"
-housenumber: 201
+street: East 7th Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

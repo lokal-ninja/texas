@@ -1,11 +1,11 @@
 id: 305986972
-type: way
+type: node
 latitude: 31.75373
 longitude: -106.34552
 postcode: "79925"
 city: El Paso
-street: "Gateway Boulevard West"
-housenumber: 10555
+street: Gateway Boulevard West
+housenumber: "10555"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/TX/El-Paso/10555-Gateway-Blvd-West"
+website: https://www.speedway.com/locations/TX/El-Paso/10555-Gateway-Blvd-West

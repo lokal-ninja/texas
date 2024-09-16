@@ -1,11 +1,11 @@
 id: 183688020
-type: way
+type: node
 latitude: 31.85733
 longitude: -102.40993
 postcode: "79763"
 city: Odessa
-street: "Northwest Loop 338"
-housenumber: 2450
-phone: "+1 432-332-6016"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2891-odessa-tx"
+street: Northwest Loop 338
+housenumber: "2450"
+phone: +1 432-332-6016
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2891-odessa-tx

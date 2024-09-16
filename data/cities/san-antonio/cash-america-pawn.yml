@@ -1,11 +1,11 @@
 id: 320363278
-type: way
+type: node
 latitude: 29.40542
 longitude: -98.62882
 postcode: "78227"
 city: San Antonio
-street: "West Military Drive"
-housenumber: 6826
+street: West Military Drive
+housenumber: "6826"
 phone: ""
 opening_hours: ""
 website: ""

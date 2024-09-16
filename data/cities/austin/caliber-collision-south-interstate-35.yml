@@ -1,11 +1,11 @@
 id: 881803745
-type: way
+type: node
 latitude: 30.13942
 longitude: -97.79747
 postcode: "78748"
 city: Austin
-street: "South Interstate 35"
-housenumber: 11210
-phone: "+1-512-465-2557"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://calibercollision.com/locate-a-caliber-collision-center/austin-onion-creek"
+street: South Interstate 35
+housenumber: "11210"
+phone: +1-512-465-2557
+opening_hours: Mo-Fr 07:30-17:30
+website: https://calibercollision.com/locate-a-caliber-collision-center/austin-onion-creek

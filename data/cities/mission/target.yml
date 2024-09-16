@@ -1,11 +1,11 @@
 id: 647016109
-type: way
+type: node
 latitude: 26.19803
 longitude: -98.28369
 postcode: "78572"
 city: Mission
-street: "East Expressway 83"
-housenumber: 2427
-phone: "+1 956-928-7280"
-opening_hours: "08:00-23:00"
-website: "https://www.target.com/sl/mission/2237"
+street: East Expressway 83
+housenumber: "2427"
+phone: +1 956-928-7280
+opening_hours: 08:00-23:00
+website: https://www.target.com/sl/mission/2237

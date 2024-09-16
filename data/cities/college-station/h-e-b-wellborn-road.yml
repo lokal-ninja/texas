@@ -1,11 +1,11 @@
 id: 635407037
-type: way
+type: node
 latitude: 30.58348
 longitude: -96.32221
 postcode: "77845"
 city: College Station
-street: "Wellborn Road"
-housenumber: 11675
-phone: "+1-979-680-3200"
-opening_hours: "Mo-Su 06:00-24:00"
+street: Wellborn Road
+housenumber: "11675"
+phone: +1-979-680-3200
+opening_hours: Mo-Su 06:00-24:00
 website: ""

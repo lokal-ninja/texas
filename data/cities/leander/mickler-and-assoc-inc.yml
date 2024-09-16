@@ -1,11 +1,11 @@
 id: 29178585
-type: way
+type: node
 latitude: 30.57619
 longitude: -97.8522
 postcode: "78641"
 city: Leander
-street: "South Highway 183"
-housenumber: 301
-phone: "+1-512-260-5275"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://ourgunstore.com"
+street: South Highway 183
+housenumber: "301"
+phone: +1-512-260-5275
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://ourgunstore.com

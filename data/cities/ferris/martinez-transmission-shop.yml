@@ -1,11 +1,11 @@
 id: 717718702
-type: way
+type: node
 latitude: 32.48993
 longitude: -96.66578
 postcode: "75125"
 city: Ferris
-street: "Trumbull Circle"
-housenumber: 350
+street: Trumbull Circle
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

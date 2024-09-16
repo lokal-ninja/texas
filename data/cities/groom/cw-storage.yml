@@ -1,11 +1,11 @@
 id: 1207666037
-type: way
+type: node
 latitude: 35.20029
 longitude: -101.10271
 postcode: "79039"
 city: Groom
-street: "East Front Street"
-housenumber: 501
+street: East Front Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

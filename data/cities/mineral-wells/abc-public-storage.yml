@@ -1,11 +1,11 @@
 id: 700228978
-type: way
+type: node
 latitude: 32.80797
 longitude: -98.08802
 postcode: "76067"
 city: Mineral Wells
-street: "Southeast 25th Avenue"
-housenumber: 400
+street: Southeast 25th Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

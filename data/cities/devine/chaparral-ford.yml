@@ -1,11 +1,11 @@
 id: 818143732
-type: way
+type: node
 latitude: 29.14867
 longitude: -98.87623
 postcode: "78016"
 city: Devine
-street: "County Road 773"
-housenumber: 102
+street: County Road 773
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

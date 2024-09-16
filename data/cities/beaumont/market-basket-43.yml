@@ -1,11 +1,11 @@
 id: 256662925
-type: way
+type: node
 latitude: 30.13447
 longitude: -94.1711
 postcode: "77708"
 city: Beaumont
-street: "Highway 105"
-housenumber: 5960
-phone: "+1 409 892-1056"
+street: Highway 105
+housenumber: "5960"
+phone: +1 409 892-1056
 opening_hours: ""
 website: ""

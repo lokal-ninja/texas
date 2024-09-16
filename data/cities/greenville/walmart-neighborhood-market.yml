@@ -1,11 +1,11 @@
 id: 544474284
-type: way
+type: node
 latitude: 33.12351
 longitude: -96.10837
 postcode: "75401"
 city: Greenville
-street: "Wesley Street"
-housenumber: 4715
-phone: "+1 903-259-5293"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4453/greenville-tx/whats-new"
+street: Wesley Street
+housenumber: "4715"
+phone: +1 903-259-5293
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4453/greenville-tx/whats-new

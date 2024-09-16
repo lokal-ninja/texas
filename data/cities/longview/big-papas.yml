@@ -1,11 +1,11 @@
 id: 670824831
-type: way
+type: node
 latitude: 32.52775
 longitude: -94.70377
 postcode: "75605"
 city: Longview
-street: "East Loop 281"
-housenumber: 880
+street: East Loop 281
+housenumber: "880"
 phone: ""
-opening_hours: "Mo-Su 05:00-23:00"
+opening_hours: Mo-Su 05:00-23:00
 website: ""

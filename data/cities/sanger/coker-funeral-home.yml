@@ -1,11 +1,11 @@
 id: 707425547
-type: way
+type: node
 latitude: 33.36429
 longitude: -97.17338
 postcode: "76266"
 city: Sanger
-street: "Pecan Street"
-housenumber: 403
+street: Pecan Street
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

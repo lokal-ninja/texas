@@ -1,11 +1,11 @@
 id: 542527374
-type: way
+type: node
 latitude: 29.90432
 longitude: -95.68476
 postcode: "77095"
 city: Cypress
-street: "Barker Cypress Road"
-housenumber: 8650
-phone: "+1 833-478-1060"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/tx/cypress/8650-barker-cypress-rd"
+street: Barker Cypress Road
+housenumber: "8650"
+phone: +1 833-478-1060
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/tx/cypress/8650-barker-cypress-rd

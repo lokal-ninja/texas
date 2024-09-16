@@ -1,11 +1,11 @@
 id: 838004817
-type: way
+type: node
 latitude: 28.81304
 longitude: -97.8587
 postcode: "78119"
 city: Kenedy
-street: "South Sunset Strip Drive"
-housenumber: 102
+street: South Sunset Strip Drive
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

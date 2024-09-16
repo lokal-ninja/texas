@@ -4,8 +4,8 @@ latitude: 30.52199
 longitude: -97.83398
 postcode: "78613"
 city: Cedar Park
-street: "Walton Way"
-housenumber: 201
-phone: "+1-512-528-8746"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2991-cedar-park-tx"
+street: Walton Way
+housenumber: "201"
+phone: +1-512-528-8746
+opening_hours: 24/7
+website: https://www.walmart.com/store/2991-cedar-park-tx

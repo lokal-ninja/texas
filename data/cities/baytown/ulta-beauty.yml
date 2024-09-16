@@ -4,8 +4,8 @@ latitude: 29.79355
 longitude: -94.98301
 postcode: "77521"
 city: Baytown
-street: "Garth Road"
-housenumber: 6345
-phone: "+1 281-691-6739"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/baytown-tx-1175"
+street: Garth Road
+housenumber: "6345"
+phone: +1 281-691-6739
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/baytown-tx-1175

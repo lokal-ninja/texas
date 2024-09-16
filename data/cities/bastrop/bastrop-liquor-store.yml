@@ -1,11 +1,11 @@
 id: 1189268805
-type: way
+type: node
 latitude: 30.10551
 longitude: -97.32586
 postcode: "78602"
 city: Bastrop
-street: "State Highway 71 West"
-housenumber: 103
-phone: "+1-512-360-8455"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://bastrop-liquor-store.business.site/"
+street: State Highway 71 West
+housenumber: "103"
+phone: +1-512-360-8455
+opening_hours: Mo-Sa 10:00-21:00
+website: https://bastrop-liquor-store.business.site/

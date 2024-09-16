@@ -1,11 +1,11 @@
 id: 364722154
-type: way
+type: node
 latitude: 29.73171
 longitude: -95.32787
 postcode: "77023"
 city: Houston
-street: "Telephone Road"
-housenumber: 1202
+street: Telephone Road
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

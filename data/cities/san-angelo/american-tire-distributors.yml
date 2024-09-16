@@ -1,11 +1,11 @@
 id: 763220906
-type: way
+type: node
 latitude: 31.49677
 longitude: -100.37542
 postcode: "76905"
 city: San Angelo
-street: "US Highway 67 North"
-housenumber: 4093
+street: US Highway 67 North
+housenumber: "4093"
 phone: ""
 opening_hours: ""
 website: ""

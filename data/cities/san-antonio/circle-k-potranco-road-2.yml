@@ -1,11 +1,11 @@
 id: 460456494
-type: way
+type: node
 latitude: 29.4351
 longitude: -98.71009
 postcode: "78251"
 city: San Antonio
-street: "Potranco Road"
-housenumber: 11050
+street: Potranco Road
+housenumber: "11050"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 964093507
-type: way
+type: node
 latitude: 32.46464
 longitude: -99.96005
 postcode: "79536"
 city: Merkel
-street: "West Interstate 20"
-housenumber: 8664
+street: West Interstate 20
+housenumber: "8664"
 phone: ""
 opening_hours: ""
 website: ""

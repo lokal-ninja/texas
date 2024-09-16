@@ -1,11 +1,11 @@
 id: 1147447097
-type: way
+type: node
 latitude: 32.45566
 longitude: -97.52112
 postcode: "76044"
 city: Godley
-street: "North Main Street"
-housenumber: 501
+street: North Main Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

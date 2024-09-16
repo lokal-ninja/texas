@@ -1,11 +1,11 @@
 id: 853043804
-type: way
+type: node
 latitude: 33.76065
 longitude: -96.55564
 postcode: "75020"
 city: Denison
-street: "West Morton Street"
-housenumber: 1401
+street: West Morton Street
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

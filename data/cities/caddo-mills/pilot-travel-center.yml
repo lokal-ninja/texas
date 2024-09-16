@@ -1,11 +1,11 @@
 id: 268165554
-type: way
+type: node
 latitude: 33.04341
 longitude: -96.17787
 postcode: "75135"
 city: Caddo Mills
-street: "FM 1903"
-housenumber: 2226
+street: FM 1903
+housenumber: "2226"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

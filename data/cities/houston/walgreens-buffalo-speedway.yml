@@ -1,11 +1,11 @@
 id: 231007665
-type: way
+type: node
 latitude: 29.72616
 longitude: -95.42821
 postcode: "77005"
 city: Houston
-street: "Buffalo Speedway"
-housenumber: 5280
+street: Buffalo Speedway
+housenumber: "5280"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-5280+buffalo+speedway-houston-tx-77005/id=4745"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-5280+buffalo+speedway-houston-tx-77005/id=4745

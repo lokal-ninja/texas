@@ -1,11 +1,11 @@
 id: 1235400537
-type: way
+type: node
 latitude: 31.29654
 longitude: -97.36547
 postcode: "76557"
 city: Moody
-street: "Avenue D"
-housenumber: 1810
-phone: "+1-254-853-9072"
-opening_hours: "07:00-21:00"
-website: "https://www.brookshirebrothers.com"
+street: Avenue D
+housenumber: "1810"
+phone: +1-254-853-9072
+opening_hours: 07:00-21:00
+website: https://www.brookshirebrothers.com

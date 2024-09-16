@@ -1,11 +1,11 @@
 id: 486223473
-type: way
+type: node
 latitude: 29.52571
 longitude: -98.56732
 postcode: "78240"
 city: San Antonio
-street: "Wurzbach Road"
-housenumber: 9000
+street: Wurzbach Road
+housenumber: "9000"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 532834555
-type: way
+type: node
 latitude: 29.43953
 longitude: -98.88399
 postcode: "78066"
 city: Rio Medina
-street: "FM 471 North"
-housenumber: 3980
+street: FM 471 North
+housenumber: "3980"
 phone: ""
 opening_hours: ""
 website: ""

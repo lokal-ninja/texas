@@ -1,11 +1,11 @@
 id: 197559032
-type: way
+type: node
 latitude: 29.85188
 longitude: -97.95535
 postcode: "78666"
 city: San Marcos
-street: "McKinley Place Drive"
-housenumber: 1050
+street: McKinley Place Drive
+housenumber: "1050"
 phone: ""
 opening_hours: ""
-website: "https://www.bedbathandbeyond.com/"
+website: https://www.bedbathandbeyond.com/

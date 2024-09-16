@@ -1,11 +1,11 @@
 id: 903642357
-type: way
+type: node
 latitude: 29.92289
 longitude: -96.8817
 postcode: "78945"
 city: La Grange
-street: "North Jefferson Street"
-housenumber: 1505
+street: North Jefferson Street
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

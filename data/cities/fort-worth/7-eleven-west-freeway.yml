@@ -1,11 +1,11 @@
 id: 500509231
-type: way
+type: node
 latitude: 32.73737
 longitude: -97.46631
 postcode: "76116"
 city: Fort Worth
-street: "West Freeway"
-housenumber: 8541
+street: West Freeway
+housenumber: "8541"
 phone: ""
 opening_hours: ""
 website: ""

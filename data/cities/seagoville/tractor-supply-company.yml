@@ -1,11 +1,11 @@
 id: 706831871
-type: way
+type: node
 latitude: 32.64856
 longitude: -96.53001
 postcode: "75159"
 city: Seagoville
-street: "South Crestview Drive"
-housenumber: 190
-phone: "+1 972-287-4949"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Crestview Drive
+housenumber: "190"
+phone: +1 972-287-4949
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

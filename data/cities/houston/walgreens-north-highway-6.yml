@@ -1,11 +1,11 @@
 id: 520841664
-type: way
+type: node
 latitude: 29.84966
 longitude: -95.64671
 postcode: ""
 city: Houston
-street: "North Highway 6"
-housenumber: 4995
+street: North Highway 6
+housenumber: "4995"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4995+highway+6+n-houston-tx-77084/id=3870"
+website: https://www.walgreens.com/locator/walgreens-4995+highway+6+n-houston-tx-77084/id=3870

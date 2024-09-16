@@ -1,11 +1,11 @@
 id: 713546121
-type: way
+type: node
 latitude: 33.39957
 longitude: -101.81517
 postcode: "79423"
 city: Lubbock
-street: "US Highway 87"
-housenumber: 21005
+street: US Highway 87
+housenumber: "21005"
 phone: ""
 opening_hours: ""
 website: ""

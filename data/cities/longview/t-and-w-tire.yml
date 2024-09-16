@@ -1,11 +1,11 @@
 id: 986806711
-type: way
+type: node
 latitude: 32.46197
 longitude: -94.66713
 postcode: "75602"
 city: Longview
-street: "Southeast Loop 281"
-housenumber: 6080
+street: Southeast Loop 281
+housenumber: "6080"
 phone: ""
 opening_hours: ""
 website: ""

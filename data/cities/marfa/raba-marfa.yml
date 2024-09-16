@@ -1,11 +1,11 @@
 id: 1072142976
-type: way
+type: node
 latitude: 30.31001
 longitude: -104.01832
 postcode: "79843"
 city: Marfa
-street: "East San Antonio Street"
-housenumber: 212
+street: East San Antonio Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "https://rabamarfa.com/"
+website: https://rabamarfa.com/

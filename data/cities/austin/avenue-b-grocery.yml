@@ -1,11 +1,11 @@
 id: 381803265
-type: way
+type: node
 latitude: 30.30895
 longitude: -97.73135
 postcode: ""
 city: Austin
-street: "Avenue B"
-housenumber: 4403
+street: Avenue B
+housenumber: "4403"
 phone: ""
 opening_hours: ""
 website: ""

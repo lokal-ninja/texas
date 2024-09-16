@@ -1,11 +1,11 @@
 id: 646994615
-type: way
+type: node
 latitude: 32.85757
 longitude: -97.02071
 postcode: "75062"
 city: Irving
-street: "West Northgate Drive"
-housenumber: 5075
+street: West Northgate Drive
+housenumber: "5075"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.38284
 longitude: -97.71477
 postcode: "78758"
 city: Austin
-street: "Metric Boulevard"
-housenumber: 10300
-phone: "+1-512-832-6400"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://coreoi.com/"
+street: Metric Boulevard
+housenumber: "10300"
+phone: +1-512-832-6400
+opening_hours: Mo-Fr 08:00-17:00
+website: https://coreoi.com/

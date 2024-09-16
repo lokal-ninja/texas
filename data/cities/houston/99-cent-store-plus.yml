@@ -1,11 +1,11 @@
 id: 685768134
-type: way
+type: node
 latitude: 29.82785
 longitude: -95.37821
 postcode: ""
 city: Houston
-street: "East Crosstimbers Street"
-housenumber: 56
+street: East Crosstimbers Street
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

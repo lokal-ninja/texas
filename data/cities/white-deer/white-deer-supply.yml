@@ -1,11 +1,11 @@
 id: 768406703
-type: way
+type: node
 latitude: 35.4359
 longitude: -101.17159
 postcode: "79097"
 city: White Deer
-street: "East 2nd Avenue"
-housenumber: 200
+street: East 2nd Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

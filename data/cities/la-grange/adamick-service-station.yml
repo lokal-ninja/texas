@@ -1,11 +1,11 @@
 id: 903980484
-type: way
+type: node
 latitude: 29.90402
 longitude: -96.88033
 postcode: "78945"
 city: La Grange
-street: "North Water Street"
-housenumber: 103
+street: North Water Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

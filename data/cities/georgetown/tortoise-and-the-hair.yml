@@ -1,11 +1,11 @@
 id: 750548698
-type: way
+type: node
 latitude: 30.65942
 longitude: -97.68684
 postcode: "78628"
 city: Georgetown
-street: "Golden Oaks Drive"
-housenumber: 114
+street: Golden Oaks Drive
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

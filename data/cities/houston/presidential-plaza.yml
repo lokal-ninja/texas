@@ -1,11 +1,11 @@
 id: 584529928
-type: way
+type: node
 latitude: 29.94447
 longitude: -95.33292
 postcode: "77032"
 city: Houston
-street: "John Fitzgerald Kennedy Boulevard"
-housenumber: 15655
+street: John Fitzgerald Kennedy Boulevard
+housenumber: "15655"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 437412870
-type: way
+type: node
 latitude: 29.91867
 longitude: -95.41499
 postcode: "77037"
 city: Houston
-street: "North Freeway"
-housenumber: 10411
-phone: "+1 281-999-9920"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1279/houston-tx/whats-new"
+street: North Freeway
+housenumber: "10411"
+phone: +1 281-999-9920
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1279/houston-tx/whats-new

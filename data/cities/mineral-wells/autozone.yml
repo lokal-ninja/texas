@@ -1,11 +1,11 @@
 id: 700222268
-type: way
+type: node
 latitude: 32.80979
 longitude: -98.09386
 postcode: "76067"
 city: Mineral Wells
-street: "East Hubbard Street"
-housenumber: 2401
+street: East Hubbard Street
+housenumber: "2401"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/mineral-wells/2401-e-hubbard-st.html"
+website: https://www.autozone.com/locations/tx/mineral-wells/2401-e-hubbard-st.html

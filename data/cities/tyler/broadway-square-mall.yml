@@ -1,11 +1,11 @@
 id: 480933742
-type: way
+type: node
 latitude: 32.30147
 longitude: -95.3036
 postcode: "75702"
 city: Tyler
-street: "South Broadway Avenue"
-housenumber: 4601
+street: South Broadway Avenue
+housenumber: "4601"
 phone: ""
 opening_hours: ""
 website: ""

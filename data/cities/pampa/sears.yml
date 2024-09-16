@@ -1,11 +1,11 @@
 id: 768688079
-type: way
+type: node
 latitude: 35.55416
 longitude: -100.97252
 postcode: "79065"
 city: Pampa
-street: "North Hobart Street"
-housenumber: 1623
+street: North Hobart Street
+housenumber: "1623"
 phone: ""
 opening_hours: ""
 website: ""

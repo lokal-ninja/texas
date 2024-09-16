@@ -1,11 +1,11 @@
 id: 1000980634
-type: way
+type: node
 latitude: 32.42963
 longitude: -96.83622
 postcode: "75165"
 city: Waxahachie
-street: "North US Highway 77"
-housenumber: 1700
-phone: "+1-972-923-7761"
-opening_hours: "Mo-We 10:00-20:00, Th-Sa 10:00-21:00, Su 11:00-18:00"
-website: "https://www.ulta.com/stores/waxahachie-tx-1169"
+street: North US Highway 77
+housenumber: "1700"
+phone: +1-972-923-7761
+opening_hours: Mo-We 10:00-20:00, Th-Sa 10:00-21:00, Su 11:00-18:00
+website: https://www.ulta.com/stores/waxahachie-tx-1169

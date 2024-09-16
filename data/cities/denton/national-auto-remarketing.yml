@@ -1,11 +1,11 @@
 id: 656305903
-type: way
+type: node
 latitude: 33.20756
 longitude: -97.1329
 postcode: "76201"
 city: Denton
-street: "South Locust Street"
-housenumber: 720
+street: South Locust Street
+housenumber: "720"
 phone: "+19402186706"
 opening_hours: ""
-website: "https://www.nartx.com/"
+website: https://www.nartx.com/

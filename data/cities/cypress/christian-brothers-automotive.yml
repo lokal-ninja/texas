@@ -1,11 +1,11 @@
 id: 740010548
-type: way
+type: node
 latitude: 29.98174
 longitude: -95.72091
 postcode: "77433"
 city: Cypress
-street: "Northwest Freeway"
-housenumber: 27210
-phone: "+1-281-502-8964"
+street: Northwest Freeway
+housenumber: "27210"
+phone: +1-281-502-8964
 opening_hours: ""
 website: ""

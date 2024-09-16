@@ -1,11 +1,11 @@
 id: 714670117
-type: way
+type: node
 latitude: 29.59981
 longitude: -98.93115
 postcode: "78063"
 city: Lakehills
-street: "Randall Road"
-housenumber: 123
+street: Randall Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 739172010
-type: way
+type: node
 latitude: 29.56
 longitude: -95.33204
 postcode: ""
 city: Pearland
-street: "West Broadway Street"
-housenumber: 7301
+street: West Broadway Street
+housenumber: "7301"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/pearland/7301-broadway-st.html"
+website: https://www.autozone.com/locations/tx/pearland/7301-broadway-st.html

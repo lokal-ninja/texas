@@ -1,11 +1,11 @@
 id: 647088774
-type: way
+type: node
 latitude: 33.2064
 longitude: -97.14917
 postcode: "76201"
 city: Denton
-street: "Eagle Drive"
-housenumber: 1507
+street: Eagle Drive
+housenumber: "1507"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

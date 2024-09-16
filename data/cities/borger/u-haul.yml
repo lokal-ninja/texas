@@ -1,11 +1,11 @@
 id: 792414556
-type: way
+type: node
 latitude: 35.65835
 longitude: -101.39115
 postcode: "79007"
 city: Borger
-street: "South Main Street"
-housenumber: 811
+street: South Main Street
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

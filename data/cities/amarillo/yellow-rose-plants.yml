@@ -1,11 +1,11 @@
 id: 748708969
-type: way
+type: node
 latitude: 35.16442
 longitude: -101.87509
 postcode: "79109"
 city: Amarillo
-street: "Southwest 45th Avenue"
-housenumber: 3622
+street: Southwest 45th Avenue
+housenumber: "3622"
 phone: ""
 opening_hours: ""
 website: ""

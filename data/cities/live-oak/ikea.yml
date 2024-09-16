@@ -1,11 +1,11 @@
 id: 666012104
-type: way
+type: node
 latitude: 29.56683
 longitude: -98.33919
 postcode: "78233"
 city: Live Oak
-street: "IKEA-RBFCU Parkway"
-housenumber: 1000
-phone: "+1 888 888-4532"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://www.ikea.com/us/en/stores/live-oak/"
+street: IKEA-RBFCU Parkway
+housenumber: "1000"
+phone: +1 888 888-4532
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://www.ikea.com/us/en/stores/live-oak/

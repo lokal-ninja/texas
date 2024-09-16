@@ -1,11 +1,11 @@
 id: 371645134
-type: way
+type: node
 latitude: 30.04245
 longitude: -94.89162
 postcode: ""
 city: Liberty
-street: "US 90"
-housenumber: 607
+street: US 90
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

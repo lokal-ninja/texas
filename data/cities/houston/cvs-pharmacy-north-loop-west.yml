@@ -1,11 +1,11 @@
 id: 766557119
-type: way
+type: node
 latitude: 29.81171
 longitude: -95.42859
 postcode: ""
 city: Houston
-street: "North Loop West"
-housenumber: 1525
+street: North Loop West
+housenumber: "1525"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/1525-north-loop-west-houston-tx-77008/storeid=10301"
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/1525-north-loop-west-houston-tx-77008/storeid=10301

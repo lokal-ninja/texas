@@ -1,11 +1,11 @@
 id: 382115551
-type: way
+type: node
 latitude: 30.53116
 longitude: -97.68892
 postcode: "78664"
 city: Round Rock
-street: "North Mays Street"
-housenumber: 2119
+street: North Mays Street
+housenumber: "2119"
 phone: ""
 opening_hours: ""
-website: "https://www.cothrons.com/"
+website: https://www.cothrons.com/

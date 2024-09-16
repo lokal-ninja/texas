@@ -1,11 +1,11 @@
 id: 707474839
-type: way
+type: node
 latitude: 33.23433
 longitude: -97.01545
 postcode: "76227"
 city: Cross Roads
-street: "University Drive"
-housenumber: 3001
+street: University Drive
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

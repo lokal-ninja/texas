@@ -1,11 +1,11 @@
 id: 819279609
-type: way
+type: node
 latitude: 32.53288
 longitude: -94.78856
 postcode: "75604"
 city: Longview
-street: "Gilmer Road"
-housenumber: 2414
+street: Gilmer Road
+housenumber: "2414"
 phone: ""
 opening_hours: ""
 website: ""

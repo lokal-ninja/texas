@@ -1,11 +1,11 @@
 id: 707027977
-type: way
+type: node
 latitude: 32.95155
 longitude: -97.39043
 postcode: "76052"
 city: Haslet
-street: "Northwest US Highway 287"
-housenumber: 12200
+street: Northwest US Highway 287
+housenumber: "12200"
 phone: ""
 opening_hours: ""
 website: ""

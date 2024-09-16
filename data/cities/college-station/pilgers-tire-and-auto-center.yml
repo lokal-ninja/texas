@@ -1,11 +1,11 @@
 id: 407800661
-type: way
+type: node
 latitude: 30.63038
 longitude: -96.3317
 postcode: "77840"
 city: College Station
-street: "University Drive East"
-housenumber: 400
-phone: "+1 979 696 1729"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.pilgerstire.com"
+street: University Drive East
+housenumber: "400"
+phone: +1 979 696 1729
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.pilgerstire.com

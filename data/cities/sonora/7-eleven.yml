@@ -1,11 +1,11 @@
 id: 730916071
-type: way
+type: node
 latitude: 30.57718
 longitude: -100.64862
 postcode: "76950"
 city: Sonora
-street: "US Highway 277 North"
-housenumber: 510
+street: US Highway 277 North
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

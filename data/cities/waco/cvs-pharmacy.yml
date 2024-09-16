@@ -1,11 +1,11 @@
 id: 545337968
-type: way
+type: node
 latitude: 31.55109
 longitude: -97.12443
 postcode: "76706"
 city: Waco
-street: "South 5th Street"
-housenumber: 820
+street: South 5th Street
+housenumber: "820"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/waco-tx-pharmacies/820-s-5th-st-waco-tx-76706/storeid=10818"
+website: https://www.cvs.com/store-locator/waco-tx-pharmacies/820-s-5th-st-waco-tx-76706/storeid=10818

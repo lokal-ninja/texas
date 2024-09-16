@@ -1,11 +1,11 @@
 id: 698370087
-type: way
+type: node
 latitude: 35.1049
 longitude: -101.88342
 postcode: "79118"
 city: Amarillo
-street: "South Western Street"
-housenumber: 10051
+street: South Western Street
+housenumber: "10051"
 phone: ""
 opening_hours: ""
 website: ""

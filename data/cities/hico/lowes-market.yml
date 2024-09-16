@@ -1,11 +1,11 @@
 id: 734229422
-type: way
+type: node
 latitude: 31.98326
 longitude: -98.02802
 postcode: "76457"
 city: Hico
-street: "East 3rd Street"
-housenumber: 300
+street: East 3rd Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

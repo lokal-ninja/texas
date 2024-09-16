@@ -1,11 +1,11 @@
 id: 295295126
-type: way
+type: node
 latitude: 29.73962
 longitude: -95.50205
 postcode: "77063"
 city: Houston
-street: "Westheimer Road"
-housenumber: 7534
-phone: "+1 713-977-8691"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/tx/houston/dsw-designer-shoe-warehouse-westheimer-crossing.html"
+street: Westheimer Road
+housenumber: "7534"
+phone: +1 713-977-8691
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/tx/houston/dsw-designer-shoe-warehouse-westheimer-crossing.html

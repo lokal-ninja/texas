@@ -1,11 +1,11 @@
 id: 1090641304
-type: way
-latitude: 29.6611
-longitude: -95.47532
+type: node
+latitude: 29.66116
+longitude: -95.47533
 postcode: "77035"
 city: Houston
-street: "West Bellfort Street"
-housenumber: 5310
+street: West Bellfort Street
+housenumber: "5310"
 phone: ""
 opening_hours: ""
 website: ""

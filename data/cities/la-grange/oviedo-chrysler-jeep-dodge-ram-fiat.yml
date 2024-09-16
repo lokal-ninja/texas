@@ -1,11 +1,11 @@
 id: 903630520
-type: way
+type: node
 latitude: 29.90815
 longitude: -96.9095
 postcode: "78945"
 city: La Grange
-street: "West State Highway 71 Bypass"
-housenumber: 1980
+street: West State Highway 71 Bypass
+housenumber: "1980"
 phone: ""
 opening_hours: ""
 website: ""

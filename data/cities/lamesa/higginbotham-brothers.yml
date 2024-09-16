@@ -1,11 +1,11 @@
 id: 751151270
-type: way
+type: node
 latitude: 32.75514
 longitude: -101.94692
 postcode: "79331"
 city: Lamesa
-street: "Lubbock Highway"
-housenumber: 2211
+street: Lubbock Highway
+housenumber: "2211"
 phone: ""
 opening_hours: ""
 website: ""

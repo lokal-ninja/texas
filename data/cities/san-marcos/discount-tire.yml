@@ -1,11 +1,11 @@
 id: 681161404
-type: way
+type: node
 latitude: 29.85411
 longitude: -97.95554
 postcode: "78666"
 city: San Marcos
-street: "South Interstate 35"
-housenumber: 2227
-phone: "+1-512-392-6457"
+street: South Interstate 35
+housenumber: "2227"
+phone: +1-512-392-6457
 opening_hours: ""
 website: ""

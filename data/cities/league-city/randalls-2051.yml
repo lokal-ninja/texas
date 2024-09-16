@@ -1,11 +1,11 @@
 id: 129485629
-type: way
+type: node
 latitude: 29.53814
 longitude: -95.06311
 postcode: "77573"
 city: League City
-street: "Marina Bay Drive"
-housenumber: 2951
-phone: "+1-281-538-2500"
+street: Marina Bay Drive
+housenumber: "2951"
+phone: +1-281-538-2500
 opening_hours: ""
-website: "https://local.randalls.com/tx/league-city/2951-marina-bay-dr-suite-b.html"
+website: https://local.randalls.com/tx/league-city/2951-marina-bay-dr-suite-b.html

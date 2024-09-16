@@ -1,11 +1,11 @@
 id: 178257525
-type: way
+type: node
 latitude: 35.17858
 longitude: -101.90297
 postcode: "79106"
 city: Amarillo
-street: "Bell Street"
-housenumber: 3312
-phone: "+1-806-352-7799"
+street: Bell Street
+housenumber: "3312"
+phone: +1-806-352-7799
 opening_hours: ""
-website: "https://www.partystops.com/"
+website: https://www.partystops.com/

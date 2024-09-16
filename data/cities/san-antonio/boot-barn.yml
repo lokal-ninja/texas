@@ -1,11 +1,11 @@
 id: 320168801
-type: way
+type: node
 latitude: 29.61013
 longitude: -98.59702
 postcode: "78257"
 city: San Antonio
-street: "La Cantera Parkway"
-housenumber: 17515
-phone: "+1-210-641-0006"
-opening_hours: "Mo-Fr 9:00-21:00;Sa-Su 10:00-21:00"
-website: "https://www.bootbarn.com/on/demandware.store/Sites-bootbarn_us-Site/default/Stores-Details?StoreID=0147"
+street: La Cantera Parkway
+housenumber: "17515"
+phone: +1-210-641-0006
+opening_hours: Mo-Fr 9:00-21:00;Sa-Su 10:00-21:00
+website: https://www.bootbarn.com/on/demandware.store/Sites-bootbarn_us-Site/default/Stores-Details?StoreID=0147

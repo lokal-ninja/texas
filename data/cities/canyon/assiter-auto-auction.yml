@@ -1,11 +1,11 @@
 id: 803404198
-type: way
+type: node
 latitude: 35.03961
 longitude: -101.92051
 postcode: "79015"
 city: Canyon
-street: "Canyon Drive"
-housenumber: 16650
+street: Canyon Drive
+housenumber: "16650"
 phone: ""
 opening_hours: ""
 website: ""

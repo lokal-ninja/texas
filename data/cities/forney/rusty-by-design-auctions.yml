@@ -1,11 +1,11 @@
 id: 890046081
-type: way
+type: node
 latitude: 32.74228
 longitude: -96.43386
 postcode: "75126"
 city: Forney
-street: "West US Highway 80"
-housenumber: 10342
+street: West US Highway 80
+housenumber: "10342"
 phone: ""
 opening_hours: ""
 website: ""

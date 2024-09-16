@@ -1,11 +1,11 @@
 id: 425245404
-type: way
+type: node
 latitude: 32.94012
 longitude: -94.71224
 postcode: "75668"
 city: Lone Star
-street: "North Main Street"
-housenumber: 125
+street: North Main Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/lone-star/7513"
+website: https://www.dollargeneral.com/store-directory/tx/lone-star/7513

@@ -1,11 +1,11 @@
 id: 738366457
-type: way
+type: node
 latitude: 32.46938
 longitude: -94.73133
 postcode: "75602"
 city: Longview
-street: "South Mobberly Avenue"
-housenumber: 2015
-phone: "+1-903-758-8999"
+street: South Mobberly Avenue
+housenumber: "2015"
+phone: +1-903-758-8999
 opening_hours: ""
 website: ""

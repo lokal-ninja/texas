@@ -1,11 +1,11 @@
 id: 760077468
-type: way
+type: node
 latitude: 30.02205
 longitude: -99.11428
 postcode: "78028"
 city: Kerrville
-street: "Legion Drive"
-housenumber: 3200
+street: Legion Drive
+housenumber: "3200"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/kerrville/16101"
+website: https://www.dollargeneral.com/store-directory/tx/kerrville/16101

@@ -1,11 +1,11 @@
 id: 199396996
-type: way
+type: node
 latitude: 32.74245
 longitude: -96.44331
 postcode: "75126"
 city: Forney
-street: "East US Highway 80"
-housenumber: 972
+street: East US Highway 80
+housenumber: "972"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/forney/972-e-us-hwy-80.html"
+website: https://www.autozone.com/locations/tx/forney/972-e-us-hwy-80.html

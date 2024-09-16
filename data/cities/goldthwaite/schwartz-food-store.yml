@@ -1,11 +1,11 @@
 id: 745972130
-type: way
+type: node
 latitude: 31.45544
 longitude: -98.57119
 postcode: "76844"
 city: Goldthwaite
-street: "Fisher Street"
-housenumber: 1500
-phone: "+1-325-648-3313"
+street: Fisher Street
+housenumber: "1500"
+phone: +1-325-648-3313
 opening_hours: ""
-website: "https://schwartzfoodstore.com"
+website: https://schwartzfoodstore.com

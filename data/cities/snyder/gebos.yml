@@ -1,11 +1,11 @@
 id: 729433017
-type: way
+type: node
 latitude: 32.70059
 longitude: -100.92029
 postcode: "79549"
 city: Snyder
-street: "College Avenue"
-housenumber: 4111
+street: College Avenue
+housenumber: "4111"
 phone: ""
 opening_hours: ""
 website: ""

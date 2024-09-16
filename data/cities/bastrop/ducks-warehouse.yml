@@ -1,11 +1,11 @@
 id: 905703393
-type: way
+type: node
 latitude: 30.10714
 longitude: -97.28882
 postcode: "78602"
 city: Bastrop
-street: "Industrial Boulevard"
-housenumber: 307
+street: Industrial Boulevard
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

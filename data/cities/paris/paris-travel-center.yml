@@ -1,11 +1,11 @@
 id: 764072060
-type: way
+type: node
 latitude: 33.6728
 longitude: -95.51986
 postcode: "75460"
 city: Paris
-street: "Northeast Loop 286"
-housenumber: 3070
+street: Northeast Loop 286
+housenumber: "3070"
 phone: ""
 opening_hours: ""
 website: ""

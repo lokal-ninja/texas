@@ -1,11 +1,11 @@
 id: 382086551
-type: way
+type: node
 latitude: 30.19613
 longitude: -98.02894
 postcode: "78620"
 city: Dripping Springs
-street: "East US Highway 290"
-housenumber: 3401
+street: East US Highway 290
+housenumber: "3401"
 phone: ""
 opening_hours: ""
 website: ""

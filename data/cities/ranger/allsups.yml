@@ -1,11 +1,11 @@
 id: 700627994
-type: way
+type: node
 latitude: 32.46216
 longitude: -98.68286
 postcode: "76470"
 city: Ranger
-street: "Loop 254 West"
-housenumber: 900
+street: Loop 254 West
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

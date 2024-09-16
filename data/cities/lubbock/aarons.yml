@@ -1,11 +1,11 @@
 id: 459258818
-type: way
+type: node
 latitude: 33.57832
 longitude: -101.8658
 postcode: "79401"
 city: Lubbock
-street: "19th Street"
-housenumber: 2234
+street: 19th Street
+housenumber: "2234"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed"
-website: "https://locations.aarons.com/us/tx/lubbock/2234-19th-street"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-17:00; Su closed
+website: https://locations.aarons.com/us/tx/lubbock/2234-19th-street

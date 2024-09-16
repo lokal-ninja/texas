@@ -1,11 +1,11 @@
 id: 568578192
-type: way
+type: node
 latitude: 33.04921
 longitude: -97.47178
 postcode: "76078"
 city: Rhome
-street: "South Main Street"
-housenumber: 550
+street: South Main Street
+housenumber: "550"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/rhome/11334"
+website: https://www.dollargeneral.com/store-directory/tx/rhome/11334

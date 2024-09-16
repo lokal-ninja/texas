@@ -1,11 +1,11 @@
 id: 961152078
-type: way
+type: node
 latitude: 32.45403
 longitude: -99.76665
 postcode: "79603"
 city: Abilene
-street: "North 1st Street"
-housenumber: 3494
+street: North 1st Street
+housenumber: "3494"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 610247592
-type: way
+type: node
 latitude: 30.59827
 longitude: -97.41497
 postcode: "76574"
 city: Taylor
-street: "North Main Street"
-housenumber: 
+street: North Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/taylor/3508-n-main-st"
+website: https://stores.advanceautoparts.com/tx/taylor/3508-n-main-st

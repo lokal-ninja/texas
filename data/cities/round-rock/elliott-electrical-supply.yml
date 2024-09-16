@@ -1,11 +1,11 @@
 id: 382115441
-type: way
+type: node
 latitude: 30.5305
 longitude: -97.68095
 postcode: "78664"
 city: Round Rock
-street: "Texas Avenue"
-housenumber: 445
-phone: "+1-512-246-8001"
-opening_hours: "Mo-Fr 06:00-17:30"
-website: "https://elliottelectric.com"
+street: Texas Avenue
+housenumber: "445"
+phone: +1-512-246-8001
+opening_hours: Mo-Fr 06:00-17:30
+website: https://elliottelectric.com

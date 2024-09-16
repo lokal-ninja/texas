@@ -1,11 +1,11 @@
 id: 27443832
-type: way
+type: node
 latitude: 25.89615
 longitude: -97.4889
 postcode: "78520"
 city: Brownsville
-street: "Gorgas Drive"
-housenumber: 83
+street: Gorgas Drive
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

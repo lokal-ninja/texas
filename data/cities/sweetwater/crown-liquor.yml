@@ -1,11 +1,11 @@
 id: 734275027
-type: way
+type: node
 latitude: 32.48241
 longitude: -100.38524
 postcode: "79556"
 city: Sweetwater
-street: "East Broadway Street"
-housenumber: 2107
+street: East Broadway Street
+housenumber: "2107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 445000475
-type: way
+type: node
 latitude: 32.52359
 longitude: -94.78779
 postcode: "75604"
 city: Longview
-street: "West Loop 281"
-housenumber: 1905
+street: West Loop 281
+housenumber: "1905"
 phone: ""
 opening_hours: ""
-website: "https://stores.catofashions.com/tx/longview/1905-west-loop-281"
+website: https://stores.catofashions.com/tx/longview/1905-west-loop-281

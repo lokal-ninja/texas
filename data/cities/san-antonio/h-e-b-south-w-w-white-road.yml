@@ -1,11 +1,11 @@
 id: 359950111
-type: way
+type: node
 latitude: 29.41438
 longitude: -98.40636
 postcode: "78222"
 city: San Antonio
-street: "South W. W. White Road"
-housenumber: 1015
-phone: "+1-210-333-0020"
+street: South W. W. White Road
+housenumber: "1015"
+phone: +1-210-333-0020
 opening_hours: ""
 website: ""

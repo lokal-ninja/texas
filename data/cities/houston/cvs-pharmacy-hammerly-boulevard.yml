@@ -1,11 +1,11 @@
 id: 975620918
-type: way
+type: node
 latitude: 29.80935
 longitude: -95.52394
 postcode: ""
 city: Houston
-street: "Hammerly Boulevard"
-housenumber: 9455
+street: Hammerly Boulevard
+housenumber: "9455"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/9455-hammerly-blvd-houston-tx-77080/storeid=3006"
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/9455-hammerly-blvd-houston-tx-77080/storeid=3006

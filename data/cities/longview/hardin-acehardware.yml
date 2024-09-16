@@ -1,11 +1,11 @@
 id: 387969811
-type: way
+type: node
 latitude: 32.52697
 longitude: -94.7418
 postcode: "75605"
 city: Longview
-street: "Delwood Drive"
-housenumber: 106
-phone: "+1 903-758-2131"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 11:00-16:00"
+street: Delwood Drive
+housenumber: "106"
+phone: +1 903-758-2131
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00; Su 11:00-16:00
 website: ""

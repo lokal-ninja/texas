@@ -1,11 +1,11 @@
 id: 853051044
-type: way
+type: node
 latitude: 33.73298
 longitude: -96.5822
 postcode: "75020"
 city: Denison
-street: "Ridge Drive"
-housenumber: 3018
+street: Ridge Drive
+housenumber: "3018"
 phone: ""
 opening_hours: ""
 website: ""

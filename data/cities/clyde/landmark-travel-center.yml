@@ -1,11 +1,11 @@
 id: 1125697710
-type: way
+type: node
 latitude: 32.41755
 longitude: -99.52729
 postcode: "79510"
 city: Clyde
-street: "Interstate 20 West"
-housenumber: 8075
+street: Interstate 20 West
+housenumber: "8075"
 phone: ""
 opening_hours: ""
 website: ""

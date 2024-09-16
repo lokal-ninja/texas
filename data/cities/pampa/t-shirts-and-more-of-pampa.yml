@@ -1,11 +1,11 @@
 id: 795485257
-type: way
+type: node
 latitude: 35.53637
 longitude: -100.96259
 postcode: "79065"
 city: Pampa
-street: "West Kingsmill Avenue"
-housenumber: 111
+street: West Kingsmill Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

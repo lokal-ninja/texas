@@ -1,11 +1,11 @@
 id: 1236743520
-type: way
+type: node
 latitude: 31.30147
 longitude: -97.36344
 postcode: "76557"
 city: Moody
-street: "Avenue D"
-housenumber: 1500
-phone: "+1-254-853-2022"
-opening_hours: "06:00-24:00"
-website: "https://www.sunoco.com"
+street: Avenue D
+housenumber: "1500"
+phone: +1-254-853-2022
+opening_hours: 06:00-24:00
+website: https://www.sunoco.com

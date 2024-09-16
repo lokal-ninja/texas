@@ -1,11 +1,11 @@
 id: 407174413
-type: way
+type: node
 latitude: 31.3383
 longitude: -94.72364
 postcode: "75901"
 city: Lufkin
-street: "East Frank Avenue"
-housenumber: 500
-phone: "+1 936 632 1889"
+street: East Frank Avenue
+housenumber: "500"
+phone: +1 936 632 1889
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 69333185
-type: way
+type: node
 latitude: 25.97568
 longitude: -97.52117
 postcode: "78520"
 city: Brownsville
-street: "West Alton Gloor Boulevard"
-housenumber: 3500
-phone: "+1 956-350-2022"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/456/brownsville-tx/whats-new"
+street: West Alton Gloor Boulevard
+housenumber: "3500"
+phone: +1 956-350-2022
+opening_hours: 24/7
+website: https://www.walmart.com/store/456/brownsville-tx/whats-new

@@ -1,11 +1,11 @@
 id: 392282014
-type: way
+type: node
 latitude: 29.74243
 longitude: -95.4137
 postcode: ""
 city: Houston
-street: "Westheimer Road"
-housenumber: 2211
+street: Westheimer Road
+housenumber: "2211"
 phone: ""
 opening_hours: ""
 website: ""

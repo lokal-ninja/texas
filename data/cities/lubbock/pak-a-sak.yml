@@ -1,11 +1,11 @@
 id: 1076743161
-type: way
+type: node
 latitude: 33.47491
 longitude: -101.8712
 postcode: "79423"
 city: Lubbock
-street: "University Avenue"
-housenumber: 13020
+street: University Avenue
+housenumber: "13020"
 phone: ""
 opening_hours: ""
 website: ""

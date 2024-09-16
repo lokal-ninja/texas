@@ -1,11 +1,11 @@
 id: 572755610
-type: way
+type: node
 latitude: 30.76967
 longitude: -94.41649
 postcode: "75979"
 city: Woodville
-street: "South Magnolia Street"
-housenumber: 520
-phone: "+1-409-283-3333"
+street: South Magnolia Street
+housenumber: "520"
+phone: +1-409-283-3333
 opening_hours: ""
 website: ""

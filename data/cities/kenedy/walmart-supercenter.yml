@@ -1,11 +1,11 @@
 id: 563499632
-type: way
+type: node
 latitude: 28.8339
 longitude: -97.86416
 postcode: "78119"
 city: Kenedy
-street: "Business Park Drive"
-housenumber: 200
-phone: "+1 830-583-9825"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/524/kenedy-tx/whats-new"
+street: Business Park Drive
+housenumber: "200"
+phone: +1 830-583-9825
+opening_hours: 24/7
+website: https://www.walmart.com/store/524/kenedy-tx/whats-new

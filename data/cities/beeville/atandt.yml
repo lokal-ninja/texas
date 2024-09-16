@@ -1,11 +1,11 @@
 id: 634279985
-type: way
+type: node
 latitude: 28.4233
 longitude: -97.75563
 postcode: "78102"
 city: Beeville
-street: "East FM 351"
-housenumber: 402
-phone: "+1 361 362 0094"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 12:00-18:00"
-website: "https://www.att.com/stores/texas/beeville/78540"
+street: East FM 351
+housenumber: "402"
+phone: +1 361 362 0094
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 12:00-18:00
+website: https://www.att.com/stores/texas/beeville/78540

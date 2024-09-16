@@ -1,11 +1,11 @@
 id: 366893185
-type: way
+type: node
 latitude: 32.73713
 longitude: -97.00515
 postcode: "75051"
 city: Grand Prairie
-street: "Southwest 3rd Street"
-housenumber: 800
-phone: "+1-214-790-7700"
+street: Southwest 3rd Street
+housenumber: "800"
+phone: +1-214-790-7700
 opening_hours: ""
-website: "http://www.carrillofuneralhomes.com/location/grand-prairie-tx-funeral-home/"
+website: http://www.carrillofuneralhomes.com/location/grand-prairie-tx-funeral-home/

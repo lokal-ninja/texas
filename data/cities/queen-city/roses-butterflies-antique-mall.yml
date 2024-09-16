@@ -1,11 +1,11 @@
 id: 1055471190
-type: way
+type: node
 latitude: 33.18161
 longitude: -94.15335
 postcode: "75572"
 city: Queen City
-street: "US Highway 59 North"
-housenumber: 16879
+street: US Highway 59 North
+housenumber: "16879"
 phone: ""
 opening_hours: ""
 website: ""

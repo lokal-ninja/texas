@@ -1,11 +1,11 @@
 id: 840289955
-type: way
+type: node
 latitude: 35.22268
 longitude: -101.8257
 postcode: "79107"
 city: Amarillo
-street: "East Amarillo Boulevard"
-housenumber: 707
+street: East Amarillo Boulevard
+housenumber: "707"
 phone: ""
 opening_hours: ""
 website: ""

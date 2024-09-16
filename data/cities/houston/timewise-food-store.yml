@@ -1,11 +1,11 @@
 id: 1019256072
-type: way
+type: node
 latitude: 29.92362
 longitude: -95.55638
 postcode: "77064"
 city: Houston
-street: "West Sam Houston Parkway North"
-housenumber: 10955
+street: West Sam Houston Parkway North
+housenumber: "10955"
 phone: ""
 opening_hours: ""
 website: ""

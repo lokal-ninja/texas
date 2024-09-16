@@ -1,11 +1,11 @@
 id: 1155846456
-type: way
+type: node
 latitude: 28.34656
 longitude: -99.61514
 postcode: "78836"
 city: Catarina
-street: "South US Highway 83"
-housenumber: 19682
+street: South US Highway 83
+housenumber: "19682"
 phone: ""
 opening_hours: ""
 website: ""

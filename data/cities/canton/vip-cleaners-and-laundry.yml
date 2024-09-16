@@ -1,11 +1,11 @@
 id: 758615868
-type: way
+type: node
 latitude: 32.54292
 longitude: -95.87224
 postcode: "75103"
 city: Canton
-street: "Big Rock Road"
-housenumber: 1401
+street: Big Rock Road
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

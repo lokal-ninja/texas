@@ -1,11 +1,11 @@
 id: 734896085
-type: way
+type: node
 latitude: 31.77885
 longitude: -106.46088
 postcode: "79903"
 city: El Paso
-street: "North Piedras Street"
-housenumber: 500
+street: North Piedras Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/el-paso/19328"
+website: https://www.dollargeneral.com/store-directory/tx/el-paso/19328

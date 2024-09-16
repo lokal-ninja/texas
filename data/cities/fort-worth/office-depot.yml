@@ -1,11 +1,11 @@
 id: 655103678
-type: way
+type: node
 latitude: 32.7542
 longitude: -97.35195
 postcode: "76107"
 city: Fort Worth
-street: "Carroll Street"
-housenumber: 569
-phone: "+1 817-885-7868"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/fort-worth/office-depot-2518"
+street: Carroll Street
+housenumber: "569"
+phone: +1 817-885-7868
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/tx/fort-worth/office-depot-2518

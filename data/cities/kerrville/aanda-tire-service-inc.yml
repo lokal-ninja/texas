@@ -1,11 +1,11 @@
 id: 739168311
-type: way
+type: node
 latitude: 30.07357
 longitude: -99.21763
 postcode: "78028"
 city: Kerrville
-street: "Junction Highway"
-housenumber: 2934
-phone: "+1-830-367-4640"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.aandatire.com/"
+street: Junction Highway
+housenumber: "2934"
+phone: +1-830-367-4640
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.aandatire.com/

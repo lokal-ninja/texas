@@ -1,11 +1,11 @@
 id: 1160483585
-type: way
+type: node
 latitude: 29.8037
 longitude: -98.7375
 postcode: "78006"
 city: Boerne
-street: "North Main Street"
-housenumber: 942
+street: North Main Street
+housenumber: "942"
 phone: ""
 opening_hours: ""
 website: ""

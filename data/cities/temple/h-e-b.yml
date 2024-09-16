@@ -1,11 +1,11 @@
 id: 72649055
-type: way
+type: node
 latitude: 31.07245
 longitude: -97.37032
 postcode: "76502"
 city: Temple
-street: "South 31st Street"
-housenumber: 3002
-phone: "+1-254-778-4820"
+street: South 31st Street
+housenumber: "3002"
+phone: +1-254-778-4820
 opening_hours: ""
 website: ""

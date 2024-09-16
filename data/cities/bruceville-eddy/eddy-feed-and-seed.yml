@@ -1,11 +1,11 @@
 id: 731131248
-type: way
+type: node
 latitude: 31.29407
 longitude: -97.25178
 postcode: "76524"
 city: Bruceville-Eddy
-street: "4th Street"
-housenumber: 101
+street: 4th Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

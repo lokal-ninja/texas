@@ -1,11 +1,11 @@
 id: 1101361747
-type: way
+type: node
 latitude: 29.1313
 longitude: -98.89275
 postcode: "78016"
 city: Devine
-street: "Interstate 35 North"
-housenumber: 170
+street: Interstate 35 North
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

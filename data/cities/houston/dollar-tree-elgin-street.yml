@@ -1,11 +1,11 @@
 id: 374878795
-type: way
+type: node
 latitude: 29.74079
 longitude: -95.37703
 postcode: "77004"
 city: Houston
-street: "Elgin Street"
-housenumber: 1000
+street: Elgin Street
+housenumber: "1000"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-19:00"
-website: "https://www.dollartree.com/locations/tx/houston/9644/"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-19:00
+website: https://www.dollartree.com/locations/tx/houston/9644/

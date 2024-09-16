@@ -1,11 +1,11 @@
 id: 1046333147
-type: way
+type: node
 latitude: 36.39402
 longitude: -100.80316
 postcode: "79070"
 city: Perryton
-street: "South Main Street"
-housenumber: 622
-phone: "+1-806-435-6991"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://chihuahuaautosales.com"
+street: South Main Street
+housenumber: "622"
+phone: +1-806-435-6991
+opening_hours: Mo-Sa 09:00-19:00
+website: https://chihuahuaautosales.com

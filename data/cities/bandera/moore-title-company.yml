@@ -1,11 +1,11 @@
 id: 496182148
-type: way
+type: node
 latitude: 29.7273
 longitude: -99.07285
 postcode: "78003"
 city: Bandera
-street: "Pecan Street"
-housenumber: 1207
+street: Pecan Street
+housenumber: "1207"
 phone: ""
 opening_hours: ""
 website: ""

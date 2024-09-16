@@ -1,11 +1,11 @@
 id: 414884285
-type: way
+type: node
 latitude: 26.25539
 longitude: -98.21894
 postcode: "78539"
 city: Edinburg
-street: "North 10th Street"
-housenumber: 5700
-phone: "+1 956-664-8040"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-mcallen/2656"
+street: North 10th Street
+housenumber: "5700"
+phone: +1 956-664-8040
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-mcallen/2656

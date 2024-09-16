@@ -1,11 +1,11 @@
 id: 1074603496
-type: way
+type: node
 latitude: 33.99609
 longitude: -101.34421
 postcode: "79235"
 city: Floydada
-street: "US 70"
-housenumber: 1772
+street: US 70
+housenumber: "1772"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1051251483
-type: way
+type: node
 latitude: 33.22336
 longitude: -98.15847
 postcode: "76458"
 city: Jacksboro
-street: "North Main Street"
-housenumber: 514
+street: North Main Street
+housenumber: "514"
 phone: ""
 opening_hours: ""
 website: ""

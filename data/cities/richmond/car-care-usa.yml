@@ -1,11 +1,11 @@
 id: 503476118
-type: way
+type: node
 latitude: 29.66507
 longitude: -95.74817
 postcode: "77406"
 city: Richmond
-street: "West Bellfort Street"
-housenumber: 21028
+street: West Bellfort Street
+housenumber: "21028"
 phone: ""
 opening_hours: ""
 website: ""

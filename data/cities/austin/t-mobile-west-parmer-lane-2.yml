@@ -4,8 +4,8 @@ latitude: 30.41962
 longitude: -97.70215
 postcode: "78727"
 city: Austin
-street: "West Parmer Lane"
-housenumber: 2510
-phone: "+1-512-900-5579"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.t-mobile.com/store-locator/tx/austin/w-parmer-lane-mopac-expressway"
+street: West Parmer Lane
+housenumber: "2510"
+phone: +1-512-900-5579
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.t-mobile.com/store-locator/tx/austin/w-parmer-lane-mopac-expressway

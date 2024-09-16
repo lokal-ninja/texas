@@ -1,11 +1,11 @@
 id: 370379202
-type: way
+type: node
 latitude: 29.45803
 longitude: -98.55396
 postcode: "78228"
 city: San Antonio
-street: "Bandera Road"
-housenumber: 918
-phone: "+1 210-536-0576"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3058/san-antonio-tx/whats-new"
+street: Bandera Road
+housenumber: "918"
+phone: +1 210-536-0576
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3058/san-antonio-tx/whats-new

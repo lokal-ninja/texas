@@ -1,11 +1,11 @@
 id: 784787463
-type: way
+type: node
 latitude: 30.06248
 longitude: -95.91172
 postcode: ""
 city: Waller
-street: "FM 2920"
-housenumber: 31013
+street: FM 2920
+housenumber: "31013"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/waller-tx-pharmacies/31013-fm-2920-rd-waller-tx-77484/storeid=7485"
+website: https://www.cvs.com/store-locator/waller-tx-pharmacies/31013-fm-2920-rd-waller-tx-77484/storeid=7485

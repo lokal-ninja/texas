@@ -1,11 +1,11 @@
 id: 795818616
-type: way
+type: node
 latitude: 35.22808
 longitude: -100.60619
 postcode: "79057"
 city: McLean
-street: "I-40 Frontage Road"
-housenumber: 13951
+street: I-40 Frontage Road
+housenumber: "13951"
 phone: ""
 opening_hours: ""
 website: ""

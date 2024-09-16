@@ -1,11 +1,11 @@
 id: 891720618
-type: way
+type: node
 latitude: 30.63338
 longitude: -97.82406
 postcode: "78628"
 city: Georgetown
-street: "Ronald Reagan Boulevard"
-housenumber: 19348
-phone: "+1-512-843-4902"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.heb.com"
+street: Ronald Reagan Boulevard
+housenumber: "19348"
+phone: +1-512-843-4902
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.heb.com

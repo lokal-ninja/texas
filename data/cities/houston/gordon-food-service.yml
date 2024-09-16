@@ -1,11 +1,11 @@
 id: 203403685
-type: way
+type: node
 latitude: 29.6784
 longitude: -95.47905
 postcode: ""
 city: Houston
-street: "North Braeswood Boulevard"
-housenumber: 5300
+street: North Braeswood Boulevard
+housenumber: "5300"
 phone: ""
 opening_hours: ""
 website: ""

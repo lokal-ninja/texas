@@ -1,11 +1,11 @@
 id: 130304329
-type: way
+type: node
 latitude: 33.07374
 longitude: -96.77106
 postcode: "75025"
 city: Plano
-street: "Legacy Drive"
-housenumber: 3945
-phone: "+1-972-491-2200"
+street: Legacy Drive
+housenumber: "3945"
+phone: +1-972-491-2200
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/plano/3945-legacy-dr.html"
+website: https://local.tomthumb.com/tx/plano/3945-legacy-dr.html

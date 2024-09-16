@@ -4,8 +4,8 @@ latitude: 29.42544
 longitude: -98.46266
 postcode: "78202"
 city: San Antonio
-street: "East Houston Street"
-housenumber: 2141
-phone: "+1-210-527-9485"
-opening_hours: "Mo-Th 09:00-19:30; Fr-Sa 09:00-20:00"
+street: East Houston Street
+housenumber: "2141"
+phone: +1-210-527-9485
+opening_hours: Mo-Th 09:00-19:30; Fr-Sa 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1265899967
-type: way
+type: node
 latitude: 31.79476
 longitude: -97.58928
 postcode: "76634"
 city: Clifton
-street: "North Avenue G"
-housenumber: 1214
-phone: "+1-254-675-2220"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.parkersbuildingsupply.com/"
+street: North Avenue G
+housenumber: "1214"
+phone: +1-254-675-2220
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.parkersbuildingsupply.com/

@@ -1,11 +1,11 @@
 id: 1305248864
-type: way
+type: node
 latitude: 33.216
 longitude: -96.66003
 postcode: "75071"
 city: McKinney
-street: "North Hardin Boulevard"
-housenumber: 1720
-phone: "(469) 525-4965"
+street: North Hardin Boulevard
+housenumber: "1720"
+phone: (469) 525-4965
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 95738915
-type: way
+type: node
 latitude: 29.77458
 longitude: -96.15632
 postcode: ""
 city: Sealy
-street: "Meyer Street"
-housenumber: 839
+street: Meyer Street
+housenumber: "839"
 phone: ""
 opening_hours: ""
 website: ""

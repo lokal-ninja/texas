@@ -1,11 +1,11 @@
 id: 711178781
-type: way
+type: node
 latitude: 32.38962
 longitude: -97.39122
 postcode: ""
 city: Cleburne
-street: "North Main Street"
-housenumber: 2515
+street: North Main Street
+housenumber: "2515"
 phone: ""
 opening_hours: ""
-website: "https://www.fastenal.com/locations/details/TXCLE"
+website: https://www.fastenal.com/locations/details/TXCLE

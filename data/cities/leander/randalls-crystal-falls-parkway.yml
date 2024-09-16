@@ -1,11 +1,11 @@
 id: 605095680
-type: way
+type: node
 latitude: 30.54483
 longitude: -97.8656
 postcode: "78641"
 city: Leander
-street: "Crystal Falls Parkway"
-housenumber: 1828
+street: Crystal Falls Parkway
+housenumber: "1828"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

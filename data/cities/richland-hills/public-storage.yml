@@ -1,11 +1,11 @@
 id: 733090552
-type: way
+type: node
 latitude: 32.80681
 longitude: -97.21372
 postcode: "76118"
 city: Richland Hills
-street: "Airport Freeway"
-housenumber: 7601
+street: Airport Freeway
+housenumber: "7601"
 phone: ""
 opening_hours: ""
 website: ""

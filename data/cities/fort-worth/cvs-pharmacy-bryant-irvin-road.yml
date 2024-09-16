@@ -1,11 +1,11 @@
 id: 504085170
-type: way
+type: node
 latitude: 32.66208
 longitude: -97.42365
 postcode: "76132"
 city: Fort Worth
-street: "Bryant Irvin Road"
-housenumber: 6000
+street: Bryant Irvin Road
+housenumber: "6000"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/fort-worth-tx-pharmacies/6000-bryant-irvin-rd-fort-worth-tx-76132/storeid=7801"
+website: https://www.cvs.com/store-locator/fort-worth-tx-pharmacies/6000-bryant-irvin-rd-fort-worth-tx-76132/storeid=7801

@@ -1,11 +1,11 @@
 id: 768972797
-type: way
+type: node
 latitude: 35.69215
 longitude: -100.63806
 postcode: "79059"
 city: Miami
-street: "East Commercial Street"
-housenumber: 101
+street: East Commercial Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

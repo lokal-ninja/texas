@@ -1,11 +1,11 @@
 id: 504095856
-type: way
+type: node
 latitude: 32.61651
 longitude: -97.38895
 postcode: "76123"
 city: Fort Worth
-street: "South Hulen Street"
-housenumber: 8600
+street: South Hulen Street
+housenumber: "8600"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-8600+s+hulen+st-fort+worth-tx-76123/id=9235"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-8600+s+hulen+st-fort+worth-tx-76123/id=9235

@@ -1,11 +1,11 @@
 id: 649281978
-type: way
+type: node
 latitude: 33.09213
 longitude: -96.1049
 postcode: "75402"
 city: Greenville
-street: "Traders Road"
-housenumber: 2204
-phone: "+1-214-273-0071"
+street: Traders Road
+housenumber: "2204"
+phone: +1-214-273-0071
 opening_hours: ""
-website: "https://www.rajmotorsales.com/"
+website: https://www.rajmotorsales.com/

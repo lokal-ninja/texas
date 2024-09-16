@@ -1,11 +1,11 @@
 id: 40416840
-type: way
+type: node
 latitude: 27.71439
 longitude: -97.38699
 postcode: "78411"
 city: Corpus Christi
-street: "South Padre Island Drive"
-housenumber: 4717
-phone: "+1 361-857-8300"
+street: South Padre Island Drive
+housenumber: "4717"
+phone: +1 361-857-8300
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/corpus-christi/4717-s-padre-island-dr-235.html"
+website: https://stores.bestbuy.com/tx/corpus-christi/4717-s-padre-island-dr-235.html

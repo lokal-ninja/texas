@@ -1,11 +1,11 @@
 id: 620532202
-type: way
+type: node
 latitude: 32.4954
 longitude: -94.73066
 postcode: "75601"
 city: Longview
-street: "North Fifth Street"
-housenumber: 305
+street: North Fifth Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

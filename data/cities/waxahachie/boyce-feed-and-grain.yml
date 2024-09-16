@@ -1,11 +1,11 @@
 id: 507399528
-type: way
+type: node
 latitude: 32.38241
 longitude: -96.84854
 postcode: "75165"
 city: Waxahachie
-street: "South College Street"
-housenumber: 441
+street: South College Street
+housenumber: "441"
 phone: ""
 opening_hours: ""
 website: ""

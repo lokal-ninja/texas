@@ -4,8 +4,8 @@ latitude: 32.89422
 longitude: -96.70899
 postcode: "75238"
 city: Dallas
-street: "Miller Road"
-housenumber: 10202
+street: Miller Road
+housenumber: "10202"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:50; Sa 9:00-15:00"
-website: "https://dallasofficefurniture.com"
+opening_hours: Mo-Fr 08:30-17:50; Sa 9:00-15:00
+website: https://dallasofficefurniture.com

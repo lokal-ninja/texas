@@ -1,11 +1,11 @@
 id: 408448392
-type: way
+type: node
 latitude: 31.3372
 longitude: -94.73925
 postcode: "75904"
 city: Lufkin
-street: "North Bynum Street"
-housenumber: 108
-phone: "+1 936 632 1644"
+street: North Bynum Street
+housenumber: "108"
+phone: +1 936 632 1644
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 740010559
-type: way
+type: node
 latitude: 29.80011
 longitude: -95.80979
 postcode: "77493"
 city: Katy
-street: "Franz Road"
-housenumber: 5249
-phone: "+1-281-391-7029"
+street: Franz Road
+housenumber: "5249"
+phone: +1-281-391-7029
 opening_hours: ""
 website: ""

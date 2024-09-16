@@ -1,11 +1,11 @@
 id: 818730748
-type: way
+type: node
 latitude: 30.00567
 longitude: -95.25503
 postcode: "77338"
 city: Humble
-street: "FM 1960 Bypass Road East"
-housenumber: 1373
-phone: "+1 281-713-3421"
+street: FM 1960 Bypass Road East
+housenumber: "1373"
+phone: +1 281-713-3421
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tx/humble/1373-fm-1960-bypass-rd-e-41671"
+website: https://www.7-eleven.com/locations/tx/humble/1373-fm-1960-bypass-rd-e-41671

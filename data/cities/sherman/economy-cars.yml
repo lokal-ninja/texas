@@ -1,11 +1,11 @@
 id: 987216832
-type: way
+type: node
 latitude: 33.63029
 longitude: -96.61516
 postcode: "75090"
 city: Sherman
-street: "South Sam Rayburn Freeway"
-housenumber: 604
+street: South Sam Rayburn Freeway
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 480914654
-type: way
+type: node
 latitude: 32.25537
 longitude: -95.30677
 postcode: "75703"
 city: Tyler
-street: "South Broadway Avenue"
-housenumber: 8668
+street: South Broadway Avenue
+housenumber: "8668"
 phone: ""
-opening_hours: "08:30-21:30"
-website: "https://www.academy.com/storelocator/texas/tyler/store-0048"
+opening_hours: 08:30-21:30
+website: https://www.academy.com/storelocator/texas/tyler/store-0048

@@ -1,11 +1,11 @@
 id: 817975471
-type: way
+type: node
 latitude: 29.37999
 longitude: -98.51223
 postcode: "78214"
 city: San Antonio
-street: "Division Avenue"
-housenumber: 619
-phone: "+1-210-880-1391"
+street: Division Avenue
+housenumber: "619"
+phone: +1-210-880-1391
 opening_hours: ""
 website: ""

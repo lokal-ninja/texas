@@ -1,11 +1,11 @@
 id: 1086240585
-type: way
+type: node
 latitude: 26.19787
 longitude: -98.30911
 postcode: "78572"
 city: Mission
-street: "East Expressway 83"
-housenumber: 1404
+street: East Expressway 83
+housenumber: "1404"
 phone: ""
 opening_hours: ""
 website: ""

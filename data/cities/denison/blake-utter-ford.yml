@@ -1,11 +1,11 @@
 id: 694609982
-type: way
+type: node
 latitude: 33.7555
 longitude: -96.58761
 postcode: "75020"
 city: Denison
-street: "South Highway 75"
-housenumber: 215
+street: South Highway 75
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

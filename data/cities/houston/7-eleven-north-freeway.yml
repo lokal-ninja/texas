@@ -1,11 +1,11 @@
 id: 844893372
-type: way
+type: node
 latitude: 29.96614
 longitude: -95.4179
 postcode: "77090"
 city: Houston
-street: "North Freeway"
-housenumber: 13800
-phone: "+1 346-285-6351"
+street: North Freeway
+housenumber: "13800"
+phone: +1 346-285-6351
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tx/houston/13800-north-fwy-41350"
+website: https://www.7-eleven.com/locations/tx/houston/13800-north-fwy-41350

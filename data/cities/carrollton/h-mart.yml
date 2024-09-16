@@ -1,11 +1,11 @@
 id: 423752665
-type: way
+type: node
 latitude: 32.98538
 longitude: -96.91286
 postcode: "75007"
 city: Carrollton
-street: "Old Denton Road"
-housenumber: 2625
-phone: "+1-972-323-9700"
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.hmart.com/"
+street: Old Denton Road
+housenumber: "2625"
+phone: +1-972-323-9700
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.hmart.com/

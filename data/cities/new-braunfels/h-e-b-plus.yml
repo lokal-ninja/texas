@@ -1,11 +1,11 @@
 id: 257306900
-type: way
+type: node
 latitude: 29.68829
 longitude: -98.12503
 postcode: "78130"
 city: New Braunfels
-street: "South Walnut Avenue"
-housenumber: 651
-phone: "+1-830-608-0017"
+street: South Walnut Avenue
+housenumber: "651"
+phone: +1-830-608-0017
 opening_hours: ""
 website: ""

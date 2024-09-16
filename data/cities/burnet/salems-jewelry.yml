@@ -1,11 +1,11 @@
 id: 761910726
-type: way
+type: node
 latitude: 30.75804
 longitude: -98.22844
 postcode: "78611"
 city: Burnet
-street: "South Water Street"
-housenumber: 101
+street: South Water Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

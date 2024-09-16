@@ -1,11 +1,11 @@
 id: 510253497
-type: way
+type: node
 latitude: 32.6643
 longitude: -95.48713
 postcode: "75773"
 city: Mineola
-street: "North Newsom Street"
-housenumber: 201
+street: North Newsom Street
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 13:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 13:00-18:00
 website: ""

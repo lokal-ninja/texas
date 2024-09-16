@@ -1,11 +1,11 @@
 id: 176983888
-type: way
+type: node
 latitude: 30.10883
 longitude: -97.35584
 postcode: "78602"
 city: Bastrop
-street: "Hunters Crossing Boulevard"
-housenumber: 112
-phone: "+1-512-308-1022"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Bastrop/TX/Bastrop/78602/6575"
+street: Hunters Crossing Boulevard
+housenumber: "112"
+phone: +1-512-308-1022
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Bastrop/TX/Bastrop/78602/6575

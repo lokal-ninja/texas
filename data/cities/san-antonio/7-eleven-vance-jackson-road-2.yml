@@ -1,11 +1,11 @@
 id: 973005563
-type: way
+type: node
 latitude: 29.48573
 longitude: -98.53429
 postcode: "78201"
 city: San Antonio
-street: "Vance Jackson Road"
-housenumber: 1302
+street: Vance Jackson Road
+housenumber: "1302"
 phone: ""
 opening_hours: ""
 website: ""

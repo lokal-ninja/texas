@@ -1,11 +1,11 @@
 id: 428829798
-type: way
+type: node
 latitude: 30.01032
 longitude: -95.26274
 postcode: "77338"
 city: Humble
-street: "Eastex Freeway"
-housenumber: 20360
-phone: "+1 281-540-2400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/humble/tx/humble/77338/576"
+street: Eastex Freeway
+housenumber: "20360"
+phone: +1 281-540-2400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/humble/tx/humble/77338/576

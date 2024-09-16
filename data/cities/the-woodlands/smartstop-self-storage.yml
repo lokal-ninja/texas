@@ -1,11 +1,11 @@
 id: 552010984
-type: way
+type: node
 latitude: 30.22946
 longitude: -95.52291
 postcode: "77384"
 city: The Woodlands
-street: "FM 1488"
-housenumber: 3750
+street: FM 1488
+housenumber: "3750"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su 10:00-14:00"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su 10:00-14:00
 website: ""

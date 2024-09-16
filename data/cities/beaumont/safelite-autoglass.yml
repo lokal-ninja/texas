@@ -1,11 +1,11 @@
 id: 772042189
-type: way
+type: node
 latitude: 30.07036
 longitude: -94.12975
 postcode: "77701"
 city: Beaumont
-street: "Stagg Drive"
-housenumber: 3610
+street: Stagg Drive
+housenumber: "3610"
 phone: ""
 opening_hours: ""
 website: ""

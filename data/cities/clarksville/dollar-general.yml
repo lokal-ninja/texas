@@ -1,11 +1,11 @@
 id: 982163859
-type: way
+type: node
 latitude: 33.61172
 longitude: -95.04164
 postcode: "75426"
 city: Clarksville
-street: "East Main Street"
-housenumber: 1100
+street: East Main Street
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/clarksville/3602"
+website: https://www.dollargeneral.com/store-directory/tx/clarksville/3602

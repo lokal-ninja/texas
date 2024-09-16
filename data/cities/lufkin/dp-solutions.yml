@@ -1,11 +1,11 @@
 id: 406735635
-type: way
+type: node
 latitude: 31.32058
 longitude: -94.72822
 postcode: "75901"
 city: Lufkin
-street: "South First Street"
-housenumber: 1508
-phone: "+1 936 637 7977"
+street: South First Street
+housenumber: "1508"
+phone: +1 936 637 7977
 opening_hours: ""
-website: "www.dpsol.com"
+website: www.dpsol.com

@@ -1,11 +1,11 @@
 id: 684246042
-type: way
+type: node
 latitude: 30.46877
 longitude: -97.59749
 postcode: "78660"
 city: Pflugerville
-street: "Limestone Commercial Drive"
-housenumber: 18700
-phone: "+1 512-670-3355"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 08:30-22:30; Su 09:00-22:00"
+street: Limestone Commercial Drive
+housenumber: "18700"
+phone: +1 512-670-3355
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 08:30-22:30; Su 09:00-22:00
 website: ""

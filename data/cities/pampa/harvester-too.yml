@@ -1,11 +1,11 @@
 id: 768965283
-type: way
+type: node
 latitude: 35.57008
 longitude: -100.96699
 postcode: "79065"
 city: Pampa
-street: "North Charles Street"
-housenumber: 2812
+street: North Charles Street
+housenumber: "2812"
 phone: ""
 opening_hours: ""
 website: ""

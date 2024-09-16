@@ -1,11 +1,11 @@
 id: 1266958531
-type: way
+type: node
 latitude: 30.6198
 longitude: -97.69239
 postcode: "78628"
 city: Georgetown
-street: "South Interstate 35"
-housenumber: 2300
-phone: "+1-512-843-5993"
-opening_hours: "06:00-21:00"
-website: "https://www.publicstorage.com"
+street: South Interstate 35
+housenumber: "2300"
+phone: +1-512-843-5993
+opening_hours: 06:00-21:00
+website: https://www.publicstorage.com

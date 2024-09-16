@@ -2,10 +2,10 @@ id: 4082276052
 type: node
 latitude: 32.67746
 longitude: -97.19831
-postcode: "76016-5631"
+postcode: 76016-5631
 city: Arlington
-street: "Little Road"
-housenumber: 4400
-phone: "+1 817-478-4511"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Little Road
+housenumber: "4400"
+phone: +1 817-478-4511
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

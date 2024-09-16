@@ -1,11 +1,11 @@
 id: 745965810
-type: way
+type: node
 latitude: 31.47506
 longitude: -98.15262
 postcode: "76525"
 city: Evant
-street: "East Live Oak Street"
-housenumber: 104
+street: East Live Oak Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

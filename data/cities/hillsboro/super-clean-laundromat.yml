@@ -1,11 +1,11 @@
 id: 761465250
-type: way
+type: node
 latitude: 32.0113
 longitude: -97.09791
 postcode: "76645"
 city: Hillsboro
-street: "East Franklin Street"
-housenumber: 1402
+street: East Franklin Street
+housenumber: "1402"
 phone: ""
 opening_hours: ""
 website: ""

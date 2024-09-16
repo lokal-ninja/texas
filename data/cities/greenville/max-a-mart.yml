@@ -1,11 +1,11 @@
 id: 548489307
-type: way
+type: node
 latitude: 33.09212
 longitude: -96.10926
 postcode: "75402"
 city: Greenville
-street: "Wesley Street"
-housenumber: 7717
+street: Wesley Street
+housenumber: "7717"
 phone: ""
 opening_hours: ""
 website: ""

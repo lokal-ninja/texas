@@ -1,11 +1,11 @@
 id: 563163575
-type: way
+type: node
 latitude: 26.18765
 longitude: -98.20916
 postcode: "78503"
 city: McAllen
-street: "East Jackson Avenue"
-housenumber: 1200
-phone: "+1 956-686-4311"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/397/mcallen-tx/whats-new"
+street: East Jackson Avenue
+housenumber: "1200"
+phone: +1 956-686-4311
+opening_hours: 24/7
+website: https://www.walmart.com/store/397/mcallen-tx/whats-new

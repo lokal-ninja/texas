@@ -1,11 +1,11 @@
 id: 1206234036
-type: way
+type: node
 latitude: 29.37508
 longitude: -98.45433
 postcode: "78223"
 city: San Antonio
-street: "East Southcross Boulevard"
-housenumber: 2502
-phone: "+1-210-533-8103"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.xlparts.com"
+street: East Southcross Boulevard
+housenumber: "2502"
+phone: +1-210-533-8103
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.xlparts.com

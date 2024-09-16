@@ -1,11 +1,11 @@
 id: 317921308
-type: way
+type: node
 latitude: 30.07852
 longitude: -95.42906
 postcode: "77373"
 city: Spring
-street: "Spring Cypress Road"
-housenumber: 1004
-phone: "+1-281-353-0093"
+street: Spring Cypress Road
+housenumber: "1004"
+phone: +1-281-353-0093
 opening_hours: ""
-website: "https://www.hollidayinteriors.com"
+website: https://www.hollidayinteriors.com

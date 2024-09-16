@@ -1,11 +1,11 @@
 id: 667339791
-type: way
+type: node
 latitude: 32.76684
 longitude: -96.59667
 postcode: "75149"
 city: Mesquite
-street: "East Main Street"
-housenumber: 201
+street: East Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

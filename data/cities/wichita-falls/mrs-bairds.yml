@@ -1,11 +1,11 @@
 id: 734871645
-type: way
+type: node
 latitude: 33.90194
 longitude: -98.48259
 postcode: "76301"
 city: Wichita Falls
-street: "East Scott Avenue"
-housenumber: 301
+street: East Scott Avenue
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

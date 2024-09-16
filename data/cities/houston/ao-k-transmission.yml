@@ -1,11 +1,11 @@
 id: 378711655
-type: way
+type: node
 latitude: 29.71743
 longitude: -95.29897
 postcode: ""
 city: Houston
-street: "Lawndale Street"
-housenumber: 7014
+street: Lawndale Street
+housenumber: "7014"
 phone: ""
 opening_hours: ""
 website: ""

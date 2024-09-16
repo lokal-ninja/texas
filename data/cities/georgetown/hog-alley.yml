@@ -1,11 +1,11 @@
 id: 1216135884
-type: way
+type: node
 latitude: 30.6686
 longitude: -97.66923
 postcode: "78628"
 city: Georgetown
-street: "North Interstate 35"
-housenumber: 1525
-phone: "+1-512-930-5475"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "http://www.hogalley.net/"
+street: North Interstate 35
+housenumber: "1525"
+phone: +1-512-930-5475
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:30-17:00
+website: http://www.hogalley.net/

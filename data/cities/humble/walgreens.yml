@@ -1,11 +1,11 @@
 id: 428377503
-type: way
+type: node
 latitude: 29.99746
 longitude: -95.16278
 postcode: "77346"
 city: Humble
-street: "FM 1960 East"
-housenumber: 7440
+street: FM 1960 East
+housenumber: "7440"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7440+fm+1960+rd+e-humble-tx-77346/id=3025"
+website: https://www.walgreens.com/locator/walgreens-7440+fm+1960+rd+e-humble-tx-77346/id=3025

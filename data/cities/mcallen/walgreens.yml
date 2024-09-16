@@ -1,11 +1,11 @@
 id: 635772171
-type: way
+type: node
 latitude: 26.1855
 longitude: -98.21522
 postcode: "78503"
 city: McAllen
-street: "East Ridge Road"
-housenumber: 701
-phone: "+1-956-683-9392"
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-701+e+ridge+rd-mcallen-tx-78503/id=9449"
+street: East Ridge Road
+housenumber: "701"
+phone: +1-956-683-9392
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-701+e+ridge+rd-mcallen-tx-78503/id=9449

@@ -1,11 +1,11 @@
 id: 529862123
-type: way
+type: node
 latitude: 32.67372
 longitude: -95.48433
 postcode: "75773"
 city: Mineola
-street: "North Pacific Street"
-housenumber: 1112
+street: North Pacific Street
+housenumber: "1112"
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/tx/mineola/7110/"
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollartree.com/locations/tx/mineola/7110/

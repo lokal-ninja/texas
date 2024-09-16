@@ -1,11 +1,11 @@
 id: 494693853
-type: way
+type: node
 latitude: 32.8262
 longitude: -97.20339
 postcode: "76053"
 city: Hurst
-street: "Northeast Mall Boulevard"
-housenumber: 853
-phone: "+1-817-590-0071"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-22:00, Su 10:00-19:00"
-website: "https://stores.bedbathandbeyond.com/Hurst-TX-76053-226"
+street: Northeast Mall Boulevard
+housenumber: "853"
+phone: +1-817-590-0071
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-22:00, Su 10:00-19:00
+website: https://stores.bedbathandbeyond.com/Hurst-TX-76053-226

@@ -1,11 +1,11 @@
 id: 678783962
-type: way
+type: node
 latitude: 34.18961
 longitude: -101.75448
 postcode: "79072"
 city: Plainview
-street: "North Interstate 27"
-housenumber: 1001
-phone: "+1 806-293-5310"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Interstate 27
+housenumber: "1001"
+phone: +1 806-293-5310
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 382506909
-type: way
+type: node
 latitude: 30.38079
 longitude: -97.68841
 postcode: "78758"
 city: Austin
-street: "Kramer Lane"
-housenumber: 826
-phone: "+1-512-836-1990"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.doncoaustin.com/"
+street: Kramer Lane
+housenumber: "826"
+phone: +1-512-836-1990
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.doncoaustin.com/

@@ -1,11 +1,11 @@
 id: 544300373
-type: way
+type: node
 latitude: 32.41055
 longitude: -99.77921
 postcode: "79606"
 city: Abilene
-street: "Catclaw Drive"
-housenumber: 3350
+street: Catclaw Drive
+housenumber: "3350"
 phone: ""
 opening_hours: ""
 website: ""

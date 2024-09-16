@@ -1,11 +1,11 @@
 id: 843628497
-type: way
+type: node
 latitude: 32.33571
 longitude: -102.55148
 postcode: "79714"
 city: Andrews
-street: "North Main Street"
-housenumber: 1502
+street: North Main Street
+housenumber: "1502"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/andrews/1724"
+website: https://www.dollargeneral.com/store-directory/tx/andrews/1724

@@ -1,11 +1,11 @@
 id: 1108056323
-type: way
+type: node
 latitude: 31.68631
 longitude: -106.29739
 postcode: "79907"
 city: El Paso
-street: "North Americas Avenue"
-housenumber: 700
+street: North Americas Avenue
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220464827
-type: way
+type: node
 latitude: 33.45793
 longitude: -94.0808
 postcode: "75503"
 city: Texarkana
-street: "Mall Drive"
-housenumber: 3401
-phone: "+1 903-223-1152"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/texarkana/1533"
+street: Mall Drive
+housenumber: "3401"
+phone: +1 903-223-1152
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/texarkana/1533

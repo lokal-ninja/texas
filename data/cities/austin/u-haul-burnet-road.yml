@@ -1,11 +1,11 @@
 id: 381790926
-type: way
+type: node
 latitude: 30.34225
 longitude: -97.73888
 postcode: "78757"
 city: Austin
-street: "Burnet Road"
-housenumber: 6610
-phone: "+1-512-302-3604"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00"
-website: "https://www.uhaul.com/Locations/Self-Storage-near-Austin-TX-78757/737060/"
+street: Burnet Road
+housenumber: "6610"
+phone: +1-512-302-3604
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00
+website: https://www.uhaul.com/Locations/Self-Storage-near-Austin-TX-78757/737060/

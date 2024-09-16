@@ -1,11 +1,11 @@
 id: 1274734828
-type: way
+type: node
 latitude: 33.02385
 longitude: -96.51887
 postcode: "75098"
 city: Wylie
-street: "North Highway 78"
-housenumber: 1800
-phone: "+1-214-237-0888"
-opening_hours: "24/7"
-website: "https://fuelcity.com/"
+street: North Highway 78
+housenumber: "1800"
+phone: +1-214-237-0888
+opening_hours: 24/7
+website: https://fuelcity.com/

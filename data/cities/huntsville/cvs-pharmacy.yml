@@ -1,11 +1,11 @@
 id: 852210201
-type: way
+type: node
 latitude: 30.70759
 longitude: -95.54739
 postcode: "77340"
 city: Huntsville
-street: "South Sam Houston Avenue"
-housenumber: 2421
+street: South Sam Houston Avenue
+housenumber: "2421"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/huntsville-tx-pharmacies/2421-sam-houston-ave-huntsville-tx-77340/storeid=10265"
+website: https://www.cvs.com/store-locator/huntsville-tx-pharmacies/2421-sam-houston-ave-huntsville-tx-77340/storeid=10265

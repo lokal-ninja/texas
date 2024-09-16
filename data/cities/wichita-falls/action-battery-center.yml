@@ -1,11 +1,11 @@
 id: 538398268
-type: way
+type: node
 latitude: 33.8994
 longitude: -98.48327
 postcode: "76301"
 city: Wichita Falls
-street: "Old Jacksboro Highway"
-housenumber: 911
+street: Old Jacksboro Highway
+housenumber: "911"
 phone: ""
 opening_hours: ""
 website: ""

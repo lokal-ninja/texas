@@ -1,11 +1,11 @@
 id: 421606140
-type: way
+type: node
 latitude: 32.86492
 longitude: -96.89892
 postcode: "75220"
 city: Dallas
-street: "West Northwest Highway"
-housenumber: 2201
+street: West Northwest Highway
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

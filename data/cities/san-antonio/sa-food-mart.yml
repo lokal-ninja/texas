@@ -1,11 +1,11 @@
 id: 266019393
-type: way
+type: node
 latitude: 29.45399
 longitude: -98.63715
 postcode: "78251"
 city: San Antonio
-street: "Stedwick Drive"
-housenumber: 1902
-phone: "+1 210 706 2999"
+street: Stedwick Drive
+housenumber: "1902"
+phone: +1 210 706 2999
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 714856359
-type: way
+type: node
 latitude: 32.58851
 longitude: -96.30837
 postcode: "75142"
 city: Kaufman
-street: "East Mulberry Street"
-housenumber: 102
+street: East Mulberry Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kaufman-tx-pharmacies/102-e-mulberry-st-kaufman-tx-75142/storeid=7404"
+website: https://www.cvs.com/store-locator/kaufman-tx-pharmacies/102-e-mulberry-st-kaufman-tx-75142/storeid=7404

@@ -1,11 +1,11 @@
 id: 504064686
-type: way
+type: node
 latitude: 32.61599
 longitude: -97.32053
 postcode: "76140"
 city: Fort Worth
-street: "South Freeway"
-housenumber: 9601
+street: South Freeway
+housenumber: "9601"
 phone: ""
 opening_hours: ""
 website: ""

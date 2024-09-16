@@ -1,11 +1,11 @@
 id: 520415257
-type: way
+type: node
 latitude: 29.33013
 longitude: -94.93935
 postcode: "77563"
 city: Bayou Vista
-street: "Highway 6"
-housenumber: 3115
+street: Highway 6
+housenumber: "3115"
 phone: ""
 opening_hours: ""
 website: ""

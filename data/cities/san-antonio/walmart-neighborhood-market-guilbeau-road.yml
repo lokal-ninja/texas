@@ -1,11 +1,11 @@
 id: 359929899
-type: way
+type: node
 latitude: 29.51814
 longitude: -98.66081
 postcode: "78250"
 city: San Antonio
-street: "Guilbeau Road"
-housenumber: 9006
-phone: "+1 210-536-3160"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2835/san-antonio-tx/whats-new"
+street: Guilbeau Road
+housenumber: "9006"
+phone: +1 210-536-3160
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2835/san-antonio-tx/whats-new

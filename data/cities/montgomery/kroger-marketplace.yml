@@ -1,11 +1,11 @@
 id: 909215263
-type: way
+type: node
 latitude: 30.38981
 longitude: -95.6788
 postcode: "77356"
 city: Montgomery
-street: "Eva Street"
-housenumber: 20168
-phone: "+1 936-449-7167"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/montgomery/montgomery/034/00142"
+street: Eva Street
+housenumber: "20168"
+phone: +1 936-449-7167
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/montgomery/montgomery/034/00142

@@ -4,8 +4,8 @@ latitude: 30.37717
 longitude: -97.68206
 postcode: "78753"
 city: Austin
-street: "Victor Street"
-housenumber: 102
-phone: "+1-512-339-9922"
+street: Victor Street
+housenumber: "102"
+phone: +1-512-339-9922
 opening_hours: ""
-website: "https://www.unicornmoving.com/"
+website: https://www.unicornmoving.com/

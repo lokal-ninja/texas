@@ -1,11 +1,11 @@
 id: 29275784
-type: way
+type: node
 latitude: 30.54403
 longitude: -97.8406
 postcode: "78641"
 city: Leander
-street: "South Highway 183"
-housenumber: 2801
+street: South Highway 183
+housenumber: "2801"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-17:00
 website: ""

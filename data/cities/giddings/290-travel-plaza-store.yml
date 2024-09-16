@@ -1,11 +1,11 @@
 id: 781667622
-type: way
+type: node
 latitude: 30.18469
 longitude: -96.95461
 postcode: "78942"
 city: Giddings
-street: "US 290"
-housenumber: 1790
-phone: "+1-979-212-5092"
+street: US 290
+housenumber: "1790"
+phone: +1-979-212-5092
 opening_hours: ""
 website: ""

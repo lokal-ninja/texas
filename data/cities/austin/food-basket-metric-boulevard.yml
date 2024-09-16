@@ -1,11 +1,11 @@
 id: 71895115
-type: way
+type: node
 latitude: 30.4077
 longitude: -97.69648
 postcode: "78758"
 city: Austin
-street: "Metric Boulevard"
-housenumber: 12195
-phone: "+1-512-339-0655"
+street: Metric Boulevard
+housenumber: "12195"
+phone: +1-512-339-0655
 opening_hours: ""
-website: "https://www.shell.com/"
+website: https://www.shell.com/

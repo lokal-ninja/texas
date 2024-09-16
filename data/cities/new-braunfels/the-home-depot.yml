@@ -1,11 +1,11 @@
 id: 391843969
-type: way
+type: node
 latitude: 29.70127
 longitude: -98.08865
 postcode: "78130"
 city: New Braunfels
-street: "Interstate Highway 35 Frontage Road"
-housenumber: 1360
-phone: "+1 830-625-4089"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/new-braunfels/tx/new-braunfels/78130/8520"
+street: Interstate Highway 35 Frontage Road
+housenumber: "1360"
+phone: +1 830-625-4089
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/new-braunfels/tx/new-braunfels/78130/8520

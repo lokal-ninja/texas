@@ -1,11 +1,11 @@
 id: 860792891
-type: way
+type: node
 latitude: 32.84954
 longitude: -96.68395
 postcode: "75218"
 city: Dallas
-street: "Garland Road"
-housenumber: 11323
+street: Garland Road
+housenumber: "11323"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/dallas/11323-garland-rd"
+website: https://stores.advanceautoparts.com/tx/dallas/11323-garland-rd

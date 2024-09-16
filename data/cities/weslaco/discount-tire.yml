@@ -1,11 +1,11 @@
 id: 683633653
-type: way
+type: node
 latitude: 26.17383
 longitude: -98.00342
 postcode: "78596"
 city: Weslaco
-street: "West Expressway 83"
-housenumber: 1400
-phone: "+1-956-968-9510"
+street: West Expressway 83
+housenumber: "1400"
+phone: +1-956-968-9510
 opening_hours: ""
 website: ""

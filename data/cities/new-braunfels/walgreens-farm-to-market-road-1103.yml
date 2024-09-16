@@ -1,11 +1,11 @@
 id: 249343675
-type: way
+type: node
 latitude: 29.62378
 longitude: -98.2397
 postcode: "78132"
 city: New Braunfels
-street: "Farm-to-Market Road 1103"
-housenumber: 5960
+street: Farm-to-Market Road 1103
+housenumber: "5960"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5960+fm+1103-new+braunfels-tx-78132/id=11928"
+website: https://www.walgreens.com/locator/walgreens-5960+fm+1103-new+braunfels-tx-78132/id=11928

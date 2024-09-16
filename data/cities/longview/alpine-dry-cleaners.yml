@@ -1,11 +1,11 @@
 id: 387969812
-type: way
+type: node
 latitude: 32.52698
 longitude: -94.74139
 postcode: "75605"
 city: Longview
-street: "Delwood Drive"
-housenumber: 108
+street: Delwood Drive
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

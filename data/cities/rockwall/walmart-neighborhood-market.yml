@@ -1,11 +1,11 @@
 id: 675683118
-type: way
+type: node
 latitude: 32.93155
 longitude: -96.46833
 postcode: "75087"
 city: Rockwall
-street: "West Rusk Street"
-housenumber: 850
-phone: "+1 972-722-1217"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3530-rockwall-tx"
+street: West Rusk Street
+housenumber: "850"
+phone: +1 972-722-1217
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3530-rockwall-tx

@@ -1,11 +1,11 @@
 id: 734192860
-type: way
+type: node
 latitude: 35.17812
 longitude: -101.88334
 postcode: "79109"
 city: Amarillo
-street: "Southwest 34th Avenue"
-housenumber: 4165
-phone: "+1-806-353-2275"
-opening_hours: "Tu-Fr 07:30-18:00; Sa 08:00-14:00"
-website: "https://www.barkavenuepetstyling.com/"
+street: Southwest 34th Avenue
+housenumber: "4165"
+phone: +1-806-353-2275
+opening_hours: Tu-Fr 07:30-18:00; Sa 08:00-14:00
+website: https://www.barkavenuepetstyling.com/

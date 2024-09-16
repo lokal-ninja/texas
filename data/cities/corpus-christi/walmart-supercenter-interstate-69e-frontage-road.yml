@@ -1,11 +1,11 @@
 id: 511352151
-type: way
+type: node
 latitude: 27.85458
 longitude: -97.63357
 postcode: "78410"
 city: Corpus Christi
-street: "Interstate 69E Frontage Road"
-housenumber: 3829
-phone: "+1 361-387-0599"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/464/corpus-christi-tx/whats-new"
+street: Interstate 69E Frontage Road
+housenumber: "3829"
+phone: +1 361-387-0599
+opening_hours: 24/7
+website: https://www.walmart.com/store/464/corpus-christi-tx/whats-new

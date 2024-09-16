@@ -4,8 +4,8 @@ latitude: 29.71488
 longitude: -95.41762
 postcode: "77005"
 city: Houston
-street: "University Boulevard"
-housenumber: 2521
-phone: "+1-713-520-8888"
-opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 11:00-22:00; Su 11:00-20:00"
-website: "https://www.theoriginalchocolatebar.com"
+street: University Boulevard
+housenumber: "2521"
+phone: +1-713-520-8888
+opening_hours: Mo-Th 12:00-20:00; Fr-Sa 11:00-22:00; Su 11:00-20:00
+website: https://www.theoriginalchocolatebar.com

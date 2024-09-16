@@ -1,11 +1,11 @@
 id: 1033531422
-type: way
+type: node
 latitude: 29.39529
 longitude: -98.48184
 postcode: "78210"
 city: San Antonio
-street: "South Presa Street"
-housenumber: 2701
+street: South Presa Street
+housenumber: "2701"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/san-antonio/12123"
+website: https://www.dollargeneral.com/store-directory/tx/san-antonio/12123

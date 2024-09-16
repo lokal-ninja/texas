@@ -1,11 +1,11 @@
 id: 449104267
-type: way
+type: node
 latitude: 32.50469
 longitude: -94.77216
 postcode: "75604"
 city: Longview
-street: "West Marshall Avenue"
-housenumber: 1419
-phone: "+1 903 7534611"
+street: West Marshall Avenue
+housenumber: "1419"
+phone: +1 903 7534611
 opening_hours: ""
-website: "https://www.hanksframeandwheel.com/"
+website: https://www.hanksframeandwheel.com/

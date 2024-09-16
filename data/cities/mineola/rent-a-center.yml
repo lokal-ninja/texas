@@ -1,11 +1,11 @@
 id: 530948558
-type: way
+type: node
 latitude: 32.66291
 longitude: -95.48551
 postcode: "75773"
 city: Mineola
-street: "East Broad Street"
-housenumber: 401
-phone: "+1-903-569-6900"
+street: East Broad Street
+housenumber: "401"
+phone: +1-903-569-6900
 opening_hours: ""
 website: ""

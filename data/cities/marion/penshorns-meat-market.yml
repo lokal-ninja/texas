@@ -1,11 +1,11 @@
 id: 276558950
-type: way
+type: node
 latitude: 29.57108
 longitude: -98.14131
 postcode: "78124"
 city: Marion
-street: "West San Antonio Street"
-housenumber: 113
-phone: "+1 830 420 2327"
-opening_hours: "Mo - Fr 8:00-18:00; Sa 8:00-17:00"
+street: West San Antonio Street
+housenumber: "113"
+phone: +1 830 420 2327
+opening_hours: Mo - Fr 8:00-18:00; Sa 8:00-17:00
 website: ""

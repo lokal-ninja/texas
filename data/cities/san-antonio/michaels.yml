@@ -2,10 +2,10 @@ id: 7212073970
 type: node
 latitude: 29.42859
 longitude: -98.71388
-postcode: "78253-4010"
+postcode: 78253-4010
 city: San Antonio
-street: "West Loop 1604"
-housenumber: 415
-phone: "+1 210-660-3660"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/san-antonio/1323"
+street: West Loop 1604
+housenumber: "415"
+phone: +1 210-660-3660
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/san-antonio/1323

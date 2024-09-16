@@ -1,11 +1,11 @@
 id: 486223633
-type: way
+type: node
 latitude: 29.52697
 longitude: -98.5595
 postcode: "78230"
 city: San Antonio
-street: "Frontage Rd"
-housenumber: 9436
+street: Frontage Rd
+housenumber: "9436"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 843603845
-type: way
+type: node
 latitude: 32.30649
 longitude: -102.5406
 postcode: "79714"
 city: Andrews
-street: "Southeast Andrews Loop 1910"
-housenumber: 2301
+street: Southeast Andrews Loop 1910
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

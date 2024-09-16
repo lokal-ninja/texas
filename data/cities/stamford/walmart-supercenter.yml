@@ -1,11 +1,11 @@
 id: 1313123779
-type: way
+type: node
 latitude: 32.97241
 longitude: -99.79965
 postcode: "79553"
 city: Stamford
-street: "North Swenson Street"
-housenumber: 2614
-phone: "+1 325-773-2775"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1257/stamford-tx/whats-new"
+street: North Swenson Street
+housenumber: "2614"
+phone: +1 325-773-2775
+opening_hours: 24/7
+website: https://www.walmart.com/store/1257/stamford-tx/whats-new

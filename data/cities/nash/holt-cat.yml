@@ -1,11 +1,11 @@
 id: 794935038
-type: way
+type: node
 latitude: 33.45244
 longitude: -94.12958
 postcode: "75569"
 city: Nash
-street: "Mall Drive"
-housenumber: 6263
+street: Mall Drive
+housenumber: "6263"
 phone: ""
 opening_hours: ""
 website: ""

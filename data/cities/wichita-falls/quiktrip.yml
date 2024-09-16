@@ -1,11 +1,11 @@
 id: 1134281198
-type: way
+type: node
 latitude: 33.92774
 longitude: -98.51279
 postcode: "76306"
 city: Wichita Falls
-street: "Old Iowa Park Road"
-housenumber: 1526
+street: Old Iowa Park Road
+housenumber: "1526"
 phone: ""
 opening_hours: ""
 website: ""

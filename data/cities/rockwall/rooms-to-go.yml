@@ -1,11 +1,11 @@
 id: 541084660
-type: way
+type: node
 latitude: 32.9033
 longitude: -96.45692
 postcode: "75087"
 city: Rockwall
-street: "East Interstate 30"
-housenumber: 920
+street: East Interstate 30
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

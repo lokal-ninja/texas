@@ -1,11 +1,11 @@
 id: 203396477
-type: way
+type: node
 latitude: 29.70714
 longitude: -95.44204
 postcode: "77025"
 city: Houston
-street: "Bellaire Boulevard"
-housenumber: 4004
-phone: "+1 713-667-4090"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/bellaire"
+street: Bellaire Boulevard
+housenumber: "4004"
+phone: +1 713-667-4090
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.wholefoodsmarket.com/stores/bellaire

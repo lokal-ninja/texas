@@ -4,8 +4,8 @@ latitude: 30.30142
 longitude: -97.6971
 postcode: "78723"
 city: Austin
-street: "East 51st Street"
-housenumber: 1901
-phone: "+1-512-524-1153"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-14:00"
-website: "https://www.miscaustin.com/"
+street: East 51st Street
+housenumber: "1901"
+phone: +1-512-524-1153
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-14:00
+website: https://www.miscaustin.com/

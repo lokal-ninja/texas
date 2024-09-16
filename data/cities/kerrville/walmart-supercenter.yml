@@ -1,11 +1,11 @@
 id: 178409778
-type: way
+type: node
 latitude: 30.06312
 longitude: -99.16816
 postcode: "78028"
 city: Kerrville
-street: "Junction Highway"
-housenumber: 1216
-phone: "+1 830-895-7900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/508/kerrville-tx/whats-new"
+street: Junction Highway
+housenumber: "1216"
+phone: +1 830-895-7900
+opening_hours: 24/7
+website: https://www.walmart.com/store/508/kerrville-tx/whats-new

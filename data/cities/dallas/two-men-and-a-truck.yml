@@ -1,11 +1,11 @@
 id: 361441600
-type: way
+type: node
 latitude: 32.7716
 longitude: -96.79529
 postcode: "75215"
 city: Dallas
-street: "Griffin Street West"
-housenumber: 1204
+street: Griffin Street West
+housenumber: "1204"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 649271127
-type: way
+type: node
 latitude: 33.11168
 longitude: -96.09076
 postcode: "75402"
 city: Greenville
-street: "South Joe Ramsey Boulevard"
-housenumber: 715
+street: South Joe Ramsey Boulevard
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

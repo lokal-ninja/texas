@@ -1,11 +1,11 @@
 id: 484381603
-type: way
+type: node
 latitude: 32.43275
 longitude: -97.77414
 postcode: "76048"
 city: Granbury
-street: "East Highway 377"
-housenumber: 1021
-phone: "+1 817-736-7000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-granbury/2225"
+street: East Highway 377
+housenumber: "1021"
+phone: +1 817-736-7000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-granbury/2225

@@ -1,11 +1,11 @@
 id: 749116861
-type: way
+type: node
 latitude: 33.93579
 longitude: -98.51577
 postcode: "76306"
 city: Wichita Falls
-street: "Central Freeway"
-housenumber: 1125
+street: Central Freeway
+housenumber: "1125"
 phone: ""
 opening_hours: ""
 website: ""

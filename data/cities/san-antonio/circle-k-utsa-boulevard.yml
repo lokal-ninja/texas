@@ -1,11 +1,11 @@
 id: 357530566
-type: way
+type: node
 latitude: 29.57451
 longitude: -98.59595
 postcode: "78249"
 city: San Antonio
-street: "UTSA Boulevard"
-housenumber: 5602
+street: UTSA Boulevard
+housenumber: "5602"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

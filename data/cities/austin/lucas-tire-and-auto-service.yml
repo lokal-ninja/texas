@@ -1,11 +1,11 @@
 id: 381786816
-type: way
+type: node
 latitude: 30.35032
 longitude: -97.73491
 postcode: "78757"
 city: Austin
-street: "Burnet Road"
-housenumber: 7430
-phone: "+1-512-453-2221"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://lucastirepros.com/"
+street: Burnet Road
+housenumber: "7430"
+phone: +1-512-453-2221
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://lucastirepros.com/

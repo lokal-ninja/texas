@@ -1,11 +1,11 @@
 id: 250471071
-type: way
+type: node
 latitude: 32.54371
 longitude: -95.8604
 postcode: "75103"
 city: Canton
-street: "TX 243"
-housenumber: 301
+street: TX 243
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 745973322
-type: way
+type: node
 latitude: 31.19621
 longitude: -98.71594
 postcode: "76877"
 city: San Saba
-street: "East Wallace Street"
-housenumber: 611
+street: East Wallace Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

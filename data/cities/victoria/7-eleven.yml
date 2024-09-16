@@ -1,11 +1,11 @@
 id: 922900029
-type: way
+type: node
 latitude: 28.84806
 longitude: -96.97738
 postcode: "77904"
 city: Victoria
-street: "North John Stockbauer Drive"
-housenumber: 3601
+street: North John Stockbauer Drive
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

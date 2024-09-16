@@ -1,11 +1,11 @@
 id: 360639508
-type: way
+type: node
 latitude: 32.54797
 longitude: -94.35121
 postcode: "75670"
 city: Marshall
-street: "East End Boulevard North"
-housenumber: 309
+street: East End Boulevard North
+housenumber: "309"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-309+e+end+blvd+n-marshall-tx-75670/id=6196"
+website: https://www.walgreens.com/locator/walgreens-309+e+end+blvd+n-marshall-tx-75670/id=6196

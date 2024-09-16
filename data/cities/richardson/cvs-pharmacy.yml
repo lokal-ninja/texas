@@ -1,11 +1,11 @@
 id: 486822463
-type: way
+type: node
 latitude: 32.99789
 longitude: -96.69628
 postcode: ""
 city: Richardson
-street: "East Renner Road"
-housenumber: 1555
+street: East Renner Road
+housenumber: "1555"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/richardson-tx-pharmacies/1555-east-renner-rd-richardson-tx-75082/storeid=10665"
+website: https://www.cvs.com/store-locator/richardson-tx-pharmacies/1555-east-renner-rd-richardson-tx-75082/storeid=10665

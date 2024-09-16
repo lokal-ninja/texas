@@ -1,11 +1,11 @@
 id: 1070108943
-type: way
+type: node
 latitude: 29.95132
 longitude: -99.03343
 postcode: "78010"
 city: Center Point
-street: "Stoneleigh Road"
-housenumber: 111
+street: Stoneleigh Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

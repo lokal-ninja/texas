@@ -1,11 +1,11 @@
 id: 201517134
-type: way
+type: node
 latitude: 30.50365
 longitude: -97.68239
 postcode: "78664"
 city: Round Rock
-street: "South Interstate 35"
-housenumber: 601
+street: South Interstate 35
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

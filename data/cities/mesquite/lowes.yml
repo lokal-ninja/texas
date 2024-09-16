@@ -1,11 +1,11 @@
 id: 303101251
-type: way
+type: node
 latitude: 32.82596
 longitude: -96.62079
 postcode: "75150"
 city: Mesquite
-street: "North Galloway Avenue"
-housenumber: 4444
-phone: "+1 972-613-6204"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/tx-mesquite/0510"
+street: North Galloway Avenue
+housenumber: "4444"
+phone: +1 972-613-6204
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/tx-mesquite/0510

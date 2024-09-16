@@ -1,11 +1,11 @@
 id: 1005713431
-type: way
+type: node
 latitude: 30.27613
 longitude: -95.46068
 postcode: "77304"
 city: Conroe
-street: "South Loop 336 West"
-housenumber: 227
-phone: "+1 936-235-7091"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/tx/conroe/dsw-designer-shoe-warehouse-227-south-loop-336-w.html"
+street: South Loop 336 West
+housenumber: "227"
+phone: +1 936-235-7091
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/tx/conroe/dsw-designer-shoe-warehouse-227-south-loop-336-w.html

@@ -1,11 +1,11 @@
 id: 333690600
-type: way
+type: node
 latitude: 30.59713
 longitude: -97.41574
 postcode: "76574"
 city: Taylor
-street: "North Main Street"
-housenumber: 3401
-phone: "+1 512-352-6016"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off"
-website: "https://www.mccoys.com/stores/taylor-tx"
+street: North Main Street
+housenumber: "3401"
+phone: +1 512-352-6016
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off
+website: https://www.mccoys.com/stores/taylor-tx

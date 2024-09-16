@@ -1,11 +1,11 @@
 id: 469579069
-type: way
+type: node
 latitude: 33.00893
 longitude: -96.79056
 postcode: "75252"
 city: Dallas
-street: "Mapleshade Lane"
-housenumber: 6432
+street: Mapleshade Lane
+housenumber: "6432"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.mapleshadespa.com/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.mapleshadespa.com/

@@ -1,11 +1,11 @@
 id: 226422270
-type: way
+type: node
 latitude: 30.32282
 longitude: -97.71361
 postcode: "78752"
 city: Austin
-street: "Airport Blvd"
-housenumber: 5775
+street: Airport Blvd
+housenumber: "5775"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

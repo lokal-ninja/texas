@@ -1,11 +1,11 @@
 id: 678786152
-type: way
+type: node
 latitude: 34.18498
 longitude: -101.73899
 postcode: "79072"
 city: Plainview
-street: "Olton Road"
-housenumber: 2909
+street: Olton Road
+housenumber: "2909"
 phone: ""
 opening_hours: ""
 website: ""

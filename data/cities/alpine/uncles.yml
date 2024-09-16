@@ -1,11 +1,11 @@
 id: 1187686034
-type: way
+type: node
 latitude: 30.36369
 longitude: -103.66328
 postcode: "79830"
 city: Alpine
-street: "North 5th Street"
-housenumber: 798
+street: North 5th Street
+housenumber: "798"
 phone: ""
 opening_hours: ""
 website: ""

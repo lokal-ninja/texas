@@ -1,11 +1,11 @@
 id: 381786677
-type: way
+type: node
 latitude: 30.35781
 longitude: -97.73502
-postcode: "78757-1105"
+postcode: 78757-1105
 city: Austin
-street: "West Anderson Lane"
-housenumber: 2531
-phone: "+1 512-206-3138"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-22:00; Su 10:00-22:00"
+street: West Anderson Lane
+housenumber: "2531"
+phone: +1 512-206-3138
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-22:00; Su 10:00-22:00
 website: ""

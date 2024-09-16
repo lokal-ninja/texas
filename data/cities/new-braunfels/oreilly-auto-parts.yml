@@ -1,11 +1,11 @@
 id: 817049923
-type: way
+type: node
 latitude: 29.71549
 longitude: -98.10406
 postcode: "78130"
 city: New Braunfels
-street: "Loop 337"
-housenumber: 815
+street: Loop 337
+housenumber: "815"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/newbraunfels/autoparts-4590.html"
+website: https://locations.oreillyauto.com/tx/newbraunfels/autoparts-4590.html

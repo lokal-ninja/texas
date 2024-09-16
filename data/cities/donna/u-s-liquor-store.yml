@@ -1,11 +1,11 @@
 id: 1159088166
-type: way
+type: node
 latitude: 26.17174
 longitude: -98.04299
 postcode: "78537"
 city: Donna
-street: "North Salinas Boulevard"
-housenumber: 131
-phone: "+1-956-4610012"
-opening_hours: "Mo-Sa 10:00-21:00"
+street: North Salinas Boulevard
+housenumber: "131"
+phone: +1-956-4610012
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

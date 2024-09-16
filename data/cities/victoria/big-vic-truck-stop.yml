@@ -1,11 +1,11 @@
 id: 923730800
-type: way
+type: node
 latitude: 28.77849
 longitude: -96.96637
 postcode: "77901"
 city: Victoria
-street: "Port Lavaca Drive"
-housenumber: 4507
+street: Port Lavaca Drive
+housenumber: "4507"
 phone: ""
 opening_hours: ""
 website: ""

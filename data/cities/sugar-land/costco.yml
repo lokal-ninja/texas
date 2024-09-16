@@ -1,11 +1,11 @@
 id: 392361008
-type: way
+type: node
 latitude: 29.58537
 longitude: -95.64432
-postcode: "77479-2359"
+postcode: 77479-2359
 city: Sugar Land
-street: "Southwest Freeway"
-housenumber: 17520
-phone: "+1 281-566-6720"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/sugar-land-tx-1146.html"
+street: Southwest Freeway
+housenumber: "17520"
+phone: +1 281-566-6720
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/sugar-land-tx-1146.html

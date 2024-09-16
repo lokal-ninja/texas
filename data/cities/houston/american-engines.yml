@@ -1,11 +1,11 @@
 id: 669110738
-type: way
+type: node
 latitude: 29.84858
 longitude: -95.38437
 postcode: ""
 city: Houston
-street: "Airline Drive"
-housenumber: 5624
+street: Airline Drive
+housenumber: "5624"
 phone: "+17136978232"
 opening_hours: ""
 website: ""

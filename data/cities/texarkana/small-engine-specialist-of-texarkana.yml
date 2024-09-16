@@ -1,11 +1,11 @@
 id: 1054070463
-type: way
+type: node
 latitude: 33.42982
 longitude: -94.05273
 postcode: "75501"
 city: Texarkana
-street: "Spruce Street"
-housenumber: 1223
+street: Spruce Street
+housenumber: "1223"
 phone: ""
 opening_hours: ""
 website: ""

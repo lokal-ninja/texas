@@ -1,11 +1,11 @@
 id: 297126680
-type: way
+type: node
 latitude: 33.2157
 longitude: -97.13348
 postcode: "76201"
 city: Denton
-street: "West Oak Street"
-housenumber: 124
+street: West Oak Street
+housenumber: "124"
 phone: "+19408988200"
 opening_hours: ""
-website: "https://www.darkagetattoostudio.com/"
+website: https://www.darkagetattoostudio.com/

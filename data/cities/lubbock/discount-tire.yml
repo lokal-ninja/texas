@@ -1,11 +1,11 @@
 id: 220969963
-type: way
+type: node
 latitude: 33.52011
 longitude: -101.95273
 postcode: "79424"
 city: Lubbock
-street: "82nd Street"
-housenumber: 6306
-phone: "+1-806-698-0055"
+street: 82nd Street
+housenumber: "6306"
+phone: +1-806-698-0055
 opening_hours: ""
 website: ""

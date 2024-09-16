@@ -1,11 +1,11 @@
 id: 199397003
-type: way
+type: node
 latitude: 32.74236
 longitude: -96.44295
 postcode: "75126"
 city: Forney
-street: "East US Highway 80"
-housenumber: 982
+street: East US Highway 80
+housenumber: "982"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/forney/autoparts-2463.html"
+website: https://locations.oreillyauto.com/tx/forney/autoparts-2463.html

@@ -1,11 +1,11 @@
 id: 422101296
-type: way
+type: node
 latitude: 33.09796
 longitude: -96.89338
 postcode: "75056"
 city: The Colony
-street: "Main Street"
-housenumber: 6805
-phone: "+1 972-370-1006"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/tx/the-colony/the-colony/035/00879"
+street: Main Street
+housenumber: "6805"
+phone: +1 972-370-1006
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/tx/the-colony/the-colony/035/00879

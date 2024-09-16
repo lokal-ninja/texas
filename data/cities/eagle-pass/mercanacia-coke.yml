@@ -1,11 +1,11 @@
 id: 1307897520
-type: way
+type: node
 latitude: 28.70828
 longitude: -100.50386
 postcode: "78852"
 city: Eagle Pass
-street: "East Main Street"
-housenumber: 302
-phone: "+52-830-352-2221"
+street: East Main Street
+housenumber: "302"
+phone: +52-830-352-2221
 opening_hours: ""
 website: ""

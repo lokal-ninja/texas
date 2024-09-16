@@ -1,11 +1,11 @@
 id: 998230819
-type: way
+type: node
 latitude: 29.72255
 longitude: -98.6716
 postcode: "78006"
 city: Boerne
-street: "Interstate 10 West"
-housenumber: 28611
-phone: "+1 830 981 2453"
+street: Interstate 10 West
+housenumber: "28611"
+phone: +1 830 981 2453
 opening_hours: ""
-website: "missioncityindian.com"
+website: missioncityindian.com

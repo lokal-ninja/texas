@@ -1,11 +1,11 @@
 id: 603821613
-type: way
+type: node
 latitude: 32.44656
 longitude: -99.6811
 postcode: "79601"
 city: Abilene
-street: "East Highway 80"
-housenumber: 2626
+street: East Highway 80
+housenumber: "2626"
 phone: ""
 opening_hours: ""
 website: ""

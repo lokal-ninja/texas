@@ -1,11 +1,11 @@
 id: 1001214267
-type: way
+type: node
 latitude: 31.06494
 longitude: -98.17887
 postcode: "76550"
 city: Lampasas
-street: "South Western Avenue"
-housenumber: 413
+street: South Western Avenue
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

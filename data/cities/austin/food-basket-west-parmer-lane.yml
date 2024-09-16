@@ -1,11 +1,11 @@
 id: 383192724
-type: way
+type: node
 latitude: 30.41512
 longitude: -97.69581
 postcode: "78727"
 city: Austin
-street: "West Parmer Lane"
-housenumber: 2015
-phone: "+1-512-835-7767"
-opening_hours: "Mo-Tu 06:00-24:00; We-Su 06:00-05:59"
+street: West Parmer Lane
+housenumber: "2015"
+phone: +1-512-835-7767
+opening_hours: Mo-Tu 06:00-24:00; We-Su 06:00-05:59
 website: ""

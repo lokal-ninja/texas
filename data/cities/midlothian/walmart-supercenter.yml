@@ -1,11 +1,11 @@
 id: 610257327
-type: way
+type: node
 latitude: 32.48612
 longitude: -97.00631
 postcode: "76065"
 city: Midlothian
-street: "North US Highway 67"
-housenumber: 400
-phone: "+1 972-775-6755"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4279/midlothian-tx/whats-new"
+street: North US Highway 67
+housenumber: "400"
+phone: +1 972-775-6755
+opening_hours: 24/7
+website: https://www.walmart.com/store/4279/midlothian-tx/whats-new

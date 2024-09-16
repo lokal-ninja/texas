@@ -1,11 +1,11 @@
 id: 848147434
-type: way
+type: node
 latitude: 31.06056
 longitude: -97.45581
 postcode: "76513"
 city: Belton
-street: "East 6th Avenue"
-housenumber: 601
+street: East 6th Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

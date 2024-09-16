@@ -4,8 +4,8 @@ latitude: 33.23099
 longitude: -97.16175
 postcode: "76201"
 city: Denton
-street: "West University Drive"
-housenumber: 2314
-phone: "+1 940-758-7486"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/denton-tx-1704"
+street: West University Drive
+housenumber: "2314"
+phone: +1 940-758-7486
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/denton-tx-1704

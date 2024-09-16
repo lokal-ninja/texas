@@ -1,11 +1,11 @@
 id: 314334335
-type: way
+type: node
 latitude: 29.92396
 longitude: -95.60387
 postcode: "77065"
 city: Houston
-street: "FM 1960 West"
-housenumber: 12400
-phone: "+1 832-237-4860"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/tx/houston/1960-eldridge/034/00737"
+street: FM 1960 West
+housenumber: "12400"
+phone: +1 832-237-4860
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/tx/houston/1960-eldridge/034/00737

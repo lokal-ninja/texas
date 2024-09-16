@@ -1,11 +1,11 @@
 id: 769868915
-type: way
+type: node
 latitude: 29.55954
 longitude: -95.03682
 postcode: "77586"
 city: Seabrook
-street: "NASA Parkway"
-housenumber: 2801
+street: NASA Parkway
+housenumber: "2801"
 phone: ""
 opening_hours: ""
 website: ""

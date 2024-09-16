@@ -1,11 +1,11 @@
 id: 344620445
-type: way
+type: node
 latitude: 30.52869
 longitude: -97.81996
 postcode: "78613"
 city: Cedar Park
-street: "183A Toll Road"
-housenumber: 4801
+street: 183A Toll Road
+housenumber: "4801"
 phone: ""
 opening_hours: ""
 website: ""

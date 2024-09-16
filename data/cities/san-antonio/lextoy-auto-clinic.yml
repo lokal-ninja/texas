@@ -1,11 +1,11 @@
 id: 486223624
-type: way
+type: node
 latitude: 29.52907
 longitude: -98.56232
 postcode: "78229"
 city: San Antonio
-street: "Computer Drive"
-housenumber: 9525
+street: Computer Drive
+housenumber: "9525"
 phone: ""
 opening_hours: ""
 website: ""

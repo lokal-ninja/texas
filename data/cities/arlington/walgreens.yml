@@ -1,11 +1,11 @@
 id: 564161893
-type: way
+type: node
 latitude: 32.65899
 longitude: -97.11409
 postcode: "76018"
 city: Arlington
-street: "Southeast Green Oaks Boulevard"
-housenumber: 100
+street: Southeast Green Oaks Boulevard
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-100+se+green+oaks+blvd-arlington-tx-76018/id=3910"
+website: https://www.walgreens.com/locator/walgreens-100+se+green+oaks+blvd-arlington-tx-76018/id=3910

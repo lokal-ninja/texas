@@ -1,11 +1,11 @@
 id: 949475114
-type: way
+type: node
 latitude: 33.41834
 longitude: -94.10348
 postcode: "75501"
 city: Wake Village
-street: "West 7th Street"
-housenumber: 4810
+street: West 7th Street
+housenumber: "4810"
 phone: ""
 opening_hours: ""
 website: ""

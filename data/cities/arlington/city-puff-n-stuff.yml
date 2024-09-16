@@ -1,11 +1,11 @@
 id: 1047023181
-type: way
+type: node
 latitude: 32.76884
 longitude: -97.09528
 postcode: "76011"
 city: Arlington
-street: "North Collins Street"
-housenumber: 2131
+street: North Collins Street
+housenumber: "2131"
 phone: ""
 opening_hours: ""
 website: ""

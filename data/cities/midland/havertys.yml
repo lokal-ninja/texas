@@ -1,11 +1,11 @@
 id: 544570216
-type: way
+type: node
 latitude: 32.0315
 longitude: -102.14376
 postcode: "79707"
 city: Midland
-street: "West Loop 250 North"
-housenumber: 4110
+street: West Loop 250 North
+housenumber: "4110"
 phone: ""
 opening_hours: ""
 website: ""

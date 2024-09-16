@@ -1,11 +1,11 @@
 id: 515732321
-type: way
+type: node
 latitude: 32.4222
 longitude: -96.84515
 postcode: "75165"
 city: Waxahachie
-street: "West US Highway 287 Bypass"
-housenumber: 1230
-phone: "+1-972-937-1857"
+street: West US Highway 287 Bypass
+housenumber: "1230"
+phone: +1-972-937-1857
 opening_hours: ""
 website: ""

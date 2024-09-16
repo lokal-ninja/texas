@@ -1,11 +1,11 @@
 id: 1050808890
-type: way
+type: node
 latitude: 32.88807
 longitude: -98.45035
 postcode: "76449"
 city: Graford
-street: "Lavilla Road"
-housenumber: 118
+street: Lavilla Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

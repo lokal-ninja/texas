@@ -1,11 +1,11 @@
 id: 708172282
-type: way
+type: node
 latitude: 29.40744
 longitude: -98.57548
 postcode: "78237"
 city: San Antonio
-street: "Southwest 36th Street"
-housenumber: 2151
+street: Southwest 36th Street
+housenumber: "2151"
 phone: ""
 opening_hours: ""
 website: ""

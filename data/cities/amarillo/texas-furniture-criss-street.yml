@@ -1,11 +1,11 @@
 id: 318378998
-type: way
+type: node
 latitude: 35.1458
 longitude: -101.88559
 postcode: "79110"
 city: Amarillo
-street: "Criss Street"
-housenumber: 4300
+street: Criss Street
+housenumber: "4300"
 phone: ""
 opening_hours: ""
 website: ""

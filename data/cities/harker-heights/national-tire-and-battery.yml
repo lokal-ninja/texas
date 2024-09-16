@@ -1,11 +1,11 @@
 id: 195819547
-type: way
+type: node
 latitude: 31.06969
 longitude: -97.66749
 postcode: "76548"
 city: Harker Heights
-street: "East Central Texas Expressway"
-housenumber: 110
+street: East Central Texas Expressway
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/tx/harker-heights/110-e-central-texas-expy-76548/4467"
+website: https://www.ntb.com/store/tx/harker-heights/110-e-central-texas-expy-76548/4467

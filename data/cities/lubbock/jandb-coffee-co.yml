@@ -4,8 +4,8 @@ latitude: 33.57032
 longitude: -101.87542
 postcode: "79410"
 city: Lubbock
-street: "26th Street"
-housenumber: 2701
+street: 26th Street
+housenumber: "2701"
 phone: ""
 opening_hours: ""
-website: "http://www.jandbcoffeeco.com/store/"
+website: http://www.jandbcoffeeco.com/store/

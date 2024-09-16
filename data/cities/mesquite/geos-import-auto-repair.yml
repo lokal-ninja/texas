@@ -1,11 +1,11 @@
 id: 542935610
-type: way
+type: node
 latitude: 32.77016
 longitude: -96.60957
 postcode: "75149"
 city: Mesquite
-street: "Dalworth Drive"
-housenumber: 843
+street: Dalworth Drive
+housenumber: "843"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1134124653
-type: way
+type: node
 latitude: 32.25497
 longitude: -97.18192
 postcode: "76050"
 city: Grandview
-street: "State Highway 81"
-housenumber: 1156
+street: State Highway 81
+housenumber: "1156"
 phone: ""
 opening_hours: ""
 website: ""

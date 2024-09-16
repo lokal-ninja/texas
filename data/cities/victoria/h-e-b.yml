@@ -1,11 +1,11 @@
 id: 257722815
-type: way
+type: node
 latitude: 28.80589
 longitude: -96.98809
 postcode: "77901"
 city: Victoria
-street: "East Rio Grande Street"
-housenumber: 1505
-phone: "+1-361-572-8221"
+street: East Rio Grande Street
+housenumber: "1505"
+phone: +1-361-572-8221
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 422551941
-type: way
+type: node
 latitude: 32.73273
 longitude: -97.14805
 postcode: "76013"
 city: Arlington
-street: "South Bowen Road"
-housenumber: 321
+street: South Bowen Road
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

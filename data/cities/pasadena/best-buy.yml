@@ -1,11 +1,11 @@
 id: 52065427
-type: way
+type: node
 latitude: 29.64635
 longitude: -95.15456
 postcode: "77505"
 city: Pasadena
-street: "Fairmont Parkway"
-housenumber: 5692
-phone: "+1 281-998-0097"
+street: Fairmont Parkway
+housenumber: "5692"
+phone: +1 281-998-0097
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/pasadena/5692-fairmont-pkwy-357.html"
+website: https://stores.bestbuy.com/tx/pasadena/5692-fairmont-pkwy-357.html

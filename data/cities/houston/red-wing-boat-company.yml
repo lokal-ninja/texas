@@ -1,11 +1,11 @@
 id: 378711675
-type: way
+type: node
 latitude: 29.71545
 longitude: -95.29564
 postcode: ""
 city: Houston
-street: "South 75th Street"
-housenumber: 836
+street: South 75th Street
+housenumber: "836"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224401019
-type: way
+type: node
 latitude: 29.76665
 longitude: -95.41012
 postcode: ""
 city: Houston
-street: "Shepherd Drive"
-housenumber: 415
+street: Shepherd Drive
+housenumber: "415"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-415+shepherd+dr-houston-tx-77007/id=9294"
+website: https://www.walgreens.com/locator/walgreens-415+shepherd+dr-houston-tx-77007/id=9294

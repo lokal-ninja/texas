@@ -1,11 +1,11 @@
 id: 810067918
-type: way
+type: node
 latitude: 32.33148
 longitude: -96.11877
 postcode: "75156"
 city: Gun Barrel City
-street: "West Main Street"
-housenumber: 326
+street: West Main Street
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

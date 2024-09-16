@@ -4,8 +4,8 @@ latitude: 30.41286
 longitude: -97.68731
 postcode: "78727"
 city: Austin
-street: "West Parmer Lane"
-housenumber: 1700
-phone: "+1-512-719-4119"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-20:00"
-website: "https://www.goodwillcentraltexas.org"
+street: West Parmer Lane
+housenumber: "1700"
+phone: +1-512-719-4119
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-20:00
+website: https://www.goodwillcentraltexas.org

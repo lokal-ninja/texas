@@ -1,11 +1,11 @@
 id: 734013635
-type: way
+type: node
 latitude: 33.8646
 longitude: -98.4956
 postcode: "76302"
 city: Wichita Falls
-street: "Old Jacksboro Highway"
-housenumber: 4516
+street: Old Jacksboro Highway
+housenumber: "4516"
 phone: ""
 opening_hours: ""
-website: "https://local.unitedsupermarkets.com/tx/wichita-falls/4516-old-jacksboro-hwy.html"
+website: https://local.unitedsupermarkets.com/tx/wichita-falls/4516-old-jacksboro-hwy.html

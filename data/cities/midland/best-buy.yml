@@ -1,11 +1,11 @@
 id: 472679090
-type: way
+type: node
 latitude: 32.035
 longitude: -102.11811
 postcode: "79705"
 city: Midland
-street: "West Loop 250 North"
-housenumber: 2511
-phone: "+1 432-687-2051"
+street: West Loop 250 North
+housenumber: "2511"
+phone: +1 432-687-2051
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/midland/2511-w-loop-250-n-280.html"
+website: https://stores.bestbuy.com/tx/midland/2511-w-loop-250-n-280.html

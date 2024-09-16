@@ -1,11 +1,11 @@
 id: 293887479
-type: way
+type: node
 latitude: 35.16119
 longitude: -101.89963
 postcode: "79109"
 city: Amarillo
-street: "Southwest 45th Avenue"
-housenumber: 5807
-phone: "+1-806-621-1300"
-opening_hours: "Su 09:00-18:00; Mo-Sa 08:00-20:00"
-website: "https://www.harborfreight.com/storelocator/store?number=3087"
+street: Southwest 45th Avenue
+housenumber: "5807"
+phone: +1-806-621-1300
+opening_hours: Su 09:00-18:00; Mo-Sa 08:00-20:00
+website: https://www.harborfreight.com/storelocator/store?number=3087

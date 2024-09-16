@@ -1,11 +1,11 @@
 id: 494737221
-type: way
+type: node
 latitude: 31.53313
 longitude: -94.12076
 postcode: "75972"
 city: San Augustine
-street: "West Columbia Street"
-housenumber: 720
-phone: "+1-936-275-0145"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/tx/san-augustine/1675"
+street: West Columbia Street
+housenumber: "720"
+phone: +1-936-275-0145
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.dollargeneral.com/store-directory/tx/san-augustine/1675

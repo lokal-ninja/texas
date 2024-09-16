@@ -1,11 +1,11 @@
 id: 196914644
-type: way
+type: node
 latitude: 29.82685
 longitude: -97.98462
 postcode: "78666"
 city: San Marcos
-street: "South Interstate 35"
-housenumber: 4015
-phone: "+1 512-396-7446"
+street: South Interstate 35
+housenumber: "4015"
+phone: +1 512-396-7446
 opening_hours: ""
-website: "https://www.tangeroutlet.com/sanmarcos"
+website: https://www.tangeroutlet.com/sanmarcos

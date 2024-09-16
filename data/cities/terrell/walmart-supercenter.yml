@@ -1,11 +1,11 @@
 id: 590955409
-type: way
+type: node
 latitude: 32.74059
 longitude: -96.30591
 postcode: "75160"
 city: Terrell
-street: "West Moore Avenue"
-housenumber: 1900
-phone: "+1 972-563-7638"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/265/terrell-tx/whats-new"
+street: West Moore Avenue
+housenumber: "1900"
+phone: +1 972-563-7638
+opening_hours: 24/7
+website: https://www.walmart.com/store/265/terrell-tx/whats-new

@@ -1,11 +1,11 @@
 id: 739439051
-type: way
+type: node
 latitude: 30.05228
 longitude: -99.13405
 postcode: "78028"
 city: Kerrville
-street: "Sidney Baker Street"
-housenumber: 851
-phone: "+1-830-895-4866"
+street: Sidney Baker Street
+housenumber: "851"
+phone: +1-830-895-4866
 opening_hours: ""
 website: ""

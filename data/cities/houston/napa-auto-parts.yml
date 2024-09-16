@@ -1,11 +1,11 @@
 id: 850141908
-type: way
+type: node
 latitude: 29.83945
 longitude: -95.47233
 postcode: ""
 city: Houston
-street: "Antoine Drive"
-housenumber: 5110
+street: Antoine Drive
+housenumber: "5110"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 754294777
-type: way
+type: node
 latitude: 30.54364
 longitude: -97.54464
 postcode: "78634"
 city: Hutto
-street: "US-79"
-housenumber: 112
+street: US-79
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

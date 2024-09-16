@@ -1,11 +1,11 @@
 id: 384258157
-type: way
+type: node
 latitude: 30.20243
 longitude: -97.76628
 postcode: "78745"
 city: Austin
-street: "South Ih 35"
-housenumber: 5510
-phone: "+1 512-441-0329"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-austin/0689"
+street: South Ih 35
+housenumber: "5510"
+phone: +1 512-441-0329
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-austin/0689

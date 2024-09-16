@@ -1,11 +1,11 @@
 id: 1044768232
-type: way
+type: node
 latitude: 36.39091
 longitude: -100.80066
 postcode: "79070"
 city: Perryton
-street: "South Ash Street"
-housenumber: 901
+street: South Ash Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/perryton/1802"
+website: https://www.dollargeneral.com/store-directory/tx/perryton/1802

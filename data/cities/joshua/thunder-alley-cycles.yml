@@ -1,11 +1,11 @@
 id: 714080448
-type: way
+type: node
 latitude: 32.43902
 longitude: -97.38331
 postcode: "76058"
 city: Joshua
-street: "South Broadway Street"
-housenumber: 1517
-phone: "+1-817-556-2883"
+street: South Broadway Street
+housenumber: "1517"
+phone: +1-817-556-2883
 opening_hours: ""
-website: "https://thunderalleycycle.com/"
+website: https://thunderalleycycle.com/

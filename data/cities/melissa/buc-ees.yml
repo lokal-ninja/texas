@@ -1,11 +1,11 @@
 id: 984502764
-type: way
+type: node
 latitude: 33.27194
 longitude: -96.59146
 postcode: "75454"
 city: Melissa
-street: "Central Expressway"
-housenumber: 1550
+street: Central Expressway
+housenumber: "1550"
 phone: "+19792386390"
-opening_hours: "24/7"
-website: "https://www.buc-ees.com/"
+opening_hours: 24/7
+website: https://www.buc-ees.com/

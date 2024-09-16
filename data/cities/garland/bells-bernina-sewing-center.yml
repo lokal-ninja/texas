@@ -1,11 +1,11 @@
 id: 547715668
-type: way
+type: node
 latitude: 32.91296
 longitude: -96.63817
 postcode: "75040"
 city: Garland
-street: "North 6th Street"
-housenumber: 103
-phone: "+1-972-494-3893"
-opening_hours: "Mo-Sa 09:30-17:30"
-website: "http://www.bellsberninasewing.com"
+street: North 6th Street
+housenumber: "103"
+phone: +1-972-494-3893
+opening_hours: Mo-Sa 09:30-17:30
+website: http://www.bellsberninasewing.com

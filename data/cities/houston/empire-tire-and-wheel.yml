@@ -1,11 +1,11 @@
 id: 434840686
-type: way
+type: node
 latitude: 29.82802
 longitude: -95.38295
 postcode: ""
 city: Houston
-street: "Crosstimbers Street"
-housenumber: 1316
+street: Crosstimbers Street
+housenumber: "1316"
 phone: ""
 opening_hours: ""
 website: ""

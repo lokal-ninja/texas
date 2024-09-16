@@ -4,8 +4,9 @@ latitude: 32.65709
 longitude: -96.88995
 postcode: "75237"
 city: Dallas
-street: "Gannon Lane"
-housenumber: 4333
-phone: "+1-972-709-8907"
-opening_hours: "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-22:00; Sa 09:00-22:00; Su 10:00-18:00"
+street: Gannon Lane
+housenumber: "4333"
+phone: +1-972-709-8907
+opening_hours: Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr
+    09:00-22:00; Sa 09:00-22:00; Su 10:00-18:00
 website: ""

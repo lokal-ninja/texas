@@ -1,11 +1,11 @@
 id: 634666896
-type: way
+type: node
 latitude: 32.40104
 longitude: -99.75562
 postcode: "79605"
 city: Abilene
-street: "Industrial Boulevard"
-housenumber: 2717
+street: Industrial Boulevard
+housenumber: "2717"
 phone: ""
 opening_hours: ""
 website: ""

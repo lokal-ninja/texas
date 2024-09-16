@@ -1,11 +1,11 @@
 id: 515928095
-type: way
+type: node
 latitude: 32.42564
 longitude: -96.84158
 postcode: "75165"
 city: Waxahachie
-street: "North US Highway 77"
-housenumber: 1443
-phone: "+1-972-923-1565"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-21:30"
+street: North US Highway 77
+housenumber: "1443"
+phone: +1-972-923-1565
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:00-21:30
 website: ""

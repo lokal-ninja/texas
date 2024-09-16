@@ -1,11 +1,11 @@
 id: 382101562
-type: way
+type: node
 latitude: 30.36205
 longitude: -97.37889
 postcode: "78621"
 city: Elgin
-street: "State Highway 95 North"
-housenumber: 604
-phone: "+1-512-281-2340"
+street: State Highway 95 North
+housenumber: "604"
+phone: +1-512-281-2340
 opening_hours: ""
-website: "https://www.providencejonesfuneralhome.com/"
+website: https://www.providencejonesfuneralhome.com/

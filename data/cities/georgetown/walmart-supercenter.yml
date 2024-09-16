@@ -1,11 +1,11 @@
 id: 45467350
-type: way
+type: node
 latitude: 30.64624
 longitude: -97.69214
 postcode: "78628"
 city: Georgetown
-street: "South Interstate Highway 35 Frontage Road"
-housenumber: 620
-phone: "+1 512-863-4855"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1303-georgetown-tx"
+street: South Interstate Highway 35 Frontage Road
+housenumber: "620"
+phone: +1 512-863-4855
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1303-georgetown-tx

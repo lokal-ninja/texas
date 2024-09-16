@@ -1,11 +1,11 @@
 id: 462891233
-type: way
+type: node
 latitude: 33.54835
 longitude: -101.84396
 postcode: "79404"
 city: Lubbock
-street: "50th Street"
-housenumber: 815
+street: 50th Street
+housenumber: "815"
 phone: ""
 opening_hours: ""
 website: ""

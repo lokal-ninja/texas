@@ -1,11 +1,11 @@
 id: 640998771
-type: way
+type: node
 latitude: 33.12466
 longitude: -96.10785
 postcode: "75401"
 city: Greenville
-street: "Stonewall Street"
-housenumber: 4510
+street: Stonewall Street
+housenumber: "4510"
 phone: ""
 opening_hours: ""
 website: ""

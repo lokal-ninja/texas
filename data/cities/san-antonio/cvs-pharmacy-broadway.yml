@@ -1,11 +1,11 @@
 id: 749929309
-type: way
+type: node
 latitude: 29.46867
 longitude: -98.46344
 postcode: "78209"
 city: San Antonio
-street: "Broadway"
-housenumber: 4620
+street: Broadway
+housenumber: "4620"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/alamo-heights-tx-pharmacies/4600-broadway-st-alamo-heights-tx-78209/storeid=10579"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/alamo-heights-tx-pharmacies/4600-broadway-st-alamo-heights-tx-78209/storeid=10579

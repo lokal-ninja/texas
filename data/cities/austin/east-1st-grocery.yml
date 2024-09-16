@@ -1,11 +1,11 @@
 id: 379189485
-type: way
+type: node
 latitude: 30.25705
 longitude: -97.72504
 postcode: "78702"
 city: Austin
-street: "East Cesar Chavez Street"
-housenumber: 1811
-phone: "+1-512-477-0988"
-opening_hours: "Mo-Su 07:00-24:00"
+street: East Cesar Chavez Street
+housenumber: "1811"
+phone: +1-512-477-0988
+opening_hours: Mo-Su 07:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 733897563
-type: way
+type: node
 latitude: 33.68033
 longitude: -95.55554
 postcode: "75460"
 city: Paris
-street: "North Main Street"
-housenumber: 1915
+street: North Main Street
+housenumber: "1915"
 phone: ""
 opening_hours: ""
 website: ""

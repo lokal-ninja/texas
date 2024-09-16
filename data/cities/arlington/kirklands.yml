@@ -4,8 +4,9 @@ latitude: 32.68172
 longitude: -97.11227
 postcode: "76018"
 city: Arlington
-street: "Merchants Row Drive"
-housenumber: 137
-phone: "+1-817-466-9334"
-opening_hours: "Mo 11:00-19:00; Tu 11:00-19:00; We 11:00-19:00; Th 11:00-19:00; Fr 11:00-19:00; Sa 11:00-19:00"
-website: "http://www.kirklands.com"
+street: Merchants Row Drive
+housenumber: "137"
+phone: +1-817-466-9334
+opening_hours: Mo 11:00-19:00; Tu 11:00-19:00; We 11:00-19:00; Th 11:00-19:00; Fr
+    11:00-19:00; Sa 11:00-19:00
+website: http://www.kirklands.com

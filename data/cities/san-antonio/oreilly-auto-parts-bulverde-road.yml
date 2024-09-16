@@ -1,11 +1,11 @@
 id: 739704448
-type: way
+type: node
 latitude: 29.64254
 longitude: -98.42419
 postcode: "78259"
 city: San Antonio
-street: "Bulverde Road"
-housenumber: 21470
+street: Bulverde Road
+housenumber: "21470"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/sanantonio/autoparts-5764.html"
+website: https://locations.oreillyauto.com/tx/sanantonio/autoparts-5764.html

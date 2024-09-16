@@ -1,11 +1,11 @@
 id: 276333640
-type: way
+type: node
 latitude: 29.48956
 longitude: -98.58796
 postcode: "78229"
 city: San Antonio
-street: "Northwest Loop 410"
-housenumber: 5025
-phone: "+1 210-523-1091"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1235/san-antonio-tx/whats-new"
+street: Northwest Loop 410
+housenumber: "5025"
+phone: +1 210-523-1091
+opening_hours: 24/7
+website: https://www.walmart.com/store/1235/san-antonio-tx/whats-new

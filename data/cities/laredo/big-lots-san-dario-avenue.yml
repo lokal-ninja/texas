@@ -1,11 +1,11 @@
 id: 734027726
-type: way
+type: node
 latitude: 27.57318
 longitude: -99.49928
 postcode: "78045"
 city: Laredo
-street: "San Dario Avenue"
-housenumber: 7807
-phone: "+1 956-729-1659"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/laredo/7807-san-dario-ave"
+street: San Dario Avenue
+housenumber: "7807"
+phone: +1 956-729-1659
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/laredo/7807-san-dario-ave

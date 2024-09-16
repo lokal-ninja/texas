@@ -1,11 +1,11 @@
 id: 152379830
-type: way
+type: node
 latitude: 32.6761
 longitude: -97.41654
 postcode: "76132"
 city: Fort Worth
-street: "Bryant Irvin Road"
-housenumber: 5031
-phone: "+1-817-900-3855"
-opening_hours: "Mo-Fr 8:00-18:00;Sa 8:00-17:00"
-website: "https://www.meineke.com"
+street: Bryant Irvin Road
+housenumber: "5031"
+phone: +1-817-900-3855
+opening_hours: Mo-Fr 8:00-18:00;Sa 8:00-17:00
+website: https://www.meineke.com

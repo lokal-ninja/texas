@@ -1,11 +1,11 @@
 id: 695487614
-type: way
+type: node
 latitude: 33.05665
 longitude: -96.69544
 postcode: "75023"
 city: Plano
-street: "West Spring Creek Parkway"
-housenumber: 100
+street: West Spring Creek Parkway
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

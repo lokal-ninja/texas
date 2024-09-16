@@ -1,11 +1,11 @@
 id: 465060781
-type: way
+type: node
 latitude: 32.82333
 longitude: -96.81939
 postcode: "75209"
 city: Dallas
-street: "Lemmon Avenue"
-housenumber: 5033
+street: Lemmon Avenue
+housenumber: "5033"
 phone: ""
 opening_hours: ""
 website: ""

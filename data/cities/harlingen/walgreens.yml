@@ -1,11 +1,11 @@
 id: 562047392
-type: way
+type: node
 latitude: 26.19028
 longitude: -97.71502
 postcode: "78550"
 city: Harlingen
-street: "West Tyler Avenue"
-housenumber: 1810
+street: West Tyler Avenue
+housenumber: "1810"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1810+w+tyler+ave-harlingen-tx-78550/id=11211"
+website: https://www.walgreens.com/locator/walgreens-1810+w+tyler+ave-harlingen-tx-78550/id=11211

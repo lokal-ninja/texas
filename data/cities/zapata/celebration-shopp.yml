@@ -1,11 +1,11 @@
 id: 1013380699
-type: way
+type: node
 latitude: 26.91607
 longitude: -99.25802
 postcode: "78076"
 city: Zapata
-street: "hwy 16"
-housenumber: 706
+street: hwy 16
+housenumber: "706"
 phone: ""
 opening_hours: ""
 website: ""

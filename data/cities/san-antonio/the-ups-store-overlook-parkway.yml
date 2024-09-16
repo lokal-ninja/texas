@@ -1,11 +1,11 @@
 id: 688947413
-type: way
+type: node
 latitude: 29.68501
 longitude: -98.47359
 postcode: "78260"
 city: San Antonio
-street: "Overlook Parkway"
-housenumber: 26108
+street: Overlook Parkway
+housenumber: "26108"
 phone: ""
 opening_hours: ""
 website: ""

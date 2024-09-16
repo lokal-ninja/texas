@@ -1,11 +1,11 @@
 id: 618358539
-type: way
+type: node
 latitude: 29.35643
 longitude: -98.50827
 postcode: "78221"
 city: San Antonio
-street: "Southwest Military Drive"
-housenumber: 1012
-phone: "+1-210-924-6800"
+street: Southwest Military Drive
+housenumber: "1012"
+phone: +1-210-924-6800
 opening_hours: ""
-website: "http://www.motherswindowtint.com"
+website: http://www.motherswindowtint.com

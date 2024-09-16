@@ -1,11 +1,11 @@
 id: 764084881
-type: way
+type: node
 latitude: 33.66174
 longitude: -95.53025
 postcode: "75460"
 city: Paris
-street: "Lamar Avenue"
-housenumber: 2445
+street: Lamar Avenue
+housenumber: "2445"
 phone: ""
 opening_hours: ""
 website: ""

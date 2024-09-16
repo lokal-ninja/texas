@@ -1,11 +1,11 @@
 id: 933683396
-type: way
+type: node
 latitude: 33.06133
 longitude: -96.88586
 postcode: "75056"
 city: Lewisville
-street: "North Josey Lane"
-housenumber: 6150
-phone: "+1 833-747-5022"
-opening_hours: "Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00"
-website: "https://stores.aldi.us/tx/lewisville/6150-n-josey-lane"
+street: North Josey Lane
+housenumber: "6150"
+phone: +1 833-747-5022
+opening_hours: Mo, We, Fr-Su 09:00-21:00, Tu, Th 08:30-21:00
+website: https://stores.aldi.us/tx/lewisville/6150-n-josey-lane

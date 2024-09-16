@@ -1,11 +1,11 @@
 id: 1012179466
-type: way
+type: node
 latitude: 30.14719
 longitude: -96.39596
 postcode: ""
 city: Brenham
-street: "South Day Street"
-housenumber: 2303
+street: South Day Street
+housenumber: "2303"
 phone: ""
 opening_hours: ""
 website: ""

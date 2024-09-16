@@ -1,11 +1,11 @@
 id: 1073708565
-type: way
+type: node
 latitude: 29.8731
 longitude: -97.93935
 postcode: "78666"
 city: San Marcos
-street: "South Guadalupe Street"
-housenumber: 803
+street: South Guadalupe Street
+housenumber: "803"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/sanmarcos/autoparts-485.html"
+website: https://locations.oreillyauto.com/tx/sanmarcos/autoparts-485.html

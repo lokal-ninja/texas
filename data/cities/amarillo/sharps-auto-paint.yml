@@ -1,11 +1,11 @@
 id: 858680239
-type: way
+type: node
 latitude: 35.18732
 longitude: -101.83896
 postcode: "79109"
 city: Amarillo
-street: "Canyon Drive"
-housenumber: 2400
+street: Canyon Drive
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

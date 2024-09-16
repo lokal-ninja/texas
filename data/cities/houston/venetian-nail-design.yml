@@ -1,11 +1,11 @@
 id: 834041981
-type: way
+type: node
 latitude: 29.7576
 longitude: -95.62679
 postcode: "77077"
 city: Houston
-street: "Eldridge Parkway"
-housenumber: 1510
-phone: "+1-281-493-4229"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://venetiannailsdesign.com"
+street: Eldridge Parkway
+housenumber: "1510"
+phone: +1-281-493-4229
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
+website: https://venetiannailsdesign.com

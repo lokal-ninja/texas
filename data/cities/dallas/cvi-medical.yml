@@ -4,8 +4,8 @@ latitude: 32.90783
 longitude: -96.77007
 postcode: "75243"
 city: Dallas
-street: "N Central Expy"
-housenumber: 11613
-phone: "+1 214-363-2289"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-14:00; Su closed"
-website: "https://cvimedical.com/"
+street: N Central Expy
+housenumber: "11613"
+phone: +1 214-363-2289
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-14:00; Su closed
+website: https://cvimedical.com/

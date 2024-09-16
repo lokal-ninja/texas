@@ -1,11 +1,11 @@
 id: 1314822369
-type: way
+type: node
 latitude: 28.71005
 longitude: -100.49991
 postcode: "78852"
 city: Eagle Pass
-street: "North Ceylon Street"
-housenumber: 409
+street: North Ceylon Street
+housenumber: "409"
 phone: "+18307733121"
 opening_hours: ""
-website: "https://www.lilisflowershop.net"
+website: https://www.lilisflowershop.net

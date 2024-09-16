@@ -1,11 +1,11 @@
 id: 1102155987
-type: way
+type: node
 latitude: 29.85755
 longitude: -97.66589
 postcode: "78644"
 city: Lockhart
-street: "South Colorado Street"
-housenumber: 1904
-phone: "+1 512-398-2333"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/292/lockhart-tx/whats-new"
+street: South Colorado Street
+housenumber: "1904"
+phone: +1 512-398-2333
+opening_hours: 24/7
+website: https://www.walmart.com/store/292/lockhart-tx/whats-new

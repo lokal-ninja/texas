@@ -1,11 +1,11 @@
 id: 454414599
-type: way
+type: node
 latitude: 33.03587
 longitude: -96.70395
 postcode: "75074"
 city: Plano
-street: "North Central Expressway"
-housenumber: 2800
-phone: "+1 972-578-8000"
+street: North Central Expressway
+housenumber: "2800"
+phone: +1 972-578-8000
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/plano/2800-n-central-expy-202.html"
+website: https://stores.bestbuy.com/tx/plano/2800-n-central-expy-202.html

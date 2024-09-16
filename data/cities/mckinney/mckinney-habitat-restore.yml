@@ -1,11 +1,11 @@
 id: 275293707
-type: way
+type: node
 latitude: 33.17361
 longitude: -96.61211
 postcode: "75069"
 city: McKinney
-street: "Couch Drive"
-housenumber: 2060
-phone: "+1-972-548-9112"
-opening_hours: "Tu-Sa 09:00-18:00"
+street: Couch Drive
+housenumber: "2060"
+phone: +1-972-548-9112
+opening_hours: Tu-Sa 09:00-18:00
 website: ""

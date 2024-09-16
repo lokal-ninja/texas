@@ -1,11 +1,11 @@
 id: 819279614
-type: way
+type: node
 latitude: 32.53272
 longitude: -94.78803
 postcode: "75604"
 city: Longview
-street: "Gilmer Road"
-housenumber: 2414
+street: Gilmer Road
+housenumber: "2414"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/tx/longview/3308/gilmer-square-gamestop"
+website: https://www.gamestop.com/store/us/tx/longview/3308/gilmer-square-gamestop

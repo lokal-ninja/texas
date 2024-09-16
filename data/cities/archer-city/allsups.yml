@@ -1,11 +1,11 @@
 id: 1155893327
-type: way
+type: node
 latitude: 33.59231
 longitude: -98.62586
 postcode: "76351"
 city: Archer City
-street: "South Center Street"
-housenumber: 314
+street: South Center Street
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

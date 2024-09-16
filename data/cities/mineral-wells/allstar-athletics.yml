@@ -1,11 +1,11 @@
 id: 700242496
-type: way
+type: node
 latitude: 32.80872
 longitude: -98.11334
 postcode: "76067"
 city: Mineral Wells
-street: "South Oak Avenue"
-housenumber: 112
+street: South Oak Avenue
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

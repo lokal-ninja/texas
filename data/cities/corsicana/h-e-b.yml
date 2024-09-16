@@ -1,11 +1,11 @@
 id: 307821028
-type: way
+type: node
 latitude: 32.09035
 longitude: -96.46616
 postcode: "75110"
 city: Corsicana
-street: "South 15th Street"
-housenumber: 201
-phone: "+1-903-874-4778"
+street: South 15th Street
+housenumber: "201"
+phone: +1-903-874-4778
 opening_hours: ""
 website: ""

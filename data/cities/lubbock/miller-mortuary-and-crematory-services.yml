@@ -1,11 +1,11 @@
 id: 463927217
-type: way
+type: node
 latitude: 33.59598
 longitude: -101.85555
 postcode: "79415"
 city: Lubbock
-street: "Avenue Q"
-housenumber: 202
+street: Avenue Q
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

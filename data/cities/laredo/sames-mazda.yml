@@ -1,11 +1,11 @@
 id: 746711451
-type: way
+type: node
 latitude: 27.55914
 longitude: -99.50157
 postcode: "78041"
 city: Laredo
-street: "San Dario Avenue"
-housenumber: 6001
+street: San Dario Avenue
+housenumber: "6001"
 phone: ""
 opening_hours: ""
 website: ""

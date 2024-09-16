@@ -1,11 +1,11 @@
 id: 1087738420
-type: way
+type: node
 latitude: 29.74237
 longitude: -95.40217
 postcode: "77006"
 city: Houston
-street: "Dunlavy Street"
-housenumber: 2608
+street: Dunlavy Street
+housenumber: "2608"
 phone: ""
 opening_hours: ""
-website: "https://jardinshop.co/"
+website: https://jardinshop.co/

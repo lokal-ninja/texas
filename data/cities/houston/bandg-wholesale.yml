@@ -1,11 +1,11 @@
 id: 670461980
-type: way
+type: node
 latitude: 29.8368
 longitude: -95.3838
 postcode: ""
 city: Houston
-street: "Berry Road"
-housenumber: 6
-phone: "+1 713-691-1247"
+street: Berry Road
+housenumber: "6"
+phone: +1 713-691-1247
 opening_hours: ""
-website: "https://bngdist.com/"
+website: https://bngdist.com/

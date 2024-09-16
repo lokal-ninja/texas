@@ -1,11 +1,11 @@
 id: 666224595
-type: way
+type: node
 latitude: 26.17569
 longitude: -97.98728
 postcode: "78596"
 city: Weslaco
-street: "North Texas Boulevard"
-housenumber: 1310
-phone: "+1 956-968-6357"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1041-weslaco-tx"
+street: North Texas Boulevard
+housenumber: "1310"
+phone: +1 956-968-6357
+opening_hours: 24/7
+website: https://www.walmart.com/store/1041-weslaco-tx

@@ -1,11 +1,11 @@
 id: 976166875
-type: way
+type: node
 latitude: 31.12538
 longitude: -97.90256
 postcode: "76522"
 city: Copperas Cove
-street: "North 1st Street"
-housenumber: 202
+street: North 1st Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

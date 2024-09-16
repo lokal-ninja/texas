@@ -1,11 +1,11 @@
 id: 749915923
-type: way
+type: node
 latitude: 26.19356
 longitude: -98.26673
 postcode: "78501"
 city: McAllen
-street: "West Expressway 83"
-housenumber: 3901
-phone: "+1-956-217-7600"
+street: West Expressway 83
+housenumber: "3901"
+phone: +1-956-217-7600
 opening_hours: ""
-website: "https://www.academy.com/storelocator/texas/mcallen/store-0131"
+website: https://www.academy.com/storelocator/texas/mcallen/store-0131

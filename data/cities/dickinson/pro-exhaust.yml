@@ -1,11 +1,11 @@
 id: 520151911
-type: way
+type: node
 latitude: 29.46677
 longitude: -95.05797
 postcode: "77539"
 city: Dickinson
-street: "TX-3"
-housenumber: 3302
+street: TX-3
+housenumber: "3302"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

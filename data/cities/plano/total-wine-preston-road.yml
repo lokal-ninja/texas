@@ -1,11 +1,11 @@
 id: 726575605
-type: way
+type: node
 latitude: 33.09691
 longitude: -96.80108
 postcode: "75024"
 city: Plano
-street: "Preston Road"
-housenumber: 8700
-phone: "+1 214-436-5518"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.totalwine.com/store-info/506"
+street: Preston Road
+housenumber: "8700"
+phone: +1 214-436-5518
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.totalwine.com/store-info/506

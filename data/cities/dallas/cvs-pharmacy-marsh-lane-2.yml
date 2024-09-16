@@ -1,11 +1,11 @@
 id: 466986645
-type: way
+type: node
 latitude: 32.88131
 longitude: -96.85701
 postcode: ""
 city: Dallas
-street: "Marsh Lane"
-housenumber: 10003
+street: Marsh Lane
+housenumber: "10003"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-tx-pharmacies/10003-marsh-ln-dallas-tx-75229/storeid=7748"
+website: https://www.cvs.com/store-locator/dallas-tx-pharmacies/10003-marsh-ln-dallas-tx-75229/storeid=7748

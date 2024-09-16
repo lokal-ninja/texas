@@ -1,11 +1,11 @@
 id: 1125349910
-type: way
+type: node
 latitude: 29.5922
 longitude: -95.2869
 postcode: "77581"
 city: Pearland
-street: "North Main Street"
-housenumber: 1126
-phone: "+1 (281) 412 7223"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: North Main Street
+housenumber: "1126"
+phone: +1 (281) 412 7223
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

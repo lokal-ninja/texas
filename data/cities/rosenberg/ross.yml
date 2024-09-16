@@ -1,11 +1,11 @@
 id: 607760387
-type: way
+type: node
 latitude: 29.54707
 longitude: -95.75292
 postcode: "77471"
 city: Rosenberg
-street: "Commercial Drive"
-housenumber: 24110
-phone: "+1 281-232-8283"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00"
+street: Commercial Drive
+housenumber: "24110"
+phone: +1 281-232-8283
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 10:00-22:00
 website: ""

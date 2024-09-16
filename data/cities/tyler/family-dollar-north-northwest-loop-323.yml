@@ -1,11 +1,11 @@
 id: 1077284081
-type: way
+type: node
 latitude: 32.36827
 longitude: -95.34259
 postcode: "75702"
 city: Tyler
-street: "North Northwest Loop 323"
-housenumber: 1527
+street: North Northwest Loop 323
+housenumber: "1527"
 phone: ""
 opening_hours: ""
 website: ""

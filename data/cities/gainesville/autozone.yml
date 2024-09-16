@@ -1,11 +1,11 @@
 id: 865207615
-type: way
+type: node
 latitude: 33.64189
 longitude: -97.12775
 postcode: "76240"
 city: Gainesville
-street: "East US Highway 82"
-housenumber: 1702
+street: East US Highway 82
+housenumber: "1702"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/gainesville/1702-e-us-82.html"
+website: https://www.autozone.com/locations/tx/gainesville/1702-e-us-82.html

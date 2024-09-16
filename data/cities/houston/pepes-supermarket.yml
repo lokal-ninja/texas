@@ -1,11 +1,11 @@
 id: 914049114
-type: way
+type: node
 latitude: 29.8054
 longitude: -95.35485
 postcode: ""
 city: Houston
-street: "Chapman Street"
-housenumber: 5001
+street: Chapman Street
+housenumber: "5001"
 phone: ""
 opening_hours: ""
 website: ""

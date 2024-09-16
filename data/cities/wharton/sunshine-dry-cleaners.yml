@@ -1,11 +1,11 @@
 id: 930573985
-type: way
+type: node
 latitude: 29.31683
 longitude: -96.0869
 postcode: ""
 city: Wharton
-street: "North Alabama Road"
-housenumber: 1107
+street: North Alabama Road
+housenumber: "1107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1218653708
-type: way
+type: node
 latitude: 31.88735
 longitude: -100.29313
 postcode: "76933"
 city: Bronte
-street: "West Main Street"
-housenumber: 121
-phone: "+1-325-450-7720"
+street: West Main Street
+housenumber: "121"
+phone: +1-325-450-7720
 opening_hours: ""
 website: ""

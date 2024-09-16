@@ -1,11 +1,11 @@
 id: 705016019
-type: way
+type: node
 latitude: 32.75702
 longitude: -96.74054
 postcode: "75210"
 city: Dallas
-street: "South 2nd Avenue"
-housenumber: 5301
+street: South 2nd Avenue
+housenumber: "5301"
 phone: ""
 opening_hours: ""
 website: ""

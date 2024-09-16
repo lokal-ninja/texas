@@ -1,11 +1,11 @@
 id: 1184398414
-type: way
+type: node
 latitude: 28.6559
 longitude: -100.43778
 postcode: "78852"
 city: Eagle Pass
-street: "El Indio Highway"
-housenumber: 5819
+street: El Indio Highway
+housenumber: "5819"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/eagle-pass/12804"
+website: https://www.dollargeneral.com/store-directory/tx/eagle-pass/12804

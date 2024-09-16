@@ -1,11 +1,11 @@
 id: 907604424
-type: way
+type: node
 latitude: 30.10403
 longitude: -97.30427
 postcode: "78602"
 city: Bastrop
-street: "State Highway 71 East"
-housenumber: 1700
-phone: "+1-512-308-9188"
+street: State Highway 71 East
+housenumber: "1700"
+phone: +1-512-308-9188
 opening_hours: ""
-website: "https://www.bastropprovidencefuneralhome.com/"
+website: https://www.bastropprovidencefuneralhome.com/

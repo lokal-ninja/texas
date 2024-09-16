@@ -4,8 +4,8 @@ latitude: 29.74546
 longitude: -95.5001
 postcode: ""
 city: Houston
-street: "Del Monte Drive"
-housenumber: 6504
-phone: "+1-713-278-7300"
+street: Del Monte Drive
+housenumber: "6504"
+phone: +1-713-278-7300
 opening_hours: ""
-website: "https://themadpotter.com/"
+website: https://themadpotter.com/

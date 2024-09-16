@@ -1,11 +1,11 @@
 id: 708323962
-type: way
+type: node
 latitude: 29.33813
 longitude: -99.13395
 postcode: "78861"
 city: Hondo
-street: "Avenue E"
-housenumber: 2910
+street: Avenue E
+housenumber: "2910"
 phone: ""
 opening_hours: ""
 website: ""

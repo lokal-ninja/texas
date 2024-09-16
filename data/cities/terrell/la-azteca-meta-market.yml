@@ -1,11 +1,11 @@
 id: 714872913
-type: way
+type: node
 latitude: 32.73934
 longitude: -96.27908
 postcode: "75160"
 city: Terrell
-street: "North Rockwall Street"
-housenumber: 300
+street: North Rockwall Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 748878287
-type: way
+type: node
 latitude: 32.347
 longitude: -95.29807
 postcode: "75702"
 city: Tyler
-street: "East Front Street"
-housenumber: 308
-phone: "+1 903 592 6150"
-opening_hours: "Mo-Fr 10:00-17:30"
-website: "https://janiescakes.com/"
+street: East Front Street
+housenumber: "308"
+phone: +1 903 592 6150
+opening_hours: Mo-Fr 10:00-17:30
+website: https://janiescakes.com/

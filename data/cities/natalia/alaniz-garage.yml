@@ -1,11 +1,11 @@
 id: 708340706
-type: way
+type: node
 latitude: 29.19038
 longitude: -98.86152
 postcode: "78059"
 city: Natalia
-street: "Kearney Street"
-housenumber: 203
+street: Kearney Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

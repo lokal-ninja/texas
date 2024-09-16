@@ -4,8 +4,8 @@ latitude: 30.16945
 longitude: -97.62158
 postcode: "78714"
 city: Austin
-street: "Pearce Lane"
-housenumber: 12800
-phone: "+1-512-247-7639"
-opening_hours: "Mo-Fr 05:00-23:00; Sa 06:00-24:00; Su 07:00-23:00"
-website: "https://www.texaco.com"
+street: Pearce Lane
+housenumber: "12800"
+phone: +1-512-247-7639
+opening_hours: Mo-Fr 05:00-23:00; Sa 06:00-24:00; Su 07:00-23:00
+website: https://www.texaco.com

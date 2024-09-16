@@ -1,11 +1,11 @@
 id: 1182136513
-type: way
+type: node
 latitude: 29.72024
 longitude: -99.76303
 postcode: "78873"
 city: Leakey
-street: "South Market Street"
-housenumber: 624
+street: South Market Street
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

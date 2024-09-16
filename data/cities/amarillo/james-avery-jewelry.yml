@@ -4,8 +4,8 @@ latitude: 35.18368
 longitude: -101.92813
 postcode: "79121"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 7701
-phone: "+1-806-359-9449"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.jamesavery.com/custserv/store_details.jsp?storeId=718"
+street: West Interstate Drive
+housenumber: "7701"
+phone: +1-806-359-9449
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=718

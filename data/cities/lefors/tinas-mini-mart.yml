@@ -1,11 +1,11 @@
 id: 815571006
-type: way
+type: node
 latitude: 35.43694
 longitude: -100.80517
 postcode: "79054"
 city: Lefors
-street: "East 2nd Street"
-housenumber: 201
+street: East 2nd Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

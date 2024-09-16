@@ -1,11 +1,11 @@
 id: 1100976931
-type: way
+type: node
 latitude: 29.3193
 longitude: -98.53194
 postcode: "78224"
 city: San Antonio
-street: "Southwest Loop 410"
-housenumber: 13907
+street: Southwest Loop 410
+housenumber: "13907"
 phone: ""
 opening_hours: ""
 website: ""

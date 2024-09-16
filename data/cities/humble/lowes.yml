@@ -1,11 +1,11 @@
 id: 177255703
-type: way
+type: node
 latitude: 30.00009
 longitude: -95.16773
 postcode: "77346"
 city: Humble
-street: "FM 1960 East"
-housenumber: 7355
-phone: "+1 281-812-2280"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-humble/1530"
+street: FM 1960 East
+housenumber: "7355"
+phone: +1 281-812-2280
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-humble/1530

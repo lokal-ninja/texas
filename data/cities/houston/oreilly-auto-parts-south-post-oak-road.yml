@@ -1,11 +1,11 @@
 id: 384000560
-type: way
+type: node
 latitude: 29.66535
 longitude: -95.46328
 postcode: ""
 city: Houston
-street: "South Post Oak Road"
-housenumber: 10717
-phone: "+1-713-723-8666"
+street: South Post Oak Road
+housenumber: "10717"
+phone: +1-713-723-8666
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/houston/autoparts-409.html"
+website: https://locations.oreillyauto.com/tx/houston/autoparts-409.html

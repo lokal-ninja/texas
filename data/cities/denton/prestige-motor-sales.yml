@@ -1,11 +1,11 @@
 id: 670366584
-type: way
+type: node
 latitude: 33.20327
 longitude: -97.13536
 postcode: "76201"
 city: Denton
-street: "Fort Worth Drive"
-housenumber: 315
+street: Fort Worth Drive
+housenumber: "315"
 phone: "+19403827700"
 opening_hours: ""
-website: "https://prestigemotorsdenton.com/"
+website: https://prestigemotorsdenton.com/

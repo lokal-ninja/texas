@@ -1,11 +1,11 @@
 id: 180974043
-type: way
+type: node
 latitude: 31.91676
 longitude: -102.29254
 postcode: "79765"
 city: Odessa
-street: "State Highway 191 East"
-housenumber: 7800
-phone: "+1 432-563-1579"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: State Highway 191 East
+housenumber: "7800"
+phone: +1 432-563-1579
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

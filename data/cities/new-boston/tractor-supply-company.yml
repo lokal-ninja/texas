@@ -1,11 +1,11 @@
 id: 899390665
-type: way
+type: node
 latitude: 33.47345
 longitude: -94.41458
 postcode: "75570"
 city: New Boston
-street: "North Center Street"
-housenumber: 907
-phone: "+1 903-628-0052"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Center Street
+housenumber: "907"
+phone: +1 903-628-0052
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 698741665
-type: way
+type: node
 latitude: 35.11669
 longitude: -101.93892
 postcode: "79119"
 city: Amarillo
-street: "South Soncy Road"
-housenumber: 8800
+street: South Soncy Road
+housenumber: "8800"
 phone: ""
 opening_hours: ""
 website: ""

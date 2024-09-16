@@ -1,11 +1,11 @@
 id: 694015914
-type: way
+type: node
 latitude: 29.81253
 longitude: -95.40187
 postcode: ""
 city: Houston
-street: "North Loop West"
-housenumber: 301
-phone: "+1 832-582-7355"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://experimax.com/locations/houston-heights-tx/"
+street: North Loop West
+housenumber: "301"
+phone: +1 832-582-7355
+opening_hours: Mo-Sa 10:00-18:00
+website: https://experimax.com/locations/houston-heights-tx/

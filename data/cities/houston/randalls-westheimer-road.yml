@@ -1,11 +1,11 @@
 id: 129727607
-type: way
+type: node
 latitude: 29.73749
 longitude: -95.57073
 postcode: "77042"
 city: Houston
-street: "Westheimer Road"
-housenumber: 11041
+street: Westheimer Road
+housenumber: "11041"
 phone: ""
 opening_hours: ""
-website: "https://local.randalls.com/tx/houston-1247.html"
+website: https://local.randalls.com/tx/houston-1247.html

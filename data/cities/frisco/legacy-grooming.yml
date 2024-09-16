@@ -1,11 +1,11 @@
 id: 919025317
-type: way
+type: node
 latitude: 33.15067
 longitude: -96.86288
 postcode: "75034"
 city: Frisco
-street: "Teel Pkwy"
-housenumber: 8756
-phone: "+1-214-872-1018"
+street: Teel Pkwy
+housenumber: "8756"
+phone: +1-214-872-1018
 opening_hours: ""
-website: "http://legacygrooming.com"
+website: http://legacygrooming.com

@@ -1,11 +1,11 @@
 id: 717737254
-type: way
+type: node
 latitude: 32.531
 longitude: -96.82048
 postcode: "75154"
 city: Red Oak
-street: "Harris Avenue"
-housenumber: 105
+street: Harris Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/red-oak-tx-pharmacies/105-harris-ave-red-oak-tx-75154/storeid=7675"
+website: https://www.cvs.com/store-locator/red-oak-tx-pharmacies/105-harris-ave-red-oak-tx-75154/storeid=7675

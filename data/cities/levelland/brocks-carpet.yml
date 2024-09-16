@@ -1,11 +1,11 @@
 id: 667622640
-type: way
+type: node
 latitude: 33.58548
 longitude: -102.37648
 postcode: "79336"
 city: Levelland
-street: "Avenue G"
-housenumber: 717
+street: Avenue G
+housenumber: "717"
 phone: ""
 opening_hours: ""
 website: ""

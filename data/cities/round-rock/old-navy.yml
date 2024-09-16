@@ -1,11 +1,11 @@
 id: 293801198
-type: way
+type: node
 latitude: 30.48176
 longitude: -97.67904
 postcode: "78681"
 city: Round Rock
-street: "Parker Drive"
-housenumber: 2701
+street: Parker Drive
+housenumber: "2701"
 phone: ""
 opening_hours: ""
 website: ""

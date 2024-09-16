@@ -1,11 +1,11 @@
 id: 529676686
-type: way
+type: node
 latitude: 29.66395
 longitude: -95.46517
 postcode: ""
 city: Houston
-street: "South Post Oak Road"
-housenumber: 10800
+street: South Post Oak Road
+housenumber: "10800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10800+s+post+oak+rd-houston-tx-77035/id=4316"
+website: https://www.walgreens.com/locator/walgreens-10800+s+post+oak+rd-houston-tx-77035/id=4316

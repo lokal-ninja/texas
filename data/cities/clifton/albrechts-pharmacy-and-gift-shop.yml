@@ -1,11 +1,11 @@
 id: 808054786
-type: way
+type: node
 latitude: 31.78232
 longitude: -97.57633
 postcode: "76634"
 city: Clifton
-street: "West 5th Street"
-housenumber: 504
-phone: "+1-254-675-8398"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.albrechtspharmacy.com/"
+street: West 5th Street
+housenumber: "504"
+phone: +1-254-675-8398
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://www.albrechtspharmacy.com/

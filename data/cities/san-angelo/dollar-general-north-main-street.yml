@@ -1,11 +1,11 @@
 id: 734623658
-type: way
+type: node
 latitude: 31.47279
 longitude: -100.43271
 postcode: "76903"
 city: San Angelo
-street: "North Main Street"
-housenumber: 509
+street: North Main Street
+housenumber: "509"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/san-angelo/7632"
+website: https://www.dollargeneral.com/store-directory/tx/san-angelo/7632

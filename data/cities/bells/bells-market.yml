@@ -1,11 +1,11 @@
 id: 765254338
-type: way
+type: node
 latitude: 33.61069
 longitude: -96.4099
 postcode: "75414"
 city: Bells
-street: "West Bells Boulevard"
-housenumber: 104
+street: West Bells Boulevard
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 543214814
-type: way
+type: node
 latitude: 35.53879
 longitude: -100.96217
 postcode: "79065"
 city: Pampa
-street: "North Ballard Street"
-housenumber: 319
+street: North Ballard Street
+housenumber: "319"
 phone: ""
 opening_hours: ""
 website: ""

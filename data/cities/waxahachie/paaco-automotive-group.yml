@@ -1,11 +1,11 @@
 id: 507433967
-type: way
+type: node
 latitude: 32.38706
 longitude: -96.84974
 postcode: ""
 city: Waxahachie
-street: "West Main Street"
-housenumber: 400
+street: West Main Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

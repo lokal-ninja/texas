@@ -1,11 +1,11 @@
 id: 895082897
-type: way
+type: node
 latitude: 32.47169
 longitude: -94.05384
 postcode: "75692"
 city: Waskom
-street: "Spur 156"
-housenumber: 650
+street: Spur 156
+housenumber: "650"
 phone: ""
 opening_hours: ""
 website: ""

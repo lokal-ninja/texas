@@ -1,11 +1,11 @@
 id: 1022115784
-type: way
+type: node
 latitude: 30.1108
 longitude: -97.31456
 postcode: "78602"
 city: Bastrop
-street: "Chestnut Street"
-housenumber: 1104
-phone: "+1-512-308-8456"
+street: Chestnut Street
+housenumber: "1104"
+phone: +1-512-308-8456
 opening_hours: ""
-website: "https://www.bastroplaundry.com/"
+website: https://www.bastroplaundry.com/

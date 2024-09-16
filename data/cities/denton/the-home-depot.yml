@@ -1,11 +1,11 @@
 id: 298346618
-type: way
+type: node
 latitude: 33.1874
 longitude: -97.09736
 postcode: "76208"
 city: Denton
-street: "Brinker Road"
-housenumber: 1900
-phone: "+1 940-243-0808"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-22:00"
-website: "https://www.homedepot.com/l/denton/tx/denton/76208/6840"
+street: Brinker Road
+housenumber: "1900"
+phone: +1 940-243-0808
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-22:00
+website: https://www.homedepot.com/l/denton/tx/denton/76208/6840

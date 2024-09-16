@@ -1,11 +1,11 @@
 id: 981088393
-type: way
+type: node
 latitude: 29.53976
 longitude: -98.55297
 postcode: "78230"
 city: San Antonio
-street: "Wurzbach Road"
-housenumber: 10858
+street: Wurzbach Road
+housenumber: "10858"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10858+wurzbach+rd-san+antonio-tx-78230/id=11521"
+website: https://www.walgreens.com/locator/walgreens-10858+wurzbach+rd-san+antonio-tx-78230/id=11521

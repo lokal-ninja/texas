@@ -1,11 +1,11 @@
 id: 463989627
-type: way
+type: node
 latitude: 32.78485
 longitude: -96.77602
 postcode: "75226"
 city: Dallas
-street: "Commerce Street"
-housenumber: 3333
-phone: "+1 919 361 5282"
+street: Commerce Street
+housenumber: "3333"
+phone: +1 919 361 5282
 opening_hours: ""
-website: "https://counterculturecoffee.com/"
+website: https://counterculturecoffee.com/

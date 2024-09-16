@@ -1,11 +1,11 @@
 id: 949475116
-type: way
+type: node
 latitude: 33.41711
 longitude: -94.10536
 postcode: "75501"
 city: Texarkana
-street: "West 7th Street"
-housenumber: 4915
+street: West 7th Street
+housenumber: "4915"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/texarkana/3762"
+website: https://www.dollargeneral.com/store-directory/tx/texarkana/3762

@@ -1,11 +1,11 @@
 id: 1089791298
-type: way
+type: node
 latitude: 29.72513
 longitude: -95.47616
 postcode: "77056"
 city: Houston
-street: "Southwest Freeway Frontage Road"
-housenumber: 5555
-phone: "+1-713-662-3000"
-opening_hours: "24/7"
-website: "https://katzstores.com/"
+street: Southwest Freeway Frontage Road
+housenumber: "5555"
+phone: +1-713-662-3000
+opening_hours: 24/7
+website: https://katzstores.com/

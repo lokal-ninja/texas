@@ -1,11 +1,11 @@
 id: 1053424796
-type: way
+type: node
 latitude: 29.78428
 longitude: -95.38801
 postcode: "77007"
 city: Houston
-street: "Studewood Street"
-housenumber: 711
+street: Studewood Street
+housenumber: "711"
 phone: "+17138631042"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-15:00"
-website: "https://www.heightspetgrooming.com/"
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-15:00
+website: https://www.heightspetgrooming.com/

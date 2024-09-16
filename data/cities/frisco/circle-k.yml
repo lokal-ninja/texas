@@ -1,11 +1,11 @@
 id: 649316226
-type: way
+type: node
 latitude: 33.10662
 longitude: -96.81644
 postcode: ""
 city: Frisco
-street: "Parkwood Boulevard"
-housenumber: 3272
+street: Parkwood Boulevard
+housenumber: "3272"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

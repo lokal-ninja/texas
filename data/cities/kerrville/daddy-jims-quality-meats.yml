@@ -1,11 +1,11 @@
 id: 1099736744
-type: way
+type: node
 latitude: 30.01971
 longitude: -99.11418
 postcode: "78028"
 city: Kerrville
-street: "Veterans Highway"
-housenumber: 3820
+street: Veterans Highway
+housenumber: "3820"
 phone: ""
 opening_hours: ""
 website: ""

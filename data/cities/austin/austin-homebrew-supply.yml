@@ -1,11 +1,11 @@
 id: 292435093
-type: way
+type: node
 latitude: 30.37383
 longitude: -97.72095
 postcode: "78758"
 city: Austin
-street: "Metric Boulevard"
-housenumber: 9129
+street: Metric Boulevard
+housenumber: "9129"
 phone: ""
 opening_hours: ""
 website: ""

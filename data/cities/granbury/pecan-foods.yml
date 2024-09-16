@@ -1,11 +1,11 @@
 id: 640851728
-type: way
+type: node
 latitude: 32.37086
 longitude: -97.65721
 postcode: "76049"
 city: Granbury
-street: "Plantation Drive"
-housenumber: 9201
-phone: "+1-817-579-5900"
+street: Plantation Drive
+housenumber: "9201"
+phone: +1-817-579-5900
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 840617960
-type: way
+type: node
 latitude: 29.21855
 longitude: -98.41079
 postcode: "78112"
 city: Elmendorf
-street: "Interstate 37 South"
-housenumber: 20290
+street: Interstate 37 South
+housenumber: "20290"
 phone: ""
 opening_hours: ""
 website: ""

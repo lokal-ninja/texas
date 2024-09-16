@@ -1,11 +1,11 @@
 id: 518408956
-type: way
+type: node
 latitude: 33.17407
 longitude: -96.64304
 postcode: "75070"
 city: McKinney
-street: "Craig Drive"
-housenumber: 2851
-phone: "+1 214-491-1893"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/tx/mckinney/408/"
+street: Craig Drive
+housenumber: "2851"
+phone: +1 214-491-1893
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/tx/mckinney/408/

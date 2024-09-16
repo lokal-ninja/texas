@@ -1,11 +1,11 @@
 id: 461659988
-type: way
+type: node
 latitude: 33.54781
 longitude: -101.87345
 postcode: "79413"
 city: Lubbock
-street: "50th Street"
-housenumber: 2615
-phone: "+1 806-791-4102"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/e-lubbock/tx/lubbock/79413/6827"
+street: 50th Street
+housenumber: "2615"
+phone: +1 806-791-4102
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/e-lubbock/tx/lubbock/79413/6827

@@ -1,11 +1,11 @@
 id: 585471171
-type: way
+type: node
 latitude: 29.55304
 longitude: -95.39166
 postcode: "77584"
 city: Pearland
-street: "Broadway Street"
-housenumber: 11200
+street: Broadway Street
+housenumber: "11200"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/tx/pearland/pearland-town-center_724.html"
+website: https://www.macys.com/stores/tx/pearland/pearland-town-center_724.html

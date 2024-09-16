@@ -1,11 +1,11 @@
 id: 763511429
-type: way
+type: node
 latitude: 33.64173
 longitude: -95.58619
 postcode: "75460"
 city: Paris
-street: "Southwest Loop 286"
-housenumber: 2630
+street: Southwest Loop 286
+housenumber: "2630"
 phone: ""
 opening_hours: ""
 website: ""

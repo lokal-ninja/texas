@@ -1,11 +1,11 @@
 id: 169755284
-type: way
+type: node
 latitude: 30.41361
 longitude: -97.69237
 postcode: "78758"
 city: Austin
-street: "W Parmer Lane"
-housenumber: 1819
-phone: "+1 512 491 0164"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-22:00"
-website: "https://www.autozone.com/locations/tx/austin/1819-w-parmer-ln.html"
+street: W Parmer Lane
+housenumber: "1819"
+phone: +1 512 491 0164
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-22:00
+website: https://www.autozone.com/locations/tx/austin/1819-w-parmer-ln.html

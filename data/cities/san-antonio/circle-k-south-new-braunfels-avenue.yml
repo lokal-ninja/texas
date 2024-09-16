@@ -1,11 +1,11 @@
 id: 739711490
-type: way
+type: node
 latitude: 29.40037
 longitude: -98.46177
 postcode: "78210"
 city: San Antonio
-street: "South New Braunfels Avenue"
-housenumber: 1901
+street: South New Braunfels Avenue
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

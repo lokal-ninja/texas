@@ -1,11 +1,11 @@
 id: 710752288
-type: way
+type: node
 latitude: 32.43458
 longitude: -97.1065
 postcode: "76084"
 city: Venus
-street: "West US Highway 67"
-housenumber: 113
+street: West US Highway 67
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

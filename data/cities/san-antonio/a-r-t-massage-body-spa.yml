@@ -4,8 +4,8 @@ latitude: 29.50755
 longitude: -98.46928
 postcode: "78209"
 city: San Antonio
-street: "West Sunset Road"
-housenumber: 215
-phone: "+1-210-832-0892"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://artbodyspa.com/"
+street: West Sunset Road
+housenumber: "215"
+phone: +1-210-832-0892
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 11:00-17:00
+website: https://artbodyspa.com/

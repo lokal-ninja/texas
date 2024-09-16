@@ -1,11 +1,11 @@
 id: 881205930
-type: way
+type: node
 latitude: 29.29012
 longitude: -94.83508
 postcode: "77551"
 city: Galveston
-street: "Broadway - Avenue J"
-housenumber: 5910
-phone: "+1 409-740-2318"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/galveston/5910-broadway-st"
+street: Broadway - Avenue J
+housenumber: "5910"
+phone: +1 409-740-2318
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/galveston/5910-broadway-st

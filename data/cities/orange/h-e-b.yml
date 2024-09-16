@@ -1,11 +1,11 @@
 id: 257315866
-type: way
+type: node
 latitude: 30.11582
 longitude: -93.74602
 postcode: "77630"
 city: Orange
-street: "North 16th Street"
-housenumber: 2424
-phone: "+1-409-883-5105"
+street: North 16th Street
+housenumber: "2424"
+phone: +1-409-883-5105
 opening_hours: ""
 website: ""

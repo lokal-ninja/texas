@@ -1,11 +1,11 @@
 id: 1144476021
-type: way
+type: node
 latitude: 32.97139
 longitude: -101.83541
 postcode: "79351"
 city: O'Donnell
-street: "US Highway 87"
-housenumber: 3037
+street: US Highway 87
+housenumber: "3037"
 phone: ""
 opening_hours: ""
 website: ""

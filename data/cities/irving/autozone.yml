@@ -1,11 +1,11 @@
 id: 649719231
-type: way
+type: node
 latitude: 32.82294
 longitude: -96.96744
 postcode: "75061"
 city: Irving
-street: "West Irving Boulevard"
-housenumber: 1704
+street: West Irving Boulevard
+housenumber: "1704"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/irving/1704-w-irving-blvd.html"
+website: https://www.autozone.com/locations/tx/irving/1704-w-irving-blvd.html

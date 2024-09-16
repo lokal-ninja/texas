@@ -4,8 +4,8 @@ latitude: 30.2567
 longitude: -97.7119
 postcode: "78702"
 city: Austin
-street: "East 5th Street"
-housenumber: 2709
-phone: "+1 512 537 9632"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: East 5th Street
+housenumber: "2709"
+phone: +1 512 537 9632
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

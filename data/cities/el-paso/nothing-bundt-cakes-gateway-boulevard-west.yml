@@ -1,11 +1,11 @@
 id: 1013623674
-type: way
+type: node
 latitude: 31.7714
 longitude: -106.37272
 postcode: "79925"
 city: El Paso
-street: "Gateway Boulevard West"
-housenumber: 8889
-phone: "+1-915-260-8206"
+street: Gateway Boulevard West
+housenumber: "8889"
+phone: +1-915-260-8206
 opening_hours: ""
 website: ""

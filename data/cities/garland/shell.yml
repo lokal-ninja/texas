@@ -1,11 +1,11 @@
 id: 545495524
-type: way
+type: node
 latitude: 32.90946
 longitude: -96.59975
 postcode: "75040"
 city: Garland
-street: "State Highway 66"
-housenumber: 2002
+street: State Highway 66
+housenumber: "2002"
 phone: ""
 opening_hours: ""
 website: ""

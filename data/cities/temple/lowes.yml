@@ -1,11 +1,11 @@
 id: 72505761
-type: way
+type: node
 latitude: 31.06952
 longitude: -97.36268
 postcode: "76502"
 city: Temple
-street: "Southwest H K Dodgen Loop"
-housenumber: 605
-phone: "+1 254-778-2090"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-temple/0221"
+street: Southwest H K Dodgen Loop
+housenumber: "605"
+phone: +1 254-778-2090
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-temple/0221

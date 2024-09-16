@@ -1,11 +1,11 @@
 id: 930678930
-type: way
+type: node
 latitude: 33.44531
 longitude: -94.09831
 postcode: "75501"
 city: Texarkana
-street: "Walton Drive"
-housenumber: 410
+street: Walton Drive
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

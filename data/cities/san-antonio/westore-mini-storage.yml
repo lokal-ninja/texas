@@ -1,11 +1,11 @@
 id: 638830329
-type: way
+type: node
 latitude: 29.54953
 longitude: -98.50653
 postcode: ""
 city: San Antonio
-street: "West Avenue"
-housenumber: 11827
+street: West Avenue
+housenumber: "11827"
 phone: ""
 opening_hours: ""
 website: ""

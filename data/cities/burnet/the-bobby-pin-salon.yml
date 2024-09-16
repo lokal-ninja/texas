@@ -1,11 +1,11 @@
 id: 1019616942
-type: way
+type: node
 latitude: 30.75736
 longitude: -98.2263
 postcode: "78611"
 city: Burnet
-street: "South Pierce Street"
-housenumber: 213
+street: South Pierce Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
 website: ""

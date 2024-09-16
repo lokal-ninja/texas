@@ -1,11 +1,11 @@
 id: 720127202
-type: way
+type: node
 latitude: 32.34801
 longitude: -97.38491
 postcode: "76031"
 city: Cleburne
-street: "East Henderson Street"
-housenumber: 201
+street: East Henderson Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "http://antiquefindery.com/"
+website: http://antiquefindery.com/

@@ -1,11 +1,11 @@
 id: 1257690101
-type: way
+type: node
 latitude: 30.60025
 longitude: -96.34262
 postcode: "77840"
 city: College Station
-street: "George Bush Drive West"
-housenumber: 455
+street: George Bush Drive West
+housenumber: "455"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

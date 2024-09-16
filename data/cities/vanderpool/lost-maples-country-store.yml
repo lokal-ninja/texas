@@ -1,11 +1,11 @@
 id: 1182323723
-type: way
+type: node
 latitude: 29.75908
 longitude: -99.56353
 postcode: "78885"
 city: Vanderpool
-street: "Ranch Road 187"
-housenumber: 33533
+street: Ranch Road 187
+housenumber: "33533"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

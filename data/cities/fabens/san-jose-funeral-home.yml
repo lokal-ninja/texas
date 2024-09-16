@@ -1,11 +1,11 @@
 id: 1200022825
-type: way
+type: node
 latitude: 31.50483
 longitude: -106.16131
 postcode: "79838"
 city: Fabens
-street: "West Main Street"
-housenumber: 300
+street: West Main Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

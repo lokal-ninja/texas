@@ -1,11 +1,11 @@
 id: 462465027
-type: way
+type: node
 latitude: 33.54791
 longitude: -101.85449
 postcode: "79412"
 city: Lubbock
-street: "50th Street"
-housenumber: 1619
+street: 50th Street
+housenumber: "1619"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1619+50th+st-lubbock-tx-79412/id=4820"
+website: https://www.walgreens.com/locator/walgreens-1619+50th+st-lubbock-tx-79412/id=4820

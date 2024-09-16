@@ -1,11 +1,11 @@
 id: 220533008
-type: way
+type: node
 latitude: 32.93973
 longitude: -96.75272
 postcode: "75240"
 city: Dallas
-street: "Spring Valley Road"
-housenumber: 8702
+street: Spring Valley Road
+housenumber: "8702"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 635811955
-type: way
+type: node
 latitude: 29.34874
 longitude: -98.54257
 postcode: "78224"
 city: San Antonio
-street: "South Pan Am Expressway"
-housenumber: 8011
+street: South Pan Am Expressway
+housenumber: "8011"
 phone: ""
 opening_hours: ""
 website: ""

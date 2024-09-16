@@ -4,8 +4,8 @@ latitude: 29.28196
 longitude: -94.81309
 postcode: "77550"
 city: Galveston
-street: "45th Street"
-housenumber: 2302
-phone: "+1-409-762-2345"
+street: 45th Street
+housenumber: "2302"
+phone: +1-409-762-2345
 opening_hours: ""
-website: "http://paulsstor-galor.com"
+website: http://paulsstor-galor.com

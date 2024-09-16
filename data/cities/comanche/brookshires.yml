@@ -1,11 +1,11 @@
 id: 734276185
-type: way
+type: node
 latitude: 31.89695
 longitude: -98.60842
 postcode: "76442"
 city: Comanche
-street: "West Central Avenue"
-housenumber: 404
-phone: "+1-325-356-3248"
+street: West Central Avenue
+housenumber: "404"
+phone: +1-325-356-3248
 opening_hours: ""
-website: "https://www.brookshires.com/stores/comanche-93/6420"
+website: https://www.brookshires.com/stores/comanche-93/6420

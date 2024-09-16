@@ -1,11 +1,11 @@
 id: 782543696
-type: way
+type: node
 latitude: 32.76803
 longitude: -97.35688
 postcode: "76114"
 city: Fort Worth
-street: "North University Drive"
-housenumber: 1050
+street: North University Drive
+housenumber: "1050"
 phone: ""
 opening_hours: ""
 website: ""

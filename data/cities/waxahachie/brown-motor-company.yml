@@ -1,11 +1,11 @@
 id: 575388950
-type: way
+type: node
 latitude: 32.38493
 longitude: -96.85002
 postcode: "75165"
 city: Waxahachie
-street: "South Elm Street"
-housenumber: 304
+street: South Elm Street
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

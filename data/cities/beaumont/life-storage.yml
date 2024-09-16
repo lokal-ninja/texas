@@ -1,11 +1,11 @@
 id: 772268618
-type: way
+type: node
 latitude: 30.09745
 longitude: -94.12187
 postcode: "77703"
 city: Beaumont
-street: "North 7th Street"
-housenumber: 1501
+street: North 7th Street
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

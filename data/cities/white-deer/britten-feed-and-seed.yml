@@ -1,11 +1,11 @@
 id: 768404914
-type: way
+type: node
 latitude: 35.43644
 longitude: -101.1706
 postcode: "79097"
 city: White Deer
-street: "South Paul Street"
-housenumber: 201
+street: South Paul Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

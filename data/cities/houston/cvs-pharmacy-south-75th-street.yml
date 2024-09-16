@@ -1,11 +1,11 @@
 id: 378711657
-type: way
+type: node
 latitude: 29.71679
 longitude: -95.29527
 postcode: ""
 city: Houston
-street: "South 75th Street"
-housenumber: 806
+street: South 75th Street
+housenumber: "806"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/806-s-75th-st-houston-tx-77023/storeid=6239"
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/806-s-75th-st-houston-tx-77023/storeid=6239

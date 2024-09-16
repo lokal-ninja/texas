@@ -1,11 +1,11 @@
 id: 905640671
-type: way
+type: node
 latitude: 32.72847
 longitude: -97.79758
 postcode: "76086"
 city: Weatherford
-street: "West Interstate 20"
-housenumber: 222
+street: West Interstate 20
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

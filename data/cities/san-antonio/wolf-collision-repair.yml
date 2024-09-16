@@ -1,11 +1,11 @@
 id: 1106114166
-type: way
+type: node
 latitude: 29.35946
 longitude: -98.40757
 postcode: "78222"
 city: San Antonio
-street: "Southeast Military Drive"
-housenumber: 4365
+street: Southeast Military Drive
+housenumber: "4365"
 phone: ""
 opening_hours: ""
 website: ""

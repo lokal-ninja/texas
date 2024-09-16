@@ -1,11 +1,11 @@
 id: 184063767
-type: way
+type: node
 latitude: 29.54663
 longitude: -95.75396
 postcode: "77471"
 city: Rosenberg
-street: "Commercial Drive"
-housenumber: 24230
+street: Commercial Drive
+housenumber: "24230"
 phone: ""
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/rosenberg/24230-commercial-dr-1404.html"
+website: https://stores.bestbuy.com/tx/rosenberg/24230-commercial-dr-1404.html

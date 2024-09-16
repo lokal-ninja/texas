@@ -1,11 +1,11 @@
 id: 1058230636
-type: way
+type: node
 latitude: 30.52989
 longitude: -97.84348
 postcode: "78613"
 city: Cedar Park
-street: "West New Hope Drive"
-housenumber: 804
-phone: "+1 254-892-0213"
+street: West New Hope Drive
+housenumber: "804"
+phone: +1 254-892-0213
 opening_hours: ""
-website: "https://hteao.com/locations/cedar-park-tx/"
+website: https://hteao.com/locations/cedar-park-tx/

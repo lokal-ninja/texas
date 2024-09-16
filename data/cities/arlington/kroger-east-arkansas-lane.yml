@@ -1,11 +1,11 @@
 id: 504484683
-type: way
+type: node
 latitude: 32.70453
 longitude: -97.06553
 postcode: "76014"
 city: Arlington
-street: "East Arkansas Lane"
-housenumber: 2580
-phone: "+1 817-861-2255"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/tx/arlington/arkansas-lane/035/00413"
+street: East Arkansas Lane
+housenumber: "2580"
+phone: +1 817-861-2255
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/tx/arlington/arkansas-lane/035/00413

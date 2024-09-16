@@ -1,11 +1,11 @@
 id: 291808996
-type: way
+type: node
 latitude: 29.72798
 longitude: -98.07009
 postcode: "78130"
 city: New Braunfels
-street: "Creekside Way"
-housenumber: 315
-phone: "+1 830-620-7738"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/new-braunfels-store1819.html"
+street: Creekside Way
+housenumber: "315"
+phone: +1 830-620-7738
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/new-braunfels-store1819.html

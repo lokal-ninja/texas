@@ -1,11 +1,11 @@
 id: 774903541
-type: way
+type: node
 latitude: 29.4953
 longitude: -98.43154
 postcode: "78218"
 city: San Antonio
-street: "Austin Highway"
-housenumber: 1581
+street: Austin Highway
+housenumber: "1581"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1581+austin+hwy-san+antonio-tx-78218/id=3368"
+website: https://www.walgreens.com/locator/walgreens-1581+austin+hwy-san+antonio-tx-78218/id=3368

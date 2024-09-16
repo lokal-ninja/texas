@@ -1,11 +1,11 @@
 id: 319801335
-type: way
+type: node
 latitude: 33.36724
 longitude: -97.18052
 postcode: "76266"
 city: Sanger
-street: "West Chapman Drive"
-housenumber: 1401
+street: West Chapman Drive
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

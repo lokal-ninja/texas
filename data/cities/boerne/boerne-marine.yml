@@ -1,11 +1,11 @@
 id: 917620550
-type: way
+type: node
 latitude: 29.82135
 longitude: -98.75532
 postcode: "78006"
 city: Boerne
-street: "Interstate 10 West"
-housenumber: 39316
+street: Interstate 10 West
+housenumber: "39316"
 phone: ""
 opening_hours: ""
 website: ""

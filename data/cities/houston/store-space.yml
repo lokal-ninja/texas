@@ -1,11 +1,11 @@
 id: 1101342113
-type: way
+type: node
 latitude: 29.65393
 longitude: -95.47571
 postcode: "77035"
 city: Houston
-street: "South Willow Drive"
-housenumber: 5512
-phone: "+1-832-318-0009"
-opening_hours: "Mo-Su 06:00-22:00"
+street: South Willow Drive
+housenumber: "5512"
+phone: +1-832-318-0009
+opening_hours: Mo-Su 06:00-22:00
 website: ""

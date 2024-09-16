@@ -1,11 +1,11 @@
 id: 853059087
-type: way
+type: node
 latitude: 29.86928
 longitude: -95.40141
 postcode: ""
 city: Houston
-street: "West Little York Road"
-housenumber: 209
+street: West Little York Road
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 929529841
-type: way
+type: node
 latitude: 31.92606
 longitude: -106.43808
 postcode: "79934"
 city: El Paso
-street: "Gateway South Boulevard"
-housenumber: 10771
-phone: "+1 915-821-4562"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://local.biglots.com/tx/el-paso/10771-gateway-south-blvd"
+street: Gateway South Boulevard
+housenumber: "10771"
+phone: +1 915-821-4562
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://local.biglots.com/tx/el-paso/10771-gateway-south-blvd

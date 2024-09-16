@@ -1,11 +1,11 @@
 id: 664725508
-type: way
+type: node
 latitude: 32.67472
 longitude: -97.02278
 postcode: "75052"
 city: Grand Prairie
-street: "Lake Ridge Parkway"
-housenumber: 4005
+street: Lake Ridge Parkway
+housenumber: "4005"
 phone: ""
 opening_hours: ""
 website: ""

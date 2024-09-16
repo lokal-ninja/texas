@@ -1,11 +1,11 @@
 id: 653615502
-type: way
+type: node
 latitude: 33.18567
 longitude: -97.10823
 postcode: "76210"
 city: Denton
-street: "South Interstate 35E"
-housenumber: 2400
+street: South Interstate 35E
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

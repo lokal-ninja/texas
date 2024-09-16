@@ -1,11 +1,11 @@
 id: 677360536
-type: way
+type: node
 latitude: 33.46564
 longitude: -94.06958
 postcode: "75503"
 city: Texarkana
-street: "Saint Michael Drive"
-housenumber: 2300
+street: Saint Michael Drive
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

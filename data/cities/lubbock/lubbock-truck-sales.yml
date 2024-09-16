@@ -1,11 +1,11 @@
 id: 467850089
-type: way
+type: node
 latitude: 33.5297
 longitude: -101.81613
 postcode: "79404"
 city: Lubbock
-street: "Slaton Road"
-housenumber: 1801
+street: Slaton Road
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

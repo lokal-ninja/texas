@@ -1,11 +1,11 @@
 id: 494736034
-type: way
+type: node
 latitude: 31.53091
 longitude: -94.1195
 postcode: "75972"
 city: San Augustine
-street: "West Columbia Street"
-housenumber: 705
-phone: "+1-936-275-2283"
+street: West Columbia Street
+housenumber: "705"
+phone: +1-936-275-2283
 opening_hours: ""
-website: "https://www.brookshirebrothers.com/store-location/store-28"
+website: https://www.brookshirebrothers.com/store-location/store-28

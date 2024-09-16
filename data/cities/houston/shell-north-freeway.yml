@@ -1,11 +1,11 @@
 id: 686551929
-type: way
+type: node
 latitude: 29.85862
 longitude: -95.40279
 postcode: ""
 city: Houston
-street: "North Freeway"
-housenumber: 6451
+street: North Freeway
+housenumber: "6451"
 phone: ""
 opening_hours: ""
 website: ""

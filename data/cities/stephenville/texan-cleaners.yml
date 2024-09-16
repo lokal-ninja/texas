@@ -1,11 +1,11 @@
 id: 453364121
-type: way
+type: node
 latitude: 32.20876
 longitude: -98.22912
 postcode: "76401"
 city: Stephenville
-street: "West Washington Street"
-housenumber: 2301
+street: West Washington Street
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

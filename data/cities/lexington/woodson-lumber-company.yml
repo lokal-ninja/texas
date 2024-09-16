@@ -1,11 +1,11 @@
 id: 875212110
-type: way
+type: node
 latitude: 30.4122
 longitude: -97.00137
 postcode: "78947"
 city: Lexington
-street: "United States Highway 77"
-housenumber: 8714
-phone: "+1-979-773-2238"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-16:00"
-website: "https://www.woodsonlumber.com/lexington"
+street: United States Highway 77
+housenumber: "8714"
+phone: +1-979-773-2238
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-16:00
+website: https://www.woodsonlumber.com/lexington

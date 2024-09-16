@@ -1,11 +1,11 @@
 id: 1243938965
-type: way
+type: node
 latitude: 31.42494
 longitude: -97.39614
 postcode: "76657"
 city: McGregor
-street: "South Main Street"
-housenumber: 2050
+street: South Main Street
+housenumber: "2050"
 phone: ""
 opening_hours: ""
 website: ""

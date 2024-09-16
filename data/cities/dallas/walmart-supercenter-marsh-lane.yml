@@ -1,11 +1,11 @@
 id: 423658318
-type: way
+type: node
 latitude: 32.99566
 longitude: -96.85737
 postcode: "75287"
 city: Dallas
-street: "Marsh Lane"
-housenumber: 18121
-phone: "+1 972-307-6978"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2996/dallas-tx/whats-new"
+street: Marsh Lane
+housenumber: "18121"
+phone: +1 972-307-6978
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2996/dallas-tx/whats-new

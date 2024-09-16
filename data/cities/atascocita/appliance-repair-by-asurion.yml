@@ -1,11 +1,11 @@
 id: 1096915528
-type: way
+type: node
 latitude: 29.99852
 longitude: -95.24996
 postcode: "77338"
 city: Atascocita
-street: "1st Street"
-housenumber: 1702
-phone: "+1-346-509-6522"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://appliance-repair.asurion.com/texas/atascocita"
+street: 1st Street
+housenumber: "1702"
+phone: +1-346-509-6522
+opening_hours: Mo-Su 09:00-22:00
+website: https://appliance-repair.asurion.com/texas/atascocita

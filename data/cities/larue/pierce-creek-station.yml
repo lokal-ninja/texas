@@ -1,11 +1,11 @@
 id: 888285456
-type: way
+type: node
 latitude: 32.11457
 longitude: -95.68048
 postcode: "75770"
 city: LaRue
-street: "US Highway 175 East"
-housenumber: 10831
+street: US Highway 175 East
+housenumber: "10831"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 993766852
-type: way
+type: node
 latitude: 31.76173
 longitude: -106.35634
 postcode: "79925"
 city: El Paso
-street: "Gateway Boulevard West"
-housenumber: 9801
-phone: "+1 915-444-3585"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/el-paso/el-paso-gateway/"
+street: Gateway Boulevard West
+housenumber: "9801"
+phone: +1 915-444-3585
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/el-paso/el-paso-gateway/

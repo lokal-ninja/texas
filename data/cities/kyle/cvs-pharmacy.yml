@@ -1,11 +1,11 @@
 id: 274592389
-type: way
+type: node
 latitude: 29.98861
 longitude: -97.87374
 postcode: "78640"
 city: Kyle
-street: "North Old Highway 81"
-housenumber: 102
-phone: "+1-512-268-0390"
-opening_hours: "Su-Th 08:00-22:00; Fr-Sa 08:00-23:00"
-website: "https://www.cvs.com/"
+street: North Old Highway 81
+housenumber: "102"
+phone: +1-512-268-0390
+opening_hours: Su-Th 08:00-22:00; Fr-Sa 08:00-23:00
+website: https://www.cvs.com/

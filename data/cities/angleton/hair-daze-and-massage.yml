@@ -1,11 +1,11 @@
 id: 1232774091
-type: way
+type: node
 latitude: 29.18253
 longitude: -95.41028
 postcode: "77515"
 city: Angleton
-street: "East Mulberry Street"
-housenumber: 1969
-phone: "+1-979-848-3199"
+street: East Mulberry Street
+housenumber: "1969"
+phone: +1-979-848-3199
 opening_hours: ""
 website: ""

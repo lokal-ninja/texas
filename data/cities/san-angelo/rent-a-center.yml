@@ -1,11 +1,11 @@
 id: 758454322
-type: way
+type: node
 latitude: 31.47688
 longitude: -100.45206
 postcode: "76903"
 city: San Angelo
-street: "West 19th Street"
-housenumber: 311
+street: West 19th Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

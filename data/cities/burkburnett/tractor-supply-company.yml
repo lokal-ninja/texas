@@ -1,11 +1,11 @@
 id: 709082420
-type: way
+type: node
 latitude: 34.09261
 longitude: -98.55975
 postcode: "76354"
 city: Burkburnett
-street: "South Red River Expressway"
-housenumber: 106
-phone: "+1 940-569-9257"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Red River Expressway
+housenumber: "106"
+phone: +1 940-569-9257
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

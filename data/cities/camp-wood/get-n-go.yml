@@ -1,11 +1,11 @@
 id: 1182317048
-type: way
+type: node
 latitude: 29.66925
 longitude: -100.01225
 postcode: "78833"
 city: Camp Wood
-street: "East 4th Street"
-housenumber: 103
-phone: "+1-830-597-3156"
-opening_hours: "Su-Sa 07:00-23:00"
-website: "https://getngo-conveniencestore.business.site/"
+street: East 4th Street
+housenumber: "103"
+phone: +1-830-597-3156
+opening_hours: Su-Sa 07:00-23:00
+website: https://getngo-conveniencestore.business.site/

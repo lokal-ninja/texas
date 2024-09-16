@@ -1,11 +1,11 @@
 id: 381851931
-type: way
+type: node
 latitude: 30.20125
 longitude: -98.1117
 postcode: "78620"
 city: Dripping Springs
-street: "West US Highway 290"
-housenumber: 1711
-phone: "+1 512-858-7229"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West US Highway 290
+housenumber: "1711"
+phone: +1 512-858-7229
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 760880330
-type: way
+type: node
 latitude: 31.52523
 longitude: -97.13586
 postcode: "76711"
 city: Waco
-street: "South Valley Mills Drive"
-housenumber: 1820
+street: South Valley Mills Drive
+housenumber: "1820"
 phone: ""
 opening_hours: ""
 website: ""

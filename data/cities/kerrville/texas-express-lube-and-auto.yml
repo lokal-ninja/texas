@@ -1,11 +1,11 @@
 id: 797215186
-type: way
+type: node
 latitude: 30.04607
 longitude: -99.14736
 postcode: "78028"
 city: Kerrville
-street: "Thompson Drive"
-housenumber: 215
+street: Thompson Drive
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 886018408
-type: way
+type: node
 latitude: 29.69028
 longitude: -95.4425
 postcode: "77025"
 city: Houston
-street: "South Braeswood Boulevard"
-housenumber: 4036
+street: South Braeswood Boulevard
+housenumber: "4036"
 phone: ""
 opening_hours: ""
 website: ""

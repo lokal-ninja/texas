@@ -1,11 +1,11 @@
 id: 697915115
-type: way
+type: node
 latitude: 34.97004
 longitude: -101.91854
 postcode: "79015"
 city: Canyon
-street: "23rd Street"
-housenumber: 1303
+street: 23rd Street
+housenumber: "1303"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1020423280
-type: way
+type: node
 latitude: 32.43649
 longitude: -99.70586
 postcode: "79602"
 city: Abilene
-street: "Lytle Way"
-housenumber: 1133
+street: Lytle Way
+housenumber: "1133"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/abilene/15922"
+website: https://www.dollargeneral.com/store-directory/tx/abilene/15922

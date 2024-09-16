@@ -1,11 +1,11 @@
 id: 1068078862
-type: way
+type: node
 latitude: 33.64415
 longitude: -101.83799
 postcode: "79403"
 city: Lubbock
-street: "Regis Street"
-housenumber: 216
+street: Regis Street
+housenumber: "216"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/lubbock/22136"
+website: https://www.dollargeneral.com/store-directory/tx/lubbock/22136

@@ -1,11 +1,11 @@
 id: 629228899
-type: way
+type: node
 latitude: 33.00037
 longitude: -96.76821
 postcode: "75075"
 city: Plano
-street: "Coit Road"
-housenumber: 209
-phone: "+1-972-867-8896"
+street: Coit Road
+housenumber: "209"
+phone: +1-972-867-8896
 opening_hours: ""
 website: ""

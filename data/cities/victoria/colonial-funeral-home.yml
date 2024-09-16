@@ -1,11 +1,11 @@
 id: 525903208
-type: way
+type: node
 latitude: 28.81363
 longitude: -96.98596
 postcode: "77901"
 city: Victoria
-street: "East Red River Street"
-housenumber: 1801
-phone: "+1 361-578-3535"
+street: East Red River Street
+housenumber: "1801"
+phone: +1 361-578-3535
 opening_hours: ""
 website: ""

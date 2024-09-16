@@ -1,11 +1,11 @@
 id: 378940575
-type: way
+type: node
 latitude: 29.7176
 longitude: -95.29195
-postcode: "77023-4248"
+postcode: 77023-4248
 city: Houston
-street: "Lawndale Street"
-housenumber: 7145
-phone: "+1 713-926-7466"
+street: Lawndale Street
+housenumber: "7145"
+phone: +1 713-926-7466
 opening_hours: ""
-website: "https://www.truevalue.com/martinihardware"
+website: https://www.truevalue.com/martinihardware

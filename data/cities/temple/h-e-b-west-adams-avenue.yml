@@ -1,11 +1,11 @@
 id: 256926916
-type: way
+type: node
 latitude: 31.10267
 longitude: -97.35402
 postcode: "76504"
 city: Temple
-street: "West Adams Avenue"
-housenumber: 1314
-phone: "+1-254-773-4145"
+street: West Adams Avenue
+housenumber: "1314"
+phone: +1-254-773-4145
 opening_hours: ""
 website: ""

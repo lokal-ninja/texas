@@ -1,11 +1,11 @@
 id: 597901775
-type: way
+type: node
 latitude: 32.93927
 longitude: -96.6991
 postcode: "75081"
 city: Richardson
-street: "East Spring Valley Road"
-housenumber: 1401
-phone: "+1 972-238-5257"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/richardson/pet-supplies-richardson-tx-439.html"
+street: East Spring Valley Road
+housenumber: "1401"
+phone: +1 972-238-5257
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/richardson/pet-supplies-richardson-tx-439.html

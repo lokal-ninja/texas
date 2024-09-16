@@ -1,11 +1,11 @@
 id: 859518920
-type: way
+type: node
 latitude: 29.94199
 longitude: -95.6804
 postcode: "77433"
 city: Cypress
-street: "Barker Cypress Road"
-housenumber: 11425
-phone: "+1 832-349-7190"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4465/cypress-tx/whats-new"
+street: Barker Cypress Road
+housenumber: "11425"
+phone: +1 832-349-7190
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4465/cypress-tx/whats-new

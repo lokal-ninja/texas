@@ -1,11 +1,11 @@
 id: 694149242
-type: way
+type: node
 latitude: 29.81237
 longitude: -95.40505
 postcode: ""
 city: Houston
-street: "North Loop West"
-housenumber: 435
+street: North Loop West
+housenumber: "435"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

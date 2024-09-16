@@ -1,11 +1,11 @@
 id: 909436478
-type: way
+type: node
 latitude: 32.57652
 longitude: -97.33657
 postcode: "76036"
 city: Crowley
-street: "East FM 1187"
-housenumber: 1301
-phone: "+1 817-297-4133"
-opening_hours: "05:00-23:00"
-website: "https://www.walmart.com/store/245-crowley-tx"
+street: East FM 1187
+housenumber: "1301"
+phone: +1 817-297-4133
+opening_hours: 05:00-23:00
+website: https://www.walmart.com/store/245-crowley-tx

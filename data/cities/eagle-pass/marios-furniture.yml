@@ -1,11 +1,11 @@
 id: 1314822376
-type: way
+type: node
 latitude: 28.70708
 longitude: -100.49976
 postcode: "78852"
 city: Eagle Pass
-street: "East Río Grande Street"
-housenumber: 686
+street: East Río Grande Street
+housenumber: "686"
 phone: "+18307739210"
 opening_hours: ""
 website: ""

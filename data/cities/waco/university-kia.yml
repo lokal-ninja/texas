@@ -1,11 +1,11 @@
 id: 760880326
-type: way
+type: node
 latitude: 31.52169
 longitude: -97.13333
 postcode: "76706"
 city: Waco
-street: "La Salle Avenue"
-housenumber: 2718
+street: La Salle Avenue
+housenumber: "2718"
 phone: ""
 opening_hours: ""
 website: ""

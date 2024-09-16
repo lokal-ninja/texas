@@ -1,11 +1,11 @@
 id: 465033035
-type: way
+type: node
 latitude: 32.81279
 longitude: -96.86242
 postcode: "75247"
 city: Dallas
-street: "North Stemmons Freeway"
-housenumber: 3110
+street: North Stemmons Freeway
+housenumber: "3110"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 976077953
-type: way
+type: node
 latitude: 29.56932
 longitude: -104.37179
 postcode: "79845"
 city: Presidio
-street: "US 67 Business"
-housenumber: 1000
+street: US 67 Business
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

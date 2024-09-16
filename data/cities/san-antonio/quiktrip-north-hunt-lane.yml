@@ -1,11 +1,11 @@
 id: 1099963220
-type: way
+type: node
 latitude: 29.4458
 longitude: -98.67158
 postcode: "78251"
 city: San Antonio
-street: "North Hunt Lane"
-housenumber: 1015
+street: North Hunt Lane
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

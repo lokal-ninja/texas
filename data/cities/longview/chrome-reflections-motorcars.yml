@@ -1,11 +1,11 @@
 id: 734707731
-type: way
+type: node
 latitude: 32.50328
 longitude: -94.67539
 postcode: "75601"
 city: Longview
-street: "East Marshall Avenue"
-housenumber: 3698
+street: East Marshall Avenue
+housenumber: "3698"
 phone: ""
 opening_hours: ""
 website: ""

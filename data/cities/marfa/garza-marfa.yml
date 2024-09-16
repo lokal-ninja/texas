@@ -1,11 +1,11 @@
 id: 294564820
-type: way
+type: node
 latitude: 30.31204
 longitude: -104.02114
 postcode: "79843"
 city: Marfa
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://garzamarfa.com/"
+website: https://garzamarfa.com/

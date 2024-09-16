@@ -1,11 +1,11 @@
 id: 407788592
-type: way
+type: node
 latitude: 30.6301
 longitude: -96.33328
 postcode: "77840"
 city: College Station
-street: "University Drive East"
-housenumber: 303
+street: University Drive East
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

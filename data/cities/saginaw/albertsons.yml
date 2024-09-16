@@ -1,11 +1,11 @@
 id: 51999386
-type: way
+type: node
 latitude: 32.87991
 longitude: -97.38238
 postcode: "76179"
 city: Saginaw
-street: "North Saginaw Boulevard"
-housenumber: 1201
-phone: "+1 817-232-2777"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/saginaw/1201-n-saginaw-blvd.html"
+street: North Saginaw Boulevard
+housenumber: "1201"
+phone: +1 817-232-2777
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/saginaw/1201-n-saginaw-blvd.html

@@ -1,11 +1,11 @@
 id: 977566780
-type: way
+type: node
 latitude: 29.95923
 longitude: -95.54755
 postcode: ""
 city: Houston
-street: "FM 1960 West"
-housenumber: 8015
+street: FM 1960 West
+housenumber: "8015"
 phone: ""
 opening_hours: ""
 website: ""

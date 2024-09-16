@@ -1,11 +1,11 @@
 id: 250471065
-type: way
+type: node
 latitude: 32.54493
 longitude: -95.86568
 postcode: "75103"
 city: Canton
-street: "East Veterans Memorial Parkway"
-housenumber: 226
+street: East Veterans Memorial Parkway
+housenumber: "226"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/canton/autoparts-891.html"
+website: https://locations.oreillyauto.com/tx/canton/autoparts-891.html

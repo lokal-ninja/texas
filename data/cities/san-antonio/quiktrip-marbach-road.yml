@@ -1,11 +1,11 @@
 id: 1100979417
-type: way
+type: node
 latitude: 29.40429
 longitude: -98.70638
 postcode: "78245"
 city: San Antonio
-street: "Marbach Road"
-housenumber: 10917
+street: Marbach Road
+housenumber: "10917"
 phone: ""
 opening_hours: ""
 website: ""

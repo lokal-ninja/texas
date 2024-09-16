@@ -1,11 +1,11 @@
 id: 1183461818
-type: way
+type: node
 latitude: 29.66867
 longitude: -100.01206
 postcode: "78833"
 city: Camp Wood
-street: "South Nueces Street"
-housenumber: 118
-phone: "+1-830-597-6160"
+street: South Nueces Street
+housenumber: "118"
+phone: +1-830-597-6160
 opening_hours: ""
-website: "https://bearcreekfudge.net/"
+website: https://bearcreekfudge.net/

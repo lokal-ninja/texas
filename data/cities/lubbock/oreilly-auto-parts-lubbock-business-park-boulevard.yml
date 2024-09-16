@@ -1,11 +1,11 @@
 id: 472421038
-type: way
+type: node
 latitude: 33.62697
 longitude: -101.83301
 postcode: "79403"
 city: Lubbock
-street: "Lubbock Business Park Boulevard"
-housenumber: 408
+street: Lubbock Business Park Boulevard
+housenumber: "408"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/lubbock/autoparts-2098.html"
+website: https://locations.oreillyauto.com/tx/lubbock/autoparts-2098.html

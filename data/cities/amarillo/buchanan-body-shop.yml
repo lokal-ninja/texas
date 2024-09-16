@@ -1,11 +1,11 @@
 id: 1062856056
-type: way
+type: node
 latitude: 35.18945
 longitude: -101.83479
 postcode: "79109"
 city: Amarillo
-street: "South Lincoln Street"
-housenumber: 2118
+street: South Lincoln Street
+housenumber: "2118"
 phone: ""
 opening_hours: ""
 website: ""

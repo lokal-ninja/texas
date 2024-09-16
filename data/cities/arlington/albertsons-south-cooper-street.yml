@@ -1,11 +1,11 @@
 id: 672173828
-type: way
+type: node
 latitude: 32.6497
 longitude: -97.13682
 postcode: "76017"
 city: Arlington
-street: "South Cooper Street"
-housenumber: 5950
-phone: "+1 817-557-0185"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/arlington/5950-s-cooper-st.html"
+street: South Cooper Street
+housenumber: "5950"
+phone: +1 817-557-0185
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/arlington/5950-s-cooper-st.html

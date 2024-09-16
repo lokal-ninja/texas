@@ -4,8 +4,8 @@ latitude: 31.89175
 longitude: -102.34572
 postcode: "79762"
 city: Odessa
-street: "East 42nd Street"
-housenumber: 3915
-phone: "+1 432-366-1404"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/odessa/office-depot-395"
+street: East 42nd Street
+housenumber: "3915"
+phone: +1 432-366-1404
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/tx/odessa/office-depot-395

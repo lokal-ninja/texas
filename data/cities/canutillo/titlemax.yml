@@ -1,11 +1,11 @@
 id: 1201748325
-type: way
+type: node
 latitude: 31.90885
 longitude: -106.59035
 postcode: "79835"
 city: Canutillo
-street: "Talbot Avenue"
-housenumber: 911
+street: Talbot Avenue
+housenumber: "911"
 phone: ""
 opening_hours: ""
 website: ""

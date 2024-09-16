@@ -1,11 +1,11 @@
 id: 713068603
-type: way
+type: node
 latitude: 32.5891
 longitude: -97.1506
 postcode: "76063"
 city: Mansfield
-street: "Highway 157 North"
-housenumber: 1550
-phone: "+1 817-477-3950"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 157 North
+housenumber: "1550"
+phone: +1 817-477-3950
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

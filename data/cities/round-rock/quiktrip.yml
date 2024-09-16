@@ -1,11 +1,11 @@
 id: 899261636
-type: way
+type: node
 latitude: 30.48454
 longitude: -97.64915
 postcode: "78664"
 city: Round Rock
-street: "Louis Henna Boulevard"
-housenumber: 901
-phone: "+1-512-248-8983"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/tx/round-rock/901-louis-henna-blvd"
+street: Louis Henna Boulevard
+housenumber: "901"
+phone: +1-512-248-8983
+opening_hours: 24/7
+website: https://locations.quiktrip.com/tx/round-rock/901-louis-henna-blvd

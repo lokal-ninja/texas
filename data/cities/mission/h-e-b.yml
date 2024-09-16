@@ -1,11 +1,11 @@
 id: 257301753
-type: way
+type: node
 latitude: 26.21402
 longitude: -98.3241
 postcode: "78572"
 city: Mission
-street: "North Conway Avenue"
-housenumber: 820
-phone: "+1-956-581-2154"
+street: North Conway Avenue
+housenumber: "820"
+phone: +1-956-581-2154
 opening_hours: ""
 website: ""

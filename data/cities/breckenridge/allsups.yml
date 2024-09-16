@@ -1,11 +1,11 @@
 id: 1128071998
-type: way
+type: node
 latitude: 32.75584
 longitude: -98.89123
 postcode: "76424"
 city: Breckenridge
-street: "East Walker Street"
-housenumber: 902
+street: East Walker Street
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

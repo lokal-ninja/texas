@@ -1,11 +1,11 @@
 id: 226936292
-type: way
+type: node
 latitude: 29.75374
 longitude: -95.40214
 postcode: "77019"
 city: Houston
-street: "West Gray Street"
-housenumber: 1576
-phone: "+1 713-523-1399"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/houston/officemax-6289"
+street: West Gray Street
+housenumber: "1576"
+phone: +1 713-523-1399
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/tx/houston/officemax-6289

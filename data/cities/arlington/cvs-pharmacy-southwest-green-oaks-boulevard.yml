@@ -1,11 +1,11 @@
 id: 682429911
-type: way
+type: node
 latitude: 32.65888
 longitude: -97.16777
 postcode: "76017"
 city: Arlington
-street: "Southwest Green Oaks Boulevard"
-housenumber: 3801
+street: Southwest Green Oaks Boulevard
+housenumber: "3801"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/arlington-tx-pharmacies/3801-sw-green-oaks-blvd-arlington-tx-76017/storeid=7650"
+website: https://www.cvs.com/store-locator/arlington-tx-pharmacies/3801-sw-green-oaks-blvd-arlington-tx-76017/storeid=7650

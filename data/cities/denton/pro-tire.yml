@@ -1,11 +1,11 @@
 id: 1187985126
-type: way
+type: node
 latitude: 33.23357
 longitude: -97.09288
 postcode: "76209"
 city: Denton
-street: "Virginia Circle"
-housenumber: 1907
-phone: "+1-940-243-0020"
+street: Virginia Circle
+housenumber: "1907"
+phone: +1-940-243-0020
 opening_hours: ""
-website: "https://www.protiredenton.com"
+website: https://www.protiredenton.com

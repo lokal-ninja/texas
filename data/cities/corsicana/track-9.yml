@@ -1,11 +1,11 @@
 id: 563775234
-type: way
+type: node
 latitude: 32.09677
 longitude: -96.4536
 postcode: "75110"
 city: Corsicana
-street: "East 7th Avenue"
-housenumber: 1100
+street: East 7th Avenue
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

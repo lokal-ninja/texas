@@ -1,11 +1,11 @@
 id: 946993629
-type: way
+type: node
 latitude: 33.38483
 longitude: -94.07679
 postcode: "75501"
 city: Texarkana
-street: "East Wallace Drive"
-housenumber: 2631
+street: East Wallace Drive
+housenumber: "2631"
 phone: ""
 opening_hours: ""
 website: ""

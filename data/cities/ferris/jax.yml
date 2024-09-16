@@ -1,11 +1,11 @@
 id: 311770451
-type: way
+type: node
 latitude: 32.53549
 longitude: -96.65999
 postcode: "75125"
 city: Ferris
-street: "North Interstate 45"
-housenumber: 101
+street: North Interstate 45
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 714855108
-type: way
+type: node
 latitude: 32.57188
 longitude: -96.30264
 postcode: "75142"
 city: Kaufman
-street: "East Fair Street"
-housenumber: 825
+street: East Fair Street
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

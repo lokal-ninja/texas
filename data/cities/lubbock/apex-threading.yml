@@ -4,8 +4,8 @@ latitude: 33.54927
 longitude: -101.89675
 postcode: "79413"
 city: Lubbock
-street: "50th Street"
-housenumber: 3802
-phone: "+1-806-701-5180"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: 50th Street
+housenumber: "3802"
+phone: +1-806-701-5180
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

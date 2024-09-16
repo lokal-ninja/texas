@@ -1,11 +1,11 @@
 id: 679861736
-type: way
+type: node
 latitude: 32.30732
 longitude: -95.4808
 postcode: "75758"
 city: Chandler
-street: "West Highway 31"
-housenumber: 103
+street: West Highway 31
+housenumber: "103"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

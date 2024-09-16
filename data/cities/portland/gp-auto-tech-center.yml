@@ -1,11 +1,11 @@
 id: 707870686
-type: way
+type: node
 latitude: 27.88186
 longitude: -97.32011
 postcode: ""
 city: Portland
-street: "Daniel Moore Avenue"
-housenumber: 200
+street: Daniel Moore Avenue
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

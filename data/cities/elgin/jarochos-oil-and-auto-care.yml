@@ -1,11 +1,11 @@
 id: 325742031
-type: way
+type: node
 latitude: 30.34896
 longitude: -97.38401
 postcode: "78621"
 city: Elgin
-street: "West US Highway 290"
-housenumber: 1121
+street: West US Highway 290
+housenumber: "1121"
 phone: ""
 opening_hours: ""
 website: ""

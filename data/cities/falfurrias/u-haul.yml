@@ -1,11 +1,11 @@
 id: 1007898992
-type: way
+type: node
 latitude: 27.23086
 longitude: -98.14342
 postcode: "78355"
 city: Falfurrias
-street: "North Saint Mary's Street"
-housenumber: 510
+street: North Saint Mary's Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

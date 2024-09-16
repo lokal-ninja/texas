@@ -1,11 +1,11 @@
 id: 845339292
-type: way
+type: node
 latitude: 32.11557
 longitude: -98.53488
 postcode: "76444"
 city: De Leon
-street: "North Texas Street"
-housenumber: 725
+street: North Texas Street
+housenumber: "725"
 phone: ""
 opening_hours: ""
 website: ""

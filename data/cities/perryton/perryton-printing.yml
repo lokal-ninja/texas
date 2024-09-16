@@ -1,11 +1,11 @@
 id: 1042081317
-type: way
+type: node
 latitude: 36.3993
 longitude: -100.80121
 postcode: "79070"
 city: Perryton
-street: "South Ash Street"
-housenumber: 109
+street: South Ash Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

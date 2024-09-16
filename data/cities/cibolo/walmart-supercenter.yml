@@ -1,11 +1,11 @@
 id: 571405585
-type: way
+type: node
 latitude: 29.57406
 longitude: -98.23757
 postcode: "78108"
 city: Cibolo
-street: "Cibolo Valley Drive"
-housenumber: 602
-phone: "+1 210-659-9188"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4115/cibolo-tx/whats-new"
+street: Cibolo Valley Drive
+housenumber: "602"
+phone: +1 210-659-9188
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4115/cibolo-tx/whats-new

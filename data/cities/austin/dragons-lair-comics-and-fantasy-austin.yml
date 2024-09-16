@@ -4,8 +4,8 @@ latitude: 30.35804
 longitude: -97.7328
 postcode: "78757"
 city: Austin
-street: "West Anderson Lane"
-housenumber: 2438
-phone: "+1-512-454-2399"
-opening_hours: "Su-Fr 10:00-24:00; Sa 09:00-24:00"
-website: "https://dlair.net/austin/"
+street: West Anderson Lane
+housenumber: "2438"
+phone: +1-512-454-2399
+opening_hours: Su-Fr 10:00-24:00; Sa 09:00-24:00
+website: https://dlair.net/austin/

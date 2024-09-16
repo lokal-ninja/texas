@@ -1,11 +1,11 @@
 id: 714148361
-type: way
+type: node
 latitude: 29.74267
 longitude: -99.01985
 postcode: "78003"
 city: Bandera
-street: "Kings Ranch Road"
-housenumber: 275
+street: Kings Ranch Road
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

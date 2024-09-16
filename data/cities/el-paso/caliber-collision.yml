@@ -1,11 +1,11 @@
 id: 993167594
-type: way
+type: node
 latitude: 31.88144
 longitude: -106.59339
 postcode: "79932"
 city: El Paso
-street: "Modesta Street"
-housenumber: 6250
+street: Modesta Street
+housenumber: "6250"
 phone: ""
 opening_hours: ""
 website: ""

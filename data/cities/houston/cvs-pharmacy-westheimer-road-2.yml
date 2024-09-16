@@ -1,11 +1,11 @@
 id: 171733240
-type: way
+type: node
 latitude: 29.74056
 longitude: -95.45743
 postcode: "77027"
 city: Houston
-street: "Westheimer Road"
-housenumber: 4755
+street: Westheimer Road
+housenumber: "4755"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/4755-westheimer-rd-houston-tx-77027/storeid=2988"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/4755-westheimer-rd-houston-tx-77027/storeid=2988

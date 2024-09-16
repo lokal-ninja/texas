@@ -1,11 +1,11 @@
 id: 250471059
-type: way
+type: node
 latitude: 32.54533
 longitude: -95.86524
 postcode: "75103"
 city: Canton
-street: "East Veterans Memorial Parkway"
-housenumber: 220
+street: East Veterans Memorial Parkway
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/canton/1823"
+website: https://www.dollargeneral.com/store-directory/tx/canton/1823

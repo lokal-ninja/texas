@@ -1,11 +1,11 @@
 id: 1022153076
-type: way
+type: node
 latitude: 30.10686
 longitude: -97.33674
 postcode: "78602"
 city: Bastrop
-street: "State Highway 71 West"
-housenumber: 506
-phone: "+1-512-308-9577"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/tx/bastrop/506-highway-71-w"
+street: State Highway 71 West
+housenumber: "506"
+phone: +1-512-308-9577
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/tx/bastrop/506-highway-71-w

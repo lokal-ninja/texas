@@ -1,11 +1,11 @@
 id: 712913482
-type: way
+type: node
 latitude: 32.34288
 longitude: -97.38685
 postcode: ""
 city: Cleburne
-street: "West Smith Street"
-housenumber: 210
-phone: "+1-817-556-2455"
+street: West Smith Street
+housenumber: "210"
+phone: +1-817-556-2455
 opening_hours: ""
-website: "https://locations.autovalue.com/tx/cleburne/1629458/"
+website: https://locations.autovalue.com/tx/cleburne/1629458/

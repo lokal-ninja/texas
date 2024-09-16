@@ -1,11 +1,11 @@
 id: 793653797
-type: way
+type: node
 latitude: 35.67627
 longitude: -101.38919
 postcode: "79007"
 city: Borger
-street: "Weatherly Street"
-housenumber: 911
+street: Weatherly Street
+housenumber: "911"
 phone: ""
 opening_hours: ""
 website: ""

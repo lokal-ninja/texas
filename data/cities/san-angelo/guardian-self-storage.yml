@@ -1,11 +1,11 @@
 id: 1076412531
-type: way
+type: node
 latitude: 31.42401
 longitude: -100.51037
 postcode: "76904"
 city: San Angelo
-street: "Southland Boulevard"
-housenumber: 4956
+street: Southland Boulevard
+housenumber: "4956"
 phone: ""
 opening_hours: ""
 website: ""

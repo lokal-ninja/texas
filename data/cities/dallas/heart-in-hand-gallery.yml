@@ -1,11 +1,11 @@
 id: 1113214143
-type: way
+type: node
 latitude: 32.78412
 longitude: -96.78593
 postcode: "75226"
 city: Dallas
-street: "Elm Street"
-housenumber: 2614
-phone: "+1 469-776-5667"
-opening_hours: "Su-We 11:00-21:00; Th-Sa 11:00-00:00"
+street: Elm Street
+housenumber: "2614"
+phone: +1 469-776-5667
+opening_hours: Su-We 11:00-21:00; Th-Sa 11:00-00:00
 website: ""

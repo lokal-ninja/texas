@@ -1,11 +1,11 @@
 id: 805460008
-type: way
+type: node
 latitude: 32.92951
 longitude: -96.4677
 postcode: "75087"
 city: Rockwall
-street: "West Rusk Street"
-housenumber: 715
+street: West Rusk Street
+housenumber: "715"
 phone: ""
 opening_hours: ""
 website: ""

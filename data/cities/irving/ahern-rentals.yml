@@ -1,11 +1,11 @@
 id: 655222108
-type: way
+type: node
 latitude: 32.79716
 longitude: -96.92017
 postcode: "75060"
 city: Irving
-street: "South Loop 12"
-housenumber: 1450
+street: South Loop 12
+housenumber: "1450"
 phone: ""
 opening_hours: ""
 website: ""

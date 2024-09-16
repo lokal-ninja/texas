@@ -1,11 +1,11 @@
 id: 922339583
-type: way
+type: node
 latitude: 28.81596
 longitude: -96.96138
 postcode: "77901"
 city: Victoria
-street: "Houston Highway"
-housenumber: 4001
-phone: "+1 361-827-7272"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/4194-victoria-tx"
+street: Houston Highway
+housenumber: "4001"
+phone: +1 361-827-7272
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/4194-victoria-tx

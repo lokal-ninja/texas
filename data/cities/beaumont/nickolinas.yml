@@ -1,11 +1,11 @@
 id: 880915880
-type: way
+type: node
 latitude: 30.09285
 longitude: -94.14763
 postcode: "77706"
 city: Beaumont
-street: "West Lucas Drive"
-housenumber: 1257
+street: West Lucas Drive
+housenumber: "1257"
 phone: ""
 opening_hours: ""
 website: ""

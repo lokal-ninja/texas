@@ -1,11 +1,11 @@
 id: 141984465
-type: way
+type: node
 latitude: 32.68627
 longitude: -97.40731
 postcode: "76132"
 city: Fort Worth
-street: "Southwest Loop 820"
-housenumber: 5520
-phone: "+1 817-569-7550"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://www.kohls.com/stores/tx/fortworth-365.shtml"
+street: Southwest Loop 820
+housenumber: "5520"
+phone: +1 817-569-7550
+opening_hours: Mo-Su 10:00-21:00
+website: https://www.kohls.com/stores/tx/fortworth-365.shtml

@@ -1,11 +1,11 @@
 id: 598175997
-type: way
+type: node
 latitude: 32.96087
 longitude: -96.68369
 postcode: "75081"
 city: Richardson
-street: "East Arapaho Road"
-housenumber: 2161
-phone: "+1-972-437-9677"
-opening_hours: "Mo-Fr 7:30-18:00; Sa 7:30-17:00"
+street: East Arapaho Road
+housenumber: "2161"
+phone: +1-972-437-9677
+opening_hours: Mo-Fr 7:30-18:00; Sa 7:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 48486703
-type: way
+type: node
 latitude: 29.73816
 longitude: -95.46461
 postcode: ""
 city: Houston
-street: "Westheimer Road"
-housenumber: 5085
+street: Westheimer Road
+housenumber: "5085"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.simon.com/mall/the-galleria"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.simon.com/mall/the-galleria

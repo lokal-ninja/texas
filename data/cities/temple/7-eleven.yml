@@ -1,11 +1,11 @@
 id: 847331523
-type: way
+type: node
 latitude: 31.12248
 longitude: -97.33536
 postcode: "76501"
 city: Temple
-street: "North 3rd Street"
-housenumber: 2701
-phone: "+1 254-774-9195"
+street: North 3rd Street
+housenumber: "2701"
+phone: +1 254-774-9195
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tx/temple/2701-north-3rd-st-17921"
+website: https://www.7-eleven.com/locations/tx/temple/2701-north-3rd-st-17921

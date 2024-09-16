@@ -1,11 +1,11 @@
 id: 1118116516
-type: way
+type: node
 latitude: 32.64731
 longitude: -96.85854
 postcode: "75237"
 city: Dallas
-street: "West Wheatland Road"
-housenumber: 2420
+street: West Wheatland Road
+housenumber: "2420"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-tx-pharmacies/2420-w-wheatland-rd-dallas-tx-75237/storeid=296"
+website: https://www.cvs.com/store-locator/dallas-tx-pharmacies/2420-w-wheatland-rd-dallas-tx-75237/storeid=296

@@ -1,11 +1,11 @@
 id: 556218263
-type: way
+type: node
 latitude: 32.83213
 longitude: -97.20176
 postcode: "76053"
 city: Hurst
-street: "NE Mall Blvd"
-housenumber: 7000
-phone: "+1-817-595-5228"
-opening_hours: "Mo-Sa 08:00-18:00, Su 12:00-17:00"
+street: NE Mall Blvd
+housenumber: "7000"
+phone: +1-817-595-5228
+opening_hours: Mo-Sa 08:00-18:00, Su 12:00-17:00
 website: ""

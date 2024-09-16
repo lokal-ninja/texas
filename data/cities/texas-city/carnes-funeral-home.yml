@@ -1,11 +1,11 @@
 id: 259851037
-type: way
+type: node
 latitude: 29.40971
 longitude: -95.03802
 postcode: "77591"
 city: Texas City
-street: "Gulf Freeway"
-housenumber: 3100
+street: Gulf Freeway
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

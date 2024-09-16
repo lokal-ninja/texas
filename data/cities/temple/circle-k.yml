@@ -1,11 +1,11 @@
 id: 541997030
-type: way
+type: node
 latitude: 31.08864
 longitude: -97.34573
 postcode: "76504"
 city: Temple
-street: "West Avenue H"
-housenumber: 101
+street: West Avenue H
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

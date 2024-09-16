@@ -1,11 +1,11 @@
 id: 1188762861
-type: way
+type: node
 latitude: 30.25248
 longitude: -98.87217
 postcode: "78624"
 city: Fredericksburg
-street: "South US Highway 87"
-housenumber: 1406
-phone: "+1-830-997-8969"
-opening_hours: "Su 10:00-17:00; Mo-Th 10:00-17:30; Fr-Sa 10:00-18:00"
-website: "https://jelly.com/"
+street: South US Highway 87
+housenumber: "1406"
+phone: +1-830-997-8969
+opening_hours: Su 10:00-17:00; Mo-Th 10:00-17:30; Fr-Sa 10:00-18:00
+website: https://jelly.com/

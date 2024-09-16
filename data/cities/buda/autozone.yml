@@ -1,11 +1,11 @@
 id: 273063787
-type: way
+type: node
 latitude: 30.08665
 longitude: -97.83067
 postcode: "78610"
 city: Buda
-street: "North Main Street"
-housenumber: 1158
-phone: "+1 512 295 7351"
+street: North Main Street
+housenumber: "1158"
+phone: +1 512 295 7351
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/buda/1115-b-main-st.html"
+website: https://www.autozone.com/locations/tx/buda/1115-b-main-st.html

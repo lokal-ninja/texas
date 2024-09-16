@@ -1,11 +1,11 @@
 id: 739592172
-type: way
+type: node
 latitude: 32.91068
 longitude: -96.85408
 postcode: "75234"
 city: Dallas
-street: "Marsh Lane"
-housenumber: 11888
-phone: "+1 972-484-5516"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-22:30; Su 09:30-22:00"
+street: Marsh Lane
+housenumber: "11888"
+phone: +1 972-484-5516
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-22:30; Su 09:30-22:00
 website: ""

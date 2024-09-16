@@ -1,11 +1,11 @@
 id: 708316725
-type: way
+type: node
 latitude: 29.34546
 longitude: -99.15839
 postcode: "78861"
 city: Hondo
-street: "19th Street"
-housenumber: 2541
+street: 19th Street
+housenumber: "2541"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/hondo/3849"
+website: https://www.dollargeneral.com/store-directory/tx/hondo/3849

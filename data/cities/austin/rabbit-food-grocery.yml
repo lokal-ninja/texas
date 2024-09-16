@@ -4,8 +4,8 @@ latitude: 30.29758
 longitude: -97.76731
 postcode: "78703"
 city: Austin
-street: "Exposition Boulevard"
-housenumber: 2425
+street: Exposition Boulevard
+housenumber: "2425"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.rabbitfoodgrocery.com/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.rabbitfoodgrocery.com/

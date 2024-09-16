@@ -1,11 +1,11 @@
 id: 698467738
-type: way
+type: node
 latitude: 35.11765
 longitude: -101.92061
 postcode: "79119"
 city: Amarillo
-street: "South Coulter Street"
-housenumber: 8772
+street: South Coulter Street
+housenumber: "8772"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 930757809
-type: way
+type: node
 latitude: 30.07956
 longitude: -95.42022
 postcode: "77373"
 city: Spring
-street: "Main Street"
-housenumber: 302
+street: Main Street
+housenumber: "302"
 phone: ""
-opening_hours: "Su-Mo closed; Tu-Fr 10:00-16:00; Sa 11:00-16:00"
-website: "https://www.grsfabrics.com"
+opening_hours: Su-Mo closed; Tu-Fr 10:00-16:00; Sa 11:00-16:00
+website: https://www.grsfabrics.com

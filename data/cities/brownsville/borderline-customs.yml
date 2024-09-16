@@ -1,11 +1,11 @@
 id: 592712677
-type: way
+type: node
 latitude: 25.93572
 longitude: -97.49469
 postcode: "78521"
 city: Brownsville
-street: "East Price Road"
-housenumber: 1604
+street: East Price Road
+housenumber: "1604"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su,PH off"
-website: "https://borderlinemotorcycles.net"
+opening_hours: Mo-Sa 09:00-17:00; Su,PH off
+website: https://borderlinemotorcycles.net

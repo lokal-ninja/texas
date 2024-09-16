@@ -1,11 +1,11 @@
 id: 1054065508
-type: way
+type: node
 latitude: 33.42356
 longitude: -94.05243
 postcode: "75501"
 city: Texarkana
-street: "West 7th Street"
-housenumber: 904
+street: West 7th Street
+housenumber: "904"
 phone: ""
 opening_hours: ""
 website: ""

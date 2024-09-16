@@ -1,11 +1,11 @@
 id: 541979928
-type: way
+type: node
 latitude: 29.46422
 longitude: -98.46386
 postcode: "78209"
 city: San Antonio
-street: "Allensworth Street"
-housenumber: 111
+street: Allensworth Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

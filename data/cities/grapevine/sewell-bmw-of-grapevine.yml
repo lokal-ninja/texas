@@ -1,11 +1,11 @@
 id: 561133474
-type: way
+type: node
 latitude: 32.92445
 longitude: -97.06234
 postcode: "76051"
 city: Grapevine
-street: "East State Highway 114"
-housenumber: 1111
+street: East State Highway 114
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

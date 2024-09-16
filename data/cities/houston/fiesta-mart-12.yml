@@ -1,11 +1,11 @@
 id: 1086339144
-type: way
+type: node
 latitude: 29.77529
 longitude: -95.31244
 postcode: "77020"
 city: Houston
-street: "Lyons Avenue"
-housenumber: 5800
+street: Lyons Avenue
+housenumber: "5800"
 phone: "+17136728985"
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

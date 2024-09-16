@@ -1,11 +1,11 @@
 id: 713994066
-type: way
+type: node
 latitude: 32.41541
 longitude: -97.22149
 postcode: "76009"
 city: Alvarado
-street: "West US Highway 67"
-housenumber: 1011
+street: West US Highway 67
+housenumber: "1011"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/alvarado/1011-hwy-67-w.html"
+website: https://www.autozone.com/locations/tx/alvarado/1011-hwy-67-w.html

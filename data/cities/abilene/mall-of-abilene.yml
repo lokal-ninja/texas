@@ -1,11 +1,11 @@
 id: 462513506
-type: way
+type: node
 latitude: 32.40289
 longitude: -99.76283
 postcode: ""
 city: Abilene
-street: "Buffalo Gap Road"
-housenumber: 4310
+street: Buffalo Gap Road
+housenumber: "4310"
 phone: ""
 opening_hours: ""
-website: "https://www.mallofabilene.com/"
+website: https://www.mallofabilene.com/

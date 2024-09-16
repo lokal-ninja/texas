@@ -1,11 +1,11 @@
 id: 455018020
-type: way
+type: node
 latitude: 32.95076
 longitude: -96.80059
 postcode: "75254"
 city: Dallas
-street: "Preston Road"
-housenumber: 14858
+street: Preston Road
+housenumber: "14858"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/stores/search/272"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/stores/search/272

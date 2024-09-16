@@ -1,11 +1,11 @@
 id: 404986383
-type: way
+type: node
 latitude: 29.53606
 longitude: -95.20593
 postcode: "77546"
 city: Friendswood
-street: "North Friendswood Drive"
-housenumber: 
-phone: "+1 281-992-0830"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tx/friendswood/old-friendswood/034/00743"
+street: North Friendswood Drive
+housenumber: ""
+phone: +1 281-992-0830
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tx/friendswood/old-friendswood/034/00743

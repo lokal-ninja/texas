@@ -4,8 +4,8 @@ latitude: 29.75115
 longitude: -95.46245
 postcode: "77056"
 city: Houston
-street: "San Felipe Street"
-housenumber: 5016
-phone: "+1 713-622-9777"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.totalwine.com/store-info/516"
+street: San Felipe Street
+housenumber: "5016"
+phone: +1 713-622-9777
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.totalwine.com/store-info/516

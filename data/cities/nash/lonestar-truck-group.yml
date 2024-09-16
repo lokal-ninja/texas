@@ -1,11 +1,11 @@
 id: 943963039
-type: way
+type: node
 latitude: 33.45334
 longitude: -94.13438
 postcode: "75569"
 city: Nash
-street: "Lone Star Crossing"
-housenumber: 109
+street: Lone Star Crossing
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

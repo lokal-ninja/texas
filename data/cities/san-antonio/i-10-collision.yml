@@ -1,11 +1,11 @@
 id: 746790579
-type: way
+type: node
 latitude: 29.48232
 longitude: -98.52937
 postcode: "78201"
 city: San Antonio
-street: "Interstate 10 West"
-housenumber: 5700
+street: Interstate 10 West
+housenumber: "5700"
 phone: ""
 opening_hours: ""
 website: ""

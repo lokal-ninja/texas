@@ -1,11 +1,11 @@
 id: 503483698
-type: way
+type: node
 latitude: 32.54386
 longitude: -95.86608
 postcode: "75103"
 city: Canton
-street: "East Veterans Memorial Parkway"
-housenumber: 231
+street: East Veterans Memorial Parkway
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/canton/231-hwy-243.html"
+website: https://www.autozone.com/locations/tx/canton/231-hwy-243.html

@@ -1,11 +1,11 @@
 id: 868105886
-type: way
+type: node
 latitude: 32.85318
 longitude: -100.46527
 postcode: "79546"
 city: Rotan
-street: "North McKinley Avenue"
-housenumber: 111
+street: North McKinley Avenue
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

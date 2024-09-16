@@ -1,11 +1,11 @@
 id: 1068092592
-type: way
+type: node
 latitude: 30.15183
 longitude: -96.41725
 postcode: "77833"
 city: Brenham
-street: "US 290 West"
-housenumber: 1515
-phone: "+1-979-589-5138"
+street: US 290 West
+housenumber: "1515"
+phone: +1-979-589-5138
 opening_hours: ""
-website: "https://www.tegelertoyota.com/"
+website: https://www.tegelertoyota.com/

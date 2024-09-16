@@ -1,11 +1,11 @@
 id: 714580806
-type: way
+type: node
 latitude: 28.33936
 longitude: -98.02613
 postcode: "78022"
 city: George West
-street: "I 37"
-housenumber: 1900
-phone: "+1 361 449 3766"
-opening_hours: "24/7"
-website: "https://stripesstores.com/locator/detail/5098"
+street: I 37
+housenumber: "1900"
+phone: +1 361 449 3766
+opening_hours: 24/7
+website: https://stripesstores.com/locator/detail/5098

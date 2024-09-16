@@ -1,11 +1,11 @@
 id: 463900244
-type: way
+type: node
 latitude: 32.81364
 longitude: -96.78993
 postcode: "75204"
 city: Dallas
-street: "North Central Expressway"
-housenumber: 4114
+street: North Central Expressway
+housenumber: "4114"
 phone: ""
 opening_hours: ""
 website: ""

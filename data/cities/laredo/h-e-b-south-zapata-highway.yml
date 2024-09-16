@@ -1,11 +1,11 @@
 id: 257121424
-type: way
+type: node
 latitude: 27.47752
 longitude: -99.47587
 postcode: "78043"
 city: Laredo
-street: "South Zapata Highway"
-housenumber: 2314
-phone: "+1-956-795-0207"
+street: South Zapata Highway
+housenumber: "2314"
+phone: +1-956-795-0207
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1278936479
-type: way
+type: node
 latitude: 31.01922
 longitude: -97.30289
 postcode: "76533"
 city: Heidenheimer
-street: "East US Highway 190"
-housenumber: 5804
+street: East US Highway 190
+housenumber: "5804"
 phone: ""
 opening_hours: ""
 website: ""

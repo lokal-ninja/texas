@@ -1,11 +1,11 @@
 id: 356079623
-type: way
+type: node
 latitude: 31.31246
 longitude: -94.72683
 postcode: "75901"
 city: Lufkin
-street: "South Medford Drive"
-housenumber: 4600
-phone: "+1 936 639 1249"
+street: South Medford Drive
+housenumber: "4600"
+phone: +1 936 639 1249
 opening_hours: ""
-website: "https://www.lufkinmall.com/"
+website: https://www.lufkinmall.com/

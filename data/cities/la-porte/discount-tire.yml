@@ -1,11 +1,11 @@
 id: 667235756
-type: way
+type: node
 latitude: 29.66389
 longitude: -95.09971
 postcode: "77571"
 city: La Porte
-street: "Spencer Highway"
-housenumber: 8902
-phone: "+1-281-476-9524"
+street: Spencer Highway
+housenumber: "8902"
+phone: +1-281-476-9524
 opening_hours: ""
 website: ""

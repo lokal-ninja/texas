@@ -1,11 +1,11 @@
 id: 1116172242
-type: way
+type: node
 latitude: 34.06423
 longitude: -101.84598
 postcode: "79041"
 city: Hale Center
-street: "Avenue G"
-housenumber: 622
+street: Avenue G
+housenumber: "622"
 phone: ""
 opening_hours: ""
 website: ""

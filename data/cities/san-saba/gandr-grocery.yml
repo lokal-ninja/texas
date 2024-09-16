@@ -1,11 +1,11 @@
 id: 952745908
-type: way
+type: node
 latitude: 31.19494
 longitude: -98.71713
 postcode: "76877"
 city: San Saba
-street: "East Commerce Street"
-housenumber: 502
+street: East Commerce Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

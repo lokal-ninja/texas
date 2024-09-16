@@ -1,11 +1,11 @@
 id: 1291147005
-type: way
+type: node
 latitude: 32.33338
 longitude: -97.42374
 postcode: "76033"
 city: Cleburne
-street: "South Nolan River Road"
-housenumber: 106
+street: South Nolan River Road
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

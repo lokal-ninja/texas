@@ -1,11 +1,11 @@
 id: 498168825
-type: way
+type: node
 latitude: 32.70745
 longitude: -97.1487
 postcode: "76013"
 city: Pantego
-street: "West Arkansas Lane"
-housenumber: 2425
-phone: "+1-817-277-4281"
+street: West Arkansas Lane
+housenumber: "2425"
+phone: +1-817-277-4281
 opening_hours: ""
 website: ""

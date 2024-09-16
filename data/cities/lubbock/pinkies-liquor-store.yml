@@ -1,11 +1,11 @@
 id: 712375172
-type: way
+type: node
 latitude: 33.50162
 longitude: -101.84391
 postcode: "79423"
 city: Lubbock
-street: "Tahoka Highway"
-housenumber: 10205
+street: Tahoka Highway
+housenumber: "10205"
 phone: ""
 opening_hours: ""
 website: ""

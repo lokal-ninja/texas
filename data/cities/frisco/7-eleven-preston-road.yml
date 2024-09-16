@@ -1,11 +1,11 @@
 id: 198122479
-type: way
+type: node
 latitude: 33.17412
 longitude: -96.80403
 postcode: ""
 city: Frisco
-street: "Preston Road"
-housenumber: 11655
+street: Preston Road
+housenumber: "11655"
 phone: ""
 opening_hours: ""
 website: ""

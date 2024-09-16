@@ -1,11 +1,11 @@
 id: 144027857
-type: way
+type: node
 latitude: 29.78452
 longitude: -95.80492
 postcode: "77494"
 city: Katy
-street: "Market Place Drive"
-housenumber: 25108
-phone: "+1 281-644-6404"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3226/katy-tx/whats-new"
+street: Market Place Drive
+housenumber: "25108"
+phone: +1 281-644-6404
+opening_hours: 24/7
+website: https://www.walmart.com/store/3226/katy-tx/whats-new

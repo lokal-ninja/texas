@@ -1,11 +1,11 @@
 id: 611441925
-type: way
+type: node
 latitude: 32.93857
 longitude: -102.56443
 postcode: "79359"
 city: Seagraves
-street: "Railroad Avenue"
-housenumber: 601
+street: Railroad Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

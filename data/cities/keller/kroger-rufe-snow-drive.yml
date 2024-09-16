@@ -1,11 +1,11 @@
 id: 679320285
-type: way
+type: node
 latitude: 32.89747
 longitude: -97.23692
 postcode: "76248"
 city: Keller
-street: "Rufe Snow Drive"
-housenumber: 2061
-phone: "+1 817-605-8591"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/tx/keller/rufe-snow/035/00537"
+street: Rufe Snow Drive
+housenumber: "2061"
+phone: +1 817-605-8591
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/tx/keller/rufe-snow/035/00537

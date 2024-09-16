@@ -1,11 +1,11 @@
 id: 1247554314
-type: way
+type: node
 latitude: 29.65022
 longitude: -95.61825
 postcode: ""
 city: Sugar Land
-street: "West Airport Boulevard"
-housenumber: 13445
+street: West Airport Boulevard
+housenumber: "13445"
 phone: ""
 opening_hours: ""
 website: ""

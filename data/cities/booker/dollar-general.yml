@@ -1,11 +1,11 @@
 id: 794642847
-type: way
+type: node
 latitude: 36.45592
 longitude: -100.52995
 postcode: "79005"
 city: Booker
-street: "East Industrial Avenue"
-housenumber: 503
+street: East Industrial Avenue
+housenumber: "503"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/booker/20421"
+website: https://www.dollargeneral.com/store-directory/tx/booker/20421

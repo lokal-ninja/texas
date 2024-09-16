@@ -4,8 +4,8 @@ latitude: 30.3368
 longitude: -97.71659
 postcode: "78752"
 city: Austin
-street: "Airport Boulevard"
-housenumber: 6929
-phone: "+1-512-666-5776"
-opening_hours: "Mo-Th 12:00-18:00, Fr-Sa 12:00-19:00"
-website: "https://www.hallyucosmetics.com/"
+street: Airport Boulevard
+housenumber: "6929"
+phone: +1-512-666-5776
+opening_hours: Mo-Th 12:00-18:00, Fr-Sa 12:00-19:00
+website: https://www.hallyucosmetics.com/

@@ -1,11 +1,11 @@
 id: 746807367
-type: way
+type: node
 latitude: 31.89297
 longitude: -100.48404
 postcode: "76945"
 city: Robert Lee
-street: "Commerce Street"
-housenumber: 700
+street: Commerce Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

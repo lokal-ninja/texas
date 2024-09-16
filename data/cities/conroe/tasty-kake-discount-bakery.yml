@@ -1,11 +1,11 @@
 id: 768328770
-type: way
+type: node
 latitude: 30.3408
 longitude: -95.44758
 postcode: "77301"
 city: Conroe
-street: "North Loop 336 East"
-housenumber: 221
+street: North Loop 336 East
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

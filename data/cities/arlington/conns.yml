@@ -4,8 +4,9 @@ latitude: 32.68175
 longitude: -97.1129
 postcode: "76018"
 city: Arlington
-street: "Merchants Row Drive"
-housenumber: 137
+street: Merchants Row Drive
+housenumber: "137"
 phone: ""
-opening_hours: "Mo 11:00-19:00; Tu 11:00-19:00; We 11:00-19:00; Th 11:00-19:00; Fr 11:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo 11:00-19:00; Tu 11:00-19:00; We 11:00-19:00; Th 11:00-19:00; Fr
+    11:00-19:00; Sa 10:00-17:00
 website: ""

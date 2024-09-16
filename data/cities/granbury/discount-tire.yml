@@ -1,11 +1,11 @@
 id: 666371137
-type: way
+type: node
 latitude: 32.44171
 longitude: -97.75457
 postcode: "76049"
 city: Granbury
-street: "East US Highway 377"
-housenumber: 1903
-phone: "+1-817-573-4722"
+street: East US Highway 377
+housenumber: "1903"
+phone: +1-817-573-4722
 opening_hours: ""
 website: ""

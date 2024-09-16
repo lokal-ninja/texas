@@ -1,11 +1,11 @@
 id: 867843347
-type: way
+type: node
 latitude: 29.9449
 longitude: -95.58455
 postcode: ""
 city: Houston
-street: "Jones Road"
-housenumber: 11702
+street: Jones Road
+housenumber: "11702"
 phone: ""
 opening_hours: ""
 website: ""

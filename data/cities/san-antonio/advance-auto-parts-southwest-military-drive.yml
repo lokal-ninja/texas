@@ -1,11 +1,11 @@
 id: 596238687
-type: way
+type: node
 latitude: 29.35737
 longitude: -98.55386
 postcode: "78211"
 city: San Antonio
-street: "Southwest Military Drive"
-housenumber: 3342
+street: Southwest Military Drive
+housenumber: "3342"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/san-antonio/3342-sw-military-dr"
+website: https://stores.advanceautoparts.com/tx/san-antonio/3342-sw-military-dr

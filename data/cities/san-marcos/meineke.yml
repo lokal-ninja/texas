@@ -1,11 +1,11 @@
 id: 1091972610
-type: way
+type: node
 latitude: 29.86067
 longitude: -97.93978
 postcode: "78666"
 city: San Marcos
-street: "South Guadalupe Street"
-housenumber: 1252
+street: South Guadalupe Street
+housenumber: "1252"
 phone: ""
 opening_hours: ""
 website: ""

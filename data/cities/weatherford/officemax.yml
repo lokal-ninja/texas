@@ -1,11 +1,11 @@
 id: 667701585
-type: way
+type: node
 latitude: 32.7298
 longitude: -97.79451
 postcode: "76086"
 city: Weatherford
-street: "West Interstate 20"
-housenumber: 202
+street: West Interstate 20
+housenumber: "202"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/tx/weatherford/officemax-6684"
+website: https://www.officedepot.com/storelocator/tx/weatherford/officemax-6684

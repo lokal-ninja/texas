@@ -1,11 +1,11 @@
 id: 949215420
-type: way
+type: node
 latitude: 33.39843
 longitude: -94.08623
 postcode: "75501"
 city: Texarkana
-street: "South Lake Drive"
-housenumber: 3327
+street: South Lake Drive
+housenumber: "3327"
 phone: ""
 opening_hours: ""
 website: ""

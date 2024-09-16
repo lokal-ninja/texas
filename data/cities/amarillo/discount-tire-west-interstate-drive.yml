@@ -1,11 +1,11 @@
 id: 699149647
-type: way
+type: node
 latitude: 35.19087
 longitude: -101.87771
 postcode: "79109"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 3433
+street: West Interstate Drive
+housenumber: "3433"
 phone: "+18063568383"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/tx/amarillo/s/1255"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/store/tx/amarillo/s/1255

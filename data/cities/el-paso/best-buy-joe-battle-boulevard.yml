@@ -1,11 +1,11 @@
 id: 305988178
-type: way
+type: node
 latitude: 31.75561
 longitude: -106.26535
 postcode: "79936"
 city: El Paso
-street: "Joe Battle Boulevard"
-housenumber: 1834
-phone: "+1 915-849-8481"
+street: Joe Battle Boulevard
+housenumber: "1834"
+phone: +1 915-849-8481
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/el-paso/1834-joe-battle-blvd-1470.html"
+website: https://stores.bestbuy.com/tx/el-paso/1834-joe-battle-blvd-1470.html

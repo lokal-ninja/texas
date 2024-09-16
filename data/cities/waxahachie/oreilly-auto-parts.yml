@@ -1,11 +1,11 @@
 id: 511173597
-type: way
+type: node
 latitude: 32.39545
 longitude: -96.84637
 postcode: "75165"
 city: Waxahachie
-street: "Ferris Avenue"
-housenumber: 801
+street: Ferris Avenue
+housenumber: "801"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/waxahachie/autoparts-645.html"
+website: https://locations.oreillyauto.com/tx/waxahachie/autoparts-645.html

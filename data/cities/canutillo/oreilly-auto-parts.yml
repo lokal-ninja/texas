@@ -1,11 +1,11 @@
 id: 1201554189
-type: way
+type: node
 latitude: 31.90741
 longitude: -106.59953
 postcode: "79835"
 city: Canutillo
-street: "Doniphan Drive"
-housenumber: 6812
+street: Doniphan Drive
+housenumber: "6812"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/canutillo/autoparts-2944.html"
+website: https://locations.oreillyauto.com/tx/canutillo/autoparts-2944.html

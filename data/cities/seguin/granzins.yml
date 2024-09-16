@@ -1,11 +1,11 @@
 id: 1073829912
-type: way
+type: node
 latitude: 29.55564
 longitude: -98.02754
 postcode: "78155"
 city: Seguin
-street: "West Kingsbury Street"
-housenumber: 2910
+street: West Kingsbury Street
+housenumber: "2910"
 phone: ""
 opening_hours: ""
-website: "https://www.granzinsmeatmarket.com/"
+website: https://www.granzinsmeatmarket.com/

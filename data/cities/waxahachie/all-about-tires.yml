@@ -1,11 +1,11 @@
 id: 513491250
-type: way
+type: node
 latitude: 32.37944
 longitude: -96.85005
 postcode: "75165"
 city: Waxahachie
-street: "Howard Road"
-housenumber: 302
+street: Howard Road
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

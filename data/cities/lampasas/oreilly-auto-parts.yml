@@ -1,11 +1,11 @@
 id: 75368373
-type: way
+type: node
 latitude: 31.05659
 longitude: -98.17968
 postcode: "76550"
 city: Lampasas
-street: "South Key Avenue"
-housenumber: 1306
+street: South Key Avenue
+housenumber: "1306"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/lampasas/autoparts-1941.html"
+website: https://locations.oreillyauto.com/tx/lampasas/autoparts-1941.html

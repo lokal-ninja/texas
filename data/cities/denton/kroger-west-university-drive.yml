@@ -1,11 +1,11 @@
 id: 647113818
-type: way
+type: node
 latitude: 33.23178
 longitude: -97.13828
 postcode: "76201"
 city: Denton
-street: "West University Drive"
-housenumber: 500
-phone: "+1 940-383-3512"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/tx/denton/university/035/00493"
+street: West University Drive
+housenumber: "500"
+phone: +1 940-383-3512
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/tx/denton/university/035/00493

@@ -1,11 +1,11 @@
 id: 486822475
-type: way
+type: node
 latitude: 32.9988
 longitude: -96.69835
 postcode: "75082"
 city: Richardson
-street: "East Renner Road"
-housenumber: 1411
-phone: "+1 214-273-0902"
-opening_hours: "Su-Sa 7:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/cityline"
+street: East Renner Road
+housenumber: "1411"
+phone: +1 214-273-0902
+opening_hours: Su-Sa 7:00-22:00
+website: https://www.wholefoodsmarket.com/stores/cityline

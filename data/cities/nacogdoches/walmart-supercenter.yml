@@ -1,11 +1,11 @@
 id: 568570996
-type: way
+type: node
 latitude: 31.64932
 longitude: -94.65285
 postcode: "75965"
 city: Nacogdoches
-street: "North Street"
-housenumber: 4810
-phone: "+1 936-560-6969"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/163-nacogdoches-tx"
+street: North Street
+housenumber: "4810"
+phone: +1 936-560-6969
+opening_hours: 24/7
+website: https://www.walmart.com/store/163-nacogdoches-tx

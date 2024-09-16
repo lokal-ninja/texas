@@ -1,11 +1,11 @@
 id: 461305829
-type: way
+type: node
 latitude: 33.58599
 longitude: -101.85123
 postcode: "79401"
 city: Lubbock
-street: "Main Street"
-housenumber: 1420
+street: Main Street
+housenumber: "1420"
 phone: ""
 opening_hours: ""
 website: ""

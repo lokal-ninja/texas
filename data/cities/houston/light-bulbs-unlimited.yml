@@ -1,11 +1,11 @@
 id: 428095823
-type: way
+type: node
 latitude: 29.74421
 longitude: -95.39401
 postcode: "77006"
 city: Houston
-street: "Westheimer Road"
-housenumber: 1203
-phone: "+1-713-521-0330"
+street: Westheimer Road
+housenumber: "1203"
+phone: +1-713-521-0330
 opening_hours: ""
-website: "https://www.lightbulbsunlimitedhouston.com"
+website: https://www.lightbulbsunlimitedhouston.com

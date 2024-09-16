@@ -1,11 +1,11 @@
 id: 852527795
-type: way
+type: node
 latitude: 33.74029
 longitude: -96.53663
 postcode: "75021"
 city: Denison
-street: "West Highway 69"
-housenumber: 105
+street: West Highway 69
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

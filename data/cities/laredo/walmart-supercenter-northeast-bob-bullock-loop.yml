@@ -1,11 +1,11 @@
 id: 837411478
-type: way
+type: node
 latitude: 27.61159
 longitude: -99.46248
 postcode: "78045"
 city: Laredo
-street: "Northeast Bob Bullock Loop"
-housenumber: 2615
-phone: "+1 956-231-5575"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5713-laredo-tx"
+street: Northeast Bob Bullock Loop
+housenumber: "2615"
+phone: +1 956-231-5575
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5713-laredo-tx

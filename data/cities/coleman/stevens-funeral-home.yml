@@ -1,11 +1,11 @@
 id: 1187511558
-type: way
+type: node
 latitude: 31.8302
 longitude: -99.42674
 postcode: "76834"
 city: Coleman
-street: "West Pecan Street"
-housenumber: 400
+street: West Pecan Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.livingmemorials.com/"
+website: https://www.livingmemorials.com/

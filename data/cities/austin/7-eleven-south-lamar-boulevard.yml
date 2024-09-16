@@ -1,11 +1,11 @@
 id: 383831971
-type: way
+type: node
 latitude: 30.24426
 longitude: -97.78211
 postcode: "78704"
 city: Austin
-street: "South Lamar Boulevard"
-housenumber: 2820
-phone: "+1-512-447-3119"
-opening_hours: "24/7"
+street: South Lamar Boulevard
+housenumber: "2820"
+phone: +1-512-447-3119
+opening_hours: 24/7
 website: ""

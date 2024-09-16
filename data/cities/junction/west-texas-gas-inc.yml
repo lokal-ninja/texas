@@ -1,11 +1,11 @@
 id: 693435472
-type: way
+type: node
 latitude: 30.48914
 longitude: -99.77116
 postcode: "76849"
 city: Junction
-street: "Main Street"
-housenumber: 1001
+street: Main Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

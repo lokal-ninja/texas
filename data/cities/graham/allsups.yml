@@ -1,11 +1,11 @@
 id: 1127961037
-type: way
+type: node
 latitude: 33.07391
 longitude: -98.57994
 postcode: "76450"
 city: Graham
-street: "State Highway 16 South"
-housenumber: 2819
+street: State Highway 16 South
+housenumber: "2819"
 phone: ""
 opening_hours: ""
 website: ""

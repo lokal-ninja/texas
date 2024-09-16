@@ -1,11 +1,11 @@
 id: 511173604
-type: way
+type: node
 latitude: 32.396
 longitude: -96.84492
 postcode: "75165"
 city: Waxahachie
-street: "Ferris Avenue"
-housenumber: 900
+street: Ferris Avenue
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

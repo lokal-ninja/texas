@@ -1,11 +1,11 @@
 id: 641987407
-type: way
+type: node
 latitude: 32.7465
 longitude: -97.06361
 postcode: "76011"
 city: Arlington
-street: "Centennial Drive"
-housenumber: 2515
-phone: "+1 817 640 8899"
+street: Centennial Drive
+housenumber: "2515"
+phone: +1 817 640 8899
 opening_hours: ""
-website: "https://www.cavenders.com/storedetails?StoreID=39"
+website: https://www.cavenders.com/storedetails?StoreID=39

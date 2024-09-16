@@ -1,11 +1,11 @@
 id: 725250648
-type: way
+type: node
 latitude: 32.75836
 longitude: -97.69661
 postcode: "76087"
 city: Hudson Oaks
-street: "Hudson Oaks Drive"
-housenumber: 100
-phone: "+1-817-599-1299"
+street: Hudson Oaks Drive
+housenumber: "100"
+phone: +1-817-599-1299
 opening_hours: ""
 website: ""

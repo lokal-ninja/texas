@@ -1,11 +1,11 @@
 id: 1306321599
-type: way
+type: node
 latitude: 35.23606
 longitude: -101.79595
 postcode: "79107"
 city: Amarillo
-street: "Martin Luther King Jr. Boulevard/NE 24th Ave"
-housenumber: 3510
+street: Martin Luther King Jr. Boulevard/NE 24th Ave
+housenumber: "3510"
 phone: ""
 opening_hours: ""
 website: ""

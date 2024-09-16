@@ -1,11 +1,11 @@
 id: 697668362
-type: way
+type: node
 latitude: 34.98479
 longitude: -101.93545
 postcode: "79015"
 city: Canyon
-street: "North 3rd Avenue"
-housenumber: 910
+street: North 3rd Avenue
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

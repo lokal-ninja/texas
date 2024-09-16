@@ -1,11 +1,11 @@
 id: 549069562
-type: way
+type: node
 latitude: 30.064
 longitude: -95.42954
 postcode: "77373"
 city: Spring
-street: "Louetta Crossing"
-housenumber: 155
-phone: "+1 281-651-9963"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/849/spring-tx/whats-new"
+street: Louetta Crossing
+housenumber: "155"
+phone: +1 281-651-9963
+opening_hours: 24/7
+website: https://www.walmart.com/store/849/spring-tx/whats-new

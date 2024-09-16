@@ -1,11 +1,11 @@
 id: 746231753
-type: way
+type: node
 latitude: 33.18308
 longitude: -95.23288
 postcode: "75457"
 city: Mount Vernon
-street: "Highway 37 South"
-housenumber: 303
+street: Highway 37 South
+housenumber: "303"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/mtvernon/autoparts-1991.html"
+website: https://locations.oreillyauto.com/tx/mtvernon/autoparts-1991.html

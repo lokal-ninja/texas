@@ -1,11 +1,11 @@
 id: 1273555400
-type: way
+type: node
 latitude: 32.74721
 longitude: -97.33735
 postcode: "76102"
 city: Fort Worth
-street: "Florence Street"
-housenumber: 1104
+street: Florence Street
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

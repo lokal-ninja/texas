@@ -1,11 +1,11 @@
 id: 680464805
-type: way
+type: node
 latitude: 29.72622
 longitude: -99.07199
 postcode: "78003"
 city: Bandera
-street: "Hackberry Street"
-housenumber: 1202
+street: Hackberry Street
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

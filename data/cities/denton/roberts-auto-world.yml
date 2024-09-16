@@ -1,11 +1,11 @@
 id: 670366471
-type: way
+type: node
 latitude: 33.20205
 longitude: -97.1358
 postcode: "76201"
 city: Denton
-street: "Fort Worth Drive"
-housenumber: 419
+street: Fort Worth Drive
+housenumber: "419"
 phone: ""
 opening_hours: ""
 website: ""

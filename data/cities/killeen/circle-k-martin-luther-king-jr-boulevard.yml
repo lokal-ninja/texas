@@ -1,11 +1,11 @@
 id: 848577021
-type: way
+type: node
 latitude: 31.0818
 longitude: -97.69715
 postcode: "76543"
 city: Killeen
-street: "Martin Luther King Jr Boulevard"
-housenumber: 4807
+street: Martin Luther King Jr Boulevard
+housenumber: "4807"
 phone: ""
 opening_hours: ""
 website: ""

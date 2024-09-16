@@ -1,11 +1,11 @@
 id: 178257578
-type: way
+type: node
 latitude: 35.18359
 longitude: -101.93373
 postcode: "79121"
 city: Amarillo
-street: "Westgate Parkway"
-housenumber: 101
-phone: "+1 806-356-0284"
-opening_hours: "Su 11:00-19:00; Mo-Sa 10:00-20:00"
-website: "https://stores.bestbuy.com/tx/amarillo/101-westgate-pkwy-218.html"
+street: Westgate Parkway
+housenumber: "101"
+phone: +1 806-356-0284
+opening_hours: Su 11:00-19:00; Mo-Sa 10:00-20:00
+website: https://stores.bestbuy.com/tx/amarillo/101-westgate-pkwy-218.html

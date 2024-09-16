@@ -4,8 +4,8 @@ latitude: 30.40024
 longitude: -97.70409
 postcode: "78758"
 city: Austin
-street: "Metric Boulevard"
-housenumber: 11900
-phone: "+1-512-339-7299"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su 12:00-17:00"
-website: "https://tegans-nail-salon.edan.io/"
+street: Metric Boulevard
+housenumber: "11900"
+phone: +1-512-339-7299
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su 12:00-17:00
+website: https://tegans-nail-salon.edan.io/

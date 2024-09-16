@@ -1,11 +1,11 @@
 id: 746515757
-type: way
+type: node
 latitude: 26.20984
 longitude: -98.34493
 postcode: "78572"
 city: Mission
-street: "West Expressway 83"
-housenumber: 1501
-phone: "+1 956-583-2156"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Expressway 83
+housenumber: "1501"
+phone: +1 956-583-2156
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 550451220
-type: way
+type: node
 latitude: 33.21975
 longitude: -96.78267
 postcode: "75078"
 city: Prosper
-street: "East University Drive"
-housenumber: 1541
+street: East University Drive
+housenumber: "1541"
 phone: ""
 opening_hours: ""
 website: ""

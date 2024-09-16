@@ -1,11 +1,11 @@
 id: 426626909
-type: way
+type: node
 latitude: 33.13037
 longitude: -96.64383
 postcode: "75069"
 city: Fairview
-street: "East Stacy Road"
-housenumber: 421
+street: East Stacy Road
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

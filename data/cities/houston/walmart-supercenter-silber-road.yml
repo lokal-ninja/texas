@@ -1,11 +1,11 @@
 id: 136632490
-type: way
+type: node
 latitude: 29.78801
 longitude: -95.46568
 postcode: "77055"
 city: Houston
-street: "Silber Road"
-housenumber: 1118
-phone: "+1 713-797-2245"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3640/houston-tx/whats-new"
+street: Silber Road
+housenumber: "1118"
+phone: +1 713-797-2245
+opening_hours: 24/7
+website: https://www.walmart.com/store/3640/houston-tx/whats-new

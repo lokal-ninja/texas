@@ -1,11 +1,11 @@
 id: 632734210
-type: way
+type: node
 latitude: 31.65055
 longitude: -94.65731
 postcode: "75965"
 city: Nacogdoches
-street: "North Street"
-housenumber: 4919
+street: North Street
+housenumber: "4919"
 phone: ""
 opening_hours: ""
 website: ""

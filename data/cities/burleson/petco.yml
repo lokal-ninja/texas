@@ -1,11 +1,11 @@
 id: 909503801
-type: way
+type: node
 latitude: 32.52429
 longitude: -97.35022
 postcode: "76028"
 city: Burleson
-street: "Northwest John Jones Drive"
-housenumber: 250
-phone: "+1 817-447-7288"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/burleson/pet-supplies-burleson-tx-2432.html"
+street: Northwest John Jones Drive
+housenumber: "250"
+phone: +1 817-447-7288
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/burleson/pet-supplies-burleson-tx-2432.html

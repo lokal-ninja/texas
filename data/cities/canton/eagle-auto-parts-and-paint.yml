@@ -1,11 +1,11 @@
 id: 758615869
-type: way
+type: node
 latitude: 32.5436
 longitude: -95.86853
 postcode: "75103"
 city: Canton
-street: "East Veterans Memorial Parkway"
-housenumber: 215
+street: East Veterans Memorial Parkway
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

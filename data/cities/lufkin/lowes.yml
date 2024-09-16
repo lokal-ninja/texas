@@ -1,11 +1,11 @@
 id: 406419333
-type: way
+type: node
 latitude: 31.31361
 longitude: -94.71192
 postcode: "75901"
 city: Lufkin
-street: "South Medford Drive"
-housenumber: 3501
-phone: "+1 936-632-8333"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-lufkin/0082"
+street: South Medford Drive
+housenumber: "3501"
+phone: +1 936-632-8333
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-lufkin/0082

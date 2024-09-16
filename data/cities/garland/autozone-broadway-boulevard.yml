@@ -1,11 +1,11 @@
 id: 679524290
-type: way
+type: node
 latitude: 32.85754
 longitude: -96.60176
 postcode: "75043"
 city: Garland
-street: "Broadway Boulevard"
-housenumber: 4714
+street: Broadway Boulevard
+housenumber: "4714"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/garland/4714-broadway.html"
+website: https://www.autozone.com/locations/tx/garland/4714-broadway.html

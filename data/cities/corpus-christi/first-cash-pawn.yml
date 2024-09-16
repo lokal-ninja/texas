@@ -1,11 +1,11 @@
 id: 530454017
-type: way
+type: node
 latitude: 27.77855
 longitude: -97.41298
 postcode: "78405"
 city: Corpus Christi
-street: "Morgan Avenue"
-housenumber: 2104
+street: Morgan Avenue
+housenumber: "2104"
 phone: ""
 opening_hours: ""
 website: ""

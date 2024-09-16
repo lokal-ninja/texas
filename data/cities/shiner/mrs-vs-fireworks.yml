@@ -1,11 +1,11 @@
 id: 1011884893
-type: way
+type: node
 latitude: 29.443
 longitude: -97.19116
 postcode: "77984"
 city: Shiner
-street: "US Hwy 90A"
-housenumber: 2416
+street: US Hwy 90A
+housenumber: "2416"
 phone: ""
 opening_hours: ""
 website: ""

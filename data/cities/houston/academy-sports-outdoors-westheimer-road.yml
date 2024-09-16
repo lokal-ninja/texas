@@ -1,11 +1,11 @@
 id: 295295129
-type: way
+type: node
 latitude: 29.74026
 longitude: -95.50453
 postcode: ""
 city: Houston
-street: "Westheimer Road"
-housenumber: 7600
+street: Westheimer Road
+housenumber: "7600"
 phone: ""
 opening_hours: ""
-website: "https://www.academy.com/storelocator/texas/houston/store-0116"
+website: https://www.academy.com/storelocator/texas/houston/store-0116

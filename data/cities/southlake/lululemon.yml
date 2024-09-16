@@ -1,11 +1,11 @@
 id: 686147227
-type: way
+type: node
 latitude: 32.94343
 longitude: -97.13051
 postcode: "76092"
 city: Southlake
-street: "Grand Avenue"
-housenumber: 233
+street: Grand Avenue
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 709810156
-type: way
+type: node
 latitude: 33.23237
 longitude: -96.62994
 postcode: "75071"
 city: McKinney
-street: "North Central Expressway"
-housenumber: 3350
-phone: "+1 972-547-4900"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_McKinney-TX-75071_566"
+street: North Central Expressway
+housenumber: "3350"
+phone: +1 972-547-4900
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_McKinney-TX-75071_566

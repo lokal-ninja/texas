@@ -1,11 +1,11 @@
 id: 1054967930
-type: way
+type: node
 latitude: 33.1381
 longitude: -95.83942
 postcode: "75433"
 city: Cumby
-street: "East Main Street"
-housenumber: 102
+street: East Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

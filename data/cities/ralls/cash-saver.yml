@@ -1,11 +1,11 @@
 id: 1096062926
-type: way
+type: node
 latitude: 33.67757
 longitude: -101.38728
 postcode: "79357"
 city: Ralls
-street: "Avenue E"
-housenumber: 620
+street: Avenue E
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

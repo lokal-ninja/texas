@@ -1,11 +1,11 @@
 id: 1262350415
-type: way
+type: node
 latitude: 30.0791
 longitude: -95.42042
 postcode: "77373"
 city: Spring
-street: "Main Street"
-housenumber: 313
+street: Main Street
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

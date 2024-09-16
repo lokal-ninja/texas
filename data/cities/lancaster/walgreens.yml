@@ -1,11 +1,11 @@
 id: 490755141
-type: way
+type: node
 latitude: 32.60489
 longitude: -96.78952
 postcode: "75146"
 city: Lancaster
-street: "West Pleasant Run Road"
-housenumber: 1507
+street: West Pleasant Run Road
+housenumber: "1507"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1507+w+pleasant+run+rd-lancaster-tx-75146/id=5558"
+website: https://www.walgreens.com/locator/walgreens-1507+w+pleasant+run+rd-lancaster-tx-75146/id=5558

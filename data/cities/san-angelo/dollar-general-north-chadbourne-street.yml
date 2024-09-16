@@ -1,11 +1,11 @@
 id: 758743132
-type: way
+type: node
 latitude: 31.49058
 longitude: -100.45468
 postcode: "76903"
 city: San Angelo
-street: "North Chadbourne Street"
-housenumber: 2934
+street: North Chadbourne Street
+housenumber: "2934"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/san-angelo/3270"
+website: https://www.dollargeneral.com/store-directory/tx/san-angelo/3270

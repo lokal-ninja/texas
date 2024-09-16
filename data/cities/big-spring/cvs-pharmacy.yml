@@ -1,11 +1,11 @@
 id: 1096841457
-type: way
+type: node
 latitude: 32.248
 longitude: -101.47538
 postcode: "79720"
 city: Big Spring
-street: "Scurry Street"
-housenumber: 701
+street: Scurry Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/big-spring-tx-pharmacies/701-scurry-st-big-spring-tx-79720/storeid=11380"
+website: https://www.cvs.com/store-locator/big-spring-tx-pharmacies/701-scurry-st-big-spring-tx-79720/storeid=11380

@@ -1,11 +1,11 @@
 id: 1262350416
-type: way
+type: node
 latitude: 30.07908
 longitude: -95.42053
 postcode: "77373"
 city: Spring
-street: "Main Street"
-housenumber: 315
+street: Main Street
+housenumber: "315"
 phone: ""
-opening_hours: "Mo-We closed; Th-Fr,Su 12:00-16:00; Sa 11:00-16:00"
-website: "https://shadesofpalm.com"
+opening_hours: Mo-We closed; Th-Fr,Su 12:00-16:00; Sa 11:00-16:00
+website: https://shadesofpalm.com

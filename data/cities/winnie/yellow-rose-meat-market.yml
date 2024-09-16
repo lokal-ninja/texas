@@ -1,11 +1,11 @@
 id: 995987006
-type: way
+type: node
 latitude: 29.83033
 longitude: -94.38322
 postcode: "77665"
 city: Winnie
-street: "Spur 5"
-housenumber: 236
+street: Spur 5
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

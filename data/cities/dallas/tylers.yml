@@ -4,8 +4,9 @@ latitude: 32.85083
 longitude: -96.81491
 postcode: "75205"
 city: Dallas
-street: "West Lovers Lane"
-housenumber: 5710
+street: West Lovers Lane
+housenumber: "5710"
 phone: ""
-opening_hours: "Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr 09:00-21:00; Sa 09:00-21:00; Su 11:00-18:00"
+opening_hours: Mo 09:00-21:00; Tu 09:00-21:00; We 09:00-21:00; Th 09:00-21:00; Fr
+    09:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
 website: ""

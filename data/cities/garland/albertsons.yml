@@ -1,11 +1,11 @@
 id: 267160998
-type: way
+type: node
 latitude: 32.84647
 longitude: -96.59357
 postcode: "75043"
 city: Garland
-street: "Broadway Boulevard"
-housenumber: 5710
-phone: "+1 972-240-7339"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/garland/5710-broadway-blvd.html"
+street: Broadway Boulevard
+housenumber: "5710"
+phone: +1 972-240-7339
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/garland/5710-broadway-blvd.html

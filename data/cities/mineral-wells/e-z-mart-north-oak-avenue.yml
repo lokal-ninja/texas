@@ -1,11 +1,11 @@
 id: 712094111
-type: way
+type: node
 latitude: 32.8141
 longitude: -98.11338
 postcode: ""
 city: Mineral Wells
-street: "North Oak Avenue"
-housenumber: 701
+street: North Oak Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

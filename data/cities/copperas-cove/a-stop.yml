@@ -1,11 +1,11 @@
 id: 737653026
-type: way
+type: node
 latitude: 31.10051
 longitude: -97.90824
 postcode: "76522"
 city: Copperas Cove
-street: "South FM 116"
-housenumber: 2102
+street: South FM 116
+housenumber: "2102"
 phone: ""
 opening_hours: ""
 website: ""

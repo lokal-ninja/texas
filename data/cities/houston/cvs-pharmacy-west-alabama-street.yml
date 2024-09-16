@@ -1,11 +1,11 @@
 id: 1033404508
-type: way
+type: node
 latitude: 29.73822
 longitude: -95.41177
 postcode: ""
 city: Houston
-street: "West Alabama Street"
-housenumber: 2111
+street: West Alabama Street
+housenumber: "2111"
 phone: ""
 opening_hours: ""
 website: ""

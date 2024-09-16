@@ -1,11 +1,11 @@
 id: 1154653408
-type: way
+type: node
 latitude: 30.30513
 longitude: -97.94453
 postcode: "78738"
 city: Bee Cave
-street: "Shops Parkway"
-housenumber: 12909
-phone: "+1- 512-263-2501"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://oldnavy.gap.com"
+street: Shops Parkway
+housenumber: "12909"
+phone: +1- 512-263-2501
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://oldnavy.gap.com

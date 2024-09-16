@@ -1,11 +1,11 @@
 id: 384101825
-type: way
+type: node
 latitude: 30.13902
 longitude: -97.79572
 postcode: "78747"
 city: Austin
-street: "Boca Raton Drive"
-housenumber: 2101
-phone: "+1-512-282-7211"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-01:00; Su 07:00-24:00"
+street: Boca Raton Drive
+housenumber: "2101"
+phone: +1-512-282-7211
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-01:00; Su 07:00-24:00
 website: ""

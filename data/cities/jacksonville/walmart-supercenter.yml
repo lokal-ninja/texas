@@ -1,11 +1,11 @@
 id: 734019576
-type: way
+type: node
 latitude: 31.95148
 longitude: -95.26705
 postcode: "75766"
 city: Jacksonville
-street: "South Jackson Street"
-housenumber: 1311
-phone: "+1 903-589-3434"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/180-jacksonville-tx"
+street: South Jackson Street
+housenumber: "1311"
+phone: +1 903-589-3434
+opening_hours: 24/7
+website: https://www.walmart.com/store/180-jacksonville-tx

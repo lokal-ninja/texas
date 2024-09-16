@@ -1,11 +1,11 @@
 id: 192346690
-type: way
+type: node
 latitude: 31.83596
 longitude: -100.99452
 postcode: "76951"
 city: Sterling City
-street: "4th Street"
-housenumber: 1001
+street: 4th Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

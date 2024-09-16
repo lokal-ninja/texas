@@ -1,11 +1,11 @@
 id: 680523328
-type: way
+type: node
 latitude: 33.44821
 longitude: -101.65666
 postcode: ""
 city: Slaton
-street: "North 20th Street"
-housenumber: 1150
+street: North 20th Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 408197547
-type: way
+type: node
 latitude: 31.34789
 longitude: -94.71074
 postcode: "75901"
 city: Lufkin
-street: "Atkinson Drive"
-housenumber: 1500
-phone: "+1 936 632 8801"
+street: Atkinson Drive
+housenumber: "1500"
+phone: +1 936 632 8801
 opening_hours: ""
 website: ""

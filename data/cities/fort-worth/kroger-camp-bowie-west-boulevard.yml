@@ -1,11 +1,11 @@
 id: 782549344
-type: way
+type: node
 latitude: 32.72622
 longitude: -97.47768
 postcode: "76116"
 city: Fort Worth
-street: "Camp Bowie West Boulevard"
-housenumber: 9114
-phone: "+1 817-244-2576"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/fort-worth/westside-market/035/00439"
+street: Camp Bowie West Boulevard
+housenumber: "9114"
+phone: +1 817-244-2576
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/fort-worth/westside-market/035/00439

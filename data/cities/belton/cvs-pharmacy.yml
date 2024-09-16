@@ -1,11 +1,11 @@
 id: 560528455
-type: way
+type: node
 latitude: 31.08423
 longitude: -97.45685
 postcode: "76513"
 city: Belton
-street: "North Main Street"
-housenumber: 2849
+street: North Main Street
+housenumber: "2849"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/belton-tx-pharmacies/2849-n-main-st-belton-tx-76513/storeid=10414"
+website: https://www.cvs.com/store-locator/belton-tx-pharmacies/2849-n-main-st-belton-tx-76513/storeid=10414

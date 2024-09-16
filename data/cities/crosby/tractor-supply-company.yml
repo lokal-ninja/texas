@@ -1,11 +1,11 @@
 id: 527079245
-type: way
+type: node
 latitude: 29.88209
 longitude: -95.06845
 postcode: "77532"
 city: Crosby
-street: "Crosby Freeway"
-housenumber: 20903
-phone: "+1 936-367-9410"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Crosby Freeway
+housenumber: "20903"
+phone: +1 936-367-9410
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

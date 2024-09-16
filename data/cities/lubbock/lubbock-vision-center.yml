@@ -1,11 +1,11 @@
 id: 462427105
-type: way
+type: node
 latitude: 33.54347
 longitude: -101.92291
 postcode: "79414"
 city: Lubbock
-street: "Slide Road"
-housenumber: 5602
+street: Slide Road
+housenumber: "5602"
 phone: ""
 opening_hours: ""
 website: ""

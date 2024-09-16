@@ -1,11 +1,11 @@
 id: 733458284
-type: way
+type: node
 latitude: 32.50774
 longitude: -94.58514
 postcode: "75650"
 city: Hallsville
-street: "West Main Street"
-housenumber: 496
+street: West Main Street
+housenumber: "496"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/hallsville/7431"
+website: https://www.dollargeneral.com/store-directory/tx/hallsville/7431

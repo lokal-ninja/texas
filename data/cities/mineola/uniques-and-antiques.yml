@@ -1,11 +1,11 @@
 id: 515690871
-type: way
+type: node
 latitude: 32.663
 longitude: -95.49091
 postcode: "75773"
 city: Mineola
-street: "South Line Street"
-housenumber: 124
+street: South Line Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.3062
 longitude: -97.71505
 postcode: "78751"
 city: Austin
-street: "Airport Boulevard"
-housenumber: 4631
+street: Airport Boulevard
+housenumber: "4631"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 09:00-18:00 open Open by appointment only"
-website: "https://shedbarber.com"
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 09:00-18:00 open "Open by appointment only"
+website: https://shedbarber.com

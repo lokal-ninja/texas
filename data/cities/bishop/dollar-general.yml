@@ -1,11 +1,11 @@
 id: 1234897165
-type: way
+type: node
 latitude: 27.58398
 longitude: -97.78829
 postcode: "78343"
 city: Bishop
-street: "East 4th Street"
-housenumber: 901
+street: East 4th Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/bishop/10578"
+website: https://www.dollargeneral.com/store-directory/tx/bishop/10578

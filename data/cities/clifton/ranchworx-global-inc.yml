@@ -1,11 +1,11 @@
 id: 1263130102
-type: way
+type: node
 latitude: 31.76658
 longitude: -97.56543
 postcode: "76634"
 city: Clifton
-street: "Tx 6"
-housenumber: 4368
-phone: "+1-877-401-4069"
+street: Tx 6
+housenumber: "4368"
+phone: +1-877-401-4069
 opening_hours: ""
-website: "https://ranchworx.com/about-ranchworx/"
+website: https://ranchworx.com/about-ranchworx/

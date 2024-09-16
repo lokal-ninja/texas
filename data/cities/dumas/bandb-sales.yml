@@ -1,11 +1,11 @@
 id: 1061452536
-type: way
+type: node
 latitude: 35.85962
 longitude: -101.97993
 postcode: "79029"
 city: Dumas
-street: "South Twichell Avenue"
-housenumber: 601
-phone: "+1-806-433-4670;+1-806-930-5811"
+street: South Twichell Avenue
+housenumber: "601"
+phone: +1-806-433-4670;+1-806-930-5811
 opening_hours: ""
 website: ""

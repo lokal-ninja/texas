@@ -1,11 +1,11 @@
 id: 1018158670
-type: way
+type: node
 latitude: 29.59668
 longitude: -95.37897
 postcode: "77047"
 city: Houston
-street: "South Sam Houston Parkway East"
-housenumber: 2944
+street: South Sam Houston Parkway East
+housenumber: "2944"
 phone: ""
 opening_hours: ""
 website: ""

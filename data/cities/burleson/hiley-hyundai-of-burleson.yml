@@ -1,11 +1,11 @@
 id: 909436519
-type: way
+type: node
 latitude: 32.549
 longitude: -97.31613
 postcode: "76028"
 city: Burleson
-street: "North Burleson Boulevard"
-housenumber: 320
-phone: "+1-817-945-9900"
+street: North Burleson Boulevard
+housenumber: "320"
+phone: +1-817-945-9900
 opening_hours: ""
-website: "https://www.hileyhyundai.com/"
+website: https://www.hileyhyundai.com/

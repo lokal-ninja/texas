@@ -1,11 +1,11 @@
 id: 899393555
-type: way
+type: node
 latitude: 33.47377
 longitude: -94.47122
 postcode: "75570"
 city: New Boston
-street: "US Highway 82"
-housenumber: 3070
+street: US Highway 82
+housenumber: "3070"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 29.76839
 longitude: -95.3737
 postcode: "77007"
 city: Houston
-street: "Center Street"
-housenumber: 1502
-phone: "+1-281-917-7117"
-opening_hours: "Tu-Sa 09:00-18:00"
-website: "https://www.reservedsalon.com/"
+street: Center Street
+housenumber: "1502"
+phone: +1-281-917-7117
+opening_hours: Tu-Sa 09:00-18:00
+website: https://www.reservedsalon.com/

@@ -1,11 +1,11 @@
 id: 717718203
-type: way
+type: node
 latitude: 32.49124
 longitude: -96.66566
 postcode: "75125"
 city: Ferris
-street: "Loop 561"
-housenumber: 1710
+street: Loop 561
+housenumber: "1710"
 phone: ""
 opening_hours: ""
 website: ""

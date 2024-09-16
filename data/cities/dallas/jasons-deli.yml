@@ -4,8 +4,8 @@ latitude: 32.7806
 longitude: -96.79999
 postcode: "75202"
 city: Dallas
-street: "Main Street"
-housenumber: 1409
+street: Main Street
+housenumber: "1409"
 phone: ""
-opening_hours: "07:00-15:00"
+opening_hours: 07:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1263959727
-type: way
+type: node
 latitude: 31.79083
 longitude: -97.58305
 postcode: "76634"
 city: Clifton
-street: "North Avenue G"
-housenumber: 926
-phone: "+1-254-435-4428"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com"
+street: North Avenue G
+housenumber: "926"
+phone: +1-254-435-4428
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com

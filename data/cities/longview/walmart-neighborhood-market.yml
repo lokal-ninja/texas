@@ -1,11 +1,11 @@
 id: 568626437
-type: way
+type: node
 latitude: 32.55556
 longitude: -94.798
 postcode: "75605"
 city: Longview
-street: "Gilmer Road"
-housenumber: 3812
-phone: "+1 903-475-0475"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/4114/longview-tx/whats-new"
+street: Gilmer Road
+housenumber: "3812"
+phone: +1 903-475-0475
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/4114/longview-tx/whats-new

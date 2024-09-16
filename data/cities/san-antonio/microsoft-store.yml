@@ -4,8 +4,8 @@ latitude: 29.59332
 longitude: -98.61516
 postcode: "78256"
 city: San Antonio
-street: "La Cantera Parkway"
-housenumber: 15900
-phone: "+1-210-507-6650"
-opening_hours: "Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00"
-website: "https://www.microsoft.com/en-us/store/locations/tx/san-antonio/the-shops-at-la-cantera/store-20"
+street: La Cantera Parkway
+housenumber: "15900"
+phone: +1-210-507-6650
+opening_hours: Mo-Th 10:00-21:00; Fr-Sa 10:00-22:00; Su 11:00-19:00
+website: https://www.microsoft.com/en-us/store/locations/tx/san-antonio/the-shops-at-la-cantera/store-20

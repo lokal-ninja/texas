@@ -1,11 +1,11 @@
 id: 835364155
-type: way
+type: node
 latitude: 29.60451
 longitude: -98.27351
 postcode: "78154"
 city: Schertz
-street: "Interstate 35 North"
-housenumber: 18975
-phone: "+1-210-338-7210"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/tx/schertz/s/2198"
+street: Interstate 35 North
+housenumber: "18975"
+phone: +1-210-338-7210
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-17:00
+website: https://www.discounttire.com/store/tx/schertz/s/2198

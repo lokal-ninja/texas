@@ -1,11 +1,11 @@
 id: 130570129
-type: way
+type: node
 latitude: 32.86931
 longitude: -97.31495
 postcode: "76137"
 city: Fort Worth
-street: "North Freeway"
-housenumber: 7000
+street: North Freeway
+housenumber: "7000"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/tx/fort-worth/7000-north-fwy-76137/4459"
+website: https://www.ntb.com/store/tx/fort-worth/7000-north-fwy-76137/4459

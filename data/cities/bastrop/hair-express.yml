@@ -4,8 +4,8 @@ latitude: 30.10666
 longitude: -97.3276
 postcode: "78602"
 city: Bastrop
-street: "Chestnut Street"
-housenumber: 75
-phone: "+1-512-303-3038"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.bastrophairexpress.com/"
+street: Chestnut Street
+housenumber: "75"
+phone: +1-512-303-3038
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.bastrophairexpress.com/

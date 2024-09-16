@@ -1,11 +1,11 @@
 id: 1198272418
-type: way
+type: node
 latitude: 31.90136
 longitude: -97.09194
 postcode: "76645"
 city: Abbott
-street: "North Pecan Street"
-housenumber: 1221
+street: North Pecan Street
+housenumber: "1221"
 phone: ""
 opening_hours: ""
 website: ""

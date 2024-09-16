@@ -1,11 +1,11 @@
 id: 965456751
-type: way
+type: node
 latitude: 32.45104
 longitude: -100.44138
 postcode: "79556"
 city: Sweetwater
-street: "North Interstate 20"
-housenumber: 9418
+street: North Interstate 20
+housenumber: "9418"
 phone: ""
 opening_hours: ""
 website: ""

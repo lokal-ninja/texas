@@ -1,11 +1,11 @@
 id: 1029332433
-type: way
+type: node
 latitude: 33.08226
 longitude: -96.85009
 postcode: "75024"
 city: Plano
-street: "State Highway 121"
-housenumber: 6924
-phone: "+1 214-612-7536"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://texasleatherinteriors.com/"
+street: State Highway 121
+housenumber: "6924"
+phone: +1 214-612-7536
+opening_hours: Mo-Sa 10:00-19:00
+website: https://texasleatherinteriors.com/

@@ -1,11 +1,11 @@
 id: 1149792478
-type: way
+type: node
 latitude: 32.3763
 longitude: -98.9623
 postcode: "76437"
 city: Cisco
-street: "East Interstate 20"
-housenumber: 701
+street: East Interstate 20
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

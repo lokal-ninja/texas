@@ -1,11 +1,11 @@
 id: 423962933
-type: way
+type: node
 latitude: 33.02822
 longitude: -96.83747
 postcode: "75093"
 city: Plano
-street: "West Plano Parkway"
-housenumber: 6401
-phone: "+1 972-378-4998"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 09:00-19:00, Su 00:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/plano/officemax-6677"
+street: West Plano Parkway
+housenumber: "6401"
+phone: +1 972-378-4998
+opening_hours: Mo-Fr 08:00-20:00, Sa 09:00-19:00, Su 00:00-18:00
+website: https://www.officedepot.com/storelocator/tx/plano/officemax-6677

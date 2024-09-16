@@ -1,11 +1,11 @@
 id: 842422219
-type: way
+type: node
 latitude: 29.92542
 longitude: -95.41144
 postcode: "77037"
 city: Houston
-street: "North Freeway"
-housenumber: 11000
-phone: "+1-281-301-5150"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.machaikdcj.com/"
+street: North Freeway
+housenumber: "11000"
+phone: +1-281-301-5150
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.machaikdcj.com/

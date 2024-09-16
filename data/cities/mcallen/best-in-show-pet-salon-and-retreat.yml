@@ -1,11 +1,11 @@
 id: 1276212023
-type: way
+type: node
 latitude: 26.21731
 longitude: -98.22237
 postcode: "78501"
 city: McAllen
-street: "Pecan Boulevard"
-housenumber: 500
+street: Pecan Boulevard
+housenumber: "500"
 phone: "9569281147"
 opening_hours: ""
 website: ""

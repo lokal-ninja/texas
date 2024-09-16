@@ -1,11 +1,11 @@
 id: 404593187
-type: way
+type: node
 latitude: 29.9984
 longitude: -95.19392
 postcode: ""
 city: Humble
-street: "FM 1960 East"
-housenumber: 5300
+street: FM 1960 East
+housenumber: "5300"
 phone: ""
 opening_hours: ""
 website: ""

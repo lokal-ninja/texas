@@ -1,11 +1,11 @@
 id: 947376588
-type: way
+type: node
 latitude: 30.52321
 longitude: -97.63843
 postcode: "78665"
 city: Round Rock
-street: "Palm Valley Boulevard"
-housenumber: 2880
-phone: "+1-512-871-6295"
-opening_hours: "24/7"
-website: "https://www.quiktrip.com/"
+street: Palm Valley Boulevard
+housenumber: "2880"
+phone: +1-512-871-6295
+opening_hours: 24/7
+website: https://www.quiktrip.com/

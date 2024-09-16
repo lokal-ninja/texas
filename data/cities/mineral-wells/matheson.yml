@@ -1,11 +1,11 @@
 id: 700440490
-type: way
+type: node
 latitude: 32.81129
 longitude: -98.05817
 postcode: "76067"
 city: Mineral Wells
-street: "East US 180"
-housenumber: 6601
+street: East US 180
+housenumber: "6601"
 phone: ""
 opening_hours: ""
 website: ""

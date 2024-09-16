@@ -1,11 +1,11 @@
 id: 678773429
-type: way
+type: node
 latitude: 34.18584
 longitude: -101.74695
 postcode: "79072"
 city: Plainview
-street: "Olton Road"
-housenumber: 3501
+street: Olton Road
+housenumber: "3501"
 phone: ""
 opening_hours: ""
-website: "https://local.unitedsupermarkets.com/tx/plainview/3501-olton-rd.html"
+website: https://local.unitedsupermarkets.com/tx/plainview/3501-olton-rd.html

@@ -1,11 +1,11 @@
 id: 764883168
-type: way
+type: node
 latitude: 33.6701
 longitude: -96.60549
 postcode: "75090"
 city: Sherman
-street: "North Loy Lake Road"
-housenumber: 3001
+street: North Loy Lake Road
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 807350005
-type: way
+type: node
 latitude: 32.31693
 longitude: -94.51675
 postcode: "75691"
 city: Tatum
-street: "Hill Street"
-housenumber: 210
+street: Hill Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

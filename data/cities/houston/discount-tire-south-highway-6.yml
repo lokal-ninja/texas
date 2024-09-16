@@ -1,11 +1,11 @@
 id: 673724849
-type: way
+type: node
 latitude: 29.74014
 longitude: -95.64454
 postcode: "77077"
 city: Houston
-street: "South Highway 6"
-housenumber: 2300
-phone: "+1-281-558-4406"
+street: South Highway 6
+housenumber: "2300"
+phone: +1-281-558-4406
 opening_hours: ""
 website: ""

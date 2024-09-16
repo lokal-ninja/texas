@@ -1,11 +1,11 @@
 id: 291808990
-type: way
+type: node
 latitude: 29.72874
 longitude: -98.07093
 postcode: "78130"
 city: New Braunfels
-street: "Creekside Way"
-housenumber: 279
-phone: "+1 830-620-9475"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00"
+street: Creekside Way
+housenumber: "279"
+phone: +1 830-620-9475
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00
 website: ""

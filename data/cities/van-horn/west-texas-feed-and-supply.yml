@@ -1,11 +1,11 @@
 id: 813712565
-type: way
+type: node
 latitude: 31.04105
 longitude: -104.83112
 postcode: "79855"
 city: Van Horn
-street: "La Caverna Street"
-housenumber: 101
+street: La Caverna Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

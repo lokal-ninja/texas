@@ -1,11 +1,11 @@
 id: 207134534
-type: way
+type: node
 latitude: 30.01708
 longitude: -97.86176
 postcode: "78640"
 city: Kyle
-street: "South FM 1626"
-housenumber: 5401
-phone: "+1-512-268-7900"
-opening_hours: "6:00-23:00"
+street: South FM 1626
+housenumber: "5401"
+phone: +1-512-268-7900
+opening_hours: 6:00-23:00
 website: ""

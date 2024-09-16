@@ -1,11 +1,11 @@
 id: 680628820
-type: way
+type: node
 latitude: 33.44881
 longitude: -101.66787
 postcode: "79364"
 city: Slaton
-street: "North Highway 84"
-housenumber: 1401
+street: North Highway 84
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

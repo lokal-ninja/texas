@@ -1,11 +1,11 @@
 id: 1013201667
-type: way
+type: node
 latitude: 28.81497
 longitude: -97.85662
 postcode: "78119"
 city: Kenedy
-street: "West Main Street"
-housenumber: 805
+street: West Main Street
+housenumber: "805"
 phone: ""
 opening_hours: ""
 website: ""

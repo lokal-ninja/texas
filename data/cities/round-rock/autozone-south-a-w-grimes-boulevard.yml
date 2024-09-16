@@ -1,11 +1,11 @@
 id: 383008741
-type: way
+type: node
 latitude: 30.48301
 longitude: -97.64898
 postcode: ""
 city: Round Rock
-street: "South A W Grimes Boulevard"
-housenumber: 2650
-phone: "+1-512-238-8395"
+street: South A W Grimes Boulevard
+housenumber: "2650"
+phone: +1-512-238-8395
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/round-rock/2650-s-aw-grimes-blvd.html"
+website: https://www.autozone.com/locations/tx/round-rock/2650-s-aw-grimes-blvd.html

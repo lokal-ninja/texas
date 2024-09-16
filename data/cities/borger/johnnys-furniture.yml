@@ -1,11 +1,11 @@
 id: 793660680
-type: way
+type: node
 latitude: 35.67218
 longitude: -101.39041
 postcode: "79007"
 city: Borger
-street: "North Main Street"
-housenumber: 609
+street: North Main Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1160011617
-type: way
+type: node
 latitude: 29.21772
 longitude: -98.4145
 postcode: "78264"
 city: San Antonio
-street: "South Loop 1604 East"
-housenumber: 4142
+street: South Loop 1604 East
+housenumber: "4142"
 phone: ""
 opening_hours: ""
 website: ""

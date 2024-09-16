@@ -1,11 +1,11 @@
 id: 1076745632
-type: way
+type: node
 latitude: 33.47571
 longitude: -101.85275
 postcode: "79423"
 city: Lubbock
-street: "FM 1585"
-housenumber: 1519
+street: FM 1585
+housenumber: "1519"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/lubbock/14227"
+website: https://www.dollargeneral.com/store-directory/tx/lubbock/14227

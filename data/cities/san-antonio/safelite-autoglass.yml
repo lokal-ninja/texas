@@ -1,11 +1,11 @@
 id: 660725335
-type: way
+type: node
 latitude: 29.56674
 longitude: -98.59389
 postcode: "78249"
 city: San Antonio
-street: "Silicon Drive"
-housenumber: 12914
+street: Silicon Drive
+housenumber: "12914"
 phone: ""
 opening_hours: ""
 website: ""

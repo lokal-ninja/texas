@@ -1,11 +1,11 @@
 id: 1235333536
-type: way
+type: node
 latitude: 29.39941
 longitude: -95.83824
 postcode: "77561"
 city: Needville
-street: "Main Street"
-housenumber: 8922
-phone: "+1 832-303-1595"
-opening_hours: "Tu-Fr 09:00-15:00; Sa 10:00-16:00"
-website: "https://sweetneshoney.com/"
+street: Main Street
+housenumber: "8922"
+phone: +1 832-303-1595
+opening_hours: Tu-Fr 09:00-15:00; Sa 10:00-16:00
+website: https://sweetneshoney.com/

@@ -4,8 +4,8 @@ latitude: 29.3485
 longitude: -98.43254
 postcode: "78223"
 city: San Antonio
-street: "Southeast Military Drive"
-housenumber: 3302
-phone: "+1-210-337-1946"
-opening_hours: "06:00-23:00"
+street: Southeast Military Drive
+housenumber: "3302"
+phone: +1-210-337-1946
+opening_hours: 06:00-23:00
 website: ""

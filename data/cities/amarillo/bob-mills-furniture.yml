@@ -1,11 +1,11 @@
 id: 179394491
-type: way
+type: node
 latitude: 35.19037
 longitude: -101.9072
 postcode: "79106"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 6050
-phone: "+1-806-353-7277"
+street: West Interstate Drive
+housenumber: "6050"
+phone: +1-806-353-7277
 opening_hours: ""
-website: "https://www.bobmillsfurniture.com/"
+website: https://www.bobmillsfurniture.com/

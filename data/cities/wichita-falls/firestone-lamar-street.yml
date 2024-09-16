@@ -1,11 +1,11 @@
 id: 845890916
-type: way
+type: node
 latitude: 33.90837
 longitude: -98.49042
 postcode: "76301"
 city: Wichita Falls
-street: "Lamar Street"
-housenumber: 1111
+street: Lamar Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

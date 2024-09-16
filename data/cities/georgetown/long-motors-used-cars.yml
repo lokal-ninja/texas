@@ -1,11 +1,11 @@
 id: 926282892
-type: way
+type: node
 latitude: 30.59177
 longitude: -97.69065
 postcode: "78626"
 city: Georgetown
-street: "South Interstate 35"
-housenumber: 5311
-phone: "+1-512-591-2144"
+street: South Interstate 35
+housenumber: "5311"
+phone: +1-512-591-2144
 opening_hours: ""
-website: "https://www.longmotors.com/"
+website: https://www.longmotors.com/

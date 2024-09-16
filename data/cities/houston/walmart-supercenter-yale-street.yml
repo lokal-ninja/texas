@@ -1,11 +1,11 @@
 id: 395449443
-type: way
+type: node
 latitude: 29.77279
 longitude: -95.40204
 postcode: "77007"
 city: Houston
-street: "Yale Street"
-housenumber: 111
-phone: "+1 713-860-0700"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5959/houston-tx/whats-new"
+street: Yale Street
+housenumber: "111"
+phone: +1 713-860-0700
+opening_hours: 24/7
+website: https://www.walmart.com/store/5959/houston-tx/whats-new

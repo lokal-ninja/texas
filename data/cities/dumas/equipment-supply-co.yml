@@ -1,11 +1,11 @@
 id: 974810313
-type: way
+type: node
 latitude: 35.88795
 longitude: -101.96901
 postcode: "79029"
 city: Dumas
-street: "Success Boulevard"
-housenumber: 416
-phone: "+1-806-935-0004"
+street: Success Boulevard
+housenumber: "416"
+phone: +1-806-935-0004
 opening_hours: ""
-website: "http://www.irrigationdistributors.com/esco.html"
+website: http://www.irrigationdistributors.com/esco.html

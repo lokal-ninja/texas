@@ -1,11 +1,11 @@
 id: 144850127
-type: way
+type: node
 latitude: 29.41954
 longitude: -98.65287
 postcode: "78227"
 city: San Antonio
-street: "Marbach Road"
-housenumber: 8219
-phone: "+1-210-673-4900"
+street: Marbach Road
+housenumber: "8219"
+phone: +1-210-673-4900
 opening_hours: ""
-website: "https://www.heb.com/"
+website: https://www.heb.com/

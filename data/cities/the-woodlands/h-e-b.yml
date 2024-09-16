@@ -1,11 +1,11 @@
 id: 121729332
-type: way
+type: node
 latitude: 30.1641
 longitude: -95.46639
 postcode: "77380"
 city: The Woodlands
-street: "Six Pines Drive"
-housenumber: 9595
-phone: "+1-281-292-2080"
-opening_hours: "06:00-24:00"
+street: Six Pines Drive
+housenumber: "9595"
+phone: +1-281-292-2080
+opening_hours: 06:00-24:00
 website: ""

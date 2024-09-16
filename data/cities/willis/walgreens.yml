@@ -1,11 +1,11 @@
 id: 518960016
-type: way
+type: node
 latitude: 30.42099
 longitude: -95.49652
 postcode: "77318"
 city: Willis
-street: "FM 1097 West"
-housenumber: 9610
+street: FM 1097 West
+housenumber: "9610"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9610+fm+1097+rd+w-willis-tx-77318/id=15012"
+website: https://www.walgreens.com/locator/walgreens-9610+fm+1097+rd+w-willis-tx-77318/id=15012

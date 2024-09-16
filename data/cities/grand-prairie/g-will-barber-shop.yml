@@ -1,11 +1,11 @@
 id: 369185967
-type: way
+type: node
 latitude: 32.74584
 longitude: -96.99938
 postcode: "75050"
 city: Grand Prairie
-street: "East Main Street"
-housenumber: 412
-phone: "+1 214 299 3226"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: East Main Street
+housenumber: "412"
+phone: +1 214 299 3226
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1103651212
-type: way
+type: node
 latitude: 29.6514
 longitude: -95.48128
 postcode: "77035"
 city: Houston
-street: "Chimney Rock Road"
-housenumber: 11827
-phone: "+1-713-729-8335"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+street: Chimney Rock Road
+housenumber: "11827"
+phone: +1-713-729-8335
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

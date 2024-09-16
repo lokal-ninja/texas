@@ -1,11 +1,11 @@
 id: 1190692573
-type: way
+type: node
 latitude: 30.46716
 longitude: -97.58934
 postcode: "78660"
 city: Pflugerville
-street: "Autumn Slate Drive"
-housenumber: 2101
-phone: "+1 512-813-1969"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/tx/pflugerville-1572.shtml"
+street: Autumn Slate Drive
+housenumber: "2101"
+phone: +1 512-813-1969
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/tx/pflugerville-1572.shtml

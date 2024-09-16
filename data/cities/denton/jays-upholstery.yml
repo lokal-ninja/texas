@@ -1,11 +1,11 @@
 id: 656306024
-type: way
+type: node
 latitude: 33.20831
 longitude: -97.13398
 postcode: "76201"
 city: Denton
-street: "South Elm Street"
-housenumber: 624
+street: South Elm Street
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

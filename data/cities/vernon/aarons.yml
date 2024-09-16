@@ -1,11 +1,11 @@
 id: 815918863
-type: way
+type: node
 latitude: 34.16094
 longitude: -99.31331
 postcode: "76384"
 city: Vernon
-street: "Hillcrest Plaza"
-housenumber: 4119
+street: Hillcrest Plaza
+housenumber: "4119"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/tx/vernon/4119-hillcrest-plz"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/tx/vernon/4119-hillcrest-plz

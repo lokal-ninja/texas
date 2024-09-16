@@ -1,11 +1,11 @@
 id: 832836326
-type: way
+type: node
 latitude: 33.22782
 longitude: -97.59173
 postcode: "76234"
 city: Decatur
-street: "West Hale Avenue"
-housenumber: 701
+street: West Hale Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

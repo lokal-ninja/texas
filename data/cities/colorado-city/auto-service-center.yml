@@ -1,11 +1,11 @@
 id: 1176846922
-type: way
+type: node
 latitude: 32.41268
 longitude: -100.8617
 postcode: "79512"
 city: Colorado City
-street: "West Interstate 20"
-housenumber: 104
+street: West Interstate 20
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

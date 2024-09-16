@@ -1,11 +1,11 @@
 id: 382142993
-type: way
+type: node
 latitude: 30.33706
 longitude: -97.55905
 postcode: "78653"
 city: Manor
-street: "FM 973"
-housenumber: 12130
-phone: "+1-512-278-9696"
+street: FM 973
+housenumber: "12130"
+phone: +1-512-278-9696
 opening_hours: ""
 website: ""

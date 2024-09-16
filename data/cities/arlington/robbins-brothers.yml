@@ -1,11 +1,11 @@
 id: 267072577
-type: way
+type: node
 latitude: 32.67943
 longitude: -97.11219
 postcode: "76018"
 city: Arlington
-street: "East Interstate 20"
-housenumber: 127
-phone: "+1 817-466-2860"
-opening_hours: "Mo-Sa 12:00-19:00; Su 12:00-18:00"
-website: "https://www.robbinsbrothers.com/"
+street: East Interstate 20
+housenumber: "127"
+phone: +1 817-466-2860
+opening_hours: Mo-Sa 12:00-19:00; Su 12:00-18:00
+website: https://www.robbinsbrothers.com/

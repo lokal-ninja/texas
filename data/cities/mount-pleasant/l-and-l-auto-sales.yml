@@ -1,11 +1,11 @@
 id: 1059372972
-type: way
+type: node
 latitude: 33.19183
 longitude: -94.93369
 postcode: "75455"
 city: Mount Pleasant
-street: "Interstate 30 East"
-housenumber: 800
+street: Interstate 30 East
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313778890
-type: way
+type: node
 latitude: 29.77413
 longitude: -95.55981
 postcode: "77024"
 city: Houston
-street: "Memorial Drive"
-housenumber: 12850
-phone: "+1 713-365-6700"
+street: Memorial Drive
+housenumber: "12850"
+phone: +1 713-365-6700
 opening_hours: ""
-website: "https://local.randalls.com/tx/houston/12850-memorial-dr.html"
+website: https://local.randalls.com/tx/houston/12850-memorial-dr.html

@@ -1,11 +1,11 @@
 id: 751726163
-type: way
+type: node
 latitude: 29.4565
 longitude: -98.47059
 postcode: "78209"
 city: San Antonio
-street: "Broadway"
-housenumber: 3207
-phone: "+1 210-822-4597"
+street: Broadway
+housenumber: "3207"
+phone: +1 210-822-4597
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 427082490
-type: way
+type: node
 latitude: 32.95308
 longitude: -96.88251
 postcode: "75006"
 city: Carrollton
-street: "East Belt Line Road"
-housenumber: 2116
-phone: "+1-972-416-6051"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-07:00"
-website: "https://goodwilldallas.org/"
+street: East Belt Line Road
+housenumber: "2116"
+phone: +1-972-416-6051
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-07:00
+website: https://goodwilldallas.org/

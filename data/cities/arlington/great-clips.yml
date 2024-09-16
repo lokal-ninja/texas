@@ -4,8 +4,9 @@ latitude: 32.68193
 longitude: -97.11334
 postcode: "76018"
 city: Arlington
-street: "Merchants Row Drive"
-housenumber: 137
-phone: "+1-817-465-9999"
-opening_hours: "Mo 9:00-21:00; Tu 9:00-21:00; We 9:00-21:00; Th 9:00-21:00; Fr 9:00-21:00; Sa 9:00-19:00"
-website: "https://www.greatclips.com/"
+street: Merchants Row Drive
+housenumber: "137"
+phone: +1-817-465-9999
+opening_hours: Mo 9:00-21:00; Tu 9:00-21:00; We 9:00-21:00; Th 9:00-21:00; Fr 9:00-21:00;
+    Sa 9:00-19:00
+website: https://www.greatclips.com/

@@ -1,11 +1,11 @@
 id: 707527605
-type: way
+type: node
 latitude: 33.66202
 longitude: -101.69413
 postcode: "79329"
 city: Idalou
-street: "Frontage Road"
-housenumber: 902
+street: Frontage Road
+housenumber: "902"
 phone: ""
 opening_hours: ""
 website: ""

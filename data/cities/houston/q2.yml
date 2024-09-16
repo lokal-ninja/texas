@@ -1,11 +1,11 @@
 id: 840371646
-type: way
+type: node
 latitude: 30.0198
 longitude: -95.43638
 postcode: ""
 city: Houston
-street: "Cypress Station Drive"
-housenumber: 1259
+street: Cypress Station Drive
+housenumber: "1259"
 phone: ""
 opening_hours: ""
 website: ""

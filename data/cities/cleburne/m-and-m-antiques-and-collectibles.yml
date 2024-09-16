@@ -1,11 +1,11 @@
 id: 714081799
-type: way
+type: node
 latitude: 32.42974
 longitude: -97.38316
 postcode: ""
 city: Cleburne
-street: "North Main Street"
-housenumber: 4020
-phone: "+1-817-641-4646"
+street: North Main Street
+housenumber: "4020"
+phone: +1-817-641-4646
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 704736643
-type: way
+type: node
 latitude: 32.70254
 longitude: -96.49708
 postcode: "75126"
 city: Forney
-street: "FM 740"
-housenumber: 10460
+street: FM 740
+housenumber: "10460"
 phone: ""
 opening_hours: ""
 website: ""

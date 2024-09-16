@@ -1,11 +1,11 @@
 id: 652401495
-type: way
+type: node
 latitude: 32.91709
 longitude: -96.5158
 postcode: "75088"
 city: Rowlett
-street: "Lakeview Parkway"
-housenumber: 8800
-phone: "+1 972-202-5635"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/7240/rowlett-tx/whats-new"
+street: Lakeview Parkway
+housenumber: "8800"
+phone: +1 972-202-5635
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/7240/rowlett-tx/whats-new

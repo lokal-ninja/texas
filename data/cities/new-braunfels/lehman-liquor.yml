@@ -1,11 +1,11 @@
 id: 1078066599
-type: way
+type: node
 latitude: 29.72052
 longitude: -98.10201
 postcode: "78130"
 city: New Braunfels
-street: "East Common Street"
-housenumber: 1308
+street: East Common Street
+housenumber: "1308"
 phone: ""
 opening_hours: ""
 website: ""

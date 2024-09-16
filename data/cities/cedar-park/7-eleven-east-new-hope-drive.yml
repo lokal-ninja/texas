@@ -1,11 +1,11 @@
 id: 555259419
-type: way
+type: node
 latitude: 30.53689
 longitude: -97.81836
 postcode: "78613"
 city: Cedar Park
-street: "East New Hope Drive"
-housenumber: 1220
+street: East New Hope Drive
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

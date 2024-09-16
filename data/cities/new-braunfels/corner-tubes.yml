@@ -1,11 +1,11 @@
 id: 1054876117
-type: way
+type: node
 latitude: 29.70939
 longitude: -98.12051
 postcode: "78130"
 city: New Braunfels
-street: "South Liberty Avenue"
-housenumber: 120
+street: South Liberty Avenue
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

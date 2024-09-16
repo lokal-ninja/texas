@@ -1,11 +1,11 @@
 id: 840865801
-type: way
+type: node
 latitude: 34.97236
 longitude: -101.9187
 postcode: "79015"
 city: Canyon
-street: "23rd Street"
-housenumber: 1101
-phone: "+1-806-655-1424"
+street: 23rd Street
+housenumber: "1101"
+phone: +1-806-655-1424
 opening_hours: ""
-website: "https://www.braums.com/"
+website: https://www.braums.com/

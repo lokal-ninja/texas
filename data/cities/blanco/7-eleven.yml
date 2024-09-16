@@ -1,11 +1,11 @@
 id: 1006323659
-type: way
+type: node
 latitude: 30.08459
 longitude: -98.41843
 postcode: "78606"
 city: Blanco
-street: "South US Highway 281"
-housenumber: 1138
+street: South US Highway 281
+housenumber: "1138"
 phone: ""
 opening_hours: ""
 website: ""

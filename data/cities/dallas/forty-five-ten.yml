@@ -1,11 +1,11 @@
 id: 617241692
-type: way
+type: node
 latitude: 32.78108
 longitude: -96.7977
 postcode: "75201"
 city: Dallas
-street: "Main Street"
-housenumber: 1615
+street: Main Street
+housenumber: "1615"
 phone: ""
-opening_hours: "Mo-Tu by appointment; We-Sa 11:00-17:00"
-website: "https://fortyfiveten.com/"
+opening_hours: Mo-Tu "by appointment"; We-Sa 11:00-17:00
+website: https://fortyfiveten.com/

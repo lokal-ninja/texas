@@ -1,11 +1,11 @@
 id: 399511883
-type: way
+type: node
 latitude: 29.68322
 longitude: -98.13214
 postcode: "78130"
 city: New Braunfels
-street: "Interstate 35 South"
-housenumber: 1455
-phone: "+1 830-626-4610"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=2812"
+street: Interstate 35 South
+housenumber: "1455"
+phone: +1 830-626-4610
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=2812

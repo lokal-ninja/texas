@@ -1,11 +1,11 @@
 id: 768983789
-type: way
+type: node
 latitude: 31.4315
 longitude: -100.51109
 postcode: "76901"
 city: San Angelo
-street: "Sherwood Way"
-housenumber: 5502
+street: Sherwood Way
+housenumber: "5502"
 phone: ""
 opening_hours: ""
 website: ""

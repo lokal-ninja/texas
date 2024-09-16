@@ -1,11 +1,11 @@
 id: 524236904
-type: way
+type: node
 latitude: 33.22905
 longitude: -97.15371
 postcode: "76201"
 city: Denton
-street: "Primrose Lane"
-housenumber: 1213
+street: Primrose Lane
+housenumber: "1213"
 phone: ""
 opening_hours: ""
 website: ""

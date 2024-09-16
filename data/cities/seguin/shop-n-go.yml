@@ -1,11 +1,11 @@
 id: 183318562
-type: way
+type: node
 latitude: 29.5697
 longitude: -97.97635
 postcode: "78155"
 city: Seguin
-street: "West Court Street"
-housenumber: 808
+street: West Court Street
+housenumber: "808"
 phone: ""
 opening_hours: ""
 website: ""

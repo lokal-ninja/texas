@@ -1,11 +1,11 @@
 id: 655676851
-type: way
+type: node
 latitude: 32.74616
 longitude: -97.43371
 postcode: "76116"
 city: Fort Worth
-street: "Ridgmar Meadow Road"
-housenumber: 6800
-phone: "+1 817-377-8668"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/fort-worth-store0178.html"
+street: Ridgmar Meadow Road
+housenumber: "6800"
+phone: +1 817-377-8668
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/fort-worth-store0178.html

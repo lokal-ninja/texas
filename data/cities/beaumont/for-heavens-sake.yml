@@ -1,11 +1,11 @@
 id: 1084383464
-type: way
+type: node
 latitude: 30.08619
 longitude: -94.14613
 postcode: "77706"
 city: Beaumont
-street: "Calder Avenue"
-housenumber: 4190
+street: Calder Avenue
+housenumber: "4190"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 135175658
-type: way
+type: node
 latitude: 30.40185
 longitude: -97.67261
 postcode: "78753"
 city: Austin
-street: "North Interstate 35"
-housenumber: 12351
-phone: "+1-512-873-7438"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:00-18:00"
-website: "https://stores.jcpenney.com/tx/austin/clothing-stores-austin-tx-2884.html"
+street: North Interstate 35
+housenumber: "12351"
+phone: +1-512-873-7438
+opening_hours: Mo-Sa 11:00-20:00; Su 11:00-18:00
+website: https://stores.jcpenney.com/tx/austin/clothing-stores-austin-tx-2884.html

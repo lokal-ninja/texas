@@ -1,11 +1,11 @@
 id: 183739718
-type: way
+type: node
 latitude: 29.26909
 longitude: -94.82477
 postcode: "77551"
 city: Galveston
-street: "Seawall Boulevard"
-housenumber: 5730
-phone: "+1 409-741-8580"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tx/galveston/galveston/034/00302"
+street: Seawall Boulevard
+housenumber: "5730"
+phone: +1 409-741-8580
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tx/galveston/galveston/034/00302

@@ -1,11 +1,11 @@
 id: 751113702
-type: way
+type: node
 latitude: 32.73198
 longitude: -101.95335
 postcode: "79331"
 city: Lamesa
-street: "North Austin Avenue"
-housenumber: 110
+street: North Austin Avenue
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

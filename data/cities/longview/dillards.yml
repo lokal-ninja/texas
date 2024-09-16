@@ -1,11 +1,11 @@
 id: 381681816
-type: way
+type: node
 latitude: 32.53857
 longitude: -94.75095
 postcode: "75605"
 city: Longview
-street: "McCann Road"
-housenumber: 3500
+street: McCann Road
+housenumber: "3500"
 phone: ""
 opening_hours: ""
 website: ""

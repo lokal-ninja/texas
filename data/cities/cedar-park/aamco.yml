@@ -1,11 +1,11 @@
 id: 29180521
-type: way
+type: node
 latitude: 30.48126
 longitude: -97.80531
 postcode: "78613"
 city: Cedar Park
-street: "South Bell Boulevard"
-housenumber: 2409
-phone: "+1-512-337-6218"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.aamcocedarparktx.com/"
+street: South Bell Boulevard
+housenumber: "2409"
+phone: +1-512-337-6218
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.aamcocedarparktx.com/

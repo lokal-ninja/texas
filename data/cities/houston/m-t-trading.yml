@@ -1,11 +1,11 @@
 id: 55377727
-type: way
+type: node
 latitude: 29.74752
 longitude: -95.35687
 postcode: ""
 city: Houston
-street: "Hutchins Street"
-housenumber: 1411
+street: Hutchins Street
+housenumber: "1411"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 909746333
-type: way
+type: node
 latitude: 32.59664
 longitude: -97.15095
 postcode: "76063"
 city: Mansfield
-street: "Highway 287 North"
-housenumber: 2041
-phone: "+1 682-518-8878"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/mansfield/pet-supplies-mansfield-tx-1458.html"
+street: Highway 287 North
+housenumber: "2041"
+phone: +1 682-518-8878
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/mansfield/pet-supplies-mansfield-tx-1458.html

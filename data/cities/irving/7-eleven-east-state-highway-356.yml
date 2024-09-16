@@ -1,11 +1,11 @@
 id: 678181464
-type: way
+type: node
 latitude: 32.8087
 longitude: -96.92501
 postcode: "75060"
 city: Irving
-street: "East State Highway 356"
-housenumber: 1600
+street: East State Highway 356
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

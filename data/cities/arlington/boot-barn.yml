@@ -1,11 +1,11 @@
 id: 641987402
-type: way
+type: node
 latitude: 32.74491
 longitude: -97.06557
 postcode: "76011"
 city: Arlington
-street: "Centennial Drive"
-housenumber: 2500
+street: Centennial Drive
+housenumber: "2500"
 phone: ""
 opening_hours: ""
-website: "https://www.bootbarn.com/stores?StoreID=0305"
+website: https://www.bootbarn.com/stores?StoreID=0305

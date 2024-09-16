@@ -1,11 +1,11 @@
 id: 179079965
-type: way
+type: node
 latitude: 35.18787
 longitude: -101.92881
 postcode: "79106"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 7920
-phone: "+1-806-358-1400"
-opening_hours: "Su 11:00-19:00; Mo-Sa 09:00-21:00"
-website: "https://www.cavenders.com/storedetails?StoreID=34"
+street: West Interstate Drive
+housenumber: "7920"
+phone: +1-806-358-1400
+opening_hours: Su 11:00-19:00; Mo-Sa 09:00-21:00
+website: https://www.cavenders.com/storedetails?StoreID=34

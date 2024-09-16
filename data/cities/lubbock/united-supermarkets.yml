@@ -1,11 +1,11 @@
 id: 220969993
-type: way
+type: node
 latitude: 33.52083
 longitude: -101.9423
 postcode: "79424"
 city: Lubbock
-street: "Frankford Avenue"
-housenumber: 8010
+street: Frankford Avenue
+housenumber: "8010"
 phone: ""
 opening_hours: ""
-website: "https://local.unitedsupermarkets.com/tx/lubbock/8010-frankford-ave.html"
+website: https://local.unitedsupermarkets.com/tx/lubbock/8010-frankford-ave.html

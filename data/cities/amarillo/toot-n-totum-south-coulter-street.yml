@@ -1,11 +1,11 @@
 id: 178257501
-type: way
+type: node
 latitude: 35.17922
 longitude: -101.91983
 postcode: "79106"
 city: Amarillo
-street: "South Coulter Street"
-housenumber: 3201
-phone: "+1-806-354-7116"
+street: South Coulter Street
+housenumber: "3201"
+phone: +1-806-354-7116
 opening_hours: ""
-website: "https://www.tootntotum.com/"
+website: https://www.tootntotum.com/

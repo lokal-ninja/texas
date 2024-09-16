@@ -1,11 +1,11 @@
 id: 694595778
-type: way
+type: node
 latitude: 33.76182
 longitude: -96.65411
 postcode: "75076"
 city: Pottsboro
-street: "East FM 120"
-housenumber: 702
+street: East FM 120
+housenumber: "702"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/pottsboro/7135"
+website: https://www.dollargeneral.com/store-directory/tx/pottsboro/7135

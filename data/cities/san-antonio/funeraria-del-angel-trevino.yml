@@ -1,11 +1,11 @@
 id: 1100974493
-type: way
+type: node
 latitude: 29.3247
 longitude: -98.55301
 postcode: "78224"
 city: San Antonio
-street: "Palo Alto Road"
-housenumber: 2525
+street: Palo Alto Road
+housenumber: "2525"
 phone: ""
 opening_hours: ""
 website: ""

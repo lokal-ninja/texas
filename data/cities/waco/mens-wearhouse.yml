@@ -1,11 +1,11 @@
 id: 142664852
-type: way
+type: node
 latitude: 31.49976
 longitude: -97.15897
 postcode: "76711"
 city: Waco
-street: "West Loop 340"
-housenumber: 2400
+street: West Loop 340
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

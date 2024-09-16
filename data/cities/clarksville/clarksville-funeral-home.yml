@@ -1,11 +1,11 @@
 id: 983735629
-type: way
+type: node
 latitude: 33.6053
 longitude: -95.04926
 postcode: "75426"
 city: Clarksville
-street: "West College Avenue"
-housenumber: 100
+street: West College Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

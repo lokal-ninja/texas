@@ -1,11 +1,11 @@
 id: 805589096
-type: way
+type: node
 latitude: 32.08605
 longitude: -96.52064
 postcode: "75110"
 city: Corsicana
-street: "North 45th Street"
-housenumber: 1921
+street: North 45th Street
+housenumber: "1921"
 phone: ""
 opening_hours: ""
 website: ""

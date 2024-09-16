@@ -1,11 +1,11 @@
 id: 1284169456
-type: way
+type: node
 latitude: 29.50742
 longitude: -98.37025
 postcode: "78239"
 city: San Antonio
-street: "Walzem Road"
-housenumber: 6102
-phone: "+1-210-590-4670"
+street: Walzem Road
+housenumber: "6102"
+phone: +1-210-590-4670
 opening_hours: ""
 website: ""

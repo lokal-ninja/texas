@@ -1,11 +1,11 @@
 id: 822624836
-type: way
+type: node
 latitude: 26.20253
 longitude: -98.32975
 postcode: "78572"
 city: Mission
-street: "West Expressway 83"
-housenumber: 110
-phone: "+1-956-519-0550"
+street: West Expressway 83
+housenumber: "110"
+phone: +1-956-519-0550
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/mission/autoparts-498.html"
+website: https://locations.oreillyauto.com/tx/mission/autoparts-498.html

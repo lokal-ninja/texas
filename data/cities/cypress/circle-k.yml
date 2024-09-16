@@ -1,11 +1,11 @@
 id: 542529695
-type: way
+type: node
 latitude: 29.9089
 longitude: -95.68545
 postcode: "77433"
 city: Cypress
-street: "Barker Cypress Road"
-housenumber: 9010
+street: Barker Cypress Road
+housenumber: "9010"
 phone: ""
 opening_hours: ""
 website: ""

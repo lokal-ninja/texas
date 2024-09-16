@@ -1,11 +1,11 @@
 id: 359929903
-type: way
+type: node
 latitude: 29.35215
 longitude: -98.47926
 postcode: "78214"
 city: San Antonio
-street: "Southeast Military Drive"
-housenumber: 1200
-phone: "+1 210-921-0800"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1313-san-antonio-tx"
+street: Southeast Military Drive
+housenumber: "1200"
+phone: +1 210-921-0800
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1313-san-antonio-tx

@@ -1,11 +1,11 @@
 id: 746786095
-type: way
+type: node
 latitude: 29.38837
 longitude: -98.52202
 postcode: "78225"
 city: San Antonio
-street: "Nogalitos Street"
-housenumber: 2710
-phone: "+1-210-533-7773"
-opening_hours: "07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2710+nogalitos-san+antonio-tx-78225/id=2943"
+street: Nogalitos Street
+housenumber: "2710"
+phone: +1-210-533-7773
+opening_hours: 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2710+nogalitos-san+antonio-tx-78225/id=2943

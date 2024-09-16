@@ -1,11 +1,11 @@
 id: 422497232
-type: way
+type: node
 latitude: 30.50155
 longitude: -94.98981
 postcode: ""
 city: Shepherd
-street: "US 59"
-housenumber: 5450
-phone: "+1-936-628-6842"
+street: US 59
+housenumber: "5450"
+phone: +1-936-628-6842
 opening_hours: ""
-website: "http://www.mcclainsfoodmarket.com/"
+website: http://www.mcclainsfoodmarket.com/

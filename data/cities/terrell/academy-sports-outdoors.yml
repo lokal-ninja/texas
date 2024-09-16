@@ -1,11 +1,11 @@
 id: 808605646
-type: way
+type: node
 latitude: 32.7209
 longitude: -96.32598
 postcode: "75160"
 city: Terrell
-street: "American Way"
-housenumber: 580
+street: American Way
+housenumber: "580"
 phone: ""
 opening_hours: ""
-website: "https://www.academy.com/storelocator/texas/terrell/store-0324"
+website: https://www.academy.com/storelocator/texas/terrell/store-0324

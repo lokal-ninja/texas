@@ -1,11 +1,11 @@
 id: 253663566
-type: way
+type: node
 latitude: 29.66632
 longitude: -95.2032
 postcode: "77502"
 city: Pasadena
-street: "Westside Dr"
-housenumber: 3012
+street: Westside Dr
+housenumber: "3012"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 753313955
-type: way
+type: node
 latitude: 30.33072
 longitude: -97.96774
 postcode: "78738"
 city: Lakeway
-street: "Medical Parkway"
-housenumber: 400
-phone: "+1-512-263-0314"
-opening_hours: "Tu-Sa 10:00-16:00"
-website: "https://laketravisthrift.com/"
+street: Medical Parkway
+housenumber: "400"
+phone: +1-512-263-0314
+opening_hours: Tu-Sa 10:00-16:00
+website: https://laketravisthrift.com/

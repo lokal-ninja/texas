@@ -1,11 +1,11 @@
 id: 549493011
-type: way
+type: node
 latitude: 29.92208
 longitude: -95.19558
 postcode: "77044"
 city: Houston
-street: "West Lake Houston Parkway"
-housenumber: 12730
-phone: "+1 346-312-4600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Summerwood/TX/Houston/77044/1832"
+street: West Lake Houston Parkway
+housenumber: "12730"
+phone: +1 346-312-4600
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Summerwood/TX/Houston/77044/1832

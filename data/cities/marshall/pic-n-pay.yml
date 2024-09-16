@@ -1,11 +1,11 @@
 id: 167112437
-type: way
+type: node
 latitude: 32.54139
 longitude: -94.36313
 postcode: "75670"
 city: Marshall
-street: "East Travis Street"
-housenumber: 500
+street: East Travis Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

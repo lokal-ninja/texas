@@ -1,11 +1,11 @@
 id: 709082432
-type: way
+type: node
 latitude: 34.08052
 longitude: -98.56011
 postcode: "76354"
 city: Burkburnett
-street: "Sheppard Road"
-housenumber: 906
+street: Sheppard Road
+housenumber: "906"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1012650051
-type: way
+type: node
 latitude: 31.50853
 longitude: -97.14678
 postcode: "76711"
 city: Waco
-street: "South New Road"
-housenumber: 2339
+street: South New Road
+housenumber: "2339"
 phone: ""
 opening_hours: ""
 website: ""

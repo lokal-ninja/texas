@@ -4,8 +4,8 @@ latitude: 29.80581
 longitude: -95.52404
 postcode: "77080"
 city: Houston
-street: "Blalock Road"
-housenumber: 1780
-phone: "+1-713-464-9901"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 09:30-19:00, Su 10:00-15:00"
-website: "http://www.poloniarestaurant.com/"
+street: Blalock Road
+housenumber: "1780"
+phone: +1-713-464-9901
+opening_hours: Tu-Fr 10:00-18:00, Sa 09:30-19:00, Su 10:00-15:00
+website: http://www.poloniarestaurant.com/

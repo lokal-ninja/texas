@@ -1,11 +1,11 @@
 id: 1022930167
-type: way
+type: node
 latitude: 29.80255
 longitude: -95.38153
 postcode: "77009"
 city: Houston
-street: "Airline Drive"
-housenumber: 1724
-phone: "+1-832-212-0110"
-opening_hours: "Mo-Sa 10:00-21:00"
+street: Airline Drive
+housenumber: "1724"
+phone: +1-832-212-0110
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

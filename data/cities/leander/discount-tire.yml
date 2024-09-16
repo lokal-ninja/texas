@@ -1,11 +1,11 @@
 id: 668304037
-type: way
+type: node
 latitude: 30.56411
 longitude: -97.84774
 postcode: "78641"
 city: Leander
-street: "South Highway 183"
-housenumber: 1105
-phone: "+1-512-690-9505"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://discounttire.com"
+street: South Highway 183
+housenumber: "1105"
+phone: +1-512-690-9505
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://discounttire.com

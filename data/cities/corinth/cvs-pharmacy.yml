@@ -1,11 +1,11 @@
 id: 492001627
-type: way
+type: node
 latitude: 33.133
 longitude: -97.09495
 postcode: "76210"
 city: Corinth
-street: "Teasley Lane"
-housenumber: 1101
+street: Teasley Lane
+housenumber: "1101"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/corinth-tx-pharmacies/1101-fm-2181-corinth-tx-76210/storeid=10642"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/corinth-tx-pharmacies/1101-fm-2181-corinth-tx-76210/storeid=10642

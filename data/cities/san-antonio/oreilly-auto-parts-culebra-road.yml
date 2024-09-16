@@ -1,11 +1,11 @@
 id: 120201547
-type: way
+type: node
 latitude: 29.48541
 longitude: -98.66909
 postcode: "78251"
 city: San Antonio
-street: "Culebra Road"
-housenumber: 9416
-phone: "+1 210-681-4434"
+street: Culebra Road
+housenumber: "9416"
+phone: +1 210-681-4434
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/sanantonio/autoparts-661.html"
+website: https://locations.oreillyauto.com/tx/sanantonio/autoparts-661.html

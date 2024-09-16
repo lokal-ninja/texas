@@ -1,11 +1,11 @@
 id: 1208518209
-type: way
+type: node
 latitude: 30.28954
 longitude: -97.74179
 postcode: "78705"
 city: Austin
-street: "Guadalupe Street"
-housenumber: 2510
+street: Guadalupe Street
+housenumber: "2510"
 phone: ""
 opening_hours: ""
 website: ""

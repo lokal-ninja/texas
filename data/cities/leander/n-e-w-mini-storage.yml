@@ -1,11 +1,11 @@
 id: 1063142419
-type: way
+type: node
 latitude: 30.56943
 longitude: -97.85324
 postcode: "78641"
 city: Leander
-street: "Horseshoe Drive"
-housenumber: 401
-phone: "+1-512-259-2464"
+street: Horseshoe Drive
+housenumber: "401"
+phone: +1-512-259-2464
 opening_hours: ""
 website: ""

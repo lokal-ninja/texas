@@ -1,11 +1,11 @@
 id: 864888853
-type: way
+type: node
 latitude: 30.70367
 longitude: -97.74389
 postcode: "78633"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 5405
-phone: "+1 512 630 0010"
-opening_hours: "Su-Sa 08:00-20:00"
-website: "https://www.dollargeneral.com/store-directory/tx/georgetown/10512"
+street: Williams Drive
+housenumber: "5405"
+phone: +1 512 630 0010
+opening_hours: Su-Sa 08:00-20:00
+website: https://www.dollargeneral.com/store-directory/tx/georgetown/10512

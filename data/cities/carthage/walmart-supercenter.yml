@@ -1,11 +1,11 @@
 id: 586365351
-type: way
+type: node
 latitude: 32.16843
 longitude: -94.36884
 postcode: "75633"
 city: Carthage
-street: "Northwest Loop"
-housenumber: 4609
-phone: "+1 903-693-8881"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/523/carthage-tx/whats-new"
+street: Northwest Loop
+housenumber: "4609"
+phone: +1 903-693-8881
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/523/carthage-tx/whats-new

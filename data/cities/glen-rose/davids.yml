@@ -1,11 +1,11 @@
 id: 640841076
-type: way
+type: node
 latitude: 32.23086
 longitude: -97.75232
 postcode: "76043"
 city: Glen Rose
-street: "Austin Road"
-housenumber: 205
-phone: "+1-254-897-2892"
+street: Austin Road
+housenumber: "205"
+phone: +1-254-897-2892
 opening_hours: ""
-website: "https://www.brookshirebrothers.com/store-location/store-107"
+website: https://www.brookshirebrothers.com/store-location/store-107

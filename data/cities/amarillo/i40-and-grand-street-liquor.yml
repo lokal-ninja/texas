@@ -1,11 +1,11 @@
 id: 770974053
-type: way
+type: node
 latitude: 35.19197
 longitude: -101.79575
 postcode: "79103"
 city: Amarillo
-street: "South Grand Street"
-housenumber: 1812
+street: South Grand Street
+housenumber: "1812"
 phone: ""
 opening_hours: ""
 website: ""

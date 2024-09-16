@@ -1,11 +1,11 @@
 id: 545155987
-type: way
+type: node
 latitude: 31.99442
 longitude: -102.1032
 postcode: "79701"
 city: Midland
-street: "West Illinois Avenue"
-housenumber: 2509
+street: West Illinois Avenue
+housenumber: "2509"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1076269640
-type: way
+type: node
 latitude: 31.58802
 longitude: -106.27258
 postcode: "79849"
 city: San Elizario
-street: "San Antonio Street"
-housenumber: 1408
+street: San Antonio Street
+housenumber: "1408"
 phone: ""
 opening_hours: ""
 website: ""

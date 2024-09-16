@@ -1,11 +1,11 @@
 id: 259851031
-type: way
+type: node
 latitude: 29.40208
 longitude: -95.03682
 postcode: "77568"
 city: La Marque
-street: "Gulf Freeway"
-housenumber: 6410
-phone: "+1 409-986-6000"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/529/la-marque-tx/whats-new"
+street: Gulf Freeway
+housenumber: "6410"
+phone: +1 409-986-6000
+opening_hours: 24/7
+website: https://www.walmart.com/store/529/la-marque-tx/whats-new

@@ -1,11 +1,11 @@
 id: 199571917
-type: way
+type: node
 latitude: 29.3666
 longitude: -100.90045
 postcode: "78840"
 city: Del Rio
-street: "Veterans Boulevard"
-housenumber: 200
-phone: "+1-830-774-5666"
+street: Veterans Boulevard
+housenumber: "200"
+phone: +1-830-774-5666
 opening_hours: ""
 website: ""

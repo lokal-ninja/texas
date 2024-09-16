@@ -1,11 +1,11 @@
 id: 821996352
-type: way
+type: node
 latitude: 35.19605
 longitude: -101.89311
 postcode: "79106"
 city: Amarillo
-street: "Plains Boulevard"
-housenumber: 5041
+street: Plains Boulevard
+housenumber: "5041"
 phone: ""
 opening_hours: ""
 website: ""

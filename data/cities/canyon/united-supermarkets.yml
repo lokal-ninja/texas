@@ -1,11 +1,11 @@
 id: 334058323
-type: way
+type: node
 latitude: 34.98475
 longitude: -101.92146
 postcode: "79015"
 city: Canyon
-street: "North 23rd Street"
-housenumber: 201
-phone: "+1 806-655-2300"
+street: North 23rd Street
+housenumber: "201"
+phone: +1 806-655-2300
 opening_hours: ""
-website: "https://local.unitedsupermarkets.com/tx/canyon/201-n-23rd-st.html"
+website: https://local.unitedsupermarkets.com/tx/canyon/201-n-23rd-st.html

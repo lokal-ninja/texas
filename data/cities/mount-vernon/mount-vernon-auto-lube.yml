@@ -1,11 +1,11 @@
 id: 877396469
-type: way
+type: node
 latitude: 33.1584
 longitude: -95.23593
 postcode: "75457"
 city: Mount Vernon
-street: "Highway 37 South"
-housenumber: 918
+street: Highway 37 South
+housenumber: "918"
 phone: ""
 opening_hours: ""
 website: ""

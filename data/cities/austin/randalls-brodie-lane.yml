@@ -1,11 +1,11 @@
 id: 129731589
-type: way
+type: node
 latitude: 30.18359
 longitude: -97.84757
 postcode: "78748"
 city: Austin
-street: "Brodie Lane"
-housenumber: 9911
-phone: "+1-512-282-5720"
-opening_hours: "Fr-We 06:00-23:00; Th 06:00-16:00"
-website: "https://local.randalls.com/tx/austin/9911-brodie-ln.html"
+street: Brodie Lane
+housenumber: "9911"
+phone: +1-512-282-5720
+opening_hours: Fr-We 06:00-23:00; Th 06:00-16:00
+website: https://local.randalls.com/tx/austin/9911-brodie-ln.html

@@ -1,11 +1,11 @@
 id: 941672370
-type: way
+type: node
 latitude: 33.46386
 longitude: -94.09441
 postcode: "75503"
 city: Texarkana
-street: "Richmond Road"
-housenumber: 3109
+street: Richmond Road
+housenumber: "3109"
 phone: ""
 opening_hours: ""
 website: ""

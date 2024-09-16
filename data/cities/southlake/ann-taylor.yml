@@ -1,11 +1,11 @@
 id: 686147232
-type: way
+type: node
 latitude: 32.9427
 longitude: -97.13021
 postcode: "76092"
 city: Southlake
-street: "Main Street"
-housenumber: 1426
+street: Main Street
+housenumber: "1426"
 phone: ""
 opening_hours: ""
 website: ""

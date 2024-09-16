@@ -1,11 +1,11 @@
 id: 558756111
-type: way
+type: node
 latitude: 32.81151
 longitude: -97.20755
 postcode: "76053"
 city: Hurst
-street: "Northeast Loop 820 Frontage Road"
-housenumber: 240
-phone: "+1-817-479-9625"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:30-20:00"
-website: "https://www.freemantoyota.com/"
+street: Northeast Loop 820 Frontage Road
+housenumber: "240"
+phone: +1-817-479-9625
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:30-20:00
+website: https://www.freemantoyota.com/

@@ -1,11 +1,11 @@
 id: 764950599
-type: way
+type: node
 latitude: 33.66961
 longitude: -96.59434
 postcode: "75090"
 city: Sherman
-street: "Texoma Parkway"
-housenumber: 2920
+street: Texoma Parkway
+housenumber: "2920"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/tx/sherman/2920-texoma-pkwy"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/tx/sherman/2920-texoma-pkwy

@@ -1,11 +1,11 @@
 id: 1251045009
-type: way
+type: node
 latitude: 30.08052
 longitude: -95.44009
 postcode: "77388"
 city: Spring
-street: "I-45"
-housenumber: 21755
-phone: "+1-800-828-8770"
+street: I-45
+housenumber: "21755"
+phone: +1-800-828-8770
 opening_hours: ""
-website: "http://unitedpharmatek.com"
+website: http://unitedpharmatek.com

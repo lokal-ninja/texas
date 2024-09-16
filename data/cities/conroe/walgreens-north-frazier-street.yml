@@ -1,11 +1,11 @@
 id: 639683578
-type: way
+type: node
 latitude: 30.31252
 longitude: -95.46152
 postcode: "77301"
 city: Conroe
-street: "North Frazier Street"
-housenumber: 420
+street: North Frazier Street
+housenumber: "420"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-420+n+frazier+st-conroe-tx-77301/id=5269"
+website: https://www.walgreens.com/locator/walgreens-420+n+frazier+st-conroe-tx-77301/id=5269

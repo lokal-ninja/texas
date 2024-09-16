@@ -1,11 +1,11 @@
 id: 495258870
-type: way
+type: node
 latitude: 29.7246
 longitude: -99.07164
 postcode: "78003"
 city: Bandera
-street: "Cedar Street"
-housenumber: 1110
+street: Cedar Street
+housenumber: "1110"
 phone: ""
 opening_hours: ""
 website: ""

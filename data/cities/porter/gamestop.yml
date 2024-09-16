@@ -4,8 +4,9 @@ latitude: 30.10359
 longitude: -95.23456
 postcode: "77365"
 city: Porter
-street: "Eastex Freeway"
-housenumber: 23741
+street: Eastex Freeway
+housenumber: "23741"
 phone: ""
-opening_hours: "Mo-We 10:00-21:00; Th 16:00-22:00; Fr 06:00-22:00; Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.gamestop.com/store/us/tx/porter/6722/porterwood-shopping-center-gamestop"
+opening_hours: Mo-We 10:00-21:00; Th 16:00-22:00; Fr 06:00-22:00; Sa 10:00-21:00;
+    Su 11:00-19:00
+website: https://www.gamestop.com/store/us/tx/porter/6722/porterwood-shopping-center-gamestop

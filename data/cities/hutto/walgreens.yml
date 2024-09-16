@@ -1,11 +1,11 @@
 id: 118132496
-type: way
+type: node
 latitude: 30.54099
 longitude: -97.56378
 postcode: "78634"
 city: Hutto
-street: "Ed Schmidt Boulevard"
-housenumber: 119
-phone: "+1-512-759-3739"
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-119+ed+schmidt+blvd-hutto-tx-78634/id=11566"
+street: Ed Schmidt Boulevard
+housenumber: "119"
+phone: +1-512-759-3739
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-119+ed+schmidt+blvd-hutto-tx-78634/id=11566

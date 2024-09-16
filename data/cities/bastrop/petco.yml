@@ -1,11 +1,11 @@
 id: 176986501
-type: way
+type: node
 latitude: 30.11438
 longitude: -97.35285
 postcode: "78602"
 city: Bastrop
-street: "State Highway 71 West"
-housenumber: 739
-phone: "+1-512-321-5800"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com"
+street: State Highway 71 West
+housenumber: "739"
+phone: +1-512-321-5800
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com

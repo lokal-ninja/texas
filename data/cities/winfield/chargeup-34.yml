@@ -1,11 +1,11 @@
 id: 877410355
-type: way
+type: node
 latitude: 33.1624
 longitude: -95.11158
 postcode: "75493"
 city: Winfield
-street: "East 7th Street"
-housenumber: 105
+street: East 7th Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

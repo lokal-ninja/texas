@@ -1,11 +1,11 @@
 id: 319044129
-type: way
+type: node
 latitude: 30.63405
 longitude: -96.30159
 postcode: "77845"
 city: College Station
-street: "South Earl Rudder Freeway"
-housenumber: 1405
-phone: "+1 979-693-2828"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/college-station-tx-sams-club/6338"
+street: South Earl Rudder Freeway
+housenumber: "1405"
+phone: +1 979-693-2828
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/college-station-tx-sams-club/6338

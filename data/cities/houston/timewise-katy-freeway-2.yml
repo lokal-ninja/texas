@@ -1,11 +1,11 @@
 id: 849487164
-type: way
+type: node
 latitude: 29.78517
 longitude: -95.4844
 postcode: ""
 city: Houston
-street: "Katy Freeway"
-housenumber: 8190
+street: Katy Freeway
+housenumber: "8190"
 phone: ""
 opening_hours: ""
 website: ""

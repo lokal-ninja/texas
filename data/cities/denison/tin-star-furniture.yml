@@ -1,11 +1,11 @@
 id: 852527809
-type: way
+type: node
 latitude: 33.7376
 longitude: -96.53865
 postcode: "75020"
 city: Denison
-street: "South Austin Avenue"
-housenumber: 1801
+street: South Austin Avenue
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

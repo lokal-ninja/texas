@@ -1,11 +1,11 @@
 id: 680433398
-type: way
+type: node
 latitude: 29.45908
 longitude: -98.52027
 postcode: "78201"
 city: San Antonio
-street: "Fredericksburg Road"
-housenumber: 1516
+street: Fredericksburg Road
+housenumber: "1516"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 793656736
-type: way
+type: node
 latitude: 35.67588
 longitude: -101.38044
 postcode: "79007"
 city: Borger
-street: "North Florida Street"
-housenumber: 910
+street: North Florida Street
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

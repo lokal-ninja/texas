@@ -1,11 +1,11 @@
 id: 318664231
-type: way
+type: node
 latitude: 32.74629
 longitude: -97.00116
 postcode: "75050"
 city: Grand Prairie
-street: "East Main Street"
-housenumber: 302
-phone: "+1-972-263-3006"
+street: East Main Street
+housenumber: "302"
+phone: +1-972-263-3006
 opening_hours: ""
-website: "https://www.armynavywarehouse.com/"
+website: https://www.armynavywarehouse.com/

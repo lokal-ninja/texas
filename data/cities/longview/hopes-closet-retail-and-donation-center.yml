@@ -1,11 +1,11 @@
 id: 404672135
-type: way
+type: node
 latitude: 32.54647
 longitude: -94.72905
 postcode: "75605"
 city: Longview
-street: "Wal Street"
-housenumber: 1011
+street: Wal Street
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

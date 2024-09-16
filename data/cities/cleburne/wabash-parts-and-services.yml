@@ -1,11 +1,11 @@
 id: 711178230
-type: way
+type: node
 latitude: 32.39329
 longitude: -97.3897
 postcode: ""
 city: Cleburne
-street: "North Main Street"
-housenumber: 3001
-phone: "+1-800-541-6282"
+street: North Main Street
+housenumber: "3001"
+phone: +1-800-541-6282
 opening_hours: ""
-website: "https://onewabash.com/location-search/location-detail/?wabash-parts-and-services-cleburne-tx"
+website: https://onewabash.com/location-search/location-detail/?wabash-parts-and-services-cleburne-tx

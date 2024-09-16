@@ -1,11 +1,11 @@
 id: 383703341
-type: way
+type: node
 latitude: 30.20131
 longitude: -97.83883
 postcode: "78745"
 city: Austin
-street: "Brodie Lane"
-housenumber: 8602
-phone: "+1-512-280-5823"
+street: Brodie Lane
+housenumber: "8602"
+phone: +1-512-280-5823
 opening_hours: ""
 website: ""

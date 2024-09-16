@@ -4,8 +4,8 @@ latitude: 32.92331
 longitude: -96.80595
 postcode: "75230"
 city: Dallas
-street: "Preston Road"
-housenumber: 12817
-phone: "+1 972-385-6100"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.terrycosta.com"
+street: Preston Road
+housenumber: "12817"
+phone: +1 972-385-6100
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.terrycosta.com

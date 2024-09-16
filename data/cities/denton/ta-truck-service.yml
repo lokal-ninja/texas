@@ -1,11 +1,11 @@
 id: 229302411
-type: way
+type: node
 latitude: 33.2615
 longitude: -97.1764
 postcode: "76207"
 city: Denton
-street: "North Interstate 35"
-housenumber: 6420
+street: North Interstate 35
+housenumber: "6420"
 phone: "+19403831458"
-opening_hours: "24/7"
-website: "https://www.ta-petro.com/location/tx/ta-denton"
+opening_hours: 24/7
+website: https://www.ta-petro.com/location/tx/ta-denton

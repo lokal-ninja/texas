@@ -1,11 +1,11 @@
 id: 733614667
-type: way
+type: node
 latitude: 30.53347
 longitude: -97.78964
 postcode: "78613"
 city: Cedar Park
-street: "East Whitestone Boulevard"
-housenumber: 2721
+street: East Whitestone Boulevard
+housenumber: "2721"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/cedar-park/2721-e-whitestone-blvd.html"
+website: https://www.autozone.com/locations/tx/cedar-park/2721-e-whitestone-blvd.html

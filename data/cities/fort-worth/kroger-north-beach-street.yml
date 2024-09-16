@@ -1,11 +1,11 @@
 id: 508477018
-type: way
+type: node
 latitude: 32.95678
 longitude: -97.27991
 postcode: "76244"
 city: Fort Worth
-street: "North Beach Street"
-housenumber: 12600
-phone: "+1 817-562-3900"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/tx/fort-worth/timberland-crossing/035/00562"
+street: North Beach Street
+housenumber: "12600"
+phone: +1 817-562-3900
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/tx/fort-worth/timberland-crossing/035/00562

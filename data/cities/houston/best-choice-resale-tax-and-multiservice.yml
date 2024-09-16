@@ -1,11 +1,11 @@
 id: 683618751
-type: way
+type: node
 latitude: 29.85585
 longitude: -95.38222
 postcode: ""
 city: Houston
-street: "Fulton Street"
-housenumber: 10300
-phone: "+1 713 493 9317"
-opening_hours: "Mo-Su 10:00-19:00"
+street: Fulton Street
+housenumber: "10300"
+phone: +1 713 493 9317
+opening_hours: Mo-Su 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 755535990
-type: way
+type: node
 latitude: 31.42926
 longitude: -100.49552
 postcode: "76904"
 city: San Angelo
-street: "Wellington Street"
-housenumber: 4002
+street: Wellington Street
+housenumber: "4002"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 319066763
-type: way
+type: node
 latitude: 30.64345
 longitude: -96.31452
 postcode: "77840"
 city: College Station
-street: "South Earl Rudder Freeway"
-housenumber: 504
+street: South Earl Rudder Freeway
+housenumber: "504"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/tx/college-station/504-earl-rudder-fwy-s-77840/4443"
+website: https://www.ntb.com/store/tx/college-station/504-earl-rudder-fwy-s-77840/4443

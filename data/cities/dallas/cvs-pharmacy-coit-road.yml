@@ -1,11 +1,11 @@
 id: 220693632
-type: way
+type: node
 latitude: 32.92667
 longitude: -96.76953
 postcode: "75240"
 city: Dallas
-street: "Coit Road"
-housenumber: 13033
+street: Coit Road
+housenumber: "13033"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-tx-pharmacies/13033-coit-rd-dallas-tx-75240/storeid=5894"
+website: https://www.cvs.com/store-locator/dallas-tx-pharmacies/13033-coit-rd-dallas-tx-75240/storeid=5894

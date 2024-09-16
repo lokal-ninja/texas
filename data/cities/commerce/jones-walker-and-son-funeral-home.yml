@@ -1,11 +1,11 @@
 id: 286358904
-type: way
+type: node
 latitude: 33.24701
 longitude: -95.90028
 postcode: "75428"
 city: Commerce
-street: "Live Oak Street"
-housenumber: 1209
+street: Live Oak Street
+housenumber: "1209"
 phone: ""
 opening_hours: ""
 website: ""

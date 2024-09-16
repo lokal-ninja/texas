@@ -1,11 +1,11 @@
 id: 700618663
-type: way
+type: node
 latitude: 32.61214
 longitude: -98.10841
 postcode: "76472"
 city: Santo
-street: "I-20"
-housenumber: 87163
+street: I-20
+housenumber: "87163"
 phone: ""
 opening_hours: ""
-website: "https://gilbertpecan.com/"
+website: https://gilbertpecan.com/

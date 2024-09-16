@@ -1,11 +1,11 @@
 id: 704094584
-type: way
+type: node
 latitude: 35.848
 longitude: -101.97489
 postcode: "79029"
 city: Dumas
-street: "South Dumas Avenue"
-housenumber: 1600
-phone: "+1-806-421-0567"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.edwardschryslerdodgejeep.com/"
+street: South Dumas Avenue
+housenumber: "1600"
+phone: +1-806-421-0567
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.edwardschryslerdodgejeep.com/

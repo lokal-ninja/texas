@@ -1,11 +1,11 @@
 id: 1180548989
-type: way
+type: node
 latitude: 30.11085
 longitude: -97.32013
 postcode: "78602"
 city: Bastrop
-street: "Main Street"
-housenumber: 1006
-phone: "+1-512-387-2741"
+street: Main Street
+housenumber: "1006"
+phone: +1-512-387-2741
 opening_hours: ""
-website: "https://www.thebeardedbakingcompany.com/"
+website: https://www.thebeardedbakingcompany.com/

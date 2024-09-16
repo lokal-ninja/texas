@@ -1,11 +1,11 @@
 id: 822664325
-type: way
+type: node
 latitude: 29.52671
 longitude: -98.5049
 postcode: "78216"
 city: San Antonio
-street: "Blanco Road"
-housenumber: 7340
+street: Blanco Road
+housenumber: "7340"
 phone: ""
 opening_hours: ""
 website: ""

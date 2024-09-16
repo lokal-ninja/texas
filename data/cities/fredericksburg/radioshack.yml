@@ -1,11 +1,11 @@
 id: 1137754230
-type: way
+type: node
 latitude: 30.2857
 longitude: -98.85415
 postcode: "78624"
 city: Fredericksburg
-street: "North Llano Street"
-housenumber: 1711
+street: North Llano Street
+housenumber: "1711"
 phone: ""
 opening_hours: ""
 website: ""

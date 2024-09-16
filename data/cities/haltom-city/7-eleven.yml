@@ -1,11 +1,11 @@
 id: 1165233166
-type: way
+type: node
 latitude: 32.79004
 longitude: -97.25582
 postcode: "76117"
 city: Haltom City
-street: "Airport Freeway"
-housenumber: 6001
+street: Airport Freeway
+housenumber: "6001"
 phone: ""
 opening_hours: ""
 website: ""

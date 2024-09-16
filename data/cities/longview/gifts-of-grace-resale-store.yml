@@ -1,11 +1,11 @@
 id: 405767340
-type: way
+type: node
 latitude: 32.53895
 longitude: -94.7481
 postcode: "75605"
 city: Longview
-street: "Judson Road"
-housenumber: 2519
+street: Judson Road
+housenumber: "2519"
 phone: ""
 opening_hours: ""
 website: ""

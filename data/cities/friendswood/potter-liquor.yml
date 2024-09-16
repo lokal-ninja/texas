@@ -1,11 +1,11 @@
 id: 878034129
-type: way
+type: node
 latitude: 29.53754
 longitude: -95.2119
 postcode: "77546"
 city: Friendswood
-street: "North Friendswood Drive"
-housenumber: 412
+street: North Friendswood Drive
+housenumber: "412"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

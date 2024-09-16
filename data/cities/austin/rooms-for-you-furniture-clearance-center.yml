@@ -1,11 +1,11 @@
 id: 876624625
-type: way
+type: node
 latitude: 30.3816
 longitude: -97.68622
 postcode: "78753"
 city: Austin
-street: "North Lamar Boulevard"
-housenumber: 11209
-phone: "+1-512-294-2238"
-opening_hours: "Mo-Sa 11:00-19:00; Su 13:00-17:00"
-website: "https://www.roomsforyoufurniture.co/"
+street: North Lamar Boulevard
+housenumber: "11209"
+phone: +1-512-294-2238
+opening_hours: Mo-Sa 11:00-19:00; Su 13:00-17:00
+website: https://www.roomsforyoufurniture.co/

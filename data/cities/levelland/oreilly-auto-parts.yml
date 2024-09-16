@@ -1,11 +1,11 @@
 id: 666396206
-type: way
+type: node
 latitude: 33.59329
 longitude: -102.36714
 postcode: "79336"
 city: Levelland
-street: "College Avenue"
-housenumber: 105
+street: College Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/levelland/autoparts-1012.html"
+website: https://locations.oreillyauto.com/tx/levelland/autoparts-1012.html

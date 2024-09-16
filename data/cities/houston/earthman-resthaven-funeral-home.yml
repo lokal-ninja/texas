@@ -1,11 +1,11 @@
 id: 421698606
-type: way
+type: node
 latitude: 29.96084
 longitude: -95.41756
 postcode: "77060"
 city: Houston
-street: "North Freeway"
-housenumber: 13102
+street: North Freeway
+housenumber: "13102"
 phone: ""
 opening_hours: ""
-website: "https://www.dignitymemorial.com/earthman-resthaven-funeral-home/en-us/index.page"
+website: https://www.dignitymemorial.com/earthman-resthaven-funeral-home/en-us/index.page

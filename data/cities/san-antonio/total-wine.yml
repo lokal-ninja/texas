@@ -1,11 +1,11 @@
 id: 320168810
-type: way
+type: node
 latitude: 29.60661
 longitude: -98.59649
 postcode: "78257"
 city: San Antonio
-street: "La Cantera Parkway"
-housenumber: 17530
-phone: "+1 210-877-9155"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.totalwine.com/eng/storeLocator/redirect.cfm?sectionID=b2c/storeLocator/storeDetails.cfm&storeid=1&locationId=17849"
+street: La Cantera Parkway
+housenumber: "17530"
+phone: +1 210-877-9155
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.totalwine.com/eng/storeLocator/redirect.cfm?sectionID=b2c/storeLocator/storeDetails.cfm&storeid=1&locationId=17849

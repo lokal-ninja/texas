@@ -1,11 +1,11 @@
 id: 645660447
-type: way
+type: node
 latitude: 32.94462
 longitude: -96.61146
 postcode: "75040"
 city: Garland
-street: "North President George Bush Highway"
-housenumber: 2949
-phone: "+1 972-496-5600"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/tx-garland/0611"
+street: North President George Bush Highway
+housenumber: "2949"
+phone: +1 972-496-5600
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/tx-garland/0611

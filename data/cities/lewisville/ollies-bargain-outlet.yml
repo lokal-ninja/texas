@@ -1,11 +1,11 @@
 id: 589517689
-type: way
+type: node
 latitude: 33.00716
 longitude: -96.9687
 postcode: "75067"
 city: Lewisville
-street: "South Stemmons Freeway"
-housenumber: 2412
-phone: "+1 214-488-0549"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00; PH closed"
-website: "https://www.ollies.us/locations/2412-s-stemmons-freeway-lewisville-tx/"
+street: South Stemmons Freeway
+housenumber: "2412"
+phone: +1 214-488-0549
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00; PH closed
+website: https://www.ollies.us/locations/2412-s-stemmons-freeway-lewisville-tx/

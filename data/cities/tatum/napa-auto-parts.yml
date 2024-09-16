@@ -1,11 +1,11 @@
 id: 807349969
-type: way
+type: node
 latitude: 32.31591
 longitude: -94.51506
 postcode: "75691"
 city: Tatum
-street: "Johnson Street"
-housenumber: 285
+street: Johnson Street
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

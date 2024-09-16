@@ -1,11 +1,11 @@
 id: 848544792
-type: way
+type: node
 latitude: 31.08495
 longitude: -97.78479
 postcode: "76549"
 city: Killeen
-street: "West Stan Schlueter Loop"
-housenumber: 3300
+street: West Stan Schlueter Loop
+housenumber: "3300"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/killeen-tx-pharmacies/3300-w-stan-schlueter-loop-killeen-tx-76549/storeid=10585"
+website: https://www.cvs.com/store-locator/killeen-tx-pharmacies/3300-w-stan-schlueter-loop-killeen-tx-76549/storeid=10585

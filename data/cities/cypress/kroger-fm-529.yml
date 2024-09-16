@@ -1,11 +1,11 @@
 id: 314284791
-type: way
+type: node
 latitude: 29.88193
 longitude: -95.68544
 postcode: "77433"
 city: Cypress
-street: "FM 529"
-housenumber: 18030
-phone: "+1 281-550-9493"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/cypress/barker-cypress/034/00352"
+street: FM 529
+housenumber: "18030"
+phone: +1 281-550-9493
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/cypress/barker-cypress/034/00352

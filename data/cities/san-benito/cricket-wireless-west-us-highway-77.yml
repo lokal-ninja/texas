@@ -1,11 +1,11 @@
 id: 1307516093
-type: way
+type: node
 latitude: 26.14852
 longitude: -97.63987
 postcode: "78586"
 city: San Benito
-street: "West US Highway 77"
-housenumber: 1220
+street: West US Highway 77
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

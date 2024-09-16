@@ -1,11 +1,11 @@
 id: 257190138
-type: way
+type: node
 latitude: 30.26461
 longitude: -94.20057
 postcode: "77657"
 city: Lumberton
-street: "North Main Street"
-housenumber: 819
-phone: "+1-409-755-2501"
+street: North Main Street
+housenumber: "819"
+phone: +1-409-755-2501
 opening_hours: ""
 website: ""

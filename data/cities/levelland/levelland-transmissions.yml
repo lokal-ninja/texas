@@ -1,11 +1,11 @@
 id: 678565001
-type: way
+type: node
 latitude: 33.59244
 longitude: -102.37307
 postcode: "79336"
 city: Levelland
-street: "1st Street"
-housenumber: 508
+street: 1st Street
+housenumber: "508"
 phone: ""
 opening_hours: ""
 website: ""

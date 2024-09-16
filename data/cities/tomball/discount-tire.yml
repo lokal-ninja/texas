@@ -1,11 +1,11 @@
 id: 683603690
-type: way
+type: node
 latitude: 30.08897
 longitude: -95.63886
 postcode: "77377"
 city: Tomball
-street: "FM 2920"
-housenumber: 14239
-phone: "+1-281-290-7091"
+street: FM 2920
+housenumber: "14239"
+phone: +1-281-290-7091
 opening_hours: ""
 website: ""

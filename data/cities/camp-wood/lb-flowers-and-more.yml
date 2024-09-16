@@ -1,11 +1,11 @@
 id: 1185606183
-type: way
+type: node
 latitude: 29.66926
 longitude: -100.01281
 postcode: "78833"
 city: Camp Wood
-street: "South Nueces Street"
-housenumber: 101
-phone: "+1-830-597-5384"
+street: South Nueces Street
+housenumber: "101"
+phone: +1-830-597-5384
 opening_hours: ""
 website: ""

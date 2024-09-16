@@ -4,8 +4,8 @@ latitude: 29.80911
 longitude: -95.50995
 postcode: "77080"
 city: Houston
-street: "Laverne Street"
-housenumber: 2098
-phone: "+1-713-461-2857"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 12:00-16:00"
-website: "https://sbpetpatrol.com"
+street: Laverne Street
+housenumber: "2098"
+phone: +1-713-461-2857
+opening_hours: Tu-Fr 09:00-17:00; Sa 12:00-16:00
+website: https://sbpetpatrol.com

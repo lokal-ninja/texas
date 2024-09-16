@@ -1,11 +1,11 @@
 id: 913710254
-type: way
+type: node
 latitude: 32.26199
 longitude: -101.47218
 postcode: "79720"
 city: Big Spring
-street: "North Owens Street"
-housenumber: 700
+street: North Owens Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

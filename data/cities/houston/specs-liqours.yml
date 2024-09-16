@@ -1,11 +1,11 @@
 id: 173714107
-type: way
+type: node
 latitude: 29.77773
 longitude: -95.56373
 postcode: "77079"
 city: Houston
-street: "Queensbury Lane"
-housenumber: 12901
+street: Queensbury Lane
+housenumber: "12901"
 phone: ""
 opening_hours: ""
-website: "http://www.specsonline.com/cgi-bin/showmap?store=49"
+website: http://www.specsonline.com/cgi-bin/showmap?store=49

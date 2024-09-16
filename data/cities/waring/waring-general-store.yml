@@ -1,11 +1,11 @@
 id: 1194666780
-type: way
+type: node
 latitude: 29.95175
 longitude: -98.80468
 postcode: "78074"
 city: Waring
-street: "Waring-Welfare Road"
-housenumber: 544
+street: Waring-Welfare Road
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

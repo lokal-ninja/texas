@@ -1,11 +1,11 @@
 id: 541180271
-type: way
+type: node
 latitude: 29.71319
 longitude: -98.15486
 postcode: "78130"
 city: New Braunfels
-street: "North Walnut Avenue"
-housenumber: 1515
+street: North Walnut Avenue
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

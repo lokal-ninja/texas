@@ -1,11 +1,11 @@
 id: 747938880
-type: way
+type: node
 latitude: 35.16822
 longitude: -101.86684
 postcode: "79110"
 city: Amarillo
-street: "South Georgia Street"
-housenumber: 4200
+street: South Georgia Street
+housenumber: "4200"
 phone: ""
 opening_hours: ""
 website: ""

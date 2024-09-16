@@ -1,11 +1,11 @@
 id: 407830891
-type: way
+type: node
 latitude: 31.33445
 longitude: -94.7279
 postcode: "75901"
 city: Lufkin
-street: "South Third Street"
-housenumber: 412
-phone: "+1 936 634 5132"
+street: South Third Street
+housenumber: "412"
+phone: +1 936 634 5132
 opening_hours: ""
 website: ""

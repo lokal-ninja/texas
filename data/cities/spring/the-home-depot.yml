@@ -1,11 +1,11 @@
 id: 780106055
-type: way
+type: node
 latitude: 30.09275
 longitude: -95.52942
 postcode: "77389"
 city: Spring
-street: "Kuykendahl Road"
-housenumber: 22310
-phone: "+1 346-246-7400"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/kuykendahl/tx/spring/77389/2389"
+street: Kuykendahl Road
+housenumber: "22310"
+phone: +1 346-246-7400
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/kuykendahl/tx/spring/77389/2389

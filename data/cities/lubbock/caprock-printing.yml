@@ -1,11 +1,11 @@
 id: 462465013
-type: way
+type: node
 latitude: 33.54465
 longitude: -101.84939
 postcode: "79412"
 city: Lubbock
-street: "54th Street"
-housenumber: 1301
+street: 54th Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
 website: ""

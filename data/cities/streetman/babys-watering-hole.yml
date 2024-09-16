@@ -1,11 +1,11 @@
 id: 1228370172
-type: way
+type: node
 latitude: 31.86539
 longitude: -96.31865
 postcode: "75859"
 city: Streetman
-street: "Spur 114"
-housenumber: 260
+street: Spur 114
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

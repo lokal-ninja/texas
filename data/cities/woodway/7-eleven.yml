@@ -1,11 +1,11 @@
 id: 732486998
-type: way
+type: node
 latitude: 31.51274
 longitude: -97.19102
 postcode: "76712"
 city: Woodway
-street: "Woodway Drive"
-housenumber: 5801
+street: Woodway Drive
+housenumber: "5801"
 phone: ""
 opening_hours: ""
 website: ""

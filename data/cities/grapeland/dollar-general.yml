@@ -1,11 +1,11 @@
 id: 1204774429
-type: way
+type: node
 latitude: 31.5044
 longitude: -95.47613
 postcode: "75844"
 city: Grapeland
-street: "US-287"
-housenumber: 907
-phone: "(936) 243-6210"
+street: US-287
+housenumber: "907"
+phone: (936) 243-6210
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/grapeland/6909"
+website: https://www.dollargeneral.com/store-directory/tx/grapeland/6909

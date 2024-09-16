@@ -1,11 +1,11 @@
 id: 708186459
-type: way
+type: node
 latitude: 29.35171
 longitude: -98.88425
 postcode: "78009"
 city: Castroville
-street: "US Highway 90 West"
-housenumber: 1116
+street: US Highway 90 West
+housenumber: "1116"
 phone: ""
 opening_hours: ""
 website: ""

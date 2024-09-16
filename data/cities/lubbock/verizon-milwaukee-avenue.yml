@@ -1,11 +1,11 @@
 id: 460696027
-type: way
+type: node
 latitude: 33.54564
 longitude: -101.95676
 postcode: "79407"
 city: Lubbock
-street: "Milwaukee Avenue"
-housenumber: 5021
+street: Milwaukee Avenue
+housenumber: "5021"
 phone: ""
 opening_hours: ""
 website: ""

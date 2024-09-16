@@ -4,8 +4,8 @@ latitude: 30.33234
 longitude: -97.74067
 postcode: "78756"
 city: Austin
-street: "Northland Drive"
-housenumber: 2109
-phone: "+1-512-918-2253"
-opening_hours: "Mo-Th 08:00-14:00; Fr 08:00-12:00"
-website: "https://www.bakedbyamys.com/"
+street: Northland Drive
+housenumber: "2109"
+phone: +1-512-918-2253
+opening_hours: Mo-Th 08:00-14:00; Fr 08:00-12:00
+website: https://www.bakedbyamys.com/

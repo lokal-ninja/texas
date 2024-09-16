@@ -1,11 +1,11 @@
 id: 141118905
-type: way
+type: node
 latitude: 33.57713
 longitude: -101.87282
 postcode: "79410"
 city: Lubbock
-street: "19th Street"
-housenumber: 2601
+street: 19th Street
+housenumber: "2601"
 phone: ""
 opening_hours: ""
 website: ""

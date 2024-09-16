@@ -4,8 +4,8 @@ latitude: 30.20993
 longitude: -95.52704
 postcode: "77382"
 city: The Woodlands
-street: "Research Forest Drive"
-housenumber: 8000
+street: Research Forest Drive
+housenumber: "8000"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00, Su 12:00-17:00"
-website: "https://learningexpress.com/locator/store/?code=alden-bridge"
+opening_hours: Mo-Sa 10:00-18:00, Su 12:00-17:00
+website: https://learningexpress.com/locator/store/?code=alden-bridge

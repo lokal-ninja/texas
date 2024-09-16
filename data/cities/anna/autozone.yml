@@ -1,11 +1,11 @@
 id: 708107935
-type: way
+type: node
 latitude: 33.34399
 longitude: -96.5646
 postcode: "75409"
 city: Anna
-street: "West White Street"
-housenumber: 1225
+street: West White Street
+housenumber: "1225"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/anna/1225-w-white-st.html"
+website: https://www.autozone.com/locations/tx/anna/1225-w-white-st.html

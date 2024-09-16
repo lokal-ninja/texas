@@ -1,11 +1,11 @@
 id: 638633358
-type: way
+type: node
 latitude: 29.66214
 longitude: -95.81597
 postcode: "77406"
 city: Richmond
-street: "Settegast Ranch Road"
-housenumber: 1610
-phone: "+1-832-465-5222"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed"
-website: "bigboatstorage.com"
+street: Settegast Ranch Road
+housenumber: "1610"
+phone: +1-832-465-5222
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00; Su closed
+website: bigboatstorage.com

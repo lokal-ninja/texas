@@ -1,11 +1,11 @@
 id: 382118521
-type: way
+type: node
 latitude: 30.57978
 longitude: -97.85424
 postcode: "78641"
 city: Leander
-street: "North Brushy Street"
-housenumber: 204
+street: North Brushy Street
+housenumber: "204"
 phone: ""
-opening_hours: "Tu-Sa 09:00-19:00; Su 10:00-16:00"
+opening_hours: Tu-Sa 09:00-19:00; Su 10:00-16:00
 website: ""

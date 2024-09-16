@@ -1,11 +1,11 @@
 id: 1192520977
-type: way
+type: node
 latitude: 36.02072
 longitude: -101.82318
 postcode: "79086"
 city: Sunray
-street: "Avenue N"
-housenumber: 401
-phone: "+1-806-948-4141"
+street: Avenue N
+housenumber: "401"
+phone: +1-806-948-4141
 opening_hours: ""
 website: ""

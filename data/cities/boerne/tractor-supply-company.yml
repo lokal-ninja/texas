@@ -1,11 +1,11 @@
 id: 916881734
-type: way
+type: node
 latitude: 29.77043
 longitude: -98.72111
 postcode: "78006"
 city: Boerne
-street: "South Main Street"
-housenumber: 1530
-phone: "+1 830-249-0739"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: South Main Street
+housenumber: "1530"
+phone: +1 830-249-0739
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

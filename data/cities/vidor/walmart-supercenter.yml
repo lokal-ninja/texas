@@ -1,11 +1,11 @@
 id: 1086968051
-type: way
+type: node
 latitude: 30.14298
 longitude: -94.01303
 postcode: "77662"
 city: Vidor
-street: "North Main Street"
-housenumber: 1360
-phone: "+1 409-769-6233"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/457-vidor-tx"
+street: North Main Street
+housenumber: "1360"
+phone: +1 409-769-6233
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/457-vidor-tx

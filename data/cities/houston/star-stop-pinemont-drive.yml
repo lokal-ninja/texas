@@ -1,11 +1,11 @@
 id: 825334856
-type: way
+type: node
 latitude: 29.84095
 longitude: -95.48851
 postcode: ""
 city: Houston
-street: "Pinemont Drive"
-housenumber: 6625
+street: Pinemont Drive
+housenumber: "6625"
 phone: ""
 opening_hours: ""
 website: ""

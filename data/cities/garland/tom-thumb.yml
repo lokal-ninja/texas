@@ -1,11 +1,11 @@
 id: 131170072
-type: way
+type: node
 latitude: 32.96115
 longitude: -96.66755
 postcode: "75044"
 city: Garland
-street: "Arapaho Road"
-housenumber: 2645
+street: Arapaho Road
+housenumber: "2645"
 phone: ""
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/garland/2645-arapaho-rd.html"
+website: https://local.tomthumb.com/tx/garland/2645-arapaho-rd.html

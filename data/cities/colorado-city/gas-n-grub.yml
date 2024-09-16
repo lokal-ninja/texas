@@ -1,11 +1,11 @@
 id: 800154349
-type: way
+type: node
 latitude: 32.39113
 longitude: -100.83837
 postcode: "79512"
 city: Colorado City
-street: "Westpoint Avenue"
-housenumber: 2001
+street: Westpoint Avenue
+housenumber: "2001"
 phone: ""
 opening_hours: ""
 website: ""

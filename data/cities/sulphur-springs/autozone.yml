@@ -1,11 +1,11 @@
 id: 439517808
-type: way
+type: node
 latitude: 33.11992
 longitude: -95.59693
 postcode: "75482"
 city: Sulphur Springs
-street: "South Broadway Street"
-housenumber: 1187
+street: South Broadway Street
+housenumber: "1187"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/sulphur-springs/1187-broadway-s.html"
+website: https://www.autozone.com/locations/tx/sulphur-springs/1187-broadway-s.html

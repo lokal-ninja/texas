@@ -1,11 +1,11 @@
 id: 706110042
-type: way
+type: node
 latitude: 32.44294
 longitude: -97.08517
 postcode: "76084"
 city: Venus
-street: "East US Highway 67"
-housenumber: 500
+street: East US Highway 67
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/venus/15830"
+website: https://www.dollargeneral.com/store-directory/tx/venus/15830

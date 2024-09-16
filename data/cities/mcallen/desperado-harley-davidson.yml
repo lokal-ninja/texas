@@ -1,11 +1,11 @@
 id: 715091781
-type: way
+type: node
 latitude: 26.19831
 longitude: -98.2704
 postcode: "78501"
 city: McAllen
-street: "South Bentsen Road"
-housenumber: 1201
-phone: "+1 956 687 4646"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-18:00; PH,Su,Mo off"
-website: "https://desperadohd.com"
+street: South Bentsen Road
+housenumber: "1201"
+phone: +1 956 687 4646
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-18:00; PH,Su,Mo off
+website: https://desperadohd.com

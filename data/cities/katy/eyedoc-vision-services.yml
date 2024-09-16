@@ -1,11 +1,11 @@
 id: 387049287
-type: way
+type: node
 latitude: 29.78216
 longitude: -95.71803
 postcode: ""
 city: Katy
-street: "South Fry Road"
-housenumber: 231
+street: South Fry Road
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

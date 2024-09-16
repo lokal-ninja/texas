@@ -1,11 +1,11 @@
 id: 679389454
-type: way
+type: node
 latitude: 29.52448
 longitude: -98.38934
 postcode: "78233"
 city: San Antonio
-street: "Randolph Boulevard"
-housenumber: 5106
+street: Randolph Boulevard
+housenumber: "5106"
 phone: ""
 opening_hours: ""
 website: ""

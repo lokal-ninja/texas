@@ -1,11 +1,11 @@
 id: 426250299
-type: way
+type: node
 latitude: 30.0539
 longitude: -95.18645
 postcode: "77339"
 city: Kingwood
-street: "West Lake Houston Parkway"
-housenumber: 3227
+street: West Lake Houston Parkway
+housenumber: "3227"
 phone: ""
 opening_hours: ""
 website: ""

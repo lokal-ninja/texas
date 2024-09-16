@@ -1,11 +1,11 @@
 id: 197559034
-type: way
+type: node
 latitude: 29.85212
 longitude: -97.95579
 postcode: "78666"
 city: San Marcos
-street: "McKinley Place Drive"
-housenumber: 1050
-phone: "+1 512-392-5545"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://www.rossstores.com/"
+street: McKinley Place Drive
+housenumber: "1050"
+phone: +1 512-392-5545
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:00-22:00
+website: https://www.rossstores.com/

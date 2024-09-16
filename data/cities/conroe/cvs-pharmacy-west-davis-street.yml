@@ -1,11 +1,11 @@
 id: 766571553
-type: way
+type: node
 latitude: 30.31457
 longitude: -95.46806
 postcode: "77301"
 city: Conroe
-street: "West Davis Street"
-housenumber: 910
+street: West Davis Street
+housenumber: "910"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/conroe-tx-pharmacies/910-w-davis-st-conroe-tx-77301/storeid=6741"
+website: https://www.cvs.com/store-locator/conroe-tx-pharmacies/910-w-davis-st-conroe-tx-77301/storeid=6741

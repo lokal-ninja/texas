@@ -1,11 +1,11 @@
 id: 1302158416
-type: way
+type: node
 latitude: 30.07849
 longitude: -95.5159
 postcode: "77379"
 city: Spring
-street: "Kuykendahl Road"
-housenumber: 21348
-phone: "+1 281-288-2483"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/spring/pet-supplies-spring-tx-2420.html"
+street: Kuykendahl Road
+housenumber: "21348"
+phone: +1 281-288-2483
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/spring/pet-supplies-spring-tx-2420.html

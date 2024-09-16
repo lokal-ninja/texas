@@ -1,11 +1,11 @@
 id: 1135832155
-type: way
+type: node
 latitude: 32.34222
 longitude: -97.38779
 postcode: "76033"
 city: Cleburne
-street: "West Westhill Drive"
-housenumber: 312
-phone: "+1 817 641 8615"
-opening_hours: "08:00-22:00"
+street: West Westhill Drive
+housenumber: "312"
+phone: +1 817 641 8615
+opening_hours: 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1178210137
-type: way
+type: node
 latitude: 30.10417
 longitude: -97.30665
 postcode: "78602"
 city: Bastrop
-street: "Jackson Street"
-housenumber: 305
-phone: "+1-512-308-4187"
-opening_hours: "24/7"
-website: "https://www.quiktrip.com/"
+street: Jackson Street
+housenumber: "305"
+phone: +1-512-308-4187
+opening_hours: 24/7
+website: https://www.quiktrip.com/

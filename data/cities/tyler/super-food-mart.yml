@@ -1,11 +1,11 @@
 id: 666194203
-type: way
+type: node
 latitude: 32.38823
 longitude: -95.27481
 postcode: "75708"
 city: Tyler
-street: "East Northeast Loop 323"
-housenumber: 1212
+street: East Northeast Loop 323
+housenumber: "1212"
 phone: ""
 opening_hours: ""
 website: ""

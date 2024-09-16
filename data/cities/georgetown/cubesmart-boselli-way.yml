@@ -1,11 +1,12 @@
 id: 1278665108
-type: way
+type: node
 latitude: 30.57752
 longitude: -97.68665
 postcode: "78626"
 city: Georgetown
-street: "Boselli Way"
-housenumber: 108
-phone: "+1-512-591-0880"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:30-17:00 open Office Hours || Mo-Su 06:00-22:00 open Access Hours"
-website: "https://www.cubesmart.com"
+street: Boselli Way
+housenumber: "108"
+phone: +1-512-591-0880
+opening_hours: Mo-Fr 09:30-18:00; Sa 08:30-17:00 open "Office Hours" || Mo-Su 06:00-22:00
+    open "Access Hours"
+website: https://www.cubesmart.com

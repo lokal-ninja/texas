@@ -1,11 +1,11 @@
 id: 955215608
-type: way
+type: node
 latitude: 26.26139
 longitude: -98.23719
 postcode: "78504"
 city: McAllen
-street: "Lark Avenue"
-housenumber: 2313
+street: Lark Avenue
+housenumber: "2313"
 phone: "+19566828858"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.allinoneappliancepartsandservice.com/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.allinoneappliancepartsandservice.com/

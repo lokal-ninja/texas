@@ -1,11 +1,11 @@
 id: 1093044919
-type: way
+type: node
 latitude: 32.78858
 longitude: -95.45841
 postcode: "75783"
 city: Quitman
-street: "Richards Street"
-housenumber: 304
-phone: "+1 903-760-2337"
-opening_hours: "Mo-Sa 10:00-21:00"
+street: Richards Street
+housenumber: "304"
+phone: +1 903-760-2337
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

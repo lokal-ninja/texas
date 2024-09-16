@@ -1,11 +1,11 @@
 id: 79873400
-type: way
+type: node
 latitude: 29.35533
 longitude: -98.53287
 postcode: "78224"
 city: San Antonio
-street: "Southwest Military Drive"
-housenumber: 2130
+street: Southwest Military Drive
+housenumber: "2130"
 phone: ""
 opening_hours: ""
 website: ""

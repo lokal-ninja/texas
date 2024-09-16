@@ -1,11 +1,11 @@
 id: 712914473
-type: way
+type: node
 latitude: 32.34109
 longitude: -97.38686
 postcode: "76033"
 city: Cleburne
-street: "West Westhill Drive"
-housenumber: 302
+street: West Westhill Drive
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

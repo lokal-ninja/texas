@@ -1,11 +1,11 @@
 id: 666192714
-type: way
+type: node
 latitude: 32.39522
 longitude: -95.26955
 postcode: "75708"
 city: Tyler
-street: "US Highway 271"
-housenumber: 6288
+street: US Highway 271
+housenumber: "6288"
 phone: ""
 opening_hours: ""
 website: ""

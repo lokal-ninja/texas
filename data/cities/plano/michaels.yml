@@ -1,11 +1,11 @@
 id: 423963318
-type: way
+type: node
 latitude: 33.02893
 longitude: -96.83748
 postcode: "75093"
 city: Plano
-street: "West Plano Parkway"
-housenumber: 6400
-phone: "+1 972-473-7313"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/plano/1572/"
+street: West Plano Parkway
+housenumber: "6400"
+phone: +1 972-473-7313
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://locations.michaels.com/tx/plano/1572/

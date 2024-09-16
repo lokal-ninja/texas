@@ -1,11 +1,11 @@
 id: 1001209926
-type: way
+type: node
 latitude: 31.05881
 longitude: -98.18158
 postcode: "76550"
 city: Lampasas
-street: "West 9th Street"
-housenumber: 208
+street: West 9th Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

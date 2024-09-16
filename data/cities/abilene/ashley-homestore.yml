@@ -1,11 +1,11 @@
 id: 544275284
-type: way
+type: node
 latitude: 32.40743
 longitude: -99.78245
 postcode: "79606"
 city: Abilene
-street: "Southwest Drive"
-housenumber: 4597
-phone: "+1 325-823-0420"
+street: Southwest Drive
+housenumber: "4597"
+phone: +1 325-823-0420
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/texas/abilene/7710000399/"
+website: https://stores.ashleyfurniture.com/store/us/texas/abilene/7710000399/

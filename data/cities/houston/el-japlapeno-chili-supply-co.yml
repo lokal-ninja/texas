@@ -1,11 +1,11 @@
 id: 988500894
-type: way
+type: node
 latitude: 29.75736
 longitude: -95.34309
 postcode: "77003"
 city: Houston
-street: "Navigation Boulevard"
-housenumber: 2610
+street: Navigation Boulevard
+housenumber: "2610"
 phone: ""
 opening_hours: ""
 website: ""

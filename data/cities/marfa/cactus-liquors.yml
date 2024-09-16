@@ -1,11 +1,11 @@
 id: 1072142783
-type: way
+type: node
 latitude: 30.30729
 longitude: -104.01961
 postcode: "79843"
 city: Marfa
-street: "South Highland Avenue"
-housenumber: 405
+street: South Highland Avenue
+housenumber: "405"
 phone: ""
 opening_hours: ""
-website: "https://www.cactusliquorsmarfa.com/"
+website: https://www.cactusliquorsmarfa.com/

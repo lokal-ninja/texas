@@ -1,11 +1,11 @@
 id: 666190561
-type: way
+type: node
 latitude: 32.67316
 longitude: -97.13375
 postcode: "76017"
 city: Arlington
-street: "South Cooper Street"
-housenumber: 4515
+street: South Cooper Street
+housenumber: "4515"
 phone: ""
 opening_hours: ""
 website: ""

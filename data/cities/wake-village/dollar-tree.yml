@@ -1,11 +1,11 @@
 id: 807831428
-type: way
+type: node
 latitude: 33.41858
 longitude: -94.10221
 postcode: "75501"
 city: Wake Village
-street: "West 7th Street"
-housenumber: 4710
+street: West 7th Street
+housenumber: "4710"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/tx/wake-village/6663/"
+opening_hours: Mo-Sa 09:00-21:00; Su 08:00-20:00
+website: https://www.dollartree.com/locations/tx/wake-village/6663/

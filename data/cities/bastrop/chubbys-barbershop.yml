@@ -1,11 +1,11 @@
 id: 1189777067
-type: way
+type: node
 latitude: 30.10956
 longitude: -97.31986
 postcode: "78602"
 city: Bastrop
-street: "Main Street"
-housenumber: 901
-phone: "+1-512-549-3211"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-17:00"
-website: "https://linktr.ee/Chubbysbarbershop"
+street: Main Street
+housenumber: "901"
+phone: +1-512-549-3211
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-17:00
+website: https://linktr.ee/Chubbysbarbershop

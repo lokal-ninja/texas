@@ -1,11 +1,11 @@
 id: 276363877
-type: way
+type: node
 latitude: 33.24672
 longitude: -95.89981
 postcode: "75428"
 city: Commerce
-street: "Live Oak Street"
-housenumber: 1203
+street: Live Oak Street
+housenumber: "1203"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/commerce/2701"
+website: https://www.dollargeneral.com/store-directory/tx/commerce/2701

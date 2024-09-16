@@ -1,11 +1,11 @@
 id: 751224504
-type: way
+type: node
 latitude: 31.46548
 longitude: -100.44705
 postcode: "76903"
 city: San Angelo
-street: "North Bryant Boulevard"
-housenumber: 501
+street: North Bryant Boulevard
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

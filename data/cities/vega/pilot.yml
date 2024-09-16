@@ -1,11 +1,11 @@
 id: 1059829889
-type: way
+type: node
 latitude: 35.236
 longitude: -102.42913
 postcode: "79092"
 city: Vega
-street: "US Highway 385"
-housenumber: 6555
+street: US Highway 385
+housenumber: "6555"
 phone: ""
 opening_hours: ""
 website: ""

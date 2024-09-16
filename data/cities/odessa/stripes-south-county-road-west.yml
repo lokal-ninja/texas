@@ -1,11 +1,11 @@
 id: 914875333
-type: way
+type: node
 latitude: 31.81985
 longitude: -102.38342
 postcode: "79763"
 city: Odessa
-street: "South County Road West"
-housenumber: 1350
+street: South County Road West
+housenumber: "1350"
 phone: ""
 opening_hours: ""
 website: ""

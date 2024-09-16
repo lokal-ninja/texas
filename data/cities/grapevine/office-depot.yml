@@ -1,11 +1,11 @@
 id: 653264505
-type: way
+type: node
 latitude: 32.93006
 longitude: -97.08861
 postcode: "76051"
 city: Grapevine
-street: "State Highway 114 West"
-housenumber: 1317
-phone: "+1 817-251-0311"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/grapevine/office-depot-406"
+street: State Highway 114 West
+housenumber: "1317"
+phone: +1 817-251-0311
+opening_hours: Mo-Fr 08:00-19:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/tx/grapevine/office-depot-406

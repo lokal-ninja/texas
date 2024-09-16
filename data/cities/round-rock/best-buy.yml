@@ -1,11 +1,11 @@
 id: 295437310
-type: way
+type: node
 latitude: 30.47639
 longitude: -97.67133
 postcode: "78664"
 city: Round Rock
-street: "South Interstate 35"
-housenumber: 3201
-phone: "+1 512-246-3120"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://stores.bestbuy.com/tx/round-rock/3201-south-interstate-35-859.html"
+street: South Interstate 35
+housenumber: "3201"
+phone: +1 512-246-3120
+opening_hours: Mo-Su 10:00-19:00
+website: https://stores.bestbuy.com/tx/round-rock/3201-south-interstate-35-859.html

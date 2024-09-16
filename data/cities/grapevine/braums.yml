@@ -1,11 +1,11 @@
 id: 863666434
-type: way
+type: node
 latitude: 32.94181
 longitude: -97.07616
 postcode: ""
 city: Grapevine
-street: "East Northwest Highway"
-housenumber: 307
+street: East Northwest Highway
+housenumber: "307"
 phone: ""
-opening_hours: "Mo-Su 06:30-22:45"
+opening_hours: Mo-Su 06:30-22:45
 website: ""

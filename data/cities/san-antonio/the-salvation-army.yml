@@ -1,11 +1,11 @@
 id: 334274217
-type: way
+type: node
 latitude: 29.6298
 longitude: -98.4593
 postcode: "78258"
 city: San Antonio
-street: "US Highway 281 North"
-housenumber: 20230
-phone: "+1-210-545-4024"
+street: US Highway 281 North
+housenumber: "20230"
+phone: +1-210-545-4024
 opening_hours: ""
-website: "https://salvationarmyusa.org/"
+website: https://salvationarmyusa.org/

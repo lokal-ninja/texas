@@ -1,11 +1,11 @@
 id: 123415134
-type: way
+type: node
 latitude: 29.8219
 longitude: -95.54745
 postcode: "77080"
 city: Houston
-street: "Kempwood Drive"
-housenumber: 10251
-phone: "+1 713-996-0009"
+street: Kempwood Drive
+housenumber: "10251"
+phone: +1 713-996-0009
 opening_hours: ""
 website: ""

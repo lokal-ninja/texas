@@ -1,11 +1,11 @@
 id: 841080133
-type: way
+type: node
 latitude: 29.3362
 longitude: -98.56657
 postcode: "78211"
 city: San Antonio
-street: "Interstate 35 South"
-housenumber: 8722
+street: Interstate 35 South
+housenumber: "8722"
 phone: ""
 opening_hours: ""
 website: ""

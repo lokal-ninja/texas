@@ -1,11 +1,11 @@
 id: 233527898
-type: way
+type: node
 latitude: 31.7581
 longitude: -106.26528
-postcode: "79936-0962"
+postcode: 79936-0962
 city: El Paso
-street: "Joe Battle Boulevard"
-housenumber: 1874
-phone: "+1 915-849-5010"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/el-paso-joe-battle-blvd/2216"
+street: Joe Battle Boulevard
+housenumber: "1874"
+phone: +1 915-849-5010
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/el-paso-joe-battle-blvd/2216

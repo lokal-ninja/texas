@@ -1,11 +1,11 @@
 id: 844396650
-type: way
+type: node
 latitude: 30.00362
 longitude: -95.63923
 postcode: "77429"
 city: Cypress
-street: "Spring Cypress Road"
-housenumber: 14100
-phone: "+1-281-320-3700"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Spring Cypress Road
+housenumber: "14100"
+phone: +1-281-320-3700
+opening_hours: Mo-Su 06:00-23:00
 website: ""

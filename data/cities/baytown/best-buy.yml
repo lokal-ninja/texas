@@ -1,11 +1,11 @@
 id: 1091897476
-type: way
+type: node
 latitude: 29.77283
 longitude: -94.97659
 postcode: "77521"
 city: Baytown
-street: "Garth Road"
-housenumber: 4620
-phone: "+1 281-420-0079"
+street: Garth Road
+housenumber: "4620"
+phone: +1 281-420-0079
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/baytown/4620-garth-rd-952.html"
+website: https://stores.bestbuy.com/tx/baytown/4620-garth-rd-952.html

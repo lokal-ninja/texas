@@ -1,11 +1,11 @@
 id: 535919708
-type: way
+type: node
 latitude: 32.6533
 longitude: -95.48874
 postcode: "75773"
 city: Mineola
-street: "South Pacific Street"
-housenumber: 1311
+street: South Pacific Street
+housenumber: "1311"
 phone: ""
 opening_hours: ""
-website: "https://www.longhornford.com/"
+website: https://www.longhornford.com/

@@ -1,11 +1,11 @@
 id: 1075832939
-type: way
+type: node
 latitude: 30.33122
 longitude: -95.48881
 postcode: "77304"
 city: Conroe
-street: "North Loop 336 West"
-housenumber: 2020
+street: North Loop 336 West
+housenumber: "2020"
 phone: ""
 opening_hours: ""
-website: "https://www.take5.com/"
+website: https://www.take5.com/

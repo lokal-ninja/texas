@@ -1,11 +1,11 @@
 id: 30288146
-type: way
+type: node
 latitude: 32.94224
 longitude: -96.95276
 postcode: "75063"
 city: Irving
-street: "North MacArthur Boulevard"
-housenumber: 10025
-phone: "+1 214-558-6581"
+street: North MacArthur Boulevard
+housenumber: "10025"
+phone: +1 214-558-6581
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tx/irving/10025-n-macarthur-39047"
+website: https://www.7-eleven.com/locations/tx/irving/10025-n-macarthur-39047

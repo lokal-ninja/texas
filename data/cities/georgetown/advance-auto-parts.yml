@@ -1,11 +1,11 @@
 id: 863724308
-type: way
+type: node
 latitude: 30.6537
 longitude: -97.68309
 postcode: "78628"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 1407
-phone: "+1-512-863-3315"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:00"
-website: "https://stores.advanceautoparts.com/tx/georgetown/1407-williams-dr"
+street: Williams Drive
+housenumber: "1407"
+phone: +1-512-863-3315
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:00
+website: https://stores.advanceautoparts.com/tx/georgetown/1407-williams-dr

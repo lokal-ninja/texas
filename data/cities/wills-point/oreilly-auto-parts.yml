@@ -1,11 +1,11 @@
 id: 871730472
-type: way
+type: node
 latitude: 32.70777
 longitude: -96.02044
 postcode: "75169"
 city: Wills Point
-street: "West South Commerce Street"
-housenumber: 1107
+street: West South Commerce Street
+housenumber: "1107"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/willspoint/autoparts-4673.html"
+website: https://locations.oreillyauto.com/tx/willspoint/autoparts-4673.html

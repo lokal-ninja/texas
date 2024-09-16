@@ -1,11 +1,11 @@
 id: 142438342
-type: way
+type: node
 latitude: 29.70247
 longitude: -98.12442
 postcode: "78130"
 city: New Braunfels
-street: "Main Plaza"
-housenumber: 301
+street: Main Plaza
+housenumber: "301"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

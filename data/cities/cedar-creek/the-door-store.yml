@@ -1,11 +1,11 @@
 id: 864006614
-type: way
+type: node
 latitude: 30.10968
 longitude: -97.42137
 postcode: "78612"
 city: Cedar Creek
-street: "West State Highway 21"
-housenumber: 169
-phone: "+1 512 303-3667"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-15:00"
+street: West State Highway 21
+housenumber: "169"
+phone: +1 512 303-3667
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-15:00
 website: ""

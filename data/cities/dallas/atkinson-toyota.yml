@@ -1,11 +1,11 @@
 id: 468820185
-type: way
+type: node
 latitude: 32.64456
 longitude: -96.86026
 postcode: "75237"
 city: Dallas
-street: "Lyndon B Johnson Freeway"
-housenumber: 39660
+street: Lyndon B Johnson Freeway
+housenumber: "39660"
 phone: ""
 opening_hours: ""
 website: ""

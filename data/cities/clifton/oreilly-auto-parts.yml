@@ -1,11 +1,11 @@
 id: 1263959723
-type: way
+type: node
 latitude: 31.79112
 longitude: -97.58128
 postcode: "76634"
 city: Clifton
-street: "North Avenue G"
-housenumber: 923
-phone: "+1-254-326-1157"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/tx/clifton/autoparts-6119.html"
+street: North Avenue G
+housenumber: "923"
+phone: +1-254-326-1157
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/tx/clifton/autoparts-6119.html

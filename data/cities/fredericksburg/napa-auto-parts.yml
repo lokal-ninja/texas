@@ -1,11 +1,11 @@
 id: 669293456
-type: way
+type: node
 latitude: 30.2671
 longitude: -98.87228
 postcode: "78624"
 city: Fredericksburg
-street: "Granite Avenue"
-housenumber: 516
+street: Granite Avenue
+housenumber: "516"
 phone: ""
 opening_hours: ""
 website: ""

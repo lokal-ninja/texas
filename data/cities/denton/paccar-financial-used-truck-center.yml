@@ -1,11 +1,11 @@
 id: 911665062
-type: way
+type: node
 latitude: 33.21328
 longitude: -97.17447
 postcode: "76207"
 city: Denton
-street: "Precision Drive"
-housenumber: 250
+street: Precision Drive
+housenumber: "250"
 phone: "+14252464243"
 opening_hours: ""
-website: "https://www.paccarfinancial.com/"
+website: https://www.paccarfinancial.com/

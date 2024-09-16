@@ -1,11 +1,11 @@
 id: 886355814
-type: way
+type: node
 latitude: 30.19252
 longitude: -98.09451
 postcode: "78620"
 city: Dripping Springs
-street: "West US Highway 290"
-housenumber: 604
+street: West US Highway 290
+housenumber: "604"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/drippingsprings/autoparts-4417.html"
+website: https://locations.oreillyauto.com/tx/drippingsprings/autoparts-4417.html

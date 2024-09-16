@@ -1,11 +1,11 @@
 id: 391843973
-type: way
+type: node
 latitude: 29.69773
 longitude: -98.09401
 postcode: "78130"
 city: New Braunfels
-street: "Interstate 35 North"
-housenumber: 1050
+street: Interstate 35 North
+housenumber: "1050"
 phone: ""
 opening_hours: ""
-website: "https://www.kohls.com/stores/tx/newbraunfels-773.shtml"
+website: https://www.kohls.com/stores/tx/newbraunfels-773.shtml

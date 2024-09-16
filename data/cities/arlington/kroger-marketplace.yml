@@ -1,11 +1,11 @@
 id: 804699751
-type: way
+type: node
 latitude: 32.64861
 longitude: -97.18838
 postcode: "76017"
 city: Arlington
-street: "West Sublett Road"
-housenumber: 5101
-phone: "+1 817-516-3762"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/tx/arlington/arlington-marketplace/035/00592"
+street: West Sublett Road
+housenumber: "5101"
+phone: +1 817-516-3762
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/tx/arlington/arlington-marketplace/035/00592

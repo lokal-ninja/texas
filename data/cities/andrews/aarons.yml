@@ -1,11 +1,11 @@
 id: 843581535
-type: way
+type: node
 latitude: 32.33155
 longitude: -102.54981
 postcode: "79714"
 city: Andrews
-street: "Northeast Avenue K"
-housenumber: 111
+street: Northeast Avenue K
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/tx/andrews/111-ne-avenue-k"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/tx/andrews/111-ne-avenue-k

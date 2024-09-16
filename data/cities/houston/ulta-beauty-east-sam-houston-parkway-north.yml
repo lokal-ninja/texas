@@ -1,11 +1,11 @@
 id: 525232732
-type: way
+type: node
 latitude: 29.92686
 longitude: -95.2045
 postcode: "77044"
 city: Houston
-street: "East Sam Houston Parkway North"
-housenumber: 14275
-phone: "+1 281-454-2119"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/houston-tx-1239"
+street: East Sam Houston Parkway North
+housenumber: "14275"
+phone: +1 281-454-2119
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/houston-tx-1239

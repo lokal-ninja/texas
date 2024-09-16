@@ -1,11 +1,11 @@
 id: 185991292
-type: way
+type: node
 latitude: 30.12084
 longitude: -94.16563
 postcode: ""
 city: Beaumont
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/tx/beaumont/4110-dowlen-rd"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/tx/beaumont/4110-dowlen-rd

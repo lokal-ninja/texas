@@ -1,11 +1,11 @@
 id: 677355660
-type: way
+type: node
 latitude: 33.45952
 longitude: -94.0415
 postcode: "71854"
 city: Texarkana
-street: "North State Line Avenue"
-housenumber: 3710
-phone: "+1 870-774-3146"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.albertsons.com/ar/texarkana/3710-state-line-ave.html"
+street: North State Line Avenue
+housenumber: "3710"
+phone: +1 870-774-3146
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.albertsons.com/ar/texarkana/3710-state-line-ave.html

@@ -1,11 +1,11 @@
 id: 577372300
-type: way
+type: node
 latitude: 29.88468
 longitude: -95.52256
 postcode: "77040"
 city: Houston
-street: "Fairbanks North Houston Road"
-housenumber: 7442
+street: Fairbanks North Houston Road
+housenumber: "7442"
 phone: ""
 opening_hours: ""
 website: ""

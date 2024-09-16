@@ -1,11 +1,11 @@
 id: 977598826
-type: way
+type: node
 latitude: 32.14838
 longitude: -95.32871
 postcode: "75757"
 city: Bullard
-street: "North Houston Street"
-housenumber: 1051
+street: North Houston Street
+housenumber: "1051"
 phone: ""
-opening_hours: "Mo-Fr 12:00-16:00"
+opening_hours: Mo-Fr 12:00-16:00
 website: ""

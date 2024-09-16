@@ -1,11 +1,11 @@
 id: 656305893
-type: way
+type: node
 latitude: 33.21055
 longitude: -97.13267
 postcode: "76201"
 city: Denton
-street: "South Locust Street"
-housenumber: 500
+street: South Locust Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

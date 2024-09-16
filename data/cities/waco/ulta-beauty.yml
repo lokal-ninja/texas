@@ -1,11 +1,11 @@
 id: 259234694
-type: way
+type: node
 latitude: 31.4988
 longitude: -97.15972
 postcode: "76711"
 city: Waco
-street: "West Loop 340"
-housenumber: 2432
-phone: "+1 254-662-9117"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/waco-tx-1046"
+street: West Loop 340
+housenumber: "2432"
+phone: +1 254-662-9117
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/waco-tx-1046

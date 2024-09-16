@@ -4,8 +4,9 @@ latitude: 33.00776
 longitude: -96.96943
 postcode: "75057"
 city: Lewisville
-street: "South Stemmons Freeway"
-housenumber: 2410
-phone: "+1 972-315-5202"
-opening_hours: "Mo-Tu 09:00-18:00; We closed; Th-Fr 09:00-18:00; Sa 08:00-14:00; Su closed"
-website: "https://locations.myeyedr.com/tx/lewisville/2410-south-stemmons-freeway"
+street: South Stemmons Freeway
+housenumber: "2410"
+phone: +1 972-315-5202
+opening_hours: Mo-Tu 09:00-18:00; We closed; Th-Fr 09:00-18:00; Sa 08:00-14:00; Su
+    closed
+website: https://locations.myeyedr.com/tx/lewisville/2410-south-stemmons-freeway

@@ -1,11 +1,11 @@
 id: 387270333
-type: way
+type: node
 latitude: 32.50876
 longitude: -94.73192
 postcode: "75601"
 city: Longview
-street: "North Third Street"
-housenumber: 1120
+street: North Third Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

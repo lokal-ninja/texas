@@ -1,11 +1,11 @@
 id: 466443215
-type: way
+type: node
 latitude: 32.81261
 longitude: -96.72762
 postcode: "75218"
 city: Dallas
-street: "Garland Road"
-housenumber: 7729
-phone: "(972) 581-0616"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.goodygoody.com/"
+street: Garland Road
+housenumber: "7729"
+phone: (972) 581-0616
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.goodygoody.com/

@@ -1,11 +1,11 @@
 id: 560268934
-type: way
+type: node
 latitude: 32.89782
 longitude: -96.46411
 postcode: "75032"
 city: Rockwall
-street: "Market Center Drive"
-housenumber: 2663
+street: Market Center Drive
+housenumber: "2663"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 238813019
-type: way
+type: node
 latitude: 29.56467
 longitude: -98.58818
 postcode: "78230"
 city: San Antonio
-street: "Vance Jackson Road"
-housenumber: 12651
-phone: "+1 210-253-8310"
+street: Vance Jackson Road
+housenumber: "12651"
+phone: +1 210-253-8310
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/san-antonio/12651-vance-jackson-rd-2693.html"
+website: https://stores.bestbuy.com/tx/san-antonio/12651-vance-jackson-rd-2693.html

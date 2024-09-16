@@ -1,11 +1,11 @@
 id: 1156229063
-type: way
+type: node
 latitude: 33.57433
 longitude: -98.43753
 postcode: "76389"
 city: Windthorst
-street: "US Highway 281"
-housenumber: 18847
+street: US Highway 281
+housenumber: "18847"
 phone: ""
 opening_hours: ""
 website: ""

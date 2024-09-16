@@ -1,11 +1,11 @@
 id: 699146798
-type: way
+type: node
 latitude: 35.15775
 longitude: -101.9396
 postcode: "79119"
 city: Amarillo
-street: "Pilgrim Drive"
-housenumber: 8707
+street: Pilgrim Drive
+housenumber: "8707"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 725992351
-type: way
+type: node
 latitude: 35.19191
 longitude: -101.79804
 postcode: "79103"
 city: Amarillo
-street: "East Interstate Drive"
-housenumber: 3300
+street: East Interstate Drive
+housenumber: "3300"
 phone: ""
 opening_hours: ""
-website: "https://local.amigosunited.com/tx/amarillo/3300-i-40-e.html"
+website: https://local.amigosunited.com/tx/amarillo/3300-i-40-e.html

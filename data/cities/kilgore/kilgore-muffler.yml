@@ -1,11 +1,11 @@
 id: 740874117
-type: way
+type: node
 latitude: 32.4079
 longitude: -94.85213
 postcode: "75662"
 city: Kilgore
-street: "State Highway 31 East"
-housenumber: 2606
-phone: "+1-903-983-1291"
+street: State Highway 31 East
+housenumber: "2606"
+phone: +1-903-983-1291
 opening_hours: ""
-website: "https://kilgoremuffler.com/"
+website: https://kilgoremuffler.com/

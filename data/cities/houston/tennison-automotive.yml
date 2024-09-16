@@ -1,11 +1,11 @@
 id: 318855827
-type: way
+type: node
 latitude: 29.84601
 longitude: -95.37497
 postcode: ""
 city: Houston
-street: "Tidwell Road"
-housenumber: 159
+street: Tidwell Road
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 747935439
-type: way
+type: node
 latitude: 30.56422
 longitude: -100.64506
 postcode: "76950"
 city: Sonora
-street: "Glasscock Avenue"
-housenumber: 804
+street: Glasscock Avenue
+housenumber: "804"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1117532880
-type: way
+type: node
 latitude: 32.34025
 longitude: -97.33804
 postcode: "76031"
 city: Cleburne
-street: "County Road 427A"
-housenumber: 1800
-phone: "+1 682 317 9836"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/tx/cleburne/19705.html"
+street: County Road 427A
+housenumber: "1800"
+phone: +1 682 317 9836
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/tx/cleburne/19705.html

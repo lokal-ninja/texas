@@ -1,11 +1,11 @@
 id: 460242195
-type: way
+type: node
 latitude: 32.72388
 longitude: -102.64579
 postcode: "79360"
 city: Seminole
-street: "North Main Street"
-housenumber: 409
+street: North Main Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

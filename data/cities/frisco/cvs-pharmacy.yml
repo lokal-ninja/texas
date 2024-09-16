@@ -1,11 +1,11 @@
 id: 274402315
-type: way
+type: node
 latitude: 33.1541
 longitude: -96.84893
 postcode: ""
 city: Frisco
-street: "Legacy Drive"
-housenumber: 9075
+street: Legacy Drive
+housenumber: "9075"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/frisco-tx-pharmacies/9075-legacy-dr-frisco-tx-75033/storeid=7562"
+website: https://www.cvs.com/store-locator/frisco-tx-pharmacies/9075-legacy-dr-frisco-tx-75033/storeid=7562

@@ -1,11 +1,11 @@
 id: 1222877977
-type: way
+type: node
 latitude: 30.7033
 longitude: -97.74744
 postcode: "78633"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 5606
-phone: "+1-512-937-2284"
-opening_hours: "Mo-Sa 07:00-19:00; Su 09:00-17:00"
-website: "https://www.take5.com"
+street: Williams Drive
+housenumber: "5606"
+phone: +1-512-937-2284
+opening_hours: Mo-Sa 07:00-19:00; Su 09:00-17:00
+website: https://www.take5.com

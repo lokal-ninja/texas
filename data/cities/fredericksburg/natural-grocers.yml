@@ -1,11 +1,11 @@
 id: 1137759770
-type: way
+type: node
 latitude: 30.26914
 longitude: -98.86294
 postcode: "78624"
 city: Fredericksburg
-street: "East Main Street"
-housenumber: 610
+street: East Main Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

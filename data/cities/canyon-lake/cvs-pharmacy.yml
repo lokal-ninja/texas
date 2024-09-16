@@ -1,11 +1,11 @@
 id: 765864409
-type: way
+type: node
 latitude: 29.8433
 longitude: -98.26759
 postcode: "78133"
 city: Canyon Lake
-street: "FM 2673"
-housenumber: 8049
+street: FM 2673
+housenumber: "8049"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/canyon-lake-tx-pharmacies/8049-fm-2673-canyon-lake-tx-78133/storeid=10403"
+website: https://www.cvs.com/store-locator/canyon-lake-tx-pharmacies/8049-fm-2673-canyon-lake-tx-78133/storeid=10403

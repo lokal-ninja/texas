@@ -1,11 +1,11 @@
 id: 659957356
-type: way
+type: node
 latitude: 33.21724
 longitude: -96.60823
 postcode: "75071"
 city: McKinney
-street: "Power House Street"
-housenumber: 436
+street: Power House Street
+housenumber: "436"
 phone: ""
 opening_hours: ""
-website: "https://www.iptruck.com/"
+website: https://www.iptruck.com/

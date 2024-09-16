@@ -1,11 +1,11 @@
 id: 563895603
-type: way
+type: node
 latitude: 32.07976
 longitude: -96.48689
 postcode: "75110"
 city: Corsicana
-street: "Varsity Drive"
-housenumber: 2401
+street: Varsity Drive
+housenumber: "2401"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 995063318
-type: way
+type: node
 latitude: 31.03603
 longitude: -104.83129
 postcode: "79855"
 city: Van Horn
-street: "Van Horn Street"
-housenumber: 500
+street: Van Horn Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 488940849
-type: way
+type: node
 latitude: 32.7015
 longitude: -95.21072
 postcode: "75765"
 city: Hawkins
-street: "Farm-to-Market Road 2869"
-housenumber: 2278
+street: Farm-to-Market Road 2869
+housenumber: "2278"
 phone: ""
-opening_hours: "Mo-Th 06:00-21:00; Fr 06:00-22:00; Sa 06:30-22:00; Su 07:00-21:00"
+opening_hours: Mo-Th 06:00-21:00; Fr 06:00-22:00; Sa 06:30-22:00; Su 07:00-21:00
 website: ""

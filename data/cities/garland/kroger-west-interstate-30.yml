@@ -1,11 +1,11 @@
 id: 523791597
-type: way
+type: node
 latitude: 32.83789
 longitude: -96.59644
 postcode: "75043"
 city: Garland
-street: "West Interstate 30"
-housenumber: 532
-phone: "+1 972-226-1132"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/tx/garland/beltline-i-30/035/00403"
+street: West Interstate 30
+housenumber: "532"
+phone: +1 972-226-1132
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/tx/garland/beltline-i-30/035/00403

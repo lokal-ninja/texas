@@ -1,11 +1,11 @@
 id: 851665938
-type: way
+type: node
 latitude: 29.66738
 longitude: -95.09724
 postcode: "77536"
 city: Deer Park
-street: "East Boulevard"
-housenumber: 4701
-phone: "+1-281-930-0326"
+street: East Boulevard
+housenumber: "4701"
+phone: +1-281-930-0326
 opening_hours: ""
 website: ""

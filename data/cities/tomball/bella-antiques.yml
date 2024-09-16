@@ -1,11 +1,11 @@
 id: 1060257699
-type: way
+type: node
 latitude: 30.09598
 longitude: -95.61644
 postcode: ""
 city: Tomball
-street: "Market Street"
-housenumber: 311
+street: Market Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 818634493
-type: way
+type: node
 latitude: 32.5113
 longitude: -94.81999
 postcode: "75604"
 city: Longview
-street: "Fastener Lane"
-housenumber: 101
+street: Fastener Lane
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

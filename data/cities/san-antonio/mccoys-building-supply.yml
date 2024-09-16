@@ -1,11 +1,11 @@
 id: 636447793
-type: way
+type: node
 latitude: 29.34427
 longitude: -98.45585
 postcode: "78223"
 city: San Antonio
-street: "South Presa Street"
-housenumber: 8212
+street: South Presa Street
+housenumber: "8212"
 phone: ""
 opening_hours: ""
 website: ""

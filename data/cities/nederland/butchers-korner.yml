@@ -1,11 +1,11 @@
 id: 1240688967
-type: way
+type: node
 latitude: 29.97594
 longitude: -93.99091
 postcode: "77627"
 city: Nederland
-street: "Boston Avenue"
-housenumber: 1155
+street: Boston Avenue
+housenumber: "1155"
 phone: ""
 opening_hours: ""
 website: ""

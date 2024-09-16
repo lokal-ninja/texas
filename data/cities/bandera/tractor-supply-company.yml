@@ -1,11 +1,11 @@
 id: 704432299
-type: way
+type: node
 latitude: 29.72139
 longitude: -99.06744
 postcode: "78003"
 city: Bandera
-street: "State Highway 173 South"
-housenumber: 220
-phone: "+1 830-796-3993"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: State Highway 173 South
+housenumber: "220"
+phone: +1 830-796-3993
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 362672266
-type: way
+type: node
 latitude: 31.30293
 longitude: -94.73001
 postcode: "75904"
 city: Lufkin
-street: "North Brentwood Drive"
-housenumber: 511
-phone: "+1 936-699-7555"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Brentwood Drive
+housenumber: "511"
+phone: +1 936-699-7555
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

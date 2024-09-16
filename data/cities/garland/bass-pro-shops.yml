@@ -1,11 +1,11 @@
 id: 460413766
-type: way
+type: node
 latitude: 32.86662
 longitude: -96.53737
 postcode: "75043"
 city: Garland
-street: "Bass Pro Drive"
-housenumber: 5001
+street: Bass Pro Drive
+housenumber: "5001"
 phone: ""
 opening_hours: ""
-website: "https://stores.basspro.com/us/tx/garland/5001-bass-pro-dr.html"
+website: https://stores.basspro.com/us/tx/garland/5001-bass-pro-dr.html

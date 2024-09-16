@@ -1,11 +1,11 @@
 id: 673924865
-type: way
+type: node
 latitude: 32.78814
 longitude: -96.59775
 postcode: "75149"
 city: Mesquite
-street: "US Highway 80"
-housenumber: 200
-phone: "+1 972-329-0191"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/789/mesquite-tx/whats-new"
+street: US Highway 80
+housenumber: "200"
+phone: +1 972-329-0191
+opening_hours: 24/7
+website: https://www.walmart.com/store/789/mesquite-tx/whats-new

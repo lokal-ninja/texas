@@ -1,11 +1,11 @@
 id: 465439993
-type: way
+type: node
 latitude: 32.76786
 longitude: -96.83641
 postcode: "75208"
 city: Dallas
-street: "Sylvan Avenue"
-housenumber: 1805
+street: Sylvan Avenue
+housenumber: "1805"
 phone: ""
 opening_hours: ""
 website: ""

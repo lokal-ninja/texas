@@ -1,11 +1,11 @@
 id: 318126137
-type: way
+type: node
 latitude: 30.30852
 longitude: -95.47333
 postcode: "77304"
 city: Conroe
-street: "FM 2854"
-housenumber: 1300
+street: FM 2854
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

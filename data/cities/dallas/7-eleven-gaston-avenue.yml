@@ -1,11 +1,11 @@
 id: 627612525
-type: way
+type: node
 latitude: 32.79395
 longitude: -96.77616
 postcode: "75246"
 city: Dallas
-street: "Gaston Avenue"
-housenumber: 4104
+street: Gaston Avenue
+housenumber: "4104"
 phone: ""
 opening_hours: ""
 website: ""

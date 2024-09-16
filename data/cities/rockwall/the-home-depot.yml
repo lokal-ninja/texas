@@ -1,11 +1,11 @@
 id: 560268943
-type: way
+type: node
 latitude: 32.89857
 longitude: -96.46115
 postcode: "75087"
 city: Rockwall
-street: "East Interstate 30"
-housenumber: 765
-phone: "+1 972-771-2825"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Rockwall/TX/Rockwall/75087/531"
+street: East Interstate 30
+housenumber: "765"
+phone: +1 972-771-2825
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Rockwall/TX/Rockwall/75087/531

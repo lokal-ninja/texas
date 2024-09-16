@@ -1,11 +1,11 @@
 id: 457126929
-type: way
+type: node
 latitude: 29.43989
 longitude: -98.65867
 postcode: "78245"
 city: San Antonio
-street: "State Highway 151"
-housenumber: 8703
+street: State Highway 151
+housenumber: "8703"
 phone: ""
 opening_hours: ""
 website: ""

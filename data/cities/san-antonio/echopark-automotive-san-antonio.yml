@@ -1,11 +1,11 @@
 id: 569484528
-type: way
+type: node
 latitude: 29.59288
 longitude: -98.59632
 postcode: "78257"
 city: San Antonio
-street: "North Loop 1604 West"
-housenumber: 5611
-phone: "+1-210-384-2299"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.echopark.com/dealerships/san-antonio.htm"
+street: North Loop 1604 West
+housenumber: "5611"
+phone: +1-210-384-2299
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.echopark.com/dealerships/san-antonio.htm

@@ -1,11 +1,11 @@
 id: 463968540
-type: way
+type: node
 latitude: 32.83603
 longitude: -96.7683
 postcode: "75206"
 city: Dallas
-street: "East Mockingbird Lane"
-housenumber: 5742
+street: East Mockingbird Lane
+housenumber: "5742"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5742+e+mockingbird+ln-dallas-tx-75206/id=6660"
+website: https://www.walgreens.com/locator/walgreens-5742+e+mockingbird+ln-dallas-tx-75206/id=6660

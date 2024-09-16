@@ -1,11 +1,11 @@
 id: 839186653
-type: way
+type: node
 latitude: 28.89925
 longitude: -99.09432
 postcode: "78061"
 city: Pearsall
-street: "North Oak Street"
-housenumber: 819
-phone: "+1 830-334-9451"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/478-pearsall-tx"
+street: North Oak Street
+housenumber: "819"
+phone: +1 830-334-9451
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/478-pearsall-tx

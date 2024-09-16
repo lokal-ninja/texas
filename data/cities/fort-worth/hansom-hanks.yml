@@ -1,11 +1,11 @@
 id: 692036622
-type: way
+type: node
 latitude: 32.81369
 longitude: -97.41074
 postcode: "76106"
 city: Fort Worth
-street: "Northwest Loop 820"
-housenumber: 3601
+street: Northwest Loop 820
+housenumber: "3601"
 phone: ""
 opening_hours: ""
 website: ""

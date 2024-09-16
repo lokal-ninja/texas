@@ -1,11 +1,11 @@
 id: 573668246
-type: way
+type: node
 latitude: 30.34868
 longitude: -97.54078
 postcode: "78653"
 city: Manor
-street: "Ring Drive"
-housenumber: 11808
-phone: "+1-512-961-1395"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:30-20:00"
-website: "https://stores.advanceautoparts.com/tx/manor/11808-ring-dr"
+street: Ring Drive
+housenumber: "11808"
+phone: +1-512-961-1395
+opening_hours: Mo-Sa 07:30-21:00; Su 08:30-20:00
+website: https://stores.advanceautoparts.com/tx/manor/11808-ring-dr

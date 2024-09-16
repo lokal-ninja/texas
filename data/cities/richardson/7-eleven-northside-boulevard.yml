@@ -4,8 +4,8 @@ latitude: 32.99352
 longitude: -96.75065
 postcode: "75080"
 city: Richardson
-street: "Northside Boulevard"
-housenumber: 3000
-phone: "+1 469-662-4563"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/tx/richardson/3000-northside-blvd-a-100-38342"
+street: Northside Boulevard
+housenumber: "3000"
+phone: +1 469-662-4563
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/tx/richardson/3000-northside-blvd-a-100-38342

@@ -1,11 +1,11 @@
 id: 495261574
-type: way
+type: node
 latitude: 29.72616
 longitude: -99.06841
 postcode: "78003"
 city: Bandera
-street: "State Highway 16 South"
-housenumber: 264
+street: State Highway 16 South
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

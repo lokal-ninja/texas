@@ -1,11 +1,11 @@
 id: 710109792
-type: way
+type: node
 latitude: 32.27175
 longitude: -97.17147
 postcode: ""
 city: Grandview
-street: "East Criner Street"
-housenumber: 1002
+street: East Criner Street
+housenumber: "1002"
 phone: ""
-opening_hours: "Mo-Th 05:00-21:00; Fr,Sa 05:00-10:00; Su 07:00-21:00"
-website: "https://www.exxon.com/en/find-station/mobil-grandview-tx-grandviewfaststop-200312443"
+opening_hours: Mo-Th 05:00-21:00; Fr,Sa 05:00-10:00; Su 07:00-21:00
+website: https://www.exxon.com/en/find-station/mobil-grandview-tx-grandviewfaststop-200312443

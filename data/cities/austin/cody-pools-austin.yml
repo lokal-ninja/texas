@@ -1,11 +1,11 @@
 id: 383188259
-type: way
+type: node
 latitude: 30.41802
 longitude: -97.69939
 postcode: "78727"
 city: Austin
-street: "West Parmer Ln"
-housenumber: 2300
-phone: "+1-512-835-4966"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://codypools.com/"
+street: West Parmer Ln
+housenumber: "2300"
+phone: +1-512-835-4966
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://codypools.com/

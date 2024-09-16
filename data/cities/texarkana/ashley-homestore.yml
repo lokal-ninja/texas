@@ -1,11 +1,11 @@
 id: 220331731
-type: way
+type: node
 latitude: 33.44933
 longitude: -94.09798
 postcode: "75501"
 city: Texarkana
-street: "Walton Drive"
-housenumber: 602
-phone: "+1 903-223-0792"
+street: Walton Drive
+housenumber: "602"
+phone: +1 903-223-0792
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/texas/texarkana/7710000442/"
+website: https://stores.ashleyfurniture.com/store/us/texas/texarkana/7710000442/

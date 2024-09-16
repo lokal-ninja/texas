@@ -1,11 +1,11 @@
 id: 654377152
-type: way
+type: node
 latitude: 32.70817
 longitude: -97.00156
 postcode: "75052"
 city: Grand Prairie
-street: "East Pioneer Parkway"
-housenumber: 313
-phone: "+1 972-264-2384"
-opening_hours: "Mo-Sa 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/tx/grand-prairie/plaza-303/035/00191"
+street: East Pioneer Parkway
+housenumber: "313"
+phone: +1 972-264-2384
+opening_hours: Mo-Sa 06:00-24:00
+website: https://www.kroger.com/stores/grocery/tx/grand-prairie/plaza-303/035/00191

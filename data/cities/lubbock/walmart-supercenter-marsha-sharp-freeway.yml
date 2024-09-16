@@ -1,11 +1,11 @@
 id: 442972069
-type: way
+type: node
 latitude: 33.59124
 longitude: -101.85952
 postcode: "79415"
 city: Lubbock
-street: "Marsha Sharp Freeway"
-housenumber: 1911
-phone: "+1 806-747-3454"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3826/lubbock-tx/whats-new"
+street: Marsha Sharp Freeway
+housenumber: "1911"
+phone: +1 806-747-3454
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3826/lubbock-tx/whats-new

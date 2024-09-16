@@ -1,11 +1,11 @@
 id: 687872000
-type: way
+type: node
 latitude: 29.57976
 longitude: -98.3423
 postcode: "78233"
 city: San Antonio
-street: "Lookout Road"
-housenumber: 15311
+street: Lookout Road
+housenumber: "15311"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 673204802
-type: way
+type: node
 latitude: 32.67816
 longitude: -96.85677
 postcode: "75232"
 city: Dallas
-street: "Marvin D Love Freeway"
-housenumber: 5707
+street: Marvin D Love Freeway
+housenumber: "5707"
 phone: ""
 opening_hours: ""
 website: ""

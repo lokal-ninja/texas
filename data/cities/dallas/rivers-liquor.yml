@@ -1,11 +1,11 @@
 id: 466976910
-type: way
+type: node
 latitude: 32.85262
 longitude: -96.88603
 postcode: "75220"
 city: Dallas
-street: "Storey Lane"
-housenumber: 1800
+street: Storey Lane
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

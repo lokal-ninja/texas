@@ -1,11 +1,11 @@
 id: 221296638
-type: way
+type: node
 latitude: 32.94045
 longitude: -96.76327
 postcode: "75080"
 city: Richardson
-street: "West Spring Valley Road"
-housenumber: 1264
+street: West Spring Valley Road
+housenumber: "1264"
 phone: ""
 opening_hours: ""
 website: ""

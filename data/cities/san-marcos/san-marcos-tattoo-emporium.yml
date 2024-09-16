@@ -1,11 +1,11 @@
 id: 1064644236
-type: way
+type: node
 latitude: 29.88275
 longitude: -97.93995
 postcode: "78666"
 city: San Marcos
-street: "North LBJ Drive"
-housenumber: 120
+street: North LBJ Drive
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

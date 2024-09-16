@@ -1,11 +1,11 @@
 id: 1093506436
-type: way
+type: node
 latitude: 32.79506
 longitude: -95.44616
 postcode: "75783"
 city: Quitman
-street: "East Goode Street"
-housenumber: 502
-phone: "+1-903-763-2190"
+street: East Goode Street
+housenumber: "502"
+phone: +1-903-763-2190
 opening_hours: ""
-website: "https://partsplustx.partsplus.com/pickupstoredisplay.wws?storenum=2"
+website: https://partsplustx.partsplus.com/pickupstoredisplay.wws?storenum=2

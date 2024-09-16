@@ -1,11 +1,11 @@
 id: 571425460
-type: way
+type: node
 latitude: 28.87529
 longitude: -96.99706
 postcode: "77904"
 city: Victoria
-street: "North Navarro Street"
-housenumber: 8706
+street: North Navarro Street
+housenumber: "8706"
 phone: ""
 opening_hours: ""
 website: ""

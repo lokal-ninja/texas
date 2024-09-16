@@ -1,11 +1,11 @@
 id: 197437004
-type: way
+type: node
 latitude: 29.84478
 longitude: -97.9678
 postcode: "78666"
 city: San Marcos
-street: "651 Barnes Drive"
-housenumber: 651
+street: 651 Barnes Drive
+housenumber: "651"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.att.com/"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.att.com/

@@ -1,11 +1,11 @@
 id: 1060177683
-type: way
+type: node
 latitude: 35.1909
 longitude: -101.7611
 postcode: "79118"
 city: Amarillo
-street: "South Whitaker Road"
-housenumber: 2000
+street: South Whitaker Road
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

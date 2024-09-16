@@ -1,11 +1,11 @@
 id: 503489921
-type: way
+type: node
 latitude: 26.20284
 longitude: -97.6829
 postcode: "78550"
 city: Harlingen
-street: "North 77 Sunshine Strip"
-housenumber: 1006
-phone: "+1-956-428-8553"
+street: North 77 Sunshine Strip
+housenumber: "1006"
+phone: +1-956-428-8553
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/harlingen/1006-n-77-sunshine-strip.html"
+website: https://www.autozone.com/locations/tx/harlingen/1006-n-77-sunshine-strip.html

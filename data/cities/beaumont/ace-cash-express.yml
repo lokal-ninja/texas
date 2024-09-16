@@ -1,11 +1,11 @@
 id: 772538953
-type: way
+type: node
 latitude: 30.12036
 longitude: -94.14306
 postcode: "77708"
 city: Beaumont
-street: "East Lucas Drive"
-housenumber: 4130
+street: East Lucas Drive
+housenumber: "4130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 872028992
-type: way
+type: node
 latitude: 32.73636
 longitude: -96.27585
 postcode: "75160"
 city: Terrell
-street: "East Moore Avenue"
-housenumber: 207
+street: East Moore Avenue
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 29.43192
 longitude: -98.71519
 postcode: "78245"
 city: San Antonio
-street: "West Loop 1604 South"
-housenumber: 191
-phone: "+1 210-868-6725"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/san-antonio-TX-1449.html"
+street: West Loop 1604 South
+housenumber: "191"
+phone: +1 210-868-6725
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/san-antonio-TX-1449.html

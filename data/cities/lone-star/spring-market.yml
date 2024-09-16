@@ -1,11 +1,11 @@
 id: 583610952
-type: way
+type: node
 latitude: 32.95559
 longitude: -94.70882
 postcode: "75668"
 city: Lone Star
-street: "North Main Street"
-housenumber: 914
+street: North Main Street
+housenumber: "914"
 phone: ""
 opening_hours: ""
 website: ""

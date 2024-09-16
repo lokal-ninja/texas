@@ -1,11 +1,11 @@
 id: 439517798
-type: way
+type: node
 latitude: 33.12204
 longitude: -95.59724
 postcode: "75482"
 city: Sulphur Springs
-street: "Gilmer Street"
-housenumber: 1101
+street: Gilmer Street
+housenumber: "1101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/sulphur-springs-tx-pharmacies/1101-gilmer-st-sulphur-springs-tx-75482/storeid=7439"
+website: https://www.cvs.com/store-locator/sulphur-springs-tx-pharmacies/1101-gilmer-st-sulphur-springs-tx-75482/storeid=7439

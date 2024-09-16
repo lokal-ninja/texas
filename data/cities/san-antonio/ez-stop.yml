@@ -1,11 +1,11 @@
 id: 708346701
-type: way
+type: node
 latitude: 29.22103
 longitude: -98.47851
 postcode: "78221"
 city: San Antonio
-street: "US Highway 281 South"
-housenumber: 20115
+street: US Highway 281 South
+housenumber: "20115"
 phone: ""
 opening_hours: ""
 website: ""

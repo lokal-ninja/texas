@@ -1,11 +1,11 @@
 id: 503389371
-type: way
+type: node
 latitude: 32.28805
 longitude: -95.30139
 postcode: "75703"
 city: Tyler
-street: "South Broadway Avenue"
-housenumber: 5514
-phone: "+1 903-509-0690"
+street: South Broadway Avenue
+housenumber: "5514"
+phone: +1 903-509-0690
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/tyler/5514-s-broadway-ave-246.html"
+website: https://stores.bestbuy.com/tx/tyler/5514-s-broadway-ave-246.html

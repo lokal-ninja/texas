@@ -1,11 +1,11 @@
 id: 1008139596
-type: way
+type: node
 latitude: 32.40103
 longitude: -98.79924
 postcode: "76448"
 city: Eastland
-street: "East Main Street"
-housenumber: 1245
-phone: "+1-866-233-8549"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://www.blakefulenwiderchevybuickgmc.com/"
+street: East Main Street
+housenumber: "1245"
+phone: +1-866-233-8549
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://www.blakefulenwiderchevybuickgmc.com/

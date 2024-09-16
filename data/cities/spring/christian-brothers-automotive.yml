@@ -1,11 +1,11 @@
 id: 955206152
-type: way
+type: node
 latitude: 30.08517
 longitude: -95.5321
 postcode: "77379"
 city: Spring
-street: "North Grand Parkway West"
-housenumber: 7315
-phone: "+1-281-771-0517"
+street: North Grand Parkway West
+housenumber: "7315"
+phone: +1-281-771-0517
 opening_hours: ""
-website: "https://www.cbac.com/spring-stuebner"
+website: https://www.cbac.com/spring-stuebner

@@ -1,11 +1,11 @@
 id: 512629092
-type: way
+type: node
 latitude: 32.39064
 longitude: -96.84483
 postcode: "75165"
 city: Waxahachie
-street: "North College Street"
-housenumber: 431
+street: North College Street
+housenumber: "431"
 phone: ""
 opening_hours: ""
 website: ""

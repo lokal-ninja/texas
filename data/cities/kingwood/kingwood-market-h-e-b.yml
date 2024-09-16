@@ -1,11 +1,11 @@
 id: 592902131
-type: way
+type: node
 latitude: 30.05286
 longitude: -95.18288
 postcode: "77345"
 city: Kingwood
-street: "Kingwood Drive"
-housenumber: 4517
-phone: "+1-281-361-0342"
+street: Kingwood Drive
+housenumber: "4517"
+phone: +1-281-361-0342
 opening_hours: ""
 website: ""

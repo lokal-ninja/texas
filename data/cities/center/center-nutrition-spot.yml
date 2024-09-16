@@ -1,11 +1,11 @@
 id: 734541605
-type: way
+type: node
 latitude: 31.79499
 longitude: -94.18932
 postcode: ""
 city: Center
-street: "Hurst Street"
-housenumber: 500
+street: Hurst Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

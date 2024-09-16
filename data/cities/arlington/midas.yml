@@ -1,11 +1,11 @@
 id: 713697722
-type: way
+type: node
 latitude: 32.70984
 longitude: -97.15706
 postcode: "76013"
 city: Arlington
-street: "Pioneer Parkway"
-housenumber: 3120
+street: Pioneer Parkway
+housenumber: "3120"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

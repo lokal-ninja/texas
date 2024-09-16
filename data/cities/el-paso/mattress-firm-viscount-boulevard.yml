@@ -1,11 +1,11 @@
 id: 695025652
-type: way
+type: node
 latitude: 31.76445
 longitude: -106.36327
 postcode: "79925"
 city: El Paso
-street: "Viscount Boulevard"
-housenumber: 9531
-phone: "+1 915-592-5230"
+street: Viscount Boulevard
+housenumber: "9531"
+phone: +1 915-592-5230
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/tx/el-paso/961101/"
+website: https://www.mattressfirm.com/en-us/stores/tx/el-paso/961101/

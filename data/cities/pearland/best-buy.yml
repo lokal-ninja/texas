@@ -1,11 +1,11 @@
 id: 581047410
-type: way
+type: node
 latitude: 29.55949
 longitude: -95.38563
 postcode: "77584"
 city: Pearland
-street: "Smith Ranch Road"
-housenumber: 2632
-phone: "+1 713-436-2488"
+street: Smith Ranch Road
+housenumber: "2632"
+phone: +1 713-436-2488
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/pearland/2632-smith-ranch-rd-948.html"
+website: https://stores.bestbuy.com/tx/pearland/2632-smith-ranch-rd-948.html

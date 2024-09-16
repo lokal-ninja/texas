@@ -4,8 +4,8 @@ latitude: 30.1721
 longitude: -97.63033
 postcode: "78617"
 city: Del Valle
-street: "Pearce Lane"
-housenumber: 12201
+street: Pearce Lane
+housenumber: "12201"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.valero.com/"
+opening_hours: 24/7
+website: https://www.valero.com/

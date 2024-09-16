@@ -1,11 +1,11 @@
 id: 881216598
-type: way
+type: node
 latitude: 29.35853
 longitude: -94.97936
 postcode: "77568"
 city: La Marque
-street: "Main Street"
-housenumber: 2430
+street: Main Street
+housenumber: "2430"
 phone: ""
 opening_hours: ""
 website: ""

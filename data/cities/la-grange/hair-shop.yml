@@ -1,11 +1,11 @@
 id: 903639512
-type: way
+type: node
 latitude: 29.91486
 longitude: -96.86225
 postcode: "78945"
 city: La Grange
-street: "East State Highway 159"
-housenumber: 1250
+street: East State Highway 159
+housenumber: "1250"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1205389621
-type: way
+type: node
 latitude: 31.46211
 longitude: -94.72603
 postcode: "75964"
 city: Nacogdoches
-street: "South US Highway 59"
-housenumber: 10088
+street: South US Highway 59
+housenumber: "10088"
 phone: ""
 opening_hours: ""
 website: ""

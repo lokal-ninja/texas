@@ -1,11 +1,11 @@
 id: 658182419
-type: way
+type: node
 latitude: 33.9651
 longitude: -98.67252
 postcode: "76367"
 city: Iowa Park
-street: "North Pacific Avenue"
-housenumber: 1501
+street: North Pacific Avenue
+housenumber: "1501"
 phone: ""
-opening_hours: "Su-Th 06:00-22:00; Fr-Sa 06:00-23:00"
-website: "https://yesway.com/"
+opening_hours: Su-Th 06:00-22:00; Fr-Sa 06:00-23:00
+website: https://yesway.com/

@@ -1,11 +1,11 @@
 id: 314257079
-type: way
+type: node
 latitude: 31.72614
 longitude: -98.98168
 postcode: "76801"
 city: Brownwood
-street: "Main Street"
-housenumber: 302
-phone: "+1 325-646-7546"
+street: Main Street
+housenumber: "302"
+phone: +1 325-646-7546
 opening_hours: ""
 website: ""

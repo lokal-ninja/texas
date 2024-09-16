@@ -4,8 +4,9 @@ latitude: 32.68172
 longitude: -97.11241
 postcode: "76018"
 city: Arlington
-street: "Merchants Row Drive"
-housenumber: 137
-phone: "+1-817-472-9699"
-opening_hours: "Mo 10:30-21:00; Tu 10:30-21:00; We 10:30-21:00; Th 10:30-21:00; Fr 10:30-21:00; Sa 9:00-19:30"
-website: "https://www.davidsbridal.com/"
+street: Merchants Row Drive
+housenumber: "137"
+phone: +1-817-472-9699
+opening_hours: Mo 10:30-21:00; Tu 10:30-21:00; We 10:30-21:00; Th 10:30-21:00; Fr
+    10:30-21:00; Sa 9:00-19:30
+website: https://www.davidsbridal.com/

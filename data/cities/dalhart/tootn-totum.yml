@@ -1,11 +1,11 @@
 id: 621037652
-type: way
+type: node
 latitude: 36.06446
 longitude: -102.52098
 postcode: "79022"
 city: Dalhart
-street: "Liberal Street"
-housenumber: 122
+street: Liberal Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 478785001
-type: way
+type: node
 latitude: 29.84939
 longitude: -95.47276
 postcode: ""
 city: Houston
-street: "West Tidwell Road"
-housenumber: 5618
+street: West Tidwell Road
+housenumber: "5618"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 805530194
-type: way
+type: node
 latitude: 31.92677
 longitude: -96.42535
 postcode: "76681"
 city: Richland
-street: "North Austin Avenue"
-housenumber: 105
+street: North Austin Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

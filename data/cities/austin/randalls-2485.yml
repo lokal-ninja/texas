@@ -1,11 +1,11 @@
 id: 129731057
-type: way
+type: node
 latitude: 30.22954
 longitude: -97.7903
 postcode: "78704"
 city: Austin
-street: "West Ben White Boulevard"
-housenumber: 2025
-phone: "+1-512-443-3083"
+street: West Ben White Boulevard
+housenumber: "2025"
+phone: +1-512-443-3083
 opening_hours: ""
-website: "https://local.randalls.com/tx/austin/2025-w-ben-white-blvd.html"
+website: https://local.randalls.com/tx/austin/2025-w-ben-white-blvd.html

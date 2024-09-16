@@ -1,11 +1,11 @@
 id: 903642367
-type: way
+type: node
 latitude: 29.90638
 longitude: -96.87597
 postcode: "78945"
 city: La Grange
-street: "East Travis Street"
-housenumber: 157
+street: East Travis Street
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

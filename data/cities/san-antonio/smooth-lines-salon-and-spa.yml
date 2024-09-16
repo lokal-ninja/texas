@@ -1,11 +1,11 @@
 id: 276922532
-type: way
+type: node
 latitude: 29.54714
 longitude: -98.57804
 postcode: "78230"
 city: San Antonio
-street: "Huebner Road"
-housenumber: 11255
-phone: "1-210-690-2244"
+street: Huebner Road
+housenumber: "11255"
+phone: 1-210-690-2244
 opening_hours: ""
-website: "https://www.smoothlinessalon.com/"
+website: https://www.smoothlinessalon.com/

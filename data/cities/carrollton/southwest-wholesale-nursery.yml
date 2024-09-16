@@ -1,11 +1,11 @@
 id: 1232084578
-type: way
+type: node
 latitude: 32.96608
 longitude: -96.93986
 postcode: "75006"
 city: Carrollton
-street: "Sandy Lake Road"
-housenumber: 2220
+street: Sandy Lake Road
+housenumber: "2220"
 phone: ""
 opening_hours: ""
-website: "https://www.southwestnursery.com"
+website: https://www.southwestnursery.com

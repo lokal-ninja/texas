@@ -1,11 +1,11 @@
 id: 1032899724
-type: way
+type: node
 latitude: 32.88064
 longitude: -96.99115
 postcode: "75038"
 city: Irving
-street: "North Belt Line Road"
-housenumber: 5140
+street: North Belt Line Road
+housenumber: "5140"
 phone: ""
 opening_hours: ""
 website: ""

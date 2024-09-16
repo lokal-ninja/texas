@@ -1,11 +1,11 @@
 id: 1119240614
-type: way
+type: node
 latitude: 29.54259
 longitude: -95.74426
 postcode: "77469"
 city: Rosenberg
-street: "FM 762"
-housenumber: 4126
+street: FM 762
+housenumber: "4126"
 phone: ""
 opening_hours: ""
 website: ""

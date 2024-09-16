@@ -1,11 +1,11 @@
 id: 597316215
-type: way
+type: node
 latitude: 33.87686
 longitude: -98.54292
 postcode: "76308"
 city: Wichita Falls
-street: "Lawrence Road"
-housenumber: 3130
-phone: "+1 940-696-3393"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1148/wichita-falls-tx/whats-new"
+street: Lawrence Road
+housenumber: "3130"
+phone: +1 940-696-3393
+opening_hours: 24/7
+website: https://www.walmart.com/store/1148/wichita-falls-tx/whats-new

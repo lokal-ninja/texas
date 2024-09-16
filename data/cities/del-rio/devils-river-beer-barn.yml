@@ -1,11 +1,11 @@
 id: 1000927201
-type: way
+type: node
 latitude: 29.46449
 longitude: -100.98723
 postcode: "78840"
 city: Del Rio
-street: "US Highway 90 West"
-housenumber: 10401
+street: US Highway 90 West
+housenumber: "10401"
 phone: ""
 opening_hours: ""
 website: ""

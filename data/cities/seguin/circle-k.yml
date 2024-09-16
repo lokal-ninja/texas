@@ -1,11 +1,11 @@
 id: 190908688
-type: way
+type: node
 latitude: 29.58373
 longitude: -97.99199
 postcode: "78155"
 city: Seguin
-street: "West Interstate 10"
-housenumber: 1609
+street: West Interstate 10
+housenumber: "1609"
 phone: ""
 opening_hours: ""
 website: ""

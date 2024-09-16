@@ -1,11 +1,11 @@
 id: 27993160
-type: way
+type: node
 latitude: 32.8051
 longitude: -96.6245
 postcode: "75150"
 city: Mesquite
-street: "Towne Centre Drive"
-housenumber: 2727
+street: Towne Centre Drive
+housenumber: "2727"
 phone: ""
 opening_hours: ""
 website: ""

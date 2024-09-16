@@ -1,11 +1,11 @@
 id: 1056021214
-type: way
+type: node
 latitude: 33.19184
 longitude: -94.35428
 postcode: "75560"
 city: Douglassville
-street: "West Street"
-housenumber: 101
+street: West Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

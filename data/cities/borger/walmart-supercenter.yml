@@ -1,11 +1,11 @@
 id: 563682504
-type: way
+type: node
 latitude: 35.65523
 longitude: -101.41252
 postcode: "79007"
 city: Borger
-street: "Roosevelt Street"
-housenumber: 1501
-phone: "+1 806-274-7257"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1516/borger-tx/whats-new"
+street: Roosevelt Street
+housenumber: "1501"
+phone: +1 806-274-7257
+opening_hours: 24/7
+website: https://www.walmart.com/store/1516/borger-tx/whats-new

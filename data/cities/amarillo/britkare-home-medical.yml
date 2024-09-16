@@ -1,11 +1,11 @@
 id: 179241723
-type: way
+type: node
 latitude: 35.19406
 longitude: -101.92219
 postcode: "79106"
 city: Amarillo
-street: "South Coulter Street"
-housenumber: 1800
-phone: "+1-806-351-2500"
+street: South Coulter Street
+housenumber: "1800"
+phone: +1-806-351-2500
 opening_hours: ""
-website: "https://www.britkarehomemedical.com/"
+website: https://www.britkarehomemedical.com/

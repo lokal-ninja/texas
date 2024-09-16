@@ -1,11 +1,11 @@
 id: 254787467
-type: way
+type: node
 latitude: 33.10915
 longitude: -98.56598
 postcode: "76450"
 city: graham
-street: "4th Street"
-housenumber: 1546
+street: 4th Street
+housenumber: "1546"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 985165647
-type: way
+type: node
 latitude: 30.02226
 longitude: -97.87325
 postcode: "78640"
 city: Kyle
-street: "South FM 1626"
-housenumber: 4600
-phone: "+1 512 883-5352;+1 512 262-7376"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00"
-website: "https://reliable-auto.com/auto-repair-kyle-tx/"
+street: South FM 1626
+housenumber: "4600"
+phone: +1 512 883-5352;+1 512 262-7376
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00
+website: https://reliable-auto.com/auto-repair-kyle-tx/

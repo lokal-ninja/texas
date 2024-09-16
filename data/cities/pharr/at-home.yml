@@ -1,11 +1,11 @@
 id: 635772109
-type: way
+type: node
 latitude: 26.19523
 longitude: -98.20145
 postcode: "78577"
 city: Pharr
-street: "West Kelly Avenue"
-housenumber: 1600
-phone: "+1-956-783-4588"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
+street: West Kelly Avenue
+housenumber: "1600"
+phone: +1-956-783-4588
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
 website: ""

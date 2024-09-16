@@ -1,11 +1,11 @@
 id: 477592806
-type: way
+type: node
 latitude: 30.06967
 longitude: -94.13369
 postcode: "77701"
 city: Beaumont
-street: "Stagg Drive"
-housenumber: 3875
-phone: "+1 409-833-7736"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/beaumont/office-depot-178"
+street: Stagg Drive
+housenumber: "3875"
+phone: +1 409-833-7736
+opening_hours: Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/tx/beaumont/office-depot-178

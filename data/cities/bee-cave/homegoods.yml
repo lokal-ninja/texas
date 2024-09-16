@@ -1,11 +1,11 @@
 id: 755037341
-type: way
+type: node
 latitude: 30.30553
 longitude: -97.94017
 postcode: "78738"
 city: Bee Cave
-street: "Shops Parkway"
-housenumber: 12770
-phone: "+1-512-263-7837"
-opening_hours: "Mo-Su 09:00-22:00"
-website: "https://www.homegoods.com"
+street: Shops Parkway
+housenumber: "12770"
+phone: +1-512-263-7837
+opening_hours: Mo-Su 09:00-22:00
+website: https://www.homegoods.com

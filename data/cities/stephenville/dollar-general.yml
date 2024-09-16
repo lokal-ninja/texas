@@ -1,11 +1,11 @@
 id: 805538314
-type: way
+type: node
 latitude: 32.22797
 longitude: -98.19277
 postcode: "76401"
 city: Stephenville
-street: "Morgan Mill Road"
-housenumber: 170
+street: Morgan Mill Road
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

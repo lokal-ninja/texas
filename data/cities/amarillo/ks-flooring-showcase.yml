@@ -1,11 +1,11 @@
 id: 734192829
-type: way
+type: node
 latitude: 35.18531
 longitude: -101.88011
 postcode: "79109"
 city: Amarillo
-street: "Olsen Boulevard"
-housenumber: 3700
-phone: "+1 806-350-7856"
-opening_hours: "Mo-Fr 09:30-16:30"
+street: Olsen Boulevard
+housenumber: "3700"
+phone: +1 806-350-7856
+opening_hours: Mo-Fr 09:30-16:30
 website: ""

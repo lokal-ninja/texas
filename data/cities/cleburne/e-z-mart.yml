@@ -1,11 +1,11 @@
 id: 260861677
-type: way
+type: node
 latitude: 32.36092
 longitude: -97.41952
 postcode: "76033"
 city: Cleburne
-street: "North Nolan River Road"
-housenumber: 1715
+street: North Nolan River Road
+housenumber: "1715"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

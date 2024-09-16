@@ -1,11 +1,11 @@
 id: 707043802
-type: way
+type: node
 latitude: 30.07112
 longitude: -95.45105
 postcode: ""
 city: Spring
-street: "FM 2920"
-housenumber: 2212
+street: FM 2920
+housenumber: "2212"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/spring/2212-fm-2920.html"
+website: https://www.autozone.com/locations/tx/spring/2212-fm-2920.html

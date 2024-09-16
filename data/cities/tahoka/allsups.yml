@@ -1,11 +1,11 @@
 id: 713547450
-type: way
+type: node
 latitude: 33.16689
 longitude: -101.80036
 postcode: "79373"
 city: Tahoka
-street: "Lockwood Street"
-housenumber: 1800
+street: Lockwood Street
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

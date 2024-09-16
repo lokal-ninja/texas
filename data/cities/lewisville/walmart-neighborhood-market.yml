@@ -1,11 +1,11 @@
 id: 665351319
-type: way
+type: node
 latitude: 33.07321
 longitude: -97.03868
 postcode: "75077"
 city: Lewisville
-street: "Justin Road"
-housenumber: 1515
-phone: "+1 972-966-6215"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/3287/lewisville-tx/whats-new"
+street: Justin Road
+housenumber: "1515"
+phone: +1 972-966-6215
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/3287/lewisville-tx/whats-new

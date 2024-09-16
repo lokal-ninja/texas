@@ -4,8 +4,8 @@ latitude: 30.33288
 longitude: -97.71602
 postcode: "78752"
 city: Austin
-street: "Airport Boulevard"
-housenumber: 6757
-phone: "+1-512-220-0940"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-18:00"
-website: "https://www.mercedesbenzofaustin.com"
+street: Airport Boulevard
+housenumber: "6757"
+phone: +1-512-220-0940
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:30-18:00
+website: https://www.mercedesbenzofaustin.com

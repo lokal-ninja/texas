@@ -1,11 +1,11 @@
 id: 1284775343
-type: way
+type: node
 latitude: 31.84674
 longitude: -103.08586
 postcode: "79745"
 city: Kermit
-street: "Van Street"
-housenumber: 202
+street: Van Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

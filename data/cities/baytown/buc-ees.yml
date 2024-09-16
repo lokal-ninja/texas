@@ -1,11 +1,11 @@
 id: 669738575
-type: way
+type: node
 latitude: 29.80042
 longitude: -95.00013
 postcode: ""
 city: Baytown
-street: "East Freeway"
-housenumber: 4080
+street: East Freeway
+housenumber: "4080"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

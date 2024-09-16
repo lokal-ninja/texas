@@ -1,11 +1,11 @@
 id: 338452540
-type: way
+type: node
 latitude: 29.94928
 longitude: -93.98778
 postcode: "77642"
 city: Port Arthur
-street: "FM 365"
-housenumber: 3100
+street: FM 365
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

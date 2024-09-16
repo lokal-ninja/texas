@@ -1,11 +1,11 @@
 id: 960959782
-type: way
+type: node
 latitude: 32.36373
 longitude: -99.78167
 postcode: "79606"
 city: Abilene
-street: "Rio Mesa Drive"
-housenumber: 4301
+street: Rio Mesa Drive
+housenumber: "4301"
 phone: ""
 opening_hours: ""
 website: ""

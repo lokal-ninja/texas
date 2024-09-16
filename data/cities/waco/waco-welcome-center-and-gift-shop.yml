@@ -1,11 +1,11 @@
 id: 913629210
-type: way
+type: node
 latitude: 31.55492
 longitude: -97.1187
 postcode: "76706"
 city: Waco
-street: "Texas Ranger Trail"
-housenumber: 106
+street: Texas Ranger Trail
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://wacoheartoftexas.com/"
+website: https://wacoheartoftexas.com/

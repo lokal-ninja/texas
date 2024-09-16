@@ -1,11 +1,11 @@
 id: 1123511276
-type: way
+type: node
 latitude: 30.41917
 longitude: -95.48839
 postcode: "77378"
 city: Willis
-street: "Interstate 45 North"
-housenumber: 12350
-phone: "+1-936-272-2000"
+street: Interstate 45 North
+housenumber: "12350"
+phone: +1-936-272-2000
 opening_hours: ""
 website: ""

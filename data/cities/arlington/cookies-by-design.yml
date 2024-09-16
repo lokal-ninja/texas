@@ -1,11 +1,11 @@
 id: 1047023184
-type: way
+type: node
 latitude: 32.76879
 longitude: -97.09562
 postcode: "76011"
 city: Arlington
-street: "North Collins Street"
-housenumber: 2131
-phone: "+1 817-861-1110"
+street: North Collins Street
+housenumber: "2131"
+phone: +1 817-861-1110
 opening_hours: ""
-website: "https://www.cookiesbydesign.com/locations/texas/arlington/76011_048.aspx"
+website: https://www.cookiesbydesign.com/locations/texas/arlington/76011_048.aspx

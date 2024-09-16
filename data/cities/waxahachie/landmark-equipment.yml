@@ -1,11 +1,11 @@
 id: 575671294
-type: way
+type: node
 latitude: 32.40993
 longitude: -96.87419
 postcode: ""
 city: Waxahachie
-street: "West US 287 Business"
-housenumber: 2200
+street: West US 287 Business
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

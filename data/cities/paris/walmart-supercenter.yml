@@ -1,11 +1,11 @@
 id: 441982304
-type: way
+type: node
 latitude: 33.66424
 longitude: -95.50678
 postcode: "75462"
 city: Paris
-street: "Lamar Avenue"
-housenumber: 3855
-phone: "+1 903-785-7168"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/148-paris-tx"
+street: Lamar Avenue
+housenumber: "3855"
+phone: +1 903-785-7168
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/148-paris-tx

@@ -1,11 +1,11 @@
 id: 439509712
-type: way
+type: node
 latitude: 33.11644
 longitude: -95.59023
 postcode: "75482"
 city: Sulphur Springs
-street: "Shannon Road East"
-housenumber: 380
+street: Shannon Road East
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

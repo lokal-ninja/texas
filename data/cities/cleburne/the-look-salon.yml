@@ -1,11 +1,11 @@
 id: 712907600
-type: way
+type: node
 latitude: 32.34555
 longitude: -97.39365
 postcode: ""
 city: Cleburne
-street: "West Chambers Street"
-housenumber: 618
-phone: "+1-817-641-1233"
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://www.thelooksaloncleburne.com/"
+street: West Chambers Street
+housenumber: "618"
+phone: +1-817-641-1233
+opening_hours: Tu-Sa 09:00-17:00
+website: https://www.thelooksaloncleburne.com/

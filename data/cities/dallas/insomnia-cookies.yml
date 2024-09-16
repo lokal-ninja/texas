@@ -1,11 +1,11 @@
 id: 1113521348
-type: way
+type: node
 latitude: 32.78359
 longitude: -96.78415
 postcode: "75226"
 city: Dallas
-street: "Main Street"
-housenumber: 2656
-phone: "+1 469 789 2645"
-opening_hours: "Mo-We 11:00-01:00; Th,Fr 11:00-03:00; Sa 12:00-03:00; Su 12:00-01:00"
-website: "https://insomniacookies.com"
+street: Main Street
+housenumber: "2656"
+phone: +1 469 789 2645
+opening_hours: Mo-We 11:00-01:00; Th,Fr 11:00-03:00; Sa 12:00-03:00; Su 12:00-01:00
+website: https://insomniacookies.com

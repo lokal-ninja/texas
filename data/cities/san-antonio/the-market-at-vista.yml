@@ -1,11 +1,11 @@
 id: 680793212
-type: way
+type: node
 latitude: 29.55956
 longitude: -98.51282
 postcode: "78216"
 city: San Antonio
-street: "Vista del Norte"
-housenumber: 12730
+street: Vista del Norte
+housenumber: "12730"
 phone: ""
 opening_hours: ""
 website: ""

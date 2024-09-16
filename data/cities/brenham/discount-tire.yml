@@ -1,11 +1,11 @@
 id: 744524261
-type: way
+type: node
 latitude: 30.14046
 longitude: -96.39161
 postcode: "77833"
 city: Brenham
-street: "Wood Ridge Boulevard"
-housenumber: 2800
-phone: "+1-979-421-9867"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/store/tx/brenham/s/1696"
+street: Wood Ridge Boulevard
+housenumber: "2800"
+phone: +1-979-421-9867
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/store/tx/brenham/s/1696

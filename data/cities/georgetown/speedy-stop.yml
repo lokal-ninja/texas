@@ -1,11 +1,11 @@
 id: 1256420502
-type: way
+type: node
 latitude: 30.62157
 longitude: -97.69179
 postcode: "78628"
 city: Georgetown
-street: "Leander Road"
-housenumber: 1006
-phone: "+1-512-863-8080"
-opening_hours: "24/7"
-website: "https://speedystop.com"
+street: Leander Road
+housenumber: "1006"
+phone: +1-512-863-8080
+opening_hours: 24/7
+website: https://speedystop.com

@@ -1,11 +1,11 @@
 id: 384362639
-type: way
+type: node
 latitude: 30.16219
 longitude: -97.78943
 postcode: "78748"
 city: Austin
-street: "South Interstate 35"
-housenumber: 9500
+street: South Interstate 35
+housenumber: "9500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 774917716
-type: way
+type: node
 latitude: 29.47047
 longitude: -98.49589
 postcode: "78212"
 city: San Antonio
-street: "West Olmos Drive"
-housenumber: 300
-phone: "+1-210-829-7373"
+street: West Olmos Drive
+housenumber: "300"
+phone: +1-210-829-7373
 opening_hours: ""
 website: ""

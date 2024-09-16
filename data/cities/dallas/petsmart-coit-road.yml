@@ -1,11 +1,11 @@
 id: 452516380
-type: way
+type: node
 latitude: 32.98397
 longitude: -96.77012
 postcode: "75248"
 city: Dallas
-street: "Coit Road"
-housenumber: 16821
-phone: "+1 972-381-1588"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/dallas-store1044.html"
+street: Coit Road
+housenumber: "16821"
+phone: +1 972-381-1588
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/dallas-store1044.html

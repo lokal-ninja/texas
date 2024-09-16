@@ -1,11 +1,11 @@
 id: 334103042
-type: way
+type: node
 latitude: 31.97575
 longitude: -102.0701
 postcode: "79701"
 city: Midland
-street: "East Interstate 20"
-housenumber: 200
-phone: "+1 432-684-3910"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3645/midland-tx/whats-new"
+street: East Interstate 20
+housenumber: "200"
+phone: +1 432-684-3910
+opening_hours: 24/7
+website: https://www.walmart.com/store/3645/midland-tx/whats-new

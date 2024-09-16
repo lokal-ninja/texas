@@ -1,11 +1,11 @@
 id: 708118577
-type: way
+type: node
 latitude: 33.19024
 longitude: -101.37813
 postcode: "79356"
 city: Post
-street: "South Broadway Street"
-housenumber: 110
+street: South Broadway Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

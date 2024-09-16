@@ -1,11 +1,11 @@
 id: 707867844
-type: way
+type: node
 latitude: 33.10203
 longitude: -97.18951
 postcode: "76226"
 city: Argyle
-street: "East FM 407"
-housenumber: 111
+street: East FM 407
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/argyle-tx-pharmacies/111-fm-407-w-argyle-tx-76226/storeid=11091"
+website: https://www.cvs.com/store-locator/argyle-tx-pharmacies/111-fm-407-w-argyle-tx-76226/storeid=11091

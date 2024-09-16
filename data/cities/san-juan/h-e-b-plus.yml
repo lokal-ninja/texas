@@ -1,11 +1,11 @@
 id: 603115825
-type: way
+type: node
 latitude: 26.20296
 longitude: -98.16402
 postcode: "78589"
 city: San Juan
-street: "West Expressway 83"
-housenumber: 901
-phone: "+1-956-781-0554"
+street: West Expressway 83
+housenumber: "901"
+phone: +1-956-781-0554
 opening_hours: ""
 website: ""

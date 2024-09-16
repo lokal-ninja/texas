@@ -1,11 +1,11 @@
 id: 334274226
-type: way
+type: node
 latitude: 29.63729
 longitude: -98.45518
 postcode: "78258"
 city: San Antonio
-street: "US Highway 281 North"
-housenumber: 20800
+street: US Highway 281 North
+housenumber: "20800"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-20800+us+highway+281+n-san+antonio-tx-78258/id=7214"
+website: https://www.walgreens.com/locator/walgreens-20800+us+highway+281+n-san+antonio-tx-78258/id=7214

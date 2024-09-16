@@ -1,11 +1,11 @@
 id: 642766541
-type: way
+type: node
 latitude: 32.77284
 longitude: -97.08219
 postcode: "76006"
 city: Arlington
-street: "Brown Boulevard"
-housenumber: 1800
+street: Brown Boulevard
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

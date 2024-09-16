@@ -1,11 +1,11 @@
 id: 674961691
-type: way
+type: node
 latitude: 33.21585
 longitude: -96.735
 postcode: "75071"
 city: McKinney
-street: "North Custer Road"
-housenumber: 1721
-phone: "+1 972-548-7270"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5311-mckinney-tx"
+street: North Custer Road
+housenumber: "1721"
+phone: +1 972-548-7270
+opening_hours: 24/7
+website: https://www.walmart.com/store/5311-mckinney-tx

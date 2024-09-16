@@ -1,11 +1,11 @@
 id: 598619054
-type: way
+type: node
 latitude: 30.35922
 longitude: -103.6607
 postcode: "79830"
 city: Alpine
-street: "East Avenue E"
-housenumber: 203
+street: East Avenue E
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

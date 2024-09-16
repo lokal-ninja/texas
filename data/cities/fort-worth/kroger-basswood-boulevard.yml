@@ -1,11 +1,11 @@
 id: 505923832
-type: way
+type: node
 latitude: 32.87212
 longitude: -97.34078
 postcode: "76131"
 city: Fort Worth
-street: "Basswood Boulevard"
-housenumber: 1653
-phone: "+1 682-316-6386"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/tx/fort-worth/basswood/035/00530"
+street: Basswood Boulevard
+housenumber: "1653"
+phone: +1 682-316-6386
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/tx/fort-worth/basswood/035/00530

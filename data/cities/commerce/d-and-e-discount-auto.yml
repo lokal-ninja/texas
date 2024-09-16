@@ -1,11 +1,11 @@
 id: 653598123
-type: way
+type: node
 latitude: 33.24732
 longitude: -95.89902
 postcode: "75428"
 city: Commerce
-street: "Pecan Street"
-housenumber: 1518
+street: Pecan Street
+housenumber: "1518"
 phone: ""
 opening_hours: ""
 website: ""

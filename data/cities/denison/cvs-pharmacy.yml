@@ -1,11 +1,11 @@
 id: 764770240
-type: way
+type: node
 latitude: 33.76179
 longitude: -96.58173
 postcode: "75020"
 city: Denison
-street: "West FM 120"
-housenumber: 2910
+street: West FM 120
+housenumber: "2910"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/denison-tx-pharmacies/2910-fm-120-w-denison-tx-75020/storeid=6984"
+website: https://www.cvs.com/store-locator/denison-tx-pharmacies/2910-fm-120-w-denison-tx-75020/storeid=6984

@@ -1,11 +1,11 @@
 id: 1308532225
-type: way
+type: node
 latitude: 30.12154
 longitude: -94.15699
 postcode: "77706"
 city: Beaumont
-street: "Dowlen Road"
-housenumber: 4450
-phone: "+1 409-234-7094"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/beaumont/5059"
+street: Dowlen Road
+housenumber: "4450"
+phone: +1 409-234-7094
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/beaumont/5059

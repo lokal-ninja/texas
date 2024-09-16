@@ -1,11 +1,11 @@
 id: 548468766
-type: way
+type: node
 latitude: 33.04436
 longitude: -96.97967
 postcode: "75057"
 city: Lewisville
-street: "East Business 121"
-housenumber: 811
+street: East Business 121
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

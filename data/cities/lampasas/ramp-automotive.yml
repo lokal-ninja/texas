@@ -1,11 +1,11 @@
 id: 391191202
-type: way
+type: node
 latitude: 31.06448
 longitude: -98.18214
 postcode: "76550"
 city: Lampasas
-street: "South Key Avenue"
-housenumber: 401
+street: South Key Avenue
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1285401329
-type: way
+type: node
 latitude: 30.67499
 longitude: -97.92682
 postcode: "78642"
 city: Liberty Hill
-street: "TX 29"
-housenumber: 14775
-phone: "+1-512-515-1336"
-opening_hours: "Mo-Sa 07:00-17:00"
-website: "https://www.989rock.com/"
+street: TX 29
+housenumber: "14775"
+phone: +1-512-515-1336
+opening_hours: Mo-Sa 07:00-17:00
+website: https://www.989rock.com/

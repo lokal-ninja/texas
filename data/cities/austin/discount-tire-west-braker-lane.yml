@@ -1,11 +1,11 @@
 id: 245579471
-type: way
+type: node
 latitude: 30.39065
 longitude: -97.72169
 postcode: "78758"
 city: Austin
-street: "West Braker Lane"
-housenumber: 2623
-phone: "+1-512-339-3711"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.discounttire.com/schedule-appointment"
+street: West Braker Lane
+housenumber: "2623"
+phone: +1-512-339-3711
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.discounttire.com/schedule-appointment

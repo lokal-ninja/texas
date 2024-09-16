@@ -1,11 +1,11 @@
 id: 471312790
-type: way
+type: node
 latitude: 32.72064
 longitude: -97.14241
 postcode: "76013"
 city: Pantego
-street: "West Park Row Drive"
-housenumber: 2210
+street: West Park Row Drive
+housenumber: "2210"
 phone: ""
-opening_hours: "Su-Sa 06:00-22:45"
+opening_hours: Su-Sa 06:00-22:45
 website: ""

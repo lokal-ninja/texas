@@ -1,11 +1,11 @@
 id: 589382880
-type: way
+type: node
 latitude: 33.23531
 longitude: -97.58387
 postcode: "76234"
 city: Decatur
-street: "North Cates Street"
-housenumber: 201
+street: North Cates Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

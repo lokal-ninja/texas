@@ -1,11 +1,11 @@
 id: 1053456275
-type: way
+type: node
 latitude: 33.45711
 longitude: -94.14785
 postcode: "75503"
 city: Texarkana
-street: "Hampton Road"
-housenumber: 7760
+street: Hampton Road
+housenumber: "7760"
 phone: ""
 opening_hours: ""
 website: ""

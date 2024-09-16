@@ -1,11 +1,11 @@
 id: 148132256
-type: way
+type: node
 latitude: 31.06936
 longitude: -97.67519
 postcode: "76548"
 city: Harker Heights
-street: "Heights Drive"
-housenumber: 2020
-phone: "+1 254-699-1021"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3319/harker-heights-tx/whats-new"
+street: Heights Drive
+housenumber: "2020"
+phone: +1 254-699-1021
+opening_hours: 24/7
+website: https://www.walmart.com/store/3319/harker-heights-tx/whats-new

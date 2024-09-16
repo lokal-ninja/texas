@@ -1,11 +1,11 @@
 id: 531232162
-type: way
+type: node
 latitude: 32.37546
 longitude: -95.33292
 postcode: "75702"
 city: Tyler
-street: "West Gentry Parkway"
-housenumber: 3046
+street: West Gentry Parkway
+housenumber: "3046"
 phone: ""
 opening_hours: ""
 website: ""

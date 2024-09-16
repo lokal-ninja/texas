@@ -1,11 +1,11 @@
 id: 382476037
-type: way
+type: node
 latitude: 30.22683
 longitude: -97.94562
 postcode: "78736"
 city: Austin
-street: "West US Highway 290"
-housenumber: 10220
+street: West US Highway 290
+housenumber: "10220"
 phone: ""
 opening_hours: ""
 website: ""

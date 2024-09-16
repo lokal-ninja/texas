@@ -1,11 +1,11 @@
 id: 425632258
-type: way
+type: node
 latitude: 29.73391
 longitude: -95.39157
 postcode: ""
 city: Houston
-street: "Richmond Avenue"
-housenumber: 1003
+street: Richmond Avenue
+housenumber: "1003"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/1003-richmond-ave-houston-tx-77006/storeid=7162"
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/1003-richmond-ave-houston-tx-77006/storeid=7162

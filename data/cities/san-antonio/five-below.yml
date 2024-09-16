@@ -1,11 +1,11 @@
 id: 369619270
-type: way
+type: node
 latitude: 29.61401
 longitude: -98.59944
 postcode: "78257"
 city: San Antonio
-street: "Worth Parkway"
-housenumber: 5815
-phone: "+1-210-558-2095"
-opening_hours: "Mo-Sa 9:00-21:00; Su 10:00-19:00"
+street: Worth Parkway
+housenumber: "5815"
+phone: +1-210-558-2095
+opening_hours: Mo-Sa 9:00-21:00; Su 10:00-19:00
 website: ""

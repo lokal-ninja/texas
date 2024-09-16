@@ -1,11 +1,11 @@
 id: 179079906
-type: way
+type: node
 latitude: 35.18751
 longitude: -101.92223
 postcode: "79106"
 city: Amarillo
-street: "West Interstate Drive"
-housenumber: 7300
-phone: "+1-806-318-0057"
+street: West Interstate Drive
+housenumber: "7300"
+phone: +1-806-318-0057
 opening_hours: ""
-website: "http://www.westgatechevy.com/"
+website: http://www.westgatechevy.com/

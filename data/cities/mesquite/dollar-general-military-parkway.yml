@@ -1,11 +1,11 @@
 id: 661175203
-type: way
+type: node
 latitude: 32.76753
 longitude: -96.64509
 postcode: "75149"
 city: Mesquite
-street: "Military Parkway"
-housenumber: 3000
+street: Military Parkway
+housenumber: "3000"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/mesquite/10350"
+website: https://www.dollargeneral.com/store-directory/tx/mesquite/10350

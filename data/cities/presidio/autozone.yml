@@ -1,11 +1,11 @@
 id: 203685756
-type: way
+type: node
 latitude: 29.56131
 longitude: -104.3709
 postcode: "79845"
 city: Presidio
-street: "East O'Reilly Street"
-housenumber: 101
+street: East O'Reilly Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/presidio/101-w-oreilly-st.html"
+website: https://www.autozone.com/locations/tx/presidio/101-w-oreilly-st.html

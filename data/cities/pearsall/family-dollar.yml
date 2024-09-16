@@ -1,11 +1,11 @@
 id: 839188504
-type: way
+type: node
 latitude: 28.89991
 longitude: -99.09343
 postcode: "78061"
 city: Pearsall
-street: "North Oak Street"
-housenumber: 903
+street: North Oak Street
+housenumber: "903"
 phone: ""
 opening_hours: ""
 website: ""

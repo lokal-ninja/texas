@@ -1,11 +1,11 @@
 id: 1312528524
-type: way
+type: node
 latitude: 32.34001
 longitude: -97.38544
 postcode: ""
 city: Cleburne
-street: "South Main Street"
-housenumber: 908
-phone: "+1-817-202-9770"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.meadowsmotorcompany.com/"
+street: South Main Street
+housenumber: "908"
+phone: +1-817-202-9770
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.meadowsmotorcompany.com/

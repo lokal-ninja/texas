@@ -1,11 +1,11 @@
 id: 870438085
-type: way
+type: node
 latitude: 29.94862
 longitude: -96.25331
 postcode: "77418"
 city: Bellville
-street: "East Main Street"
-housenumber: 513
-phone: "+1 979-865-3674"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+street: East Main Street
+housenumber: "513"
+phone: +1 979-865-3674
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
 website: ""

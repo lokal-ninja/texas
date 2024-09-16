@@ -1,11 +1,11 @@
 id: 408024344
-type: way
+type: node
 latitude: 31.33006
 longitude: -94.77679
 postcode: "75904"
 city: Lufkin
-street: "Ted Trout Drive"
-housenumber: 3035
-phone: "+1 936 875 2005"
+street: Ted Trout Drive
+housenumber: "3035"
+phone: +1 936 875 2005
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 862803623
-type: way
+type: node
 latitude: 31.48158
 longitude: -100.39151
 postcode: "76905"
 city: San Angelo
-street: "Gordon Boulevard"
-housenumber: 950
+street: Gordon Boulevard
+housenumber: "950"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/san-angelo/21016"
+website: https://www.dollargeneral.com/store-directory/tx/san-angelo/21016

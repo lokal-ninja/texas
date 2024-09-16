@@ -1,11 +1,11 @@
 id: 552464503
-type: way
+type: node
 latitude: 30.84408
 longitude: -97.78772
 postcode: "76527"
 city: Florence
-street: "East Main Street"
-housenumber: 713
-phone: "+1-254-793-3000"
-opening_hours: "Mo-Fr 05:00-21:00; Sa-Su 06:00-21:00"
-website: "https://dboonescountrystore.com/"
+street: East Main Street
+housenumber: "713"
+phone: +1-254-793-3000
+opening_hours: Mo-Fr 05:00-21:00; Sa-Su 06:00-21:00
+website: https://dboonescountrystore.com/

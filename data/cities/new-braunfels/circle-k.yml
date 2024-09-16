@@ -1,11 +1,11 @@
 id: 368009231
-type: way
+type: node
 latitude: 29.68484
 longitude: -98.12535
 postcode: ""
 city: New Braunfels
-street: "South Walnut Avenue"
-housenumber: 1081
+street: South Walnut Avenue
+housenumber: "1081"
 phone: ""
 opening_hours: ""
 website: ""

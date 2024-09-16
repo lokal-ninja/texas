@@ -1,11 +1,11 @@
 id: 561577227
-type: way
+type: node
 latitude: 33.10106
 longitude: -97.47007
 postcode: "76078"
 city: Rhome
-street: "Illinois Street"
-housenumber: 101
+street: Illinois Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

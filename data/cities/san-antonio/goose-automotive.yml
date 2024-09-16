@@ -1,11 +1,11 @@
 id: 817411222
-type: way
+type: node
 latitude: 29.44131
 longitude: -98.50911
 postcode: "78207"
 city: San Antonio
-street: "North Colorado Street"
-housenumber: 1422
+street: North Colorado Street
+housenumber: "1422"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 779259435
-type: way
+type: node
 latitude: 30.51888
 longitude: -97.68504
 postcode: "78664"
 city: Round Rock
-street: "West Palm Valley Boulevard"
-housenumber: 300
+street: West Palm Valley Boulevard
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/round-rock/400-w-palm-valley-blvd.html"
+website: https://www.autozone.com/locations/tx/round-rock/400-w-palm-valley-blvd.html

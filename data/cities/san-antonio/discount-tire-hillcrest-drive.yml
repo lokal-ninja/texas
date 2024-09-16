@@ -1,11 +1,11 @@
 id: 640362163
-type: way
+type: node
 latitude: 29.46874
 longitude: -98.57005
 postcode: "78228"
 city: San Antonio
-street: "Hillcrest Drive"
-housenumber: 1498
-phone: "+1-210-431-9617"
+street: Hillcrest Drive
+housenumber: "1498"
+phone: +1-210-431-9617
 opening_hours: ""
 website: ""

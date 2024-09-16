@@ -1,11 +1,11 @@
 id: 441372774
-type: way
+type: node
 latitude: 29.77108
 longitude: -95.41115
 postcode: ""
 city: Houston
-street: "Durham Drive"
-housenumber: 1015
+street: Durham Drive
+housenumber: "1015"
 phone: ""
 opening_hours: ""
 website: ""

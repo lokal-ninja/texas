@@ -1,11 +1,11 @@
 id: 981480158
-type: way
+type: node
 latitude: 29.78009
 longitude: -95.39007
 postcode: "77007"
 city: Houston
-street: "East 5½ Street"
-housenumber: 700
-phone: "+1 713 862 6628"
-opening_hours: "Mo-Fr 7:30-17:00; Sa 9:00-13:00"
-website: "https://www.clarkshardwood.com/"
+street: East 5½ Street
+housenumber: "700"
+phone: +1 713 862 6628
+opening_hours: Mo-Fr 7:30-17:00; Sa 9:00-13:00
+website: https://www.clarkshardwood.com/

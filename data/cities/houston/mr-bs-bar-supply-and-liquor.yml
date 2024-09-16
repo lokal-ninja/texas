@@ -1,11 +1,11 @@
 id: 376318643
-type: way
+type: node
 latitude: 29.74903
 longitude: -95.35459
 postcode: ""
 city: Houston
-street: "Dallas Street"
-housenumber: 2301
+street: Dallas Street
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

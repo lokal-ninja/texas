@@ -1,11 +1,11 @@
 id: 594814837
-type: way
+type: node
 latitude: 32.50833
 longitude: -95.64256
 postcode: "75790"
 city: Van
-street: "South Oak Street"
-housenumber: 1221
+street: South Oak Street
+housenumber: "1221"
 phone: ""
 opening_hours: ""
-website: "https://www.loves.com/locations/287"
+website: https://www.loves.com/locations/287

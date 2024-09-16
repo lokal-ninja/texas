@@ -1,11 +1,11 @@
 id: 466528926
-type: way
+type: node
 latitude: 32.76207
 longitude: -96.64618
 postcode: "75227"
 city: Dallas
-street: "Scyene Road"
-housenumber: 10300
+street: Scyene Road
+housenumber: "10300"
 phone: ""
 opening_hours: ""
 website: ""

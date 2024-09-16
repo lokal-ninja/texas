@@ -1,11 +1,11 @@
 id: 818162249
-type: way
+type: node
 latitude: 29.13962
 longitude: -98.90643
 postcode: "78016"
 city: Devine
-street: "South Teel Drive"
-housenumber: 116
+street: South Teel Drive
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

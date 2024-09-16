@@ -1,11 +1,11 @@
 id: 617525958
-type: way
+type: node
 latitude: 28.46398
 longitude: -98.18093
 postcode: "78071"
 city: Three Rivers
-street: "East Blair Street"
-housenumber: 101
+street: East Blair Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/three-rivers/7590"
+website: https://www.dollargeneral.com/store-directory/tx/three-rivers/7590

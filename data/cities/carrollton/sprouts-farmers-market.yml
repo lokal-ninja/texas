@@ -1,11 +1,11 @@
 id: 677362730
-type: way
+type: node
 latitude: 33.02583
 longitude: -96.88862
 postcode: "75010"
 city: Carrollton
-street: "East Hebron Parkway"
-housenumber: 1745
-phone: "+1 972-428-5785"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/carrollton/carrollton/"
+street: East Hebron Parkway
+housenumber: "1745"
+phone: +1 972-428-5785
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/carrollton/carrollton/

@@ -1,11 +1,11 @@
 id: 745964379
-type: way
+type: node
 latitude: 31.43569
 longitude: -97.7558
 postcode: "76528"
 city: Gatesville
-street: "East Main Street"
-housenumber: 213
-phone: "+1-254-865-6315"
-opening_hours: "Mo-Sa 08:00-17:30"
-website: "https://coryellfeed.com/"
+street: East Main Street
+housenumber: "213"
+phone: +1-254-865-6315
+opening_hours: Mo-Sa 08:00-17:30
+website: https://coryellfeed.com/

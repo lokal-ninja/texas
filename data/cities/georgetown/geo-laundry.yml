@@ -1,11 +1,11 @@
 id: 1039464540
-type: way
+type: node
 latitude: 30.61776
 longitude: -97.69039
 postcode: "78628"
 city: Georgetown
-street: "Thousand Oaks Boulevard"
-housenumber: 203
+street: Thousand Oaks Boulevard
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

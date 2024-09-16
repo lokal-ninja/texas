@@ -1,11 +1,11 @@
 id: 640566562
-type: way
+type: node
 latitude: 32.80325
 longitude: -96.64752
 postcode: "75150"
 city: Mesquite
-street: "Motley Drive"
-housenumber: 2933
+street: Motley Drive
+housenumber: "2933"
 phone: ""
 opening_hours: ""
 website: ""

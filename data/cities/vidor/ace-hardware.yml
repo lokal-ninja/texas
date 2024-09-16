@@ -1,11 +1,11 @@
 id: 1086972265
-type: way
+type: node
 latitude: 30.14003
 longitude: -94.01494
-postcode: "77662-3741"
+postcode: 77662-3741
 city: Vidor
-street: "North Main Street"
-housenumber: 1230
-phone: "+1 409-769-0281"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: North Main Street
+housenumber: "1230"
+phone: +1 409-769-0281
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

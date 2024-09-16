@@ -1,11 +1,11 @@
 id: 1004598204
-type: way
+type: node
 latitude: 30.57654
 longitude: -98.27369
 postcode: "78654"
 city: Marble Falls
-street: "North US Highway 281"
-housenumber: 808
+street: North US Highway 281
+housenumber: "808"
 phone: ""
 opening_hours: ""
 website: ""

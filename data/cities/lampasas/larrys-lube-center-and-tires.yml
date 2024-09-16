@@ -1,11 +1,11 @@
 id: 843317124
-type: way
+type: node
 latitude: 31.06019
 longitude: -98.17916
 postcode: "76550"
 city: Lampasas
-street: "South Chestnut Street"
-housenumber: 913
+street: South Chestnut Street
+housenumber: "913"
 phone: ""
 opening_hours: ""
 website: ""

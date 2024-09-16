@@ -1,11 +1,11 @@
 id: 1082146477
-type: way
+type: node
 latitude: 32.75027
 longitude: -96.87704
 postcode: "75211"
 city: Dallas
-street: "West Davis Street"
-housenumber: 3511
+street: West Davis Street
+housenumber: "3511"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 911035250
-type: way
+type: node
 latitude: 29.93204
 longitude: -95.58449
 postcode: ""
 city: Houston
-street: "FM 1960 West"
-housenumber: 10965
+street: FM 1960 West
+housenumber: "10965"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10965+cypress+creek+pkwy-houston-tx-77070/id=5085"
+website: https://www.walgreens.com/locator/walgreens-10965+cypress+creek+pkwy-houston-tx-77070/id=5085

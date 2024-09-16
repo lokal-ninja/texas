@@ -1,11 +1,11 @@
 id: 647585012
-type: way
+type: node
 latitude: 31.66656
 longitude: -94.72711
 postcode: "75964"
 city: Nacogdoches
-street: "FM 343"
-housenumber: 4684
+street: FM 343
+housenumber: "4684"
 phone: ""
 opening_hours: ""
 website: ""

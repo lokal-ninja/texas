@@ -1,11 +1,11 @@
 id: 1033327194
-type: way
+type: node
 latitude: 29.76413
 longitude: -98.71419
 postcode: "78006"
 city: Boerne
-street: "Industrial Drive"
-housenumber: 110
+street: Industrial Drive
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

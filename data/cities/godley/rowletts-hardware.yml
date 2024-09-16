@@ -1,11 +1,11 @@
 id: 711168792
-type: way
+type: node
 latitude: 32.44544
 longitude: -97.52819
 postcode: ""
 city: Godley
-street: "South Main Street"
-housenumber: 201
-phone: "+1-817-389-3788"
+street: South Main Street
+housenumber: "201"
+phone: +1-817-389-3788
 opening_hours: ""
-website: "https://www.rowletthardware.com/locations/detail.php?Rowlett-Godley-Hardware-Store-4"
+website: https://www.rowletthardware.com/locations/detail.php?Rowlett-Godley-Hardware-Store-4

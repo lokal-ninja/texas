@@ -1,11 +1,11 @@
 id: 985004629
-type: way
+type: node
 latitude: 33.68356
 longitude: -96.61931
 postcode: "75092"
 city: Knollwood
-street: "Knollwood Road"
-housenumber: 223
+street: Knollwood Road
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

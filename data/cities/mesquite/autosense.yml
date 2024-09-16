@@ -1,11 +1,11 @@
 id: 663331827
-type: way
+type: node
 latitude: 32.7721
 longitude: -96.61513
 postcode: "75149"
 city: Mesquite
-street: "Gross Road"
-housenumber: 327
+street: Gross Road
+housenumber: "327"
 phone: ""
 opening_hours: ""
 website: ""

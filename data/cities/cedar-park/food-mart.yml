@@ -1,11 +1,11 @@
 id: 29180503
-type: way
+type: node
 latitude: 30.48227
 longitude: -97.80633
 postcode: "78613"
 city: Cedar Park
-street: "South Bell Boulevard"
-housenumber: 2305
-phone: "+1-512-219-1655"
-opening_hours: "Mo-Fr 06:30-22:00; Sa 07:30-22:00; Su 09:00-21:00"
-website: "https://www.exxon.com/en/find-station/200315533"
+street: South Bell Boulevard
+housenumber: "2305"
+phone: +1-512-219-1655
+opening_hours: Mo-Fr 06:30-22:00; Sa 07:30-22:00; Su 09:00-21:00
+website: https://www.exxon.com/en/find-station/200315533

@@ -1,11 +1,11 @@
 id: 295295125
-type: way
+type: node
 latitude: 29.74019
 longitude: -95.5025
 postcode: "77063"
 city: Houston
-street: "Westheimer Road"
-housenumber: 7538
-phone: "+1-713-353-2582"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-18:00"
-website: "https://www.rei.com/stores/houston-galleria"
+street: Westheimer Road
+housenumber: "7538"
+phone: +1-713-353-2582
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 10:00-18:00
+website: https://www.rei.com/stores/houston-galleria

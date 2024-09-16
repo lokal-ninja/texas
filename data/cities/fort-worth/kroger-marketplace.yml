@@ -1,11 +1,11 @@
 id: 507422074
-type: way
+type: node
 latitude: 32.9119
 longitude: -97.30858
 postcode: "76177"
 city: Fort Worth
-street: "Texas Sage Trail"
-housenumber: 3300
-phone: "+1 817-750-2041"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00"
-website: "https://www.kroger.com/stores/grocery/tx/fort-worth/alliance/035/00542"
+street: Texas Sage Trail
+housenumber: "3300"
+phone: +1 817-750-2041
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 11:00-18:00
+website: https://www.kroger.com/stores/grocery/tx/fort-worth/alliance/035/00542

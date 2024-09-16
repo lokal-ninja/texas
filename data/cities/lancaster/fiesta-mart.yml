@@ -1,11 +1,11 @@
 id: 489050370
-type: way
+type: node
 latitude: 32.60246
 longitude: -96.78774
 postcode: "75146"
 city: Lancaster
-street: "West Pleasant Run Road"
-housenumber: 1450
+street: West Pleasant Run Road
+housenumber: "1450"
 phone: ""
-opening_hours: "07:00-23:00"
+opening_hours: 07:00-23:00
 website: ""

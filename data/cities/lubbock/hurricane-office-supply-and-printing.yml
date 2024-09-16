@@ -1,11 +1,11 @@
 id: 712693923
-type: way
+type: node
 latitude: 33.47748
 longitude: -101.82131
 postcode: "79423"
 city: Lubbock
-street: "East FM 1585"
-housenumber: 1407
+street: East FM 1585
+housenumber: "1407"
 phone: ""
 opening_hours: ""
 website: ""

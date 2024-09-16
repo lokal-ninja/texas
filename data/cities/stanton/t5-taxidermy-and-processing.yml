@@ -1,11 +1,11 @@
 id: 1285502950
-type: way
+type: node
 latitude: 32.12794
 longitude: -101.80217
 postcode: "79782"
 city: Stanton
-street: "West School Street"
-housenumber: 1204
+street: West School Street
+housenumber: "1204"
 phone: ""
 opening_hours: ""
 website: ""

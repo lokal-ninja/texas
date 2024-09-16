@@ -1,11 +1,11 @@
 id: 1139435606
-type: way
+type: node
 latitude: 27.92116
 longitude: -97.16999
 postcode: "78336"
 city: Aransas Pass
-street: "West Wheeler Avenue"
-housenumber: 2220
+street: West Wheeler Avenue
+housenumber: "2220"
 phone: ""
 opening_hours: ""
 website: ""

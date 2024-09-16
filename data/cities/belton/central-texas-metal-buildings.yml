@@ -1,11 +1,11 @@
 id: 848165494
-type: way
+type: node
 latitude: 31.05752
 longitude: -97.45193
 postcode: "76513"
 city: Belton
-street: "Cori Drive"
-housenumber: 506
+street: Cori Drive
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

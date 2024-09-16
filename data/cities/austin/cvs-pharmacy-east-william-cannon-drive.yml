@@ -1,11 +1,11 @@
 id: 1132558760
-type: way
+type: node
 latitude: 30.16216
 longitude: -97.72572
 postcode: "78744"
 city: Austin
-street: "East William Cannon Drive"
-housenumber: 7101
+street: East William Cannon Drive
+housenumber: "7101"
 phone: "+17372209738"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.cvs.com/store-locator/austin-tx-pharmacies/7101-e-william-cannon-drive-austin-tx-78744/storeid=11306"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.cvs.com/store-locator/austin-tx-pharmacies/7101-e-william-cannon-drive-austin-tx-78744/storeid=11306

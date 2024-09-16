@@ -1,11 +1,11 @@
 id: 805459910
-type: way
+type: node
 latitude: 32.92507
 longitude: -96.46006
 postcode: "75087"
 city: Rockwall
-street: "South Goliad Street"
-housenumber: 607
+street: South Goliad Street
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

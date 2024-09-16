@@ -1,11 +1,11 @@
 id: 79876655
-type: way
+type: node
 latitude: 29.5718
 longitude: -98.32752
 postcode: "78154"
 city: Selma
-street: "Forum Parkway"
-housenumber: 14555
+street: Forum Parkway
+housenumber: "14555"
 phone: ""
 opening_hours: ""
 website: ""

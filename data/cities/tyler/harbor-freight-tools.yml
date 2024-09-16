@@ -1,11 +1,11 @@
 id: 753449461
-type: way
+type: node
 latitude: 32.30772
 longitude: -95.34015
 postcode: "75701"
 city: Tyler
-street: "South Southwest Loop"
-housenumber: 3819
-phone: "+1 903-581-2244"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3819-s-southwest-loop-323-tyler-75701?number=502"
+street: South Southwest Loop
+housenumber: "3819"
+phone: +1 903-581-2244
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3819-s-southwest-loop-323-tyler-75701?number=502

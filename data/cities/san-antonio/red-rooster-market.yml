@@ -1,11 +1,11 @@
 id: 739708061
-type: way
+type: node
 latitude: 29.32486
 longitude: -98.43357
 postcode: "78223"
 city: San Antonio
-street: "Southeast Loop 410"
-housenumber: 10637
-phone: "+1-512-644-5864"
+street: Southeast Loop 410
+housenumber: "10637"
+phone: +1-512-644-5864
 opening_hours: ""
 website: ""

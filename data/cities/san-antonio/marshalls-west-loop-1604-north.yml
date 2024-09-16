@@ -1,11 +1,11 @@
 id: 97720763
-type: way
+type: node
 latitude: 29.49072
 longitude: -98.7117
 postcode: "78253"
 city: San Antonio
-street: "West Loop 1604 North"
-housenumber: 5347
+street: West Loop 1604 North
+housenumber: "5347"
 phone: ""
 opening_hours: ""
 website: ""

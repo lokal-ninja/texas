@@ -1,11 +1,11 @@
 id: 705583700
-type: way
+type: node
 latitude: 32.38596
 longitude: -97.39193
 postcode: "76033"
 city: Cleburne
-street: "West Industrial Boulevard"
-housenumber: 102
+street: West Industrial Boulevard
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

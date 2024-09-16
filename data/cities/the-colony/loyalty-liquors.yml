@@ -1,11 +1,11 @@
 id: 326802633
-type: way
+type: node
 latitude: 33.07891
 longitude: -96.8627
 postcode: "75056"
 city: The Colony
-street: "State Highway 121"
-housenumber: 5749
+street: State Highway 121
+housenumber: "5749"
 phone: ""
 opening_hours: ""
 website: ""

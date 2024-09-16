@@ -1,11 +1,11 @@
 id: 793664473
-type: way
+type: node
 latitude: 35.66876
 longitude: -101.39791
 postcode: "79007"
 city: Borger
-street: "North Cedar Street"
-housenumber: 309
+street: North Cedar Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

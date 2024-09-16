@@ -1,11 +1,11 @@
 id: 749298504
-type: way
+type: node
 latitude: 34.01262
 longitude: -100.82898
 postcode: "79244"
 city: Matador
-street: "Bailey Avenue"
-housenumber: 1201
+street: Bailey Avenue
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

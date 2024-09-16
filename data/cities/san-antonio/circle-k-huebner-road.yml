@@ -1,11 +1,11 @@
 id: 635840602
-type: way
+type: node
 latitude: 29.5384
 longitude: -98.58603
 postcode: "78240"
 city: San Antonio
-street: "Huebner Road"
-housenumber: 10219
+street: Huebner Road
+housenumber: "10219"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

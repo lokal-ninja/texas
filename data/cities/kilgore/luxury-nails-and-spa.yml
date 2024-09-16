@@ -1,11 +1,11 @@
 id: 436180401
-type: way
+type: node
 latitude: 32.38994
 longitude: -94.87052
 postcode: "75662"
 city: Kilgore
-street: "North Kilgore Street"
-housenumber: 908
+street: North Kilgore Street
+housenumber: "908"
 phone: ""
 opening_hours: ""
 website: ""

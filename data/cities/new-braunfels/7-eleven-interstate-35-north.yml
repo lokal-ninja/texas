@@ -1,11 +1,11 @@
 id: 750621169
-type: way
+type: node
 latitude: 29.62426
 longitude: -98.23952
 postcode: "78132"
 city: New Braunfels
-street: "Interstate 35 North"
-housenumber: 21900
+street: Interstate 35 North
+housenumber: "21900"
 phone: ""
 opening_hours: ""
 website: ""

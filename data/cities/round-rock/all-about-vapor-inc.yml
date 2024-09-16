@@ -4,8 +4,8 @@ latitude: 30.52729
 longitude: -97.68947
 postcode: "78664"
 city: Round Rock
-street: "North Mays Street"
-housenumber: 2000
-phone: "+1-512-671-8273"
-opening_hours: "09:00-19:00"
+street: North Mays Street
+housenumber: "2000"
+phone: +1-512-671-8273
+opening_hours: 09:00-19:00
 website: ""

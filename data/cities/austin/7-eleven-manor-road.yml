@@ -1,11 +1,11 @@
 id: 1203404380
-type: way
+type: node
 latitude: 30.29841
 longitude: -97.6867
 postcode: "78723"
 city: Austin
-street: "Manor Road"
-housenumber: 5107
+street: Manor Road
+housenumber: "5107"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

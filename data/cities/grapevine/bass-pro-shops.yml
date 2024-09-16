@@ -1,11 +1,11 @@
 id: 30264059
-type: way
+type: node
 latitude: 32.95743
 longitude: -97.04273
 postcode: "76051"
 city: Grapevine
-street: "Bass Pro Drive"
-housenumber: 2501
-phone: "+1 972-724-2018"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.basspro.com/us/tx/grapevine/2501-bass-pro-dr.html"
+street: Bass Pro Drive
+housenumber: "2501"
+phone: +1 972-724-2018
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.basspro.com/us/tx/grapevine/2501-bass-pro-dr.html

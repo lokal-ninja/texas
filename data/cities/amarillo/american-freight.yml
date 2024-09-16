@@ -1,11 +1,11 @@
 id: 178745222
-type: way
+type: node
 latitude: 35.17774
 longitude: -101.92159
 postcode: "79121"
 city: Amarillo
-street: "Southwest 34th Avenue"
-housenumber: 7302
-phone: "+1-806-352-4803"
-opening_hours: "Su 11:00-18:00; Mo-Sa 10:00-20:00"
-website: "https://www.americanfreight.com/br/store/tx/amarillo/4025"
+street: Southwest 34th Avenue
+housenumber: "7302"
+phone: +1-806-352-4803
+opening_hours: Su 11:00-18:00; Mo-Sa 10:00-20:00
+website: https://www.americanfreight.com/br/store/tx/amarillo/4025

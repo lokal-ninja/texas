@@ -4,8 +4,8 @@ latitude: 29.79121
 longitude: -95.4108
 postcode: "77008"
 city: Houston
-street: "West 11th Street"
-housenumber: 1411
-phone: "+1 713-869-4388"
-opening_hours: "09:00-22:00"
+street: West 11th Street
+housenumber: "1411"
+phone: +1 713-869-4388
+opening_hours: 09:00-22:00
 website: ""

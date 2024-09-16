@@ -1,11 +1,11 @@
 id: 815579606
-type: way
+type: node
 latitude: 29.81355
 longitude: -95.36096
 postcode: "77009"
 city: Houston
-street: "Irvington Boulevard"
-housenumber: 6010
+street: Irvington Boulevard
+housenumber: "6010"
 phone: ""
 opening_hours: ""
-website: "https://www.dawsonsupplycompany.com"
+website: https://www.dawsonsupplycompany.com

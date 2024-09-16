@@ -1,11 +1,11 @@
 id: 206476711
-type: way
+type: node
 latitude: 29.68973
 longitude: -95.46003
 postcode: ""
 city: Houston
-street: "Beechnut Street"
-housenumber: 4702
+street: Beechnut Street
+housenumber: "4702"
 phone: ""
 opening_hours: ""
 website: ""

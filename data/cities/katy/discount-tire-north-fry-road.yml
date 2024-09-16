@@ -1,11 +1,11 @@
 id: 667221461
-type: way
+type: node
 latitude: 29.85549
 longitude: -95.71845
 postcode: "77449"
 city: Katy
-street: "North Fry Road"
-housenumber: 5818
-phone: "+1-281-500-7875"
+street: North Fry Road
+housenumber: "5818"
+phone: +1-281-500-7875
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 914608412
-type: way
+type: node
 latitude: 32.21329
 longitude: -99.79576
 postcode: "79562"
 city: Tuscola
-street: "Garza Avenue"
-housenumber: 845
+street: Garza Avenue
+housenumber: "845"
 phone: ""
 opening_hours: ""
 website: ""

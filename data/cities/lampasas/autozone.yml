@@ -1,11 +1,11 @@
 id: 680818376
-type: way
+type: node
 latitude: 31.05542
 longitude: -98.17745
 postcode: "76550"
 city: Lampasas
-street: "Central Texas Expressway"
-housenumber: 104
+street: Central Texas Expressway
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/lampasas/104-central-texas-expressway.html"
+website: https://www.autozone.com/locations/tx/lampasas/104-central-texas-expressway.html

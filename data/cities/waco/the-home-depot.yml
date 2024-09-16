@@ -1,11 +1,11 @@
 id: 334329647
-type: way
+type: node
 latitude: 31.51861
 longitude: -97.18466
 postcode: "76710"
 city: Waco
-street: "West Waco Drive"
-housenumber: 5605
-phone: "+1 254-772-8177"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/waco/tx/waco/76710/6532"
+street: West Waco Drive
+housenumber: "5605"
+phone: +1 254-772-8177
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/waco/tx/waco/76710/6532

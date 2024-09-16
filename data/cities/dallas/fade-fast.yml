@@ -4,8 +4,8 @@ latitude: 32.78423
 longitude: -96.7812
 postcode: "75226"
 city: Dallas
-street: "Main Street"
-housenumber: 2928
-phone: "+1 214-394-6824"
+street: Main Street
+housenumber: "2928"
+phone: +1 214-394-6824
 opening_hours: ""
-website: "https://fadefast.com"
+website: https://fadefast.com

@@ -1,11 +1,11 @@
 id: 698295537
-type: way
+type: node
 latitude: 32.89204
 longitude: -96.47249
 postcode: "75032"
 city: Rockwall
-street: "Horizon Road"
-housenumber: 1220
+street: Horizon Road
+housenumber: "1220"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rockwall-tx-pharmacies/1220-horizon-rd-rockwall-tx-75032/storeid=7464"
+website: https://www.cvs.com/store-locator/rockwall-tx-pharmacies/1220-horizon-rd-rockwall-tx-75032/storeid=7464

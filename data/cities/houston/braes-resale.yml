@@ -1,11 +1,11 @@
 id: 1102722180
-type: way
+type: node
 latitude: 29.66182
 longitude: -95.46497
 postcode: "77035"
 city: Houston
-street: "South Post Oak Road"
-housenumber: 10814
-phone: "+1-713-723-3841"
-opening_hours: "Mo-Sa 10:00-16:00"
+street: South Post Oak Road
+housenumber: "10814"
+phone: +1-713-723-3841
+opening_hours: Mo-Sa 10:00-16:00
 website: ""

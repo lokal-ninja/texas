@@ -1,11 +1,11 @@
 id: 899732861
-type: way
+type: node
 latitude: 33.4345
 longitude: -94.04343
 postcode: "75501"
 city: Texarkana
-street: "North State Line Avenue"
-housenumber: 1321
+street: North State Line Avenue
+housenumber: "1321"
 phone: ""
 opening_hours: ""
 website: ""

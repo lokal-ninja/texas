@@ -4,8 +4,8 @@ latitude: 30.29932
 longitude: -97.686
 postcode: "78723"
 city: Austin
-street: "Manor Road"
-housenumber: 5209
-phone: "+1-512-926-1266"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Manor Road
+housenumber: "5209"
+phone: +1-512-926-1266
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

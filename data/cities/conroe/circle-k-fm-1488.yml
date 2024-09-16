@@ -1,11 +1,11 @@
 id: 1087037075
-type: way
+type: node
 latitude: 30.23722
 longitude: -95.46301
 postcode: ""
 city: Conroe
-street: "FM 1488"
-housenumber: 172
+street: FM 1488
+housenumber: "172"
 phone: ""
 opening_hours: ""
 website: ""

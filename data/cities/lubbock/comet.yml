@@ -1,11 +1,11 @@
 id: 466564044
-type: way
+type: node
 latitude: 33.59332
 longitude: -101.92671
 postcode: "79416"
 city: Lubbock
-street: "4th Street"
-housenumber: 5404
+street: 4th Street
+housenumber: "5404"
 phone: ""
 opening_hours: ""
 website: ""

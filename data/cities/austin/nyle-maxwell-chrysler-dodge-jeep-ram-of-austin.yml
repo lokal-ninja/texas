@@ -1,11 +1,11 @@
 id: 919616773
-type: way
+type: node
 latitude: 30.46945
 longitude: -97.78766
 postcode: "78717"
 city: Austin
-street: "North Ranch Road 620"
-housenumber: 13401
-phone: "+1-512-219-3634"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.nylemaxwellcdjr.com/"
+street: North Ranch Road 620
+housenumber: "13401"
+phone: +1-512-219-3634
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.nylemaxwellcdjr.com/

@@ -1,11 +1,11 @@
 id: 315097299
-type: way
+type: node
 latitude: 30.96566
 longitude: -95.88063
 postcode: ""
 city: Madisonville
-street: "Interstate 45 South"
-housenumber: 205
+street: Interstate 45 South
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

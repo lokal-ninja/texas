@@ -1,11 +1,11 @@
 id: 881200412
-type: way
+type: node
 latitude: 29.303
 longitude: -94.90464
 postcode: "77554"
 city: Tiki Island
-street: "Jones Lake Road"
-housenumber: 331
+street: Jones Lake Road
+housenumber: "331"
 phone: ""
 opening_hours: ""
 website: ""

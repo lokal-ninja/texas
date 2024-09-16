@@ -1,11 +1,11 @@
 id: 221378900
-type: way
+type: node
 latitude: 32.81321
 longitude: -96.81177
 postcode: "75219"
 city: Dallas
-street: "Cedar Springs Road"
-housenumber: 4142
-phone: "+1 214-599-9859"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.kroger.com/stores/grocery/tx/dallas/kroger-fresh-fare-dallas/035/00528"
+street: Cedar Springs Road
+housenumber: "4142"
+phone: +1 214-599-9859
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.kroger.com/stores/grocery/tx/dallas/kroger-fresh-fare-dallas/035/00528

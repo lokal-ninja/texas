@@ -1,11 +1,11 @@
 id: 1156810614
-type: way
+type: node
 latitude: 30.3672
 longitude: -97.95191
 postcode: "78734"
 city: Lakeway
-street: "Ranch Road 620 South"
-housenumber: 108
-phone: "+1-877-432-5972"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.lexusoflakeway.com"
+street: Ranch Road 620 South
+housenumber: "108"
+phone: +1-877-432-5972
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.lexusoflakeway.com

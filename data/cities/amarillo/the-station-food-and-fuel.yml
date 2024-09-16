@@ -1,11 +1,11 @@
 id: 1107867468
-type: way
+type: node
 latitude: 35.07307
 longitude: -101.918
 postcode: "79118"
 city: Amarillo
-street: "West McCormick Road"
-housenumber: 7200
+street: West McCormick Road
+housenumber: "7200"
 phone: ""
 opening_hours: ""
 website: ""

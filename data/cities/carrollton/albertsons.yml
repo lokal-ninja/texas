@@ -1,11 +1,11 @@
 id: 424223450
-type: way
+type: node
 latitude: 32.97494
 longitude: -96.88894
 postcode: "75006"
 city: Carrollton
-street: "North Josey Lane"
-housenumber: 2150
-phone: "+1 972-446-8226"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/carrollton/2150-n-josey-ln.html"
+street: North Josey Lane
+housenumber: "2150"
+phone: +1 972-446-8226
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/carrollton/2150-n-josey-ln.html

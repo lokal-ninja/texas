@@ -1,11 +1,11 @@
 id: 382106248
-type: way
+type: node
 latitude: 30.18992
 longitude: -97.68617
 postcode: "78744"
 city: Austin
-street: "Highway 183"
-housenumber: 4214
+street: Highway 183
+housenumber: "4214"
 phone: ""
 opening_hours: ""
 website: ""

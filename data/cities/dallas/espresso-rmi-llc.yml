@@ -1,11 +1,11 @@
 id: 468118200
-type: way
+type: node
 latitude: 32.91794
 longitude: -96.74681
 postcode: "75243"
 city: Dallas
-street: "Vantage Point Drive"
-housenumber: 9039
+street: Vantage Point Drive
+housenumber: "9039"
 phone: "+19726906969"
 opening_hours: ""
-website: "https://www.ifyoulovecoffee.com/"
+website: https://www.ifyoulovecoffee.com/

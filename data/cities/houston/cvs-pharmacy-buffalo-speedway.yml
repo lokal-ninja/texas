@@ -1,11 +1,11 @@
 id: 396565771
-type: way
+type: node
 latitude: 29.67888
 longitude: -95.42588
 postcode: "77025"
 city: Houston
-street: "Buffalo Speedway"
-housenumber: 9838
+street: Buffalo Speedway
+housenumber: "9838"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/9838-buffalo-speedway-houston-tx-77025/storeid=5258"
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/9838-buffalo-speedway-houston-tx-77025/storeid=5258

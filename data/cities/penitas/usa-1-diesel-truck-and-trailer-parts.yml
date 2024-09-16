@@ -1,11 +1,11 @@
 id: 1086237806
-type: way
+type: node
 latitude: 26.23931
 longitude: -98.43223
 postcode: "78576"
 city: Peñitas
-street: "Joe Aguilar Street"
-housenumber: 305
+street: Joe Aguilar Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 312168180
-type: way
+type: node
 latitude: 33.15556
 longitude: -96.68167
 postcode: "75070"
 city: McKinney
-street: "McKinney Ranch Parkway"
-housenumber: 5001
-phone: "+1 972-529-5046"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5211/mckinney-tx/whats-new"
+street: McKinney Ranch Parkway
+housenumber: "5001"
+phone: +1 972-529-5046
+opening_hours: 24/7
+website: https://www.walmart.com/store/5211/mckinney-tx/whats-new

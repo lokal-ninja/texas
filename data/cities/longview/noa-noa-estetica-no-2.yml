@@ -1,11 +1,11 @@
 id: 383680621
-type: way
+type: node
 latitude: 32.51478
 longitude: -94.74062
 postcode: "75601"
 city: Longview
-street: "Johnston Street"
-housenumber: 116
+street: Johnston Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

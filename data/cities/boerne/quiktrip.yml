@@ -1,11 +1,11 @@
 id: 1033331370
-type: way
+type: node
 latitude: 29.71868
 longitude: -98.66686
 postcode: "78006"
 city: Boerne
-street: "Tarpon Drive"
-housenumber: 9110
+street: Tarpon Drive
+housenumber: "9110"
 phone: ""
 opening_hours: ""
 website: ""

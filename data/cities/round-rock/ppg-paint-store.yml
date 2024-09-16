@@ -1,11 +1,11 @@
 id: 382115444
-type: way
+type: node
 latitude: 30.53007
 longitude: -97.68231
 postcode: "78664"
 city: Round Rock
-street: "Texas Avenue"
-housenumber: 399
-phone: "+1-512-218-9551"
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.ppgpaints.com/"
+street: Texas Avenue
+housenumber: "399"
+phone: +1-512-218-9551
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.ppgpaints.com/

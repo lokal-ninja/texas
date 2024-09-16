@@ -1,11 +1,11 @@
 id: 603895921
-type: way
+type: node
 latitude: 33.00347
 longitude: -97.22273
 postcode: "76262"
 city: Roanoke
-street: "East Byron Nelson Boulevard"
-housenumber: 405
+street: East Byron Nelson Boulevard
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

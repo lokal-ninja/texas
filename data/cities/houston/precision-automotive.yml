@@ -1,11 +1,11 @@
 id: 406035692
-type: way
+type: node
 latitude: 29.85875
 longitude: -95.36306
 postcode: ""
 city: Houston
-street: "West Hardy Road"
-housenumber: 10419
+street: West Hardy Road
+housenumber: "10419"
 phone: ""
 opening_hours: ""
 website: ""

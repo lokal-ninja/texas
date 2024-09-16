@@ -1,11 +1,11 @@
 id: 821263450
-type: way
+type: node
 latitude: 35.31065
 longitude: -101.83466
 postcode: "79108"
 city: Amarillo
-street: "Dumas Drive"
-housenumber: 8613
+street: Dumas Drive
+housenumber: "8613"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 871730471
-type: way
+type: node
 latitude: 32.70775
 longitude: -96.02017
 postcode: "75169"
 city: Wills Point
-street: "West South Commerce Street"
-housenumber: 1105
+street: West South Commerce Street
+housenumber: "1105"
 phone: ""
 opening_hours: ""
 website: ""

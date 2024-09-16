@@ -1,11 +1,11 @@
 id: 1028434081
-type: way
+type: node
 latitude: 32.68135
 longitude: -102.64347
 postcode: "79360"
 city: Seminole
-street: "County Road 404-C"
-housenumber: 107
+street: County Road 404-C
+housenumber: "107"
 phone: "+14327884665"
 opening_hours: ""
 website: ""

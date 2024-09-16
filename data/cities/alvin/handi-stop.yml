@@ -1,11 +1,11 @@
 id: 1204639884
-type: way
+type: node
 latitude: 29.42429
 longitude: -95.22796
 postcode: "77511"
 city: Alvin
-street: "East State Highway 6"
-housenumber: 1601
+street: East State Highway 6
+housenumber: "1601"
 phone: ""
 opening_hours: ""
 website: ""

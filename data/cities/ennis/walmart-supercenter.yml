@@ -1,11 +1,11 @@
 id: 717723617
-type: way
+type: node
 latitude: 32.33347
 longitude: -96.6218
 postcode: "75119"
 city: Ennis
-street: "East Ennis Avenue"
-housenumber: 700
-phone: "+1 972-875-9671"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/286-ennis-tx"
+street: East Ennis Avenue
+housenumber: "700"
+phone: +1 972-875-9671
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/286-ennis-tx

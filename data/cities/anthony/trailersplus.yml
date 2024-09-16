@@ -1,11 +1,11 @@
 id: 1108406288
-type: way
+type: node
 latitude: 31.97392
 longitude: -106.58431
 postcode: "79821"
 city: Anthony
-street: "Valley Chili Road"
-housenumber: 590
+street: Valley Chili Road
+housenumber: "590"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 718503262
-type: way
+type: node
 latitude: 32.75488
 longitude: -101.94977
 postcode: "79331"
 city: Lamesa
-street: "Lubbock Highway"
-housenumber: 2204
+street: Lubbock Highway
+housenumber: "2204"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/tx/lamesa/6126/"
+opening_hours: Mo-Sa 09:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/tx/lamesa/6126/

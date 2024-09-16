@@ -1,11 +1,11 @@
 id: 1018187397
-type: way
+type: node
 latitude: 29.76903
 longitude: -94.91903
 postcode: "77520"
 city: Baytown
-street: "North Highway 146"
-housenumber: 4849
+street: North Highway 146
+housenumber: "4849"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4849+n+highway+146-baytown-tx-77520/id=10138"
+website: https://www.walgreens.com/locator/walgreens-4849+n+highway+146-baytown-tx-77520/id=10138

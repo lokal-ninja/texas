@@ -1,11 +1,11 @@
 id: 668780301
-type: way
+type: node
 latitude: 33.58783
 longitude: -102.37713
 postcode: "79336"
 city: Levelland
-street: "Houston Street"
-housenumber: 807
+street: Houston Street
+housenumber: "807"
 phone: ""
 opening_hours: ""
 website: ""

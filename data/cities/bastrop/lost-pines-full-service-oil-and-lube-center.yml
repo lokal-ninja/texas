@@ -1,11 +1,11 @@
 id: 1022153084
-type: way
+type: node
 latitude: 30.10712
 longitude: -97.33735
 postcode: "78602"
 city: Bastrop
-street: "State Highway 71 West"
-housenumber: 508
-phone: "+1-512-321-9274"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.lostpinesfullservice.com/"
+street: State Highway 71 West
+housenumber: "508"
+phone: +1-512-321-9274
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.lostpinesfullservice.com/

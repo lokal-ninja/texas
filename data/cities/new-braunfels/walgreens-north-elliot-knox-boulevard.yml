@@ -1,11 +1,11 @@
 id: 817049927
-type: way
+type: node
 latitude: 29.70259
 longitude: -98.09547
 postcode: "78130"
 city: New Braunfels
-street: "North Elliot Knox Boulevard"
-housenumber: 1210
+street: North Elliot Knox Boulevard
+housenumber: "1210"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1210+n+business+ih+35-new+braunfels-tx-78130/id=9394"
+website: https://www.walgreens.com/locator/walgreens-1210+n+business+ih+35-new+braunfels-tx-78130/id=9394

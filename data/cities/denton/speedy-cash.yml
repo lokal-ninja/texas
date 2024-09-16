@@ -1,11 +1,11 @@
 id: 647114013
-type: way
+type: node
 latitude: 33.23105
 longitude: -97.13633
 postcode: "76201"
 city: Denton
-street: "West University Drive"
-housenumber: 400
+street: West University Drive
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

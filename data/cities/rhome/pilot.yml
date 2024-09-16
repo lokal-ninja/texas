@@ -1,11 +1,11 @@
 id: 832951692
-type: way
+type: node
 latitude: 33.10269
 longitude: -97.47046
 postcode: "76078"
 city: Rhome
-street: "South US Highway 287"
-housenumber: 8221
+street: South US Highway 287
+housenumber: "8221"
 phone: ""
 opening_hours: ""
 website: ""

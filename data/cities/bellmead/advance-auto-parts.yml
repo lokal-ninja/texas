@@ -1,11 +1,11 @@
 id: 843752027
-type: way
+type: node
 latitude: 31.60276
 longitude: -97.1006
 postcode: "76705"
 city: Bellmead
-street: "North Loop 340"
-housenumber: 611
+street: North Loop 340
+housenumber: "611"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/bellmead/611-n-loop-340"
+website: https://stores.advanceautoparts.com/tx/bellmead/611-n-loop-340

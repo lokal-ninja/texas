@@ -1,11 +1,11 @@
 id: 192950023
-type: way
+type: node
 latitude: 29.56828
 longitude: -97.98956
 postcode: "78155"
 city: Seguin
-street: "South State Highway 46"
-housenumber: 128
+street: South State Highway 46
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

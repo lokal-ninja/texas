@@ -1,11 +1,11 @@
 id: 638933107
-type: way
+type: node
 latitude: 32.73899
 longitude: -96.30047
 postcode: "75160"
 city: Terrell
-street: "West Moore Avenue"
-housenumber: 1418
-phone: "+1 972-563-6730"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/terrell/1418-w-moore-ave"
+street: West Moore Avenue
+housenumber: "1418"
+phone: +1 972-563-6730
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/terrell/1418-w-moore-ave

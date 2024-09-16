@@ -1,11 +1,11 @@
 id: 892910667
-type: way
+type: node
 latitude: 33.09952
 longitude: -96.11197
 postcode: "75402"
 city: Greenville
-street: "Wesley Street"
-housenumber: 6834
+street: Wesley Street
+housenumber: "6834"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "https://stores.staples.com/tx/greenville/6834-wesley-drive-ste-d"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-18:00
+website: https://stores.staples.com/tx/greenville/6834-wesley-drive-ste-d

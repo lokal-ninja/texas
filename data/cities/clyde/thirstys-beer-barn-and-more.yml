@@ -1,11 +1,11 @@
 id: 1125702701
-type: way
+type: node
 latitude: 32.4112
 longitude: -99.49004
 postcode: "79510"
 city: Clyde
-street: "Cherry Street"
-housenumber: 525
+street: Cherry Street
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

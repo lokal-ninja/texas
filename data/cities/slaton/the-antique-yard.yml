@@ -1,11 +1,11 @@
 id: 679429231
-type: way
+type: node
 latitude: 33.44049
 longitude: -101.64515
 postcode: ""
 city: Slaton
-street: "West Crosby Street"
-housenumber: 220
+street: West Crosby Street
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

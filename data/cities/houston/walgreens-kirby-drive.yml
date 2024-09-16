@@ -1,11 +1,11 @@
 id: 218802506
-type: way
+type: node
 latitude: 29.69361
 longitude: -95.41272
 postcode: "77054"
 city: Houston
-street: "Kirby Drive"
-housenumber: 7929
+street: Kirby Drive
+housenumber: "7929"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7929+kirby+dr-houston-tx-77054/id=10818"
+website: https://www.walgreens.com/locator/walgreens-7929+kirby+dr-houston-tx-77054/id=10818

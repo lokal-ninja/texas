@@ -1,11 +1,11 @@
 id: 384262554
-type: way
+type: node
 latitude: 30.22835
 longitude: -97.82299
 postcode: "78745"
 city: Sunset Valley
-street: "Brodie Lane"
-housenumber: 5400
-phone: "+1-512-891-4240"
-opening_hours: "Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-19:00; Su 09:00-21:00"
-website: "https://www.academy.com/storelocator/texas/sunset-valley/store-0043"
+street: Brodie Lane
+housenumber: "5400"
+phone: +1-512-891-4240
+opening_hours: Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa 08:00-19:00; Su 09:00-21:00
+website: https://www.academy.com/storelocator/texas/sunset-valley/store-0043

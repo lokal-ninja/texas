@@ -1,11 +1,11 @@
 id: 1094382020
-type: way
+type: node
 latitude: 33.59524
 longitude: -101.92355
 postcode: "79416"
 city: Lubbock
-street: "West Loop 289"
-housenumber: 103
+street: West Loop 289
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

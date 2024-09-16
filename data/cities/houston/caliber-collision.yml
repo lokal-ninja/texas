@@ -1,11 +1,11 @@
 id: 1072554233
-type: way
+type: node
 latitude: 29.95106
 longitude: -95.53634
 postcode: "77064"
 city: Houston
-street: "Tomball Parkway"
-housenumber: 16915
+street: Tomball Parkway
+housenumber: "16915"
 phone: ""
 opening_hours: ""
 website: ""

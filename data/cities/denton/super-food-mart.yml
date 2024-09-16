@@ -1,11 +1,11 @@
 id: 829444457
-type: way
+type: node
 latitude: 33.21561
 longitude: -97.16194
 postcode: "76201"
 city: Denton
-street: "North Bonnie Brae Street"
-housenumber: 125
+street: North Bonnie Brae Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

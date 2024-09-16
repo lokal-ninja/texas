@@ -1,11 +1,11 @@
 id: 672802900
-type: way
+type: node
 latitude: 32.77899
 longitude: -96.59651
 postcode: "75149"
 city: Mesquite
-street: "North Bryan - Belt Line Road"
-housenumber: 100
+street: North Bryan - Belt Line Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

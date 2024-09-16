@@ -1,11 +1,11 @@
 id: 611623576
-type: way
+type: node
 latitude: 33.21528
 longitude: -97.14727
 postcode: "76201"
 city: Denton
-street: "West Hickory Street"
-housenumber: 1314
+street: West Hickory Street
+housenumber: "1314"
 phone: ""
 opening_hours: ""
 website: ""

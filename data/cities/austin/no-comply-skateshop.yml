@@ -1,11 +1,11 @@
 id: 1021836461
-type: way
+type: node
 latitude: 30.27649
 longitude: -97.74906
 postcode: "78701"
 city: Austin
-street: "West 12th Street"
-housenumber: 812
+street: West 12th Street
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1108406285
-type: way
+type: node
 latitude: 31.97986
 longitude: -106.58162
 postcode: "79821"
 city: Anthony
-street: "North Desert Boulevard"
-housenumber: 8805
+street: North Desert Boulevard
+housenumber: "8805"
 phone: ""
 opening_hours: ""
 website: ""

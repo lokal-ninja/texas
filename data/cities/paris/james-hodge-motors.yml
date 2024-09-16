@@ -1,11 +1,11 @@
 id: 752701165
-type: way
+type: node
 latitude: 33.65859
 longitude: -95.50757
 postcode: "75460"
 city: Paris
-street: "Southeast Loop 286"
-housenumber: 5100
+street: Southeast Loop 286
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

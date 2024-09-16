@@ -1,11 +1,11 @@
 id: 490752101
-type: way
+type: node
 latitude: 32.66355
 longitude: -95.48978
 postcode: "75773"
 city: Mineola
-street: "West Broad Street"
-housenumber: 109
+street: West Broad Street
+housenumber: "109"
 phone: ""
-opening_hours: "Tu-Sa 11:00-17:00"
+opening_hours: Tu-Sa 11:00-17:00
 website: ""

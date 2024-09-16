@@ -1,11 +1,11 @@
 id: 317921321
-type: way
+type: node
 latitude: 30.07752
 longitude: -95.43027
 postcode: "77373"
 city: Spring
-street: "Spring Cypress Road"
-housenumber: 1024
-phone: "+1-954-638-1439"
+street: Spring Cypress Road
+housenumber: "1024"
+phone: +1-954-638-1439
 opening_hours: ""
 website: ""

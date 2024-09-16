@@ -1,11 +1,11 @@
 id: 671979736
-type: way
+type: node
 latitude: 29.98844
 longitude: -95.50059
 postcode: "77069"
 city: Houston
-street: "Cypress Creek Parkway"
-housenumber: 4534
-phone: "+1 281-586-8358"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/houston/office-depot-17"
+street: Cypress Creek Parkway
+housenumber: "4534"
+phone: +1 281-586-8358
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/tx/houston/office-depot-17

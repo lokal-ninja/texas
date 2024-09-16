@@ -1,11 +1,11 @@
 id: 544302201
-type: way
+type: node
 latitude: 32.40986
 longitude: -99.77304
 postcode: "79606"
 city: Abilene
-street: "South Clack Street"
-housenumber: 3350
-phone: "+1-325-690-6699"
-opening_hours: "Mo-Sa 09:00-21:05, Su 09:00-20:05"
+street: South Clack Street
+housenumber: "3350"
+phone: +1-325-690-6699
+opening_hours: Mo-Sa 09:00-21:05, Su 09:00-20:05
 website: ""

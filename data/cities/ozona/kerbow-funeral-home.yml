@@ -1,11 +1,11 @@
 id: 747936616
-type: way
+type: node
 latitude: 30.71194
 longitude: -101.20076
 postcode: "76943"
 city: Ozona
-street: "9th Street"
-housenumber: 502
+street: 9th Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

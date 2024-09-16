@@ -1,11 +1,11 @@
 id: 148518466
-type: way
+type: node
 latitude: 32.47534
 longitude: -95.38837
 postcode: "75771"
 city: Lindale
-street: "East Centennial Boulevard"
-housenumber: 105
-phone: "+1-903-882-0740"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3764/lindale-tx/whats-new"
+street: East Centennial Boulevard
+housenumber: "105"
+phone: +1-903-882-0740
+opening_hours: 24/7
+website: https://www.walmart.com/store/3764/lindale-tx/whats-new

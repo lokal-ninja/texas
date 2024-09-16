@@ -1,11 +1,11 @@
 id: 1125955129
-type: way
+type: node
 latitude: 32.40191
 longitude: -99.38903
 postcode: "79504"
 city: Baird
-street: "Interstate 20 East"
-housenumber: 501
+street: Interstate 20 East
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

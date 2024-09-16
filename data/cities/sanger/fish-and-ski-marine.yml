@@ -1,11 +1,11 @@
 id: 864713809
-type: way
+type: node
 latitude: 33.35892
 longitude: -97.18389
 postcode: "76266"
 city: Sanger
-street: "South Stemmons Street"
-housenumber: 303
+street: South Stemmons Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

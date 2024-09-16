@@ -1,11 +1,12 @@
 id: 130336834
-type: way
+type: node
 latitude: 32.67141
 longitude: -97.00387
 postcode: "75052"
 city: Grand Prairie
-street: "South Carrier Parkway"
-housenumber: 4215
-phone: "+1-972-266-7050"
-opening_hours: "Mo-Su 06:00-01:00 open store || Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 12:00-06:00 open pharmacy"
-website: "https://local.tomthumb.com/tx/grand-prairie/4215-s-carrier-pkwy.html"
+street: South Carrier Parkway
+housenumber: "4215"
+phone: +1-972-266-7050
+opening_hours: Mo-Su 06:00-01:00 open "store" || Mo-Fr 09:00-21:00; Sa 09:00-19:00;
+    Su 12:00-06:00 open "pharmacy"
+website: https://local.tomthumb.com/tx/grand-prairie/4215-s-carrier-pkwy.html

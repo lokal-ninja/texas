@@ -1,11 +1,11 @@
 id: 738383915
-type: way
+type: node
 latitude: 29.82103
 longitude: -95.46221
 postcode: "77092"
 city: Houston
-street: "West 34th Street"
-housenumber: 4910
-phone: "+1-713-686-6176"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://houstonhardwoods.com"
+street: West 34th Street
+housenumber: "4910"
+phone: +1-713-686-6176
+opening_hours: Mo-Fr 07:30-16:30
+website: https://houstonhardwoods.com

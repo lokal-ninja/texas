@@ -1,11 +1,11 @@
 id: 973350801
-type: way
+type: node
 latitude: 29.52179
 longitude: -98.29487
 postcode: "78109"
 city: Converse
-street: "Miramar Boulevard"
-housenumber: 9765
+street: Miramar Boulevard
+housenumber: "9765"
 phone: ""
 opening_hours: ""
 website: ""

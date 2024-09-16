@@ -1,11 +1,11 @@
 id: 1030775697
-type: way
+type: node
 latitude: 31.25476
 longitude: -94.7218
 postcode: ""
 city: Lufkin
-street: "Farm-to-Market Road 2108"
-housenumber: 2979
+street: Farm-to-Market Road 2108
+housenumber: "2979"
 phone: ""
 opening_hours: ""
 website: ""

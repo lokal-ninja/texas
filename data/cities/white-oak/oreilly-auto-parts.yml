@@ -1,11 +1,11 @@
 id: 667586094
-type: way
+type: node
 latitude: 32.51907
 longitude: -94.85239
 postcode: "75693"
 city: White Oak
-street: "East Old Highway 80"
-housenumber: 605
+street: East Old Highway 80
+housenumber: "605"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/whiteoak/autoparts-6088.html"
+website: https://locations.oreillyauto.com/tx/whiteoak/autoparts-6088.html

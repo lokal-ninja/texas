@@ -1,11 +1,11 @@
 id: 691314716
-type: way
+type: node
 latitude: 26.18346
 longitude: -97.67987
 postcode: "78550"
 city: Harlingen
-street: "South 77 Sunshine Strip"
-housenumber: 1101
-phone: "+1-956-423-8944"
+street: South 77 Sunshine Strip
+housenumber: "1101"
+phone: +1-956-423-8944
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/harlingen/autoparts-462.html"
+website: https://locations.oreillyauto.com/tx/harlingen/autoparts-462.html

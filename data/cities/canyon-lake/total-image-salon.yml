@@ -1,11 +1,11 @@
 id: 766096496
-type: way
+type: node
 latitude: 29.86144
 longitude: -98.16098
 postcode: "78133"
 city: Canyon Lake
-street: "FM 2673"
-housenumber: 200
+street: FM 2673
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

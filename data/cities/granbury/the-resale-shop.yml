@@ -1,11 +1,11 @@
 id: 712082215
-type: way
+type: node
 latitude: 32.46137
 longitude: -97.72008
 postcode: "76049"
 city: Granbury
-street: "HWY 377"
-housenumber: 4322
+street: HWY 377
+housenumber: "4322"
 phone: "+18175799088"
 opening_hours: ""
-website: "https://www.afterschoolamerica.org/"
+website: https://www.afterschoolamerica.org/

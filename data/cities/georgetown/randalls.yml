@@ -1,11 +1,11 @@
 id: 864899840
-type: way
+type: node
 latitude: 30.70377
 longitude: -97.74882
 postcode: "78633"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 5721
-phone: "+1-512-942-6028"
-opening_hours: "06:00-22:00"
-website: "https://www.randalls.com/"
+street: Williams Drive
+housenumber: "5721"
+phone: +1-512-942-6028
+opening_hours: 06:00-22:00
+website: https://www.randalls.com/

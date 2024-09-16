@@ -1,11 +1,11 @@
 id: 708323980
-type: way
+type: node
 latitude: 29.34982
 longitude: -99.1155
 postcode: "78861"
 city: Hondo
-street: "State Highway 173 North"
-housenumber: 120
+street: State Highway 173 North
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

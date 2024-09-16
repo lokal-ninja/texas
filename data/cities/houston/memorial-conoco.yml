@@ -1,11 +1,11 @@
 id: 425995161
-type: way
+type: node
 latitude: 29.77291
 longitude: -95.575
 postcode: ""
 city: Houston
-street: "Memorial Drive"
-housenumber: 13202
+street: Memorial Drive
+housenumber: "13202"
 phone: ""
 opening_hours: ""
-website: "https://www.memorialconoco.com/"
+website: https://www.memorialconoco.com/

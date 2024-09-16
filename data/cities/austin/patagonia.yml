@@ -1,11 +1,11 @@
 id: 328634447
-type: way
+type: node
 latitude: 30.2661
 longitude: -97.74427
 postcode: "78701"
 city: Austin
-street: "Congress Avenue"
-housenumber: 316
+street: Congress Avenue
+housenumber: "316"
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00"
+opening_hours: Mo-Su 10:00-18:00
 website: ""

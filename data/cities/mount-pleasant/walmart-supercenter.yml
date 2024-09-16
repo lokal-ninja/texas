@@ -1,11 +1,11 @@
 id: 59603894
-type: way
+type: node
 latitude: 33.13388
 longitude: -94.96406
 postcode: "75455"
 city: Mount Pleasant
-street: "South Jefferson Avenue"
-housenumber: 2311
-phone: "+1 903-572-0018"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/131/mount-pleasant-tx/whats-new"
+street: South Jefferson Avenue
+housenumber: "2311"
+phone: +1 903-572-0018
+opening_hours: 24/7
+website: https://www.walmart.com/store/131/mount-pleasant-tx/whats-new

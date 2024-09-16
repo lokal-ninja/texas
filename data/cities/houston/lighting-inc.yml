@@ -1,11 +1,11 @@
 id: 170186373
-type: way
+type: node
 latitude: 29.73279
 longitude: -95.44644
 postcode: "77027"
 city: Houston
-street: "Richmond Avenue"
-housenumber: 4218
-phone: "+1-713-599-1536"
+street: Richmond Avenue
+housenumber: "4218"
+phone: +1-713-599-1536
 opening_hours: ""
-website: "https://www.lightinginc.com/location/houston-plumbing-hardware/"
+website: https://www.lightinginc.com/location/houston-plumbing-hardware/

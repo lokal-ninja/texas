@@ -1,11 +1,11 @@
 id: 832063805
-type: way
+type: node
 latitude: 32.90858
 longitude: -96.55491
 postcode: "75089"
 city: Rowlett
-street: "Lakeview Parkway"
-housenumber: 4901
+street: Lakeview Parkway
+housenumber: "4901"
 phone: ""
 opening_hours: ""
 website: ""

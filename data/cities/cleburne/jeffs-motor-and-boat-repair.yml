@@ -1,11 +1,11 @@
 id: 710183092
-type: way
+type: node
 latitude: 32.30804
 longitude: -97.42086
 postcode: "76033"
 city: Cleburne
-street: "Country Club Road"
-housenumber: 2412
-phone: "+1-817-558-0963"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Country Club Road
+housenumber: "2412"
+phone: +1-817-558-0963
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

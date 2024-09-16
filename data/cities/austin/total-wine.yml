@@ -4,8 +4,8 @@ latitude: 30.39173
 longitude: -97.74443
 postcode: "78759"
 city: Austin
-street: "Research Boulevard"
-housenumber: 10001
-phone: "+1 512-340-9997"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.totalwine.com/store-info/522"
+street: Research Boulevard
+housenumber: "10001"
+phone: +1 512-340-9997
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.totalwine.com/store-info/522

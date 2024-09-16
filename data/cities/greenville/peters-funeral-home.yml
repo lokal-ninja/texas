@@ -1,11 +1,11 @@
 id: 640678931
-type: way
+type: node
 latitude: 33.12601
 longitude: -96.12281
 postcode: "75401"
 city: Greenville
-street: "Wellington Street"
-housenumber: 4201
-phone: "+1 903-455-3310"
+street: Wellington Street
+housenumber: "4201"
+phone: +1 903-455-3310
 opening_hours: ""
-website: "https://www.petersfh.com/"
+website: https://www.petersfh.com/

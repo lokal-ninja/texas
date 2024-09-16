@@ -1,11 +1,11 @@
 id: 1134660519
-type: way
+type: node
 latitude: 28.89124
 longitude: -98.40795
 postcode: "78064"
 city: Pleasanton
-street: "Pullin Drive"
-housenumber: 43
+street: Pullin Drive
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

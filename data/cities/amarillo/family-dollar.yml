@@ -1,11 +1,11 @@
 id: 1306321680
-type: way
+type: node
 latitude: 35.23815
 longitude: -101.79474
 postcode: "79107"
 city: Amarillo
-street: "North Grand Street"
-housenumber: 2420
+street: North Grand Street
+housenumber: "2420"
 phone: "+18065998671"
 opening_hours: ""
-website: "https://www.familydollar.com/locations/tx/amarillo/24401/"
+website: https://www.familydollar.com/locations/tx/amarillo/24401/

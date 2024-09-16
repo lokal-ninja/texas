@@ -1,11 +1,11 @@
 id: 707043800
-type: way
+type: node
 latitude: 30.07087
 longitude: -95.44862
 postcode: "77388"
 city: Spring
-street: "FM 2920"
-housenumber: 2144
-phone: "+1-281-528-8878"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/spring/tx/1020/"
+street: FM 2920
+housenumber: "2144"
+phone: +1-281-528-8878
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/spring/tx/1020/

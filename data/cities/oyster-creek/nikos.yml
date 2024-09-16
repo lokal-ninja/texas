@@ -1,11 +1,11 @@
 id: 519981071
-type: way
+type: node
 latitude: 28.99946
 longitude: -95.32767
 postcode: "77541"
 city: Oyster Creek
-street: "FM 523"
-housenumber: 2902
+street: FM 523
+housenumber: "2902"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31250496
-type: way
+type: node
 latitude: 27.56833
 longitude: -99.5002
 postcode: "78041"
 city: Laredo
-street: "West Del Mar Boulevard"
-housenumber: 210
-phone: "+1-956-712-3005"
+street: West Del Mar Boulevard
+housenumber: "210"
+phone: +1-956-712-3005
 opening_hours: ""
 website: ""

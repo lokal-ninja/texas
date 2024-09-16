@@ -1,11 +1,11 @@
 id: 1285502954
-type: way
+type: node
 latitude: 32.13583
 longitude: -101.80597
 postcode: "79782"
 city: Stanton
-street: "North Lamesa Highway"
-housenumber: 1215
+street: North Lamesa Highway
+housenumber: "1215"
 phone: ""
 opening_hours: ""
 website: ""

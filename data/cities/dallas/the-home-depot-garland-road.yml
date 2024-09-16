@@ -1,11 +1,11 @@
 id: 1253937417
-type: way
+type: node
 latitude: 32.85046
 longitude: -96.68689
 postcode: "75218"
 city: Dallas
-street: "Garland Road"
-housenumber: 11255
-phone: "+1 214-328-1900"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/White-Rock/TX/Dallas/75218/550"
+street: Garland Road
+housenumber: "11255"
+phone: +1 214-328-1900
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/White-Rock/TX/Dallas/75218/550

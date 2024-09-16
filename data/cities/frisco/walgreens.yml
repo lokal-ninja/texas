@@ -1,11 +1,11 @@
 id: 235526087
-type: way
+type: node
 latitude: 33.15412
 longitude: -96.86495
 postcode: ""
 city: Frisco
-street: "Main Street"
-housenumber: 3030
+street: Main Street
+housenumber: "3030"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3030+main+st-frisco-tx-75033/id=7645"
+website: https://www.walgreens.com/locator/walgreens-3030+main+st-frisco-tx-75033/id=7645

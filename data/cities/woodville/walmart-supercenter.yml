@@ -1,11 +1,11 @@
 id: 572755072
-type: way
+type: node
 latitude: 30.7644
 longitude: -94.41993
 postcode: "75979"
 city: Woodville
-street: "Cobb Mill Road"
-housenumber: 115
-phone: "+1 409-283-8248"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/288/woodville-tx/whats-new"
+street: Cobb Mill Road
+housenumber: "115"
+phone: +1 409-283-8248
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/288/woodville-tx/whats-new

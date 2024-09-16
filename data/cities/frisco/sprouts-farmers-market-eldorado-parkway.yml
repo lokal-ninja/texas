@@ -1,11 +1,11 @@
 id: 1116393876
-type: way
+type: node
 latitude: 33.18006
 longitude: -96.8679
 postcode: "75033"
 city: Frisco
-street: "Eldorado Parkway"
-housenumber: 2500
-phone: "+1-469-731-7261"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Eldorado Parkway
+housenumber: "2500"
+phone: +1-469-731-7261
+opening_hours: Mo-Su 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 848147428
-type: way
+type: node
 latitude: 31.05543
 longitude: -97.45869
 postcode: "76513"
 city: Belton
-street: "East Central Avenue"
-housenumber: 504
+street: East Central Avenue
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

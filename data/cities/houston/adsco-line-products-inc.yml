@@ -1,11 +1,11 @@
 id: 439434504
-type: way
+type: node
 latitude: 29.76979
 longitude: -95.39523
 postcode: "77007"
 city: Houston
-street: "Washington Avenue"
-housenumber: 3500
-phone: "+1 713 880 2424"
+street: Washington Avenue
+housenumber: "3500"
+phone: +1 713 880 2424
 opening_hours: ""
-website: "https://www.adscoline.com/"
+website: https://www.adscoline.com/

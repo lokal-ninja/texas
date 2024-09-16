@@ -1,11 +1,11 @@
 id: 667510657
-type: way
+type: node
 latitude: 32.54503
 longitude: -97.3287
 postcode: "76028"
 city: Burleson
-street: "Southwest Wilshire Boulevard"
-housenumber: 100
-phone: "+1-817-295-1125"
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/burleson-tx-pharmacies/100-sw-wilshire-blvd-burleson-tx-76028/storeid=7489"
+street: Southwest Wilshire Boulevard
+housenumber: "100"
+phone: +1-817-295-1125
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/burleson-tx-pharmacies/100-sw-wilshire-blvd-burleson-tx-76028/storeid=7489

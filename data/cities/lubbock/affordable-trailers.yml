@@ -1,11 +1,11 @@
 id: 472417306
-type: way
+type: node
 latitude: 33.6174
 longitude: -101.81933
 postcode: "79403"
 city: Lubbock
-street: "Northeast Loop 289"
-housenumber: 1701
+street: Northeast Loop 289
+housenumber: "1701"
 phone: ""
 opening_hours: ""
 website: ""

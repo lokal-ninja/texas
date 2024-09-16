@@ -1,11 +1,11 @@
 id: 753416368
-type: way
+type: node
 latitude: 30.64325
 longitude: -97.03923
 postcode: "76567"
 city: Rockdale
-street: "US-79"
-housenumber: 1201
+street: US-79
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://elgin-generalstore.com"
+website: https://elgin-generalstore.com

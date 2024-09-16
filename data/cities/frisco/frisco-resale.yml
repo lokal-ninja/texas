@@ -1,11 +1,11 @@
 id: 645071769
-type: way
+type: node
 latitude: 33.15136
 longitude: -96.81866
 postcode: "75033"
 city: Frisco
-street: "Dogwood Street"
-housenumber: 9125
+street: Dogwood Street
+housenumber: "9125"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 10:00-17:00, Sa 09:00-16:00, Su 12:00-16:00"
+opening_hours: Mo-Tu,Th-Fr 10:00-17:00, Sa 09:00-16:00, Su 12:00-16:00
 website: ""

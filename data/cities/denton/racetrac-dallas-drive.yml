@@ -1,11 +1,11 @@
 id: 670366448
-type: way
+type: node
 latitude: 33.19394
 longitude: -97.1188
 postcode: "76205"
 city: Denton
-street: "Dallas Drive"
-housenumber: 1450
+street: Dallas Drive
+housenumber: "1450"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 380191859
-type: way
+type: node
 latitude: 32.49249
 longitude: -94.7403
 postcode: "75601"
 city: Longview
-street: "East South Street"
-housenumber: 108
+street: East South Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

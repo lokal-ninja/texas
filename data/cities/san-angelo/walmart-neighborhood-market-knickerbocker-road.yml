@@ -1,11 +1,11 @@
 id: 862181733
-type: way
+type: node
 latitude: 31.40934
 longitude: -100.47877
 postcode: "76904"
 city: San Angelo
-street: "Knickerbocker Road"
-housenumber: 5154
-phone: "+1 325-276-6621"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/7311-san-angelo-tx"
+street: Knickerbocker Road
+housenumber: "5154"
+phone: +1 325-276-6621
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/7311-san-angelo-tx

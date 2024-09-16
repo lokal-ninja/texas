@@ -1,11 +1,11 @@
 id: 147464693
-type: way
+type: node
 latitude: 29.77986
 longitude: -95.54245
 postcode: ""
 city: Houston
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
 website: ""

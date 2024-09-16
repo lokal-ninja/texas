@@ -1,11 +1,11 @@
 id: 400059609
-type: way
+type: node
 latitude: 31.89258
 longitude: -102.3416
 postcode: ""
 city: Odessa
-street: "East 42nd Street"
-housenumber: 4101
+street: East 42nd Street
+housenumber: "4101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/odessa-tx-pharmacies/4101-east-42nd-st-odessa-tx-79762/storeid=5647"
+website: https://www.cvs.com/store-locator/odessa-tx-pharmacies/4101-east-42nd-st-odessa-tx-79762/storeid=5647

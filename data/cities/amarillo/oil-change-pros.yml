@@ -1,11 +1,11 @@
 id: 748708960
-type: way
+type: node
 latitude: 35.16753
 longitude: -101.88462
 postcode: "79109"
 city: Amarillo
-street: "Ridgecrest Circle"
-housenumber: 4203
+street: Ridgecrest Circle
+housenumber: "4203"
 phone: "+18068033555"
 opening_hours: ""
 website: ""

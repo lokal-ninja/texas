@@ -1,11 +1,11 @@
 id: 596236260
-type: way
+type: node
 latitude: 33.45822
 longitude: -94.08815
 postcode: "75503"
 city: Texarkana
-street: "Richmond Road"
-housenumber: 2504
+street: Richmond Road
+housenumber: "2504"
 phone: ""
 opening_hours: ""
 website: ""

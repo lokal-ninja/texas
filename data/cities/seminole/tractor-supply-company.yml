@@ -1,11 +1,11 @@
 id: 514194979
-type: way
+type: node
 latitude: 32.71387
 longitude: -102.63561
 postcode: "79360"
 city: Seminole
-street: "Southeast 8th Street"
-housenumber: 401
-phone: "+1 432-758-6336"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Southeast 8th Street
+housenumber: "401"
+phone: +1 432-758-6336
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

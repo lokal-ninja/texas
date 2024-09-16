@@ -4,8 +4,8 @@ latitude: 30.36395
 longitude: -97.7296
 postcode: "78757"
 city: Austin
-street: "Burnet Road"
-housenumber: 8312
-phone: "+1-512-459-1743"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://excelfinco.com/austin-tx/"
+street: Burnet Road
+housenumber: "8312"
+phone: +1-512-459-1743
+opening_hours: Mo-Fr 08:00-18:00
+website: https://excelfinco.com/austin-tx/

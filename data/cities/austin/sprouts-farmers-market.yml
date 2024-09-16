@@ -4,8 +4,8 @@ latitude: 30.39497
 longitude: -97.74479
 postcode: "78759"
 city: Austin
-street: "Research Boulevard"
-housenumber: 10225
-phone: "+1 512-225-9101"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/austin/austin-great-hills/"
+street: Research Boulevard
+housenumber: "10225"
+phone: +1 512-225-9101
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/austin/austin-great-hills/

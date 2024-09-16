@@ -1,11 +1,11 @@
 id: 858642397
-type: way
+type: node
 latitude: 35.08079
 longitude: -101.91622
 postcode: "79118"
 city: Amarillo
-street: "Winery Road"
-housenumber: 100
+street: Winery Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

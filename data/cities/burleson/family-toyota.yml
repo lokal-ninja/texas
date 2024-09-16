@@ -1,11 +1,11 @@
 id: 969439478
-type: way
+type: node
 latitude: 32.52741
 longitude: -97.30782
 postcode: "76028"
 city: Burleson
-street: "South Burleson Boulevard"
-housenumber: 801
+street: South Burleson Boulevard
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

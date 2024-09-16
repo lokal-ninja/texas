@@ -1,11 +1,11 @@
 id: 803156194
-type: way
+type: node
 latitude: 35.34646
 longitude: -101.38119
 postcode: "79068"
 city: Panhandle
-street: "Main Street"
-housenumber: 510
+street: Main Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

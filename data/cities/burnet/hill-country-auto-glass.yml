@@ -1,11 +1,11 @@
 id: 761908218
-type: way
+type: node
 latitude: 30.75987
 longitude: -98.2414
 postcode: "78611"
 city: Burnet
-street: "Buchanan Drive"
-housenumber: 1100
+street: Buchanan Drive
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

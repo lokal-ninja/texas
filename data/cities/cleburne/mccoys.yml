@@ -1,11 +1,11 @@
 id: 714090726
-type: way
+type: node
 latitude: 32.40483
 longitude: -97.38207
 postcode: "76031"
 city: Cleburne
-street: "North Main Street"
-housenumber: 3208
-phone: "+1-817-641-0212"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00"
-website: "https://www.mccoys.com/stores/cleburne-tx"
+street: North Main Street
+housenumber: "3208"
+phone: +1-817-641-0212
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00
+website: https://www.mccoys.com/stores/cleburne-tx

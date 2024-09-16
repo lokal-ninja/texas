@@ -1,11 +1,11 @@
 id: 382984606
-type: way
+type: node
 latitude: 30.43052
 longitude: -97.66928
 postcode: "78660"
 city: Pflugerville
-street: "North Interstate 35"
-housenumber: 14101
-phone: "+1-512-670-3300"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://texasleatherinteriors.com/"
+street: North Interstate 35
+housenumber: "14101"
+phone: +1-512-670-3300
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://texasleatherinteriors.com/

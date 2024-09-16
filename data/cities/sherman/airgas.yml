@@ -1,11 +1,11 @@
 id: 167703807
-type: way
+type: node
 latitude: 33.66427
 longitude: -96.59355
 postcode: "75090"
 city: Sherman
-street: "East Baker Drive"
-housenumber: 1705
+street: East Baker Drive
+housenumber: "1705"
 phone: ""
 opening_hours: ""
 website: ""

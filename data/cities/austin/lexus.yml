@@ -1,11 +1,11 @@
 id: 865500626
-type: way
+type: node
 latitude: 30.39263
 longitude: -97.74036
 postcode: "78759"
 city: Austin
-street: "Stonelake Boulevard"
-housenumber: 9910
+street: Stonelake Boulevard
+housenumber: "9910"
 phone: "7372144509"
 opening_hours: ""
 website: ""

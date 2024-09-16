@@ -1,11 +1,11 @@
 id: 781375275
-type: way
+type: node
 latitude: 29.78787
 longitude: -95.38818
 postcode: ""
 city: Houston
-street: "Studewood Street"
-housenumber: 911
+street: Studewood Street
+housenumber: "911"
 phone: ""
 opening_hours: ""
 website: ""

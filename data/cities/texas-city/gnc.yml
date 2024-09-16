@@ -1,11 +1,11 @@
 id: 766380140
-type: way
+type: node
 latitude: 29.39375
 longitude: -94.95057
 postcode: "77590"
 city: Texas City
-street: "Palmer Highway"
-housenumber: 3563
+street: Palmer Highway
+housenumber: "3563"
 phone: ""
 opening_hours: ""
 website: ""

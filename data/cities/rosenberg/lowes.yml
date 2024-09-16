@@ -1,11 +1,11 @@
 id: 906642635
-type: way
+type: node
 latitude: 29.52991
 longitude: -95.80545
 postcode: "77471"
 city: Rosenberg
-street: "Southwest Freeway"
-housenumber: 28005
-phone: "+1 281-232-1838"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00; PH off"
-website: "https://www.lowes.com/store/tx-rosenberg/1898"
+street: Southwest Freeway
+housenumber: "28005"
+phone: +1 281-232-1838
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00; PH off
+website: https://www.lowes.com/store/tx-rosenberg/1898

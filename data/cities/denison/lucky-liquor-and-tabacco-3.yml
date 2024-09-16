@@ -1,11 +1,11 @@
 id: 852267767
-type: way
+type: node
 latitude: 33.70243
 longitude: -96.57192
 postcode: "75020"
 city: Denison
-street: "Texoma Parkway"
-housenumber: 4905
+street: Texoma Parkway
+housenumber: "4905"
 phone: ""
 opening_hours: ""
 website: ""

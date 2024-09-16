@@ -1,11 +1,11 @@
 id: 468909181
-type: way
+type: node
 latitude: 32.99786
 longitude: -94.96049
 postcode: "75686"
 city: Pittsburg
-street: "North Greer Boulevard"
-housenumber: 102
-phone: "+1-903-856-0277"
+street: North Greer Boulevard
+housenumber: "102"
+phone: +1-903-856-0277
 opening_hours: ""
 website: ""

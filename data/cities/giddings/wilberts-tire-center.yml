@@ -1,11 +1,11 @@
 id: 781658312
-type: way
+type: node
 latitude: 30.17852
 longitude: -96.91098
 postcode: "78942"
 city: Giddings
-street: "East Austin Street"
-housenumber: 2830
-phone: "+1-979-542-5795"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.wilbertstire.com/"
+street: East Austin Street
+housenumber: "2830"
+phone: +1-979-542-5795
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.wilbertstire.com/

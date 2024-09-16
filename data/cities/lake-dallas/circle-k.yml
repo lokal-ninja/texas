@@ -1,11 +1,11 @@
 id: 804711571
-type: way
+type: node
 latitude: 33.12949
 longitude: -97.03828
 postcode: "75065"
 city: Lake Dallas
-street: "South Stemmons Freeway"
-housenumber: 600
+street: South Stemmons Freeway
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

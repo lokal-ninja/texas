@@ -1,11 +1,11 @@
 id: 239547276
-type: way
+type: node
 latitude: 32.34556
 longitude: -97.38665
 postcode: "76033"
 city: Cleburne
-street: "South Main Street"
-housenumber: 212
+street: South Main Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
-website: "http://www.labelleamestudio.com/"
+website: http://www.labelleamestudio.com/

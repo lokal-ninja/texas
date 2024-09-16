@@ -1,11 +1,11 @@
 id: 853052953
-type: way
+type: node
 latitude: 33.42403
 longitude: -96.58746
 postcode: "75495"
 city: Van Alstyne
-street: "Texana Street"
-housenumber: 901
+street: Texana Street
+housenumber: "901"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/van-alstyne/9603"
+website: https://www.dollargeneral.com/store-directory/tx/van-alstyne/9603

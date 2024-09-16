@@ -1,11 +1,11 @@
 id: 303092661
-type: way
+type: node
 latitude: 29.99715
 longitude: -97.88417
 postcode: "78640"
 city: Kyle
-street: "Rebel Drive"
-housenumber: 500
+street: Rebel Drive
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

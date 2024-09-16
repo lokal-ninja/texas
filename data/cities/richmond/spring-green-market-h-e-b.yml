@@ -1,11 +1,11 @@
 id: 839649312
-type: way
+type: node
 latitude: 29.69519
 longitude: -95.81636
 postcode: "77406"
 city: Richmond
-street: "FM 723"
-housenumber: 9211
-phone: "+1-346-239-3500"
+street: FM 723
+housenumber: "9211"
+phone: +1-346-239-3500
 opening_hours: ""
 website: ""

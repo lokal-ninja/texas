@@ -4,8 +4,8 @@ latitude: 29.42499
 longitude: -95.05917
 postcode: "77591"
 city: Texas City
-street: "Gulf Freeway"
-housenumber: 5885
-phone: "+1-281-337-1210"
-opening_hours: "Mo-We 11:00-21:00,Th 11:00-20:00,Fr 11:00-21:00,Sa 11:00-18:00"
-website: "https://stores.sunglasshut.com/us/tx/texas-city/5885-gulf-fwy"
+street: Gulf Freeway
+housenumber: "5885"
+phone: +1-281-337-1210
+opening_hours: Mo-We 11:00-21:00,Th 11:00-20:00,Fr 11:00-21:00,Sa 11:00-18:00
+website: https://stores.sunglasshut.com/us/tx/texas-city/5885-gulf-fwy

@@ -4,8 +4,8 @@ latitude: 29.82917
 longitude: -95.4309
 postcode: ""
 city: Houston
-street: "West 43rd Street"
-housenumber: 1214
+street: West 43rd Street
+housenumber: "1214"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 12:00-18:00"
-website: "https://locations.waxcenter.com/tx/houston/houston-oak-forest-0223.html"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 12:00-18:00
+website: https://locations.waxcenter.com/tx/houston/houston-oak-forest-0223.html

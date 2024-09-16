@@ -1,11 +1,11 @@
 id: 1082153743
-type: way
+type: node
 latitude: 29.69978
 longitude: -98.12544
 postcode: "78130"
 city: New Braunfels
-street: "Cross Street"
-housenumber: 343
+street: Cross Street
+housenumber: "343"
 phone: ""
 opening_hours: ""
 website: ""

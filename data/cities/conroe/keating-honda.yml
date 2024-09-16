@@ -1,11 +1,11 @@
 id: 668781189
-type: way
+type: node
 latitude: 30.30486
 longitude: -95.46701
 postcode: "77301"
 city: Conroe
-street: "Interstate 45 South"
-housenumber: 311
+street: Interstate 45 South
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

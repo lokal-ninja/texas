@@ -1,11 +1,11 @@
 id: 1024042783
-type: way
+type: node
 latitude: 29.99761
 longitude: -95.42375
 postcode: ""
 city: Houston
-street: "East Richey Road"
-housenumber: 118
+street: East Richey Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

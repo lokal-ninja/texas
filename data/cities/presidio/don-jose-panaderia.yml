@@ -1,11 +1,11 @@
 id: 507626379
-type: way
+type: node
 latitude: 29.56175
 longitude: -104.37213
 postcode: "79845"
 city: Presidio
-street: "Erma Avenue"
-housenumber: 109
+street: Erma Avenue
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

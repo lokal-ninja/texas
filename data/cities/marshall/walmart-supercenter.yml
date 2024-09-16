@@ -1,11 +1,11 @@
 id: 167210257
-type: way
+type: node
 latitude: 32.55908
 longitude: -94.35283
 postcode: "75670"
 city: Marshall
-street: "East End Boulevard North"
-housenumber: 1701
-phone: "+1 903-938-0072"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/918/marshall-tx/whats-new"
+street: East End Boulevard North
+housenumber: "1701"
+phone: +1 903-938-0072
+opening_hours: 24/7
+website: https://www.walmart.com/store/918/marshall-tx/whats-new

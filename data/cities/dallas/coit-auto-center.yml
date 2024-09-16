@@ -1,11 +1,11 @@
 id: 470346188
-type: way
+type: node
 latitude: 32.99842
 longitude: -96.76826
 postcode: "75252"
 city: Dallas
-street: "Coit Road"
-housenumber: 18131
+street: Coit Road
+housenumber: "18131"
 phone: ""
 opening_hours: ""
 website: ""

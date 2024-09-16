@@ -1,11 +1,11 @@
 id: 40810665
-type: way
+type: node
 latitude: 32.66538
 longitude: -97.40539
 postcode: "76132"
 city: Fort Worth
-street: "Oakmont Boulevard"
-housenumber: 6300
-phone: "+1 817-263-4065"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/590/fort-worth-tx/whats-new"
+street: Oakmont Boulevard
+housenumber: "6300"
+phone: +1 817-263-4065
+opening_hours: 24/7
+website: https://www.walmart.com/store/590/fort-worth-tx/whats-new

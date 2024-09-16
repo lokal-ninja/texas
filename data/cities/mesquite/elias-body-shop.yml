@@ -1,11 +1,11 @@
 id: 663233274
-type: way
+type: node
 latitude: 32.76197
 longitude: -96.6437
 postcode: "75149"
 city: Mesquite
-street: "South Sam Houston Road"
-housenumber: 712
+street: South Sam Houston Road
+housenumber: "712"
 phone: ""
 opening_hours: ""
 website: ""

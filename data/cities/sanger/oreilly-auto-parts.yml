@@ -1,11 +1,11 @@
 id: 319801347
-type: way
+type: node
 latitude: 33.36747
 longitude: -97.18232
 postcode: "76266"
 city: Sanger
-street: "West Chapman Drive"
-housenumber: 1501
+street: West Chapman Drive
+housenumber: "1501"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/sanger/autoparts-1959.html"
+website: https://locations.oreillyauto.com/tx/sanger/autoparts-1959.html

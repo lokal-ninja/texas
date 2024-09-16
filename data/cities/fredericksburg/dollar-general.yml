@@ -1,11 +1,11 @@
 id: 669293442
-type: way
+type: node
 latitude: 30.26893
 longitude: -98.86394
 postcode: "78624"
 city: Fredericksburg
-street: "East Main Street"
-housenumber: 601
+street: East Main Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/fredericksburg/3692"
+website: https://www.dollargeneral.com/store-directory/tx/fredericksburg/3692

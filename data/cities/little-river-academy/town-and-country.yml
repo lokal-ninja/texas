@@ -1,11 +1,11 @@
 id: 190535407
-type: way
+type: node
 latitude: 30.9806
 longitude: -97.34225
 postcode: "76554"
 city: Little River-Academy
 street: ""
-housenumber: 102
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

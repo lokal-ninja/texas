@@ -1,11 +1,11 @@
 id: 118193901
-type: way
+type: node
 latitude: 30.51994
 longitude: -97.65937
 postcode: "78664"
 city: Round Rock
-street: "Palm Valley Boulevard"
-housenumber: 1700
-phone: "+1-512-388-2649"
-opening_hours: "06:00-23:00"
-website: "https://www.heb.com"
+street: Palm Valley Boulevard
+housenumber: "1700"
+phone: +1-512-388-2649
+opening_hours: 06:00-23:00
+website: https://www.heb.com

@@ -1,11 +1,11 @@
 id: 688988041
-type: way
+type: node
 latitude: 29.43628
 longitude: -98.49583
 postcode: "78212"
 city: San Antonio
-street: "San Pedro Avenue"
-housenumber: 310
+street: San Pedro Avenue
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

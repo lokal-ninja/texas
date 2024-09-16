@@ -1,11 +1,11 @@
 id: 837680684
-type: way
+type: node
 latitude: 28.81658
 longitude: -97.85802
 postcode: "78119"
 city: Kenedy
-street: "North Sunset Strip Drive"
-housenumber: 112
+street: North Sunset Strip Drive
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/kenedy/112-n-sunset-strip.html"
+website: https://www.autozone.com/locations/tx/kenedy/112-n-sunset-strip.html

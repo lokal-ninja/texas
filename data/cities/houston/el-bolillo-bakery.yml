@@ -1,11 +1,11 @@
 id: 366886938
-type: way
+type: node
 latitude: 29.71318
 longitude: -95.31588
 postcode: ""
 city: Houston
-street: "South Wayside Drive"
-housenumber: 2421
+street: South Wayside Drive
+housenumber: "2421"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 764468248
-type: way
+type: node
 latitude: 33.67175
 longitude: -96.61929
 postcode: "75092"
 city: Sherman
-street: "West Highway 82"
-housenumber: 117
+street: West Highway 82
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

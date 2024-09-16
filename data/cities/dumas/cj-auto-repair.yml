@@ -1,11 +1,11 @@
 id: 1210091606
-type: way
+type: node
 latitude: 35.87717
 longitude: -101.97684
 postcode: "79029"
 city: Dumas
-street: "North Birge Avenue"
-housenumber: 611
+street: North Birge Avenue
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

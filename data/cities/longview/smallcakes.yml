@@ -1,11 +1,11 @@
 id: 670810165
-type: way
+type: node
 latitude: 32.54559
 longitude: -94.73208
 postcode: "75605"
 city: Longview
-street: "North Fourth Street"
-housenumber: 3407
+street: North Fourth Street
+housenumber: "3407"
 phone: ""
 opening_hours: ""
 website: ""

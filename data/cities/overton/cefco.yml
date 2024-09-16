@@ -1,11 +1,11 @@
 id: 1093521755
-type: way
+type: node
 latitude: 32.26898
 longitude: -94.97924
 postcode: "75684"
 city: Overton
-street: "South Commerce Street"
-housenumber: 801
-phone: "+1 903 834 0237"
-opening_hours: "24/7"
-website: "https://www.cefcostores.com/"
+street: South Commerce Street
+housenumber: "801"
+phone: +1 903 834 0237
+opening_hours: 24/7
+website: https://www.cefcostores.com/

@@ -1,11 +1,11 @@
 id: 472474633
-type: way
+type: node
 latitude: 33.68546
 longitude: -102.00166
 postcode: "79363"
 city: Shallowater
-street: "Highway 84"
-housenumber: 8312
+street: Highway 84
+housenumber: "8312"
 phone: ""
 opening_hours: ""
 website: ""

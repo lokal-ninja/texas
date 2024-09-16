@@ -1,11 +1,11 @@
 id: 640645522
-type: way
+type: node
 latitude: 32.80391
 longitude: -96.62875
 postcode: "75150"
 city: Mesquite
-street: "North Mesquite Drive"
-housenumber: 2811
+street: North Mesquite Drive
+housenumber: "2811"
 phone: ""
 opening_hours: ""
 website: ""

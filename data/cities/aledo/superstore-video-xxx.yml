@@ -1,11 +1,11 @@
 id: 713231308
-type: way
+type: node
 latitude: 32.72034
 longitude: -97.53837
 postcode: "76008"
 city: Aledo
-street: "Camp Bowie Drive"
-housenumber: 12313
+street: Camp Bowie Drive
+housenumber: "12313"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

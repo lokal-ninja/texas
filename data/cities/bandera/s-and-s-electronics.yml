@@ -1,11 +1,11 @@
 id: 1159272112
-type: way
+type: node
 latitude: 29.73899
 longitude: -99.0374
 postcode: "78003"
 city: Bandera
-street: "Lost Valley Drive"
-housenumber: 150
+street: Lost Valley Drive
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

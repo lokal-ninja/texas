@@ -1,11 +1,11 @@
 id: 764950591
-type: way
+type: node
 latitude: 33.67956
 longitude: -96.60508
 postcode: "75090"
 city: Sherman
-street: "North Sam Rayburn Freeway"
-housenumber: 4015
-phone: "+1 903-487-5613"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/sherman/office-depot-3317"
+street: North Sam Rayburn Freeway
+housenumber: "4015"
+phone: +1 903-487-5613
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/tx/sherman/office-depot-3317

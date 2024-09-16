@@ -1,11 +1,11 @@
 id: 257313405
-type: way
+type: node
 latitude: 29.71308
 longitude: -98.16115
 postcode: "78132"
 city: New Braunfels
-street: "State Highway 46 West"
-housenumber: 1655
-phone: "+1-830-626-0937"
+street: State Highway 46 West
+housenumber: "1655"
+phone: +1-830-626-0937
 opening_hours: ""
 website: ""

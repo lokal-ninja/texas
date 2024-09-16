@@ -1,11 +1,11 @@
 id: 544264208
-type: way
+type: node
 latitude: 32.40227
 longitude: -99.76622
 postcode: "79606"
 city: Abilene
-street: "Ridgemont Drive"
-housenumber: 4134
-phone: "+1 325-692-2727"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-abilene/0138"
+street: Ridgemont Drive
+housenumber: "4134"
+phone: +1 325-692-2727
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-abilene/0138

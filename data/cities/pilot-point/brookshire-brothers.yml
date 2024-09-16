@@ -1,11 +1,11 @@
 id: 707435400
-type: way
+type: node
 latitude: 33.38963
 longitude: -96.95277
 postcode: "76258"
 city: Pilot Point
-street: "South US Highway 377"
-housenumber: 750
+street: South US Highway 377
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 492597696
-type: way
+type: node
 latitude: 32.94368
 longitude: -97.13188
 postcode: "76092"
 city: Southlake
-street: "State Street"
-housenumber: 321
+street: State Street
+housenumber: "321"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.macys.com/stores/tx/southlake/southlake-town-square_725.html"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.macys.com/stores/tx/southlake/southlake-town-square_725.html

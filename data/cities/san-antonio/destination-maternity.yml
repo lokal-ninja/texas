@@ -1,11 +1,11 @@
 id: 636720434
-type: way
+type: node
 latitude: 29.53426
 longitude: -98.56436
 postcode: ""
 city: San Antonio
-street: "Colonnade Boulevard"
-housenumber: 9802
+street: Colonnade Boulevard
+housenumber: "9802"
 phone: ""
 opening_hours: ""
 website: ""

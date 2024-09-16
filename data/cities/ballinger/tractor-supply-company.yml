@@ -1,11 +1,11 @@
 id: 728919903
-type: way
+type: node
 latitude: 31.71788
 longitude: -99.96269
 postcode: "76821"
 city: Ballinger
-street: "Hutchings Avenue"
-housenumber: 2021
-phone: "+1 325-365-3004"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Hutchings Avenue
+housenumber: "2021"
+phone: +1 325-365-3004
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

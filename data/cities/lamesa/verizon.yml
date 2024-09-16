@@ -1,11 +1,11 @@
 id: 751151278
-type: way
+type: node
 latitude: 32.73898
 longitude: -101.95194
 postcode: "79331"
 city: Lamesa
-street: "North Dallas Avenue"
-housenumber: 701
+street: North Dallas Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

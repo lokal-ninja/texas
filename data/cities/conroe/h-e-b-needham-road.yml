@@ -1,11 +1,11 @@
 id: 852033162
-type: way
+type: node
 latitude: 30.20664
 longitude: -95.42588
 postcode: "77385"
 city: CONROE
-street: "Needham Road"
-housenumber: 10200
-phone: "+1-936-266-1100"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Needham Road
+housenumber: "10200"
+phone: +1-936-266-1100
+opening_hours: Mo-Su 06:00-23:00
 website: ""

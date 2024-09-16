@@ -1,11 +1,11 @@
 id: 546395275
-type: way
+type: node
 latitude: 33.16728
 longitude: -94.99978
 postcode: "75455"
 city: Mount Pleasant
-street: "West Ferguson Road"
-housenumber: 2507
+street: West Ferguson Road
+housenumber: "2507"
 phone: ""
 opening_hours: ""
 website: ""

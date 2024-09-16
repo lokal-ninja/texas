@@ -1,11 +1,11 @@
 id: 383904154
-type: way
+type: node
 latitude: 30.22909
 longitude: -97.78926
 postcode: "78745"
 city: Austin
-street: "Manchaca Road"
-housenumber: 4410
+street: Manchaca Road
+housenumber: "4410"
 phone: ""
 opening_hours: ""
 website: ""

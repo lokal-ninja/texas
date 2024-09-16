@@ -1,11 +1,11 @@
 id: 848262812
-type: way
+type: node
 latitude: 31.05871
 longitude: -97.46348
 postcode: "76513"
 city: Belton
-street: "North Main Street"
-housenumber: 300
+street: North Main Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

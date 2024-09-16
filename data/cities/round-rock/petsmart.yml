@@ -1,11 +1,11 @@
 id: 297538940
-type: way
+type: node
 latitude: 30.48475
 longitude: -97.67086
 postcode: "78664"
 city: Round Rock
-street: "South Ih35"
-housenumber: 2601
-phone: "+1 512-218-1816"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/round-rock-store0195.html"
+street: South Ih35
+housenumber: "2601"
+phone: +1 512-218-1816
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/round-rock-store0195.html

@@ -1,11 +1,11 @@
 id: 994032090
-type: way
+type: node
 latitude: 31.7964
 longitude: -106.33279
 postcode: "79925"
 city: El Paso
-street: "North Yarbrough Drive"
-housenumber: 3525
+street: North Yarbrough Drive
+housenumber: "3525"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 121502610
-type: way
+type: node
 latitude: 30.19025
 longitude: -95.45223
 postcode: "77385"
 city: Shenandoah
-street: "Interstate 45 South"
-housenumber: 18361
-phone: "+1-936-321-6351"
+street: Interstate 45 South
+housenumber: "18361"
+phone: +1-936-321-6351
 opening_hours: ""
 website: ""

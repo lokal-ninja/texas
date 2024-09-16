@@ -1,11 +1,11 @@
 id: 560844502
-type: way
+type: node
 latitude: 26.16198
 longitude: -97.68193
 postcode: "78550"
 city: Harlingen
-street: "North Ed Carey Drive"
-housenumber: 215
-phone: "+1 956-364-3449"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/215-n-ed-carey-rd-harlingen-78550?number=796"
+street: North Ed Carey Drive
+housenumber: "215"
+phone: +1 956-364-3449
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/215-n-ed-carey-rd-harlingen-78550?number=796

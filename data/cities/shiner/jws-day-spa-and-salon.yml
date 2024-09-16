@@ -1,11 +1,11 @@
 id: 1008891918
-type: way
+type: node
 latitude: 29.43826
 longitude: -97.1805
 postcode: "77984"
 city: Shiner
-street: "North Avenue E"
-housenumber: 1709
-phone: "+1 361-594-2040"
-opening_hours: "9:00-17:00"
-website: "https://jwsdayspa.com/"
+street: North Avenue E
+housenumber: "1709"
+phone: +1 361-594-2040
+opening_hours: 9:00-17:00
+website: https://jwsdayspa.com/

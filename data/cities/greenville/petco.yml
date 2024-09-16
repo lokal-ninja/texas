@@ -1,11 +1,11 @@
 id: 892910672
-type: way
+type: node
 latitude: 33.1008
 longitude: -96.11153
 postcode: "75402"
 city: Greenville
-street: "Wesley Street"
-housenumber: 6834
-phone: "+1 903-455-8328"
-opening_hours: "Mo 09:00-21:00; Tu 09:00-20:00; We-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/greenville/pet-supplies-greenville-tx-2415.html"
+street: Wesley Street
+housenumber: "6834"
+phone: +1 903-455-8328
+opening_hours: Mo 09:00-21:00; Tu 09:00-20:00; We-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/greenville/pet-supplies-greenville-tx-2415.html

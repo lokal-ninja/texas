@@ -1,11 +1,11 @@
 id: 416228924
-type: way
+type: node
 latitude: 31.2691
 longitude: -94.74188
 postcode: "75904"
 city: Lufkin
-street: "Carriage Drive"
-housenumber: 103
-phone: "+1 936 634 1619"
+street: Carriage Drive
+housenumber: "103"
+phone: +1 936 634 1619
 opening_hours: ""
-website: "https://apineywoods.com/"
+website: https://apineywoods.com/

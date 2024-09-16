@@ -1,11 +1,11 @@
 id: 468043066
-type: way
+type: node
 latitude: 32.86496
 longitude: -96.68235
 postcode: "75218"
 city: Dallas
-street: "East Northwest Highway"
-housenumber: 11403
+street: East Northwest Highway
+housenumber: "11403"
 phone: ""
 opening_hours: ""
 website: ""

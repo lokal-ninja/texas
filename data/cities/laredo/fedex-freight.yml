@@ -1,11 +1,11 @@
 id: 525614739
-type: way
+type: node
 latitude: 27.67443
 longitude: -99.46458
 postcode: "78045"
 city: Laredo
-street: "South Unitec Drive"
-housenumber: 13145
+street: South Unitec Drive
+housenumber: "13145"
 phone: ""
 opening_hours: ""
 website: ""

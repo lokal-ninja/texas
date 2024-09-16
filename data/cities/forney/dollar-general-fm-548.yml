@@ -1,11 +1,11 @@
 id: 890894127
-type: way
+type: node
 latitude: 32.77782
 longitude: -96.4065
 postcode: "75126"
 city: Forney
-street: "FM 548"
-housenumber: 16026
+street: FM 548
+housenumber: "16026"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/forney/20167"
+website: https://www.dollargeneral.com/store-directory/tx/forney/20167

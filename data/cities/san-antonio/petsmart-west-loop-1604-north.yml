@@ -1,11 +1,11 @@
 id: 97720772
-type: way
+type: node
 latitude: 29.48957
 longitude: -98.70987
 postcode: "78253"
 city: San Antonio
-street: "West Loop 1604 North"
-housenumber: 5435
-phone: "+1 210-520-4195"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/san-antonio-store1396.html"
+street: West Loop 1604 North
+housenumber: "5435"
+phone: +1 210-520-4195
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/san-antonio-store1396.html

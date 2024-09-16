@@ -4,8 +4,8 @@ latitude: 32.97655
 longitude: -96.72197
 postcode: "75080"
 city: Richardson
-street: "North Collins Boulevard"
-housenumber: 2050
-phone: "+1-972-761-0323"
-opening_hours: "by appointment"
+street: North Collins Boulevard
+housenumber: "2050"
+phone: +1-972-761-0323
+opening_hours: '"by appointment"'
 website: ""

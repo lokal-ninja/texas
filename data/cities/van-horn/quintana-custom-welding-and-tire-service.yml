@@ -1,11 +1,11 @@
 id: 995061212
-type: way
+type: node
 latitude: 31.04066
 longitude: -104.82621
 postcode: "79855"
 city: Van Horn
-street: "East Broadway Street"
-housenumber: 405
+street: East Broadway Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 539779695
-type: way
+type: node
 latitude: 29.43934
 longitude: -98.55227
 postcode: "78228"
 city: San Antonio
-street: "North General McMullen Drive"
-housenumber: 520
+street: North General McMullen Drive
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

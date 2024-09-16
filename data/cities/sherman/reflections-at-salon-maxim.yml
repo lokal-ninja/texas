@@ -1,11 +1,11 @@
 id: 853545151
-type: way
+type: node
 latitude: 33.67176
 longitude: -96.59703
 postcode: "75090"
 city: Sherman
-street: "Versaille Drive"
-housenumber: 3200
+street: Versaille Drive
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

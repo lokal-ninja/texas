@@ -1,11 +1,11 @@
 id: 1247011402
-type: way
+type: node
 latitude: 35.88925
 longitude: -101.96306
 postcode: "79029"
 city: Dumas
-street: "North Maddox"
-housenumber: 1108
-phone: "+1 806-930-5292"
+street: North Maddox
+housenumber: "1108"
+phone: +1 806-930-5292
 opening_hours: ""
 website: ""

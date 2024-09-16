@@ -1,11 +1,11 @@
 id: 720402858
-type: way
+type: node
 latitude: 33.57728
 longitude: -102.02926
 postcode: "79407"
 city: Lubbock
-street: "State Highway 114"
-housenumber: 9603
+street: State Highway 114
+housenumber: "9603"
 phone: ""
 opening_hours: ""
 website: ""

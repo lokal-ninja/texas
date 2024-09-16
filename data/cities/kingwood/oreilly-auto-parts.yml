@@ -1,11 +1,11 @@
 id: 385657101
-type: way
+type: node
 latitude: 30.05263
 longitude: -95.18635
 postcode: "77339"
 city: Kingwood
-street: "West Lake Houston Parkway"
-housenumber: 3219
-phone: "+1-281-361-5000"
+street: West Lake Houston Parkway
+housenumber: "3219"
+phone: +1-281-361-5000
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/kingwood/autoparts-500.html"
+website: https://locations.oreillyauto.com/tx/kingwood/autoparts-500.html

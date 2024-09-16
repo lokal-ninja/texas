@@ -1,11 +1,11 @@
 id: 761357840
-type: way
+type: node
 latitude: 29.90398
 longitude: -95.42626
 postcode: ""
 city: Houston
-street: "Blue Bell Road"
-housenumber: 1515
+street: Blue Bell Road
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 663331835
-type: way
+type: node
 latitude: 32.77146
 longitude: -96.6113
 postcode: "75149"
 city: Mesquite
-street: "West Kearney Street"
-housenumber: 949
+street: West Kearney Street
+housenumber: "949"
 phone: ""
 opening_hours: ""
 website: ""

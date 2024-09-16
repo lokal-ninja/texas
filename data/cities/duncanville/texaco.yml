@@ -1,11 +1,11 @@
 id: 706245547
-type: way
+type: node
 latitude: 32.62289
 longitude: -96.90805
 postcode: "75137"
 city: Duncanville
-street: "South Main Street"
-housenumber: 1944
+street: South Main Street
+housenumber: "1944"
 phone: ""
 opening_hours: ""
 website: ""

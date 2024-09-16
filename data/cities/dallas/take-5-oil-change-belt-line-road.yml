@@ -1,11 +1,11 @@
 id: 470754430
-type: way
+type: node
 latitude: 32.95018
 longitude: -96.79943
 postcode: "75254"
 city: Dallas
-street: "Belt Line Road"
-housenumber: 6190
+street: Belt Line Road
+housenumber: "6190"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 09:00-17:00"
-website: "https://www.take5.com/locations/oil-change/texas/dallas/30067/"
+opening_hours: Mo-Sa 07:00-20:00; Su 09:00-17:00
+website: https://www.take5.com/locations/oil-change/texas/dallas/30067/

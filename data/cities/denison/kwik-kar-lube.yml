@@ -1,11 +1,11 @@
 id: 852235110
-type: way
+type: node
 latitude: 33.76035
 longitude: -96.57154
 postcode: "75020"
 city: Denison
-street: "West Morton Street"
-housenumber: 2410
+street: West Morton Street
+housenumber: "2410"
 phone: ""
-opening_hours: "Sa 08:00-17:00; Mo-Fr 08:00-18:00"
+opening_hours: Sa 08:00-17:00; Mo-Fr 08:00-18:00
 website: ""

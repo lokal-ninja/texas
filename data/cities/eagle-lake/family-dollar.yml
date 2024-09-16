@@ -1,11 +1,11 @@
 id: 1307201059
-type: way
+type: node
 latitude: 29.58437
 longitude: -96.33058
 postcode: ""
 city: Eagle Lake
-street: "East Main Street"
-housenumber: 705
+street: East Main Street
+housenumber: "705"
 phone: ""
 opening_hours: ""
 website: ""

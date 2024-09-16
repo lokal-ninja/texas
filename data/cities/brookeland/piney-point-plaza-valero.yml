@@ -1,11 +1,11 @@
 id: 409057918
-type: way
+type: node
 latitude: 31.06166
 longitude: -94.04416
 postcode: "75931"
 city: Brookeland
-street: "Farm-to-Market Road 225"
-housenumber: 3881
-phone: "+1 409 698 2309"
+street: Farm-to-Market Road 225
+housenumber: "3881"
+phone: +1 409 698 2309
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 640645315
-type: way
+type: node
 latitude: 32.81076
 longitude: -96.63486
 postcode: "75150"
 city: Mesquite
-street: "North Town East Boulevard"
-housenumber: 2214
+street: North Town East Boulevard
+housenumber: "2214"
 phone: ""
 opening_hours: ""
 website: ""

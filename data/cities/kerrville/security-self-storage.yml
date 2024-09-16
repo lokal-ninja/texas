@@ -1,11 +1,11 @@
 id: 910924300
-type: way
+type: node
 latitude: 30.06494
 longitude: -99.17495
 postcode: "78028"
 city: Kerrville
-street: "Methodist Encampment Road"
-housenumber: 100
-phone: "+1-830-895-4548"
+street: Methodist Encampment Road
+housenumber: "100"
+phone: +1-830-895-4548
 opening_hours: ""
 website: ""

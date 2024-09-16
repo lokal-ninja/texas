@@ -1,11 +1,11 @@
 id: 525799545
-type: way
+type: node
 latitude: 27.70805
 longitude: -97.37223
 postcode: "78411"
 city: Corpus Christi
-street: "South Padre Island Drive"
-housenumber: 5425
+street: South Padre Island Drive
+housenumber: "5425"
 phone: ""
 opening_hours: ""
 website: ""

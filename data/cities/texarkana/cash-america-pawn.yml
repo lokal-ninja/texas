@@ -1,11 +1,11 @@
 id: 734205517
-type: way
+type: node
 latitude: 33.43636
 longitude: -94.0802
 postcode: "75501"
 city: Texarkana
-street: "New Boston Road"
-housenumber: 2826
+street: New Boston Road
+housenumber: "2826"
 phone: ""
 opening_hours: ""
 website: ""

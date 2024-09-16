@@ -4,8 +4,8 @@ latitude: 30.15635
 longitude: -97.7943
 postcode: "78748"
 city: Austin
-street: "South Interstate 35"
-housenumber: 9900
-phone: "+1 512-582-4876"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/austin-tx-sams-club/8259"
+street: South Interstate 35
+housenumber: "9900"
+phone: +1 512-582-4876
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/austin-tx-sams-club/8259

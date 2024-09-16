@@ -4,8 +4,8 @@ latitude: 29.64285
 longitude: -98.45589
 postcode: "78258"
 city: San Antonio
-street: "Highway 281"
-housenumber: 21019
-phone: "+1 210-481-3369"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/tx/san-antonio-store1953.html"
+street: Highway 281
+housenumber: "21019"
+phone: +1 210-481-3369
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/tx/san-antonio-store1953.html

@@ -1,11 +1,11 @@
 id: 556215705
-type: way
+type: node
 latitude: 32.83298
 longitude: -97.19804
 postcode: "76053"
 city: Hurst
-street: "Melbourne Road"
-housenumber: 1233
-phone: "+1-817-580-7510"
-opening_hours: "Mo-Sa 07:00-19:00, Su 09:00-17:00"
+street: Melbourne Road
+housenumber: "1233"
+phone: +1-817-580-7510
+opening_hours: Mo-Sa 07:00-19:00, Su 09:00-17:00
 website: ""

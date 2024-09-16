@@ -1,11 +1,11 @@
 id: 1054973230
-type: way
+type: node
 latitude: 29.73753
 longitude: -98.10304
 postcode: "78130"
 city: New Braunfels
-street: "Gruene Road"
-housenumber: 1254
+street: Gruene Road
+housenumber: "1254"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 714090875
-type: way
+type: node
 latitude: 32.35825
 longitude: -97.36311
 postcode: "76031"
 city: Cleburne
-street: "East Henderson Street"
-housenumber: 1517
-phone: "+1-817-641-7467"
+street: East Henderson Street
+housenumber: "1517"
+phone: +1-817-641-7467
 opening_hours: ""
 website: ""

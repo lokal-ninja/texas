@@ -1,11 +1,11 @@
 id: 529862121
-type: way
+type: node
 latitude: 32.67388
 longitude: -95.4843
 postcode: "75773"
 city: Mineola
-street: "North Pacific Street"
-housenumber: 1112
+street: North Pacific Street
+housenumber: "1112"
 phone: ""
-opening_hours: "Mo 10:00-16:00; Tu-Fr 09:00-17:00; Sa 09:00-15:00"
+opening_hours: Mo 10:00-16:00; Tu-Fr 09:00-17:00; Sa 09:00-15:00
 website: ""

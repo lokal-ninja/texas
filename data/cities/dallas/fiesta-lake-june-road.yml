@@ -1,11 +1,11 @@
 id: 465687144
-type: way
+type: node
 latitude: 32.73548
 longitude: -96.6506
 postcode: ""
 city: Dallas
-street: "Lake June Road"
-housenumber: 10121
+street: Lake June Road
+housenumber: "10121"
 phone: ""
 opening_hours: ""
 website: ""

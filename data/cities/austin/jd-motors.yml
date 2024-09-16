@@ -1,11 +1,11 @@
 id: 381790198
-type: way
+type: node
 latitude: 30.34317
 longitude: -97.73888
 postcode: "78757"
 city: Austin
-street: "Burnet Road"
-housenumber: 6710
-phone: "+1-512-832-5800"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.texascarspot.com/"
+street: Burnet Road
+housenumber: "6710"
+phone: +1-512-832-5800
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.texascarspot.com/

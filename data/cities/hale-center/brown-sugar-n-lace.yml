@@ -1,11 +1,11 @@
 id: 1116172244
-type: way
+type: node
 latitude: 34.06408
 longitude: -101.84567
 postcode: "79041"
 city: Hale Center
-street: "Main Street"
-housenumber: 623
+street: Main Street
+housenumber: "623"
 phone: ""
 opening_hours: ""
 website: ""

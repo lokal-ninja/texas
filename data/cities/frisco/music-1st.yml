@@ -4,8 +4,8 @@ latitude: 33.15071
 longitude: -96.82608
 postcode: ""
 city: Frisco
-street: "Main Street"
-housenumber: 6807
+street: Main Street
+housenumber: "6807"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

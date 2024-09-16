@@ -1,11 +1,11 @@
 id: 436180781
-type: way
+type: node
 latitude: 32.3882
 longitude: -94.87213
 postcode: "75662"
 city: Kilgore
-street: "North Martin Street"
-housenumber: 401
+street: North Martin Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

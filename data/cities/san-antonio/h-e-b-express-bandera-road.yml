@@ -1,11 +1,11 @@
 id: 667985834
-type: way
+type: node
 latitude: 29.55311
 longitude: -98.66538
 postcode: "78249"
 city: San Antonio
-street: "Bandera Road"
-housenumber: 11652
-phone: "+1-210-600-3100"
+street: Bandera Road
+housenumber: "11652"
+phone: +1-210-600-3100
 opening_hours: ""
 website: ""

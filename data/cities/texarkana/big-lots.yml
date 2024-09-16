@@ -1,11 +1,11 @@
 id: 930697396
-type: way
+type: node
 latitude: 33.43368
 longitude: -94.07941
 postcode: "75501"
 city: Texarkana
-street: "New Boston Road"
-housenumber: 2729
-phone: "+1 903-223-1051"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 09:00-20:00; Su 10:00-20:00"
-website: "https://local.biglots.com/tx/texarkana/2729-new-boston-rd"
+street: New Boston Road
+housenumber: "2729"
+phone: +1 903-223-1051
+opening_hours: Mo-We 10:00-20:00; Th-Sa 09:00-20:00; Su 10:00-20:00
+website: https://local.biglots.com/tx/texarkana/2729-new-boston-rd

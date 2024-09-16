@@ -4,8 +4,8 @@ latitude: 30.23483
 longitude: -97.72045
 postcode: "78741"
 city: Austin
-street: "South Pleasant Valley Road"
-housenumber: 1717
-phone: "+1-512-385-3816"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "https://www.gnc.com/store-details"
+street: South Pleasant Valley Road
+housenumber: "1717"
+phone: +1-512-385-3816
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
+website: https://www.gnc.com/store-details

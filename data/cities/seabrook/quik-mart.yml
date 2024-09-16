@@ -1,11 +1,11 @@
 id: 766376622
-type: way
+type: node
 latitude: 29.56435
 longitude: -95.02536
 postcode: "77586"
 city: Seabrook
-street: "Main Street"
-housenumber: 1802
+street: Main Street
+housenumber: "1802"
 phone: ""
 opening_hours: ""
 website: ""

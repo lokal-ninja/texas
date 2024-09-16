@@ -1,11 +1,11 @@
 id: 79876721
-type: way
+type: node
 latitude: 29.56624
 longitude: -98.32814
 postcode: "78154"
 city: Selma
-street: "Agora Parkway"
-housenumber: 8138
-phone: "+1 210-945-8160"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Live-Oak/TX/Selma/78154/6551"
+street: Agora Parkway
+housenumber: "8138"
+phone: +1 210-945-8160
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Live-Oak/TX/Selma/78154/6551

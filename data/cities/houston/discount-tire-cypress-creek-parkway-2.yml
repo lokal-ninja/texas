@@ -1,11 +1,11 @@
 id: 671985535
-type: way
+type: node
 latitude: 30.0009
 longitude: -95.47441
 postcode: "77014"
 city: Houston
-street: "Cypress Creek Parkway"
-housenumber: 2907
-phone: "+1-281-580-2103"
+street: Cypress Creek Parkway
+housenumber: "2907"
+phone: +1-281-580-2103
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 375444334
-type: way
+type: node
 latitude: 32.73365
 longitude: -97.78824
 postcode: "76086"
 city: Weatherford
-street: "Adams Drive"
-housenumber: 225
-phone: "+1 817-594-4634"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/weatherford-tx-347"
+street: Adams Drive
+housenumber: "225"
+phone: +1 817-594-4634
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/weatherford-tx-347

@@ -1,11 +1,11 @@
 id: 761879174
-type: way
+type: node
 latitude: 30.75928
 longitude: -98.22751
 postcode: "78611"
 city: Burnet
-street: "North Main Street"
-housenumber: 109
+street: North Main Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 543911989
-type: way
+type: node
 latitude: 29.69864
 longitude: -98.09062
 postcode: "78130"
 city: New Braunfels
-street: "State Highway 46 South"
-housenumber: 541
+street: State Highway 46 South
+housenumber: "541"
 phone: ""
 opening_hours: ""
 website: ""

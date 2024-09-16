@@ -1,11 +1,11 @@
 id: 745182465
-type: way
+type: node
 latitude: 33.60671
 longitude: -101.84381
 postcode: "79403"
 city: Lubbock
-street: "Erskine Street"
-housenumber: 721
+street: Erskine Street
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 40416837
-type: way
+type: node
 latitude: 27.71466
 longitude: -97.38761
-postcode: "78411-4415"
+postcode: 78411-4415
 city: Corpus Christi
-street: "South Padre Island Drive"
-housenumber: 4717
-phone: "+1 361-851-9360"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/corpus-christi/1681"
+street: South Padre Island Drive
+housenumber: "4717"
+phone: +1 361-851-9360
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/corpus-christi/1681

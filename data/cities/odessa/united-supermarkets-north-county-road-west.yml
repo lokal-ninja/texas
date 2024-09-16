@@ -1,11 +1,11 @@
 id: 512191048
-type: way
+type: node
 latitude: 31.86612
 longitude: -102.39881
 postcode: "79764"
 city: Odessa
-street: "North County Road West"
-housenumber: 2751
-phone: "+1-432-333-1685"
-opening_hours: "Su-Sa 06:00-23:00"
-website: "https://local.unitedsupermarkets.com/tx/odessa/2751-county-rd-w.html"
+street: North County Road West
+housenumber: "2751"
+phone: +1-432-333-1685
+opening_hours: Su-Sa 06:00-23:00
+website: https://local.unitedsupermarkets.com/tx/odessa/2751-county-rd-w.html

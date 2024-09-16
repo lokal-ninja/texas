@@ -1,11 +1,11 @@
 id: 379973169
-type: way
+type: node
 latitude: 32.95116
 longitude: -96.73816
 postcode: "75080"
 city: Richardson
-street: "West Belt Line Road"
-housenumber: 532
-phone: "+1-972-744-0040"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://hifiveautocare.com/index.html"
+street: West Belt Line Road
+housenumber: "532"
+phone: +1-972-744-0040
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://hifiveautocare.com/index.html

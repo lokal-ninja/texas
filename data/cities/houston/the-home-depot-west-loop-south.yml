@@ -1,11 +1,11 @@
 id: 194663285
-type: way
+type: node
 latitude: 29.72387
 longitude: -95.4575
 postcode: "77081"
 city: Houston
-street: "West Loop South"
-housenumber: 5445
-phone: "+1-713-662-3950"
+street: West Loop South
+housenumber: "5445"
+phone: +1-713-662-3950
 opening_hours: ""
-website: "https://www.homedepot.com/l/Pin-Oak/TX/Houston/77081/566"
+website: https://www.homedepot.com/l/Pin-Oak/TX/Houston/77081/566

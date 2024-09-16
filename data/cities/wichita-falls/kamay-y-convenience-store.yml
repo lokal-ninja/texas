@@ -1,11 +1,11 @@
 id: 709179401
-type: way
+type: node
 latitude: 33.85515
 longitude: -98.64729
 postcode: "76310"
 city: Wichita Falls
-street: "Seymour Highway"
-housenumber: 8682
+street: Seymour Highway
+housenumber: "8682"
 phone: ""
 opening_hours: ""
 website: ""

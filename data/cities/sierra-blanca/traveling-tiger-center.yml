@@ -1,11 +1,11 @@
 id: 1208500015
-type: way
+type: node
 latitude: 31.16974
 longitude: -105.65767
 postcode: "79851"
 city: Sierra Blanca
-street: "Interstate 10"
-housenumber: 8700
+street: Interstate 10
+housenumber: "8700"
 phone: ""
 opening_hours: ""
 website: ""

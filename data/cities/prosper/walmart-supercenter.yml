@@ -1,11 +1,11 @@
 id: 550451223
-type: way
+type: node
 latitude: 33.2195
 longitude: -96.79674
 postcode: "75078"
 city: Prosper
-street: "Richland Boulevard"
-housenumber: 500
-phone: "+1 972-347-9467"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/6300-prosper-tx"
+street: Richland Boulevard
+housenumber: "500"
+phone: +1 972-347-9467
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/6300-prosper-tx

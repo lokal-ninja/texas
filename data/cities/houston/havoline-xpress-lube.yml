@@ -1,11 +1,11 @@
 id: 586637985
-type: way
+type: node
 latitude: 29.6951
 longitude: -95.41581
 postcode: "77030"
 city: Houston
-street: "Kirby Drive"
-housenumber: 7740
+street: Kirby Drive
+housenumber: "7740"
 phone: ""
 opening_hours: ""
 website: ""

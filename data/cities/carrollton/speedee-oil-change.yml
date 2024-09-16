@@ -1,11 +1,11 @@
 id: 423752571
-type: way
+type: node
 latitude: 32.99992
 longitude: -96.91041
 postcode: "75007"
 city: Carrollton
-street: "Old Denton Road"
-housenumber: 3107
-phone: "+1 972 394 9586"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://speedee.org"
+street: Old Denton Road
+housenumber: "3107"
+phone: +1 972 394 9586
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://speedee.org

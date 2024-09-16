@@ -1,11 +1,12 @@
 id: 130655784
-type: way
+type: node
 latitude: 29.84915
 longitude: -95.50148
 postcode: ""
 city: Houston
-street: "Northwest Freeway"
-housenumber: 13244
+street: Northwest Freeway
+housenumber: "13244"
 phone: ""
-opening_hours: "09:00-21:00; Nov Th[4] closed; Dec 25 closed; Dec 24 09:00-18:00; Dec 31 09:00-19:00"
+opening_hours: 09:00-21:00; Nov Th[4] closed; Dec 25 closed; Dec 24 09:00-18:00; Dec
+    31 09:00-19:00
 website: ""

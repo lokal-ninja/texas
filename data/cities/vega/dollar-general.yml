@@ -1,11 +1,11 @@
 id: 1059831267
-type: way
+type: node
 latitude: 35.24496
 longitude: -102.42794
 postcode: "79092"
 city: Vega
-street: "South Main Street"
-housenumber: 305
+street: South Main Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/vega/18928"
+website: https://www.dollargeneral.com/store-directory/tx/vega/18928

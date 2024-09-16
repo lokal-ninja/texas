@@ -1,11 +1,11 @@
 id: 391287649
-type: way
+type: node
 latitude: 34.63681
 longitude: -102.7189
 postcode: "79035"
 city: Friona
-street: "Main Street"
-housenumber: 609
+street: Main Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

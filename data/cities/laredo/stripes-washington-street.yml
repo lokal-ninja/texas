@@ -1,11 +1,11 @@
 id: 739844490
-type: way
+type: node
 latitude: 27.50921
 longitude: -99.50217
 postcode: "78040"
 city: Laredo
-street: "Washington Street"
-housenumber: 602
+street: Washington Street
+housenumber: "602"
 phone: ""
 opening_hours: ""
-website: "https://stripesstores.com/locator/detail/9656"
+website: https://stripesstores.com/locator/detail/9656

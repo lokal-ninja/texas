@@ -1,11 +1,11 @@
 id: 500497090
-type: way
+type: node
 latitude: 32.72512
 longitude: -97.46624
 postcode: "76116"
 city: Fort Worth
-street: "Camp Bowie West Boulevard"
-housenumber: 8600
+street: Camp Bowie West Boulevard
+housenumber: "8600"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8600+camp+bowie+west+blvd-fort+worth-tx-76116/id=4417"
+website: https://www.walgreens.com/locator/walgreens-8600+camp+bowie+west+blvd-fort+worth-tx-76116/id=4417

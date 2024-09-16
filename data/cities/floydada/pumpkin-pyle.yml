@@ -1,11 +1,11 @@
 id: 1074603483
-type: way
+type: node
 latitude: 33.9949
 longitude: -101.34092
 postcode: "79235"
 city: Floydada
-street: "North 2nd Street"
-housenumber: 900
+street: North 2nd Street
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 901687991
-type: way
+type: node
 latitude: 30.9023
 longitude: -102.91271
 postcode: "79735"
 city: Fort Stockton
-street: "North US Highway 285"
-housenumber: 1723
+street: North US Highway 285
+housenumber: "1723"
 phone: ""
 opening_hours: ""
 website: ""

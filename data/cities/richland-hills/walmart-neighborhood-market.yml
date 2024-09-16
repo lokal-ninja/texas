@@ -1,11 +1,11 @@
 id: 679318506
-type: way
+type: node
 latitude: 32.81391
 longitude: -97.23923
 postcode: "76180"
 city: Richland Hills
-street: "Boulevard 26"
-housenumber: 6604
-phone: "+1 682-757-9057"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6578/richland-hills-tx/whats-new"
+street: Boulevard 26
+housenumber: "6604"
+phone: +1 682-757-9057
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6578/richland-hills-tx/whats-new

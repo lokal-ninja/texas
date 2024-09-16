@@ -1,11 +1,11 @@
 id: 504064433
-type: way
+type: node
 latitude: 32.62688
 longitude: -97.32272
 postcode: "76140"
 city: Fort Worth
-street: "West Everman Parkway"
-housenumber: 101
+street: West Everman Parkway
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

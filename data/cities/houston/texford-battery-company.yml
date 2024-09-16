@@ -1,11 +1,11 @@
 id: 375488461
-type: way
+type: node
 latitude: 29.73551
 longitude: -95.34502
 postcode: "77003"
 city: Houston
-street: "Milby Street"
-housenumber: 2002
+street: Milby Street
+housenumber: "2002"
 phone: ""
 opening_hours: ""
 website: ""

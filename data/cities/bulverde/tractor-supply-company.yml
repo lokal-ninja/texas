@@ -1,11 +1,11 @@
 id: 675324211
-type: way
+type: node
 latitude: 29.79624
 longitude: -98.42167
 postcode: "78163"
 city: Bulverde
-street: "US Highway 281 North"
-housenumber: 33701
-phone: "+1 830-438-4744"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: US Highway 281 North
+housenumber: "33701"
+phone: +1 830-438-4744
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

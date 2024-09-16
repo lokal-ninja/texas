@@ -1,11 +1,11 @@
 id: 737341311
-type: way
+type: node
 latitude: 30.47624
 longitude: -97.79364
 postcode: "78717"
 city: Austin
-street: "North Lake Creek Parkway"
-housenumber: 9741
+street: North Lake Creek Parkway
+housenumber: "9741"
 phone: ""
-opening_hours: "Su-Fr 05:00-24:00; Sa 05:00-01:00"
+opening_hours: Su-Fr 05:00-24:00; Sa 05:00-01:00
 website: ""

@@ -1,11 +1,11 @@
 id: 712908542
-type: way
+type: node
 latitude: 32.34623
 longitude: -97.39159
 postcode: ""
 city: Cleburne
-street: "West Chambers Street"
-housenumber: 423
-phone: "+1-817-556-2460"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-18:00; Su 11:00-17:00"
-website: "https://store.vioc.com/tx/cleburne/oil-change-070161.html"
+street: West Chambers Street
+housenumber: "423"
+phone: +1-817-556-2460
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-18:00; Su 11:00-17:00
+website: https://store.vioc.com/tx/cleburne/oil-change-070161.html

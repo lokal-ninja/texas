@@ -1,11 +1,11 @@
 id: 747936640
-type: way
+type: node
 latitude: 30.7168
 longitude: -101.20137
 postcode: "76943"
 city: Ozona
-street: "Avenue E"
-housenumber: 305
+street: Avenue E
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

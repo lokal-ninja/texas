@@ -1,11 +1,11 @@
 id: 1202986388
-type: way
+type: node
 latitude: 31.99813
 longitude: -106.57879
 postcode: "79821"
 city: Anthony
-street: "Mountain Pass Boulevard"
-housenumber: 3012
+street: Mountain Pass Boulevard
+housenumber: "3012"
 phone: ""
 opening_hours: ""
 website: ""

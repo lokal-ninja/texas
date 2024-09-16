@@ -1,11 +1,11 @@
 id: 736669493
-type: way
+type: node
 latitude: 25.90172
 longitude: -97.48961
 postcode: "78520"
 city: Brownsville
-street: "International Boulevard"
-housenumber: 1135
+street: International Boulevard
+housenumber: "1135"
 phone: ""
 opening_hours: ""
 website: ""

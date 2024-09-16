@@ -1,11 +1,11 @@
 id: 439509734
-type: way
+type: node
 latitude: 33.11752
 longitude: -95.59596
 postcode: "75482"
 city: Sulphur Springs
-street: "South Broadway Street"
-housenumber: 1234
+street: South Broadway Street
+housenumber: "1234"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 319374109
-type: way
+type: node
 latitude: 29.85796
 longitude: -95.38443
 postcode: ""
 city: Houston
-street: "Airline Drive"
-housenumber: 6360
-phone: "+1 713-694-4088"
-opening_hours: "Mo-Th 10:30-20:00; Fr-Sa 10:30-21:00; Su 10:30-17:00"
-website: "https://leonwestern.com/"
+street: Airline Drive
+housenumber: "6360"
+phone: +1 713-694-4088
+opening_hours: Mo-Th 10:30-20:00; Fr-Sa 10:30-21:00; Su 10:30-17:00
+website: https://leonwestern.com/

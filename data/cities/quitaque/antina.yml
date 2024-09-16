@@ -1,11 +1,11 @@
 id: 1064910867
-type: way
+type: node
 latitude: 34.36641
 longitude: -101.05736
 postcode: "79255"
 city: Quitaque
-street: "East Main Street"
-housenumber: 
+street: East Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://opencorporates.com/companies/us_tx/0803626185"
+website: https://opencorporates.com/companies/us_tx/0803626185

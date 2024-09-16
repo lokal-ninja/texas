@@ -1,11 +1,11 @@
 id: 1059634903
-type: way
+type: node
 latitude: 33.21669
 longitude: -97.13384
 postcode: "76201"
 city: Denton
-street: "North Elm Street"
-housenumber: 303
+street: North Elm Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

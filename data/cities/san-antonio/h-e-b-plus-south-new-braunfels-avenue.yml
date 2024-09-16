@@ -1,11 +1,11 @@
 id: 359949849
-type: way
+type: node
 latitude: 29.38066
 longitude: -98.45804
 postcode: "78223"
 city: San Antonio
-street: "South New Braunfels Avenue"
-housenumber: 4100
-phone: "+1-210-531-3100"
-opening_hours: "06:00-23:00"
-website: "https://www.heb.com"
+street: South New Braunfels Avenue
+housenumber: "4100"
+phone: +1-210-531-3100
+opening_hours: 06:00-23:00
+website: https://www.heb.com

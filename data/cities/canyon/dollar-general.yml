@@ -1,11 +1,11 @@
 id: 697670390
-type: way
+type: node
 latitude: 34.97962
 longitude: -101.90957
 postcode: "79015"
 city: Canyon
-street: "Harrell Lane"
-housenumber: 400
+street: Harrell Lane
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/canyon/10043"
+website: https://www.dollargeneral.com/store-directory/tx/canyon/10043

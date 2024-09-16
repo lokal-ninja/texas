@@ -1,11 +1,11 @@
 id: 427273498
-type: way
+type: node
 latitude: 29.58313
 longitude: -95.58484
 postcode: "77478"
 city: Sugar Land
-street: "State Highway 6"
-housenumber: 4507
-phone: "+1-281-565-2005"
+street: State Highway 6
+housenumber: "4507"
+phone: +1-281-565-2005
 opening_hours: ""
 website: ""

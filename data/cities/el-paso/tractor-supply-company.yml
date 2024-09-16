@@ -1,11 +1,11 @@
 id: 734925132
-type: way
+type: node
 latitude: 31.67853
 longitude: -106.31012
 postcode: "79927"
 city: El Paso
-street: "Alameda Avenue"
-housenumber: 9541
-phone: "+1 915-858-0856"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Alameda Avenue
+housenumber: "9541"
+phone: +1 915-858-0856
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

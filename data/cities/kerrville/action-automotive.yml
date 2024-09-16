@@ -1,11 +1,11 @@
 id: 760090904
-type: way
+type: node
 latitude: 30.03935
 longitude: -99.13541
 postcode: "78028"
 city: Kerrville
-street: "Broadway"
-housenumber: 1321
+street: Broadway
+housenumber: "1321"
 phone: ""
 opening_hours: ""
 website: ""

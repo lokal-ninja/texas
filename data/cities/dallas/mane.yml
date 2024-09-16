@@ -4,8 +4,8 @@ latitude: 32.83813
 longitude: -96.77592
 postcode: "75206"
 city: Dallas
-street: "East Mockingbird Lane"
-housenumber: 5321
+street: East Mockingbird Lane
+housenumber: "5321"
 phone: ""
 opening_hours: ""
-website: "https://www.manesalondallas.com/"
+website: https://www.manesalondallas.com/

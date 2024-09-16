@@ -1,11 +1,11 @@
 id: 1155066720
-type: way
+type: node
 latitude: 33.857
 longitude: -98.52233
 postcode: "76308"
 city: Wichita Falls
-street: "Southwest Parkway"
-housenumber: 2211
+street: Southwest Parkway
+housenumber: "2211"
 phone: ""
 opening_hours: ""
 website: ""

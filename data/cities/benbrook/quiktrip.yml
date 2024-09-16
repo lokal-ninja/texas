@@ -1,11 +1,11 @@
 id: 647882006
-type: way
+type: node
 latitude: 32.67284
 longitude: -97.46883
 postcode: "76126"
 city: Benbrook
-street: "Benbrook Boulevard"
-housenumber: 9201
+street: Benbrook Boulevard
+housenumber: "9201"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

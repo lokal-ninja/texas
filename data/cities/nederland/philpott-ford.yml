@@ -4,8 +4,8 @@ latitude: 29.9662
 longitude: -94.01741
 postcode: "77627"
 city: Nederland
-street: "U.S. 69"
-housenumber: 1400
-phone: "+1-866-796-0839"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su closed"
-website: "https://www.philpottford.com"
+street: U.S. 69
+housenumber: "1400"
+phone: +1-866-796-0839
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su closed
+website: https://www.philpottford.com

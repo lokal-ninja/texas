@@ -1,11 +1,11 @@
 id: 828615594
-type: way
+type: node
 latitude: 35.5256
 longitude: -100.99081
 postcode: "79065"
 city: Pampa
-street: "South Price Road"
-housenumber: 700
+street: South Price Road
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

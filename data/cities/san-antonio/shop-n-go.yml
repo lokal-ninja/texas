@@ -1,11 +1,11 @@
 id: 686961234
-type: way
+type: node
 latitude: 29.346
 longitude: -98.51672
 postcode: "78221"
 city: San Antonio
-street: "Commercial Avenue"
-housenumber: 3119
+street: Commercial Avenue
+housenumber: "3119"
 phone: ""
 opening_hours: ""
 website: ""

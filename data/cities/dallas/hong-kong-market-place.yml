@@ -4,8 +4,8 @@ latitude: 32.92179
 longitude: -96.71923
 postcode: "75243"
 city: Dallas
-street: "Walnut Street"
-housenumber: 9780
-phone: "+1-972-437-9888"
-opening_hours: "Mo-Su 08:00-20:00"
+street: Walnut Street
+housenumber: "9780"
+phone: +1-972-437-9888
+opening_hours: Mo-Su 08:00-20:00
 website: ""

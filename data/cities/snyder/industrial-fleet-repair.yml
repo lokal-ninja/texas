@@ -1,11 +1,11 @@
 id: 1022641157
-type: way
+type: node
 latitude: 32.71104
 longitude: -100.86717
 postcode: "79549"
 city: Snyder
-street: "Rogers Street"
-housenumber: 1505
+street: Rogers Street
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

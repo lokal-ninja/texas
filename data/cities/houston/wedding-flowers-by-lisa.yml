@@ -1,11 +1,11 @@
 id: 376270516
-type: way
+type: node
 latitude: 29.74363
 longitude: -95.35327
 postcode: ""
 city: Houston
-street: "Delano Street"
-housenumber: 1510
+street: Delano Street
+housenumber: "1510"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 278131490
-type: way
+type: node
 latitude: 32.88121
 longitude: -97.10563
 postcode: "76039"
 city: Euless
-street: "West Glade Road"
-housenumber: 1401
-phone: "+1 817-399-8494"
-opening_hours: "Su-Th 08:00-23:00+; Fr,Sa 08:00-24:00+"
-website: "https://www.target.com/sl/euless/1368"
+street: West Glade Road
+housenumber: "1401"
+phone: +1 817-399-8494
+opening_hours: Su-Th 08:00-23:00+; Fr,Sa 08:00-24:00+
+website: https://www.target.com/sl/euless/1368

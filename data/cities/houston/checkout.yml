@@ -1,11 +1,11 @@
 id: 312638532
-type: way
+type: node
 latitude: 29.76892
 longitude: -95.38795
 postcode: ""
 city: Houston
-street: "Washington Avenue"
-housenumber: 2802
+street: Washington Avenue
+housenumber: "2802"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1311732270
-type: way
+type: node
 latitude: 28.94062
 longitude: -99.85172
 postcode: "78852"
 city: La Pryor
-street: "West US Highway 57"
-housenumber: 829
+street: West US Highway 57
+housenumber: "829"
 phone: "+18303654867"
 opening_hours: ""
 website: ""

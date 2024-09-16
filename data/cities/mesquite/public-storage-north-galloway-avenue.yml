@@ -1,11 +1,11 @@
 id: 1101528229
-type: way
+type: node
 latitude: 32.83491
 longitude: -96.63538
 postcode: "75150"
 city: Mesquite
-street: "North Galloway Avenue"
-housenumber: 5315
+street: North Galloway Avenue
+housenumber: "5315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 711175476
-type: way
+type: node
 latitude: 32.48451
 longitude: -97.37811
 postcode: "76058"
 city: Joshua
-street: "North Broadway Street"
-housenumber: 629
+street: North Broadway Street
+housenumber: "629"
 phone: ""
 opening_hours: ""
 website: ""

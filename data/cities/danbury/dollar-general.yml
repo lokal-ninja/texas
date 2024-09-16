@@ -1,11 +1,11 @@
 id: 1201065436
-type: way
+type: node
 latitude: 29.22583
 longitude: -95.3482
 postcode: ""
 city: Danbury
-street: "5th Street"
-housenumber: 5706
+street: 5th Street
+housenumber: "5706"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/danbury/7412"
+website: https://www.dollargeneral.com/store-directory/tx/danbury/7412

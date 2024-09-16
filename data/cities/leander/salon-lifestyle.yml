@@ -1,11 +1,11 @@
 id: 1159566236
-type: way
+type: node
 latitude: 30.55489
 longitude: -97.85793
 postcode: "78641"
 city: Leander
-street: "South Bagdad Road"
-housenumber: 1602
-phone: "+1-512-259-0220"
+street: South Bagdad Road
+housenumber: "1602"
+phone: +1-512-259-0220
 opening_hours: ""
 website: ""

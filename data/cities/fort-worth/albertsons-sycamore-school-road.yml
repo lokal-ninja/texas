@@ -1,11 +1,11 @@
 id: 504081894
-type: way
+type: node
 latitude: 32.63344
 longitude: -97.37105
 postcode: "76133"
 city: Fort Worth
-street: "Sycamore School Road"
-housenumber: 3525
-phone: "+1 817-346-6497"
-opening_hours: "06:00-24:00"
-website: "https://local.albertsons.com/tx/fort-worth/3525-sycamore-school-rd.html"
+street: Sycamore School Road
+housenumber: "3525"
+phone: +1 817-346-6497
+opening_hours: 06:00-24:00
+website: https://local.albertsons.com/tx/fort-worth/3525-sycamore-school-rd.html

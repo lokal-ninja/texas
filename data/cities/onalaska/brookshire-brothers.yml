@@ -1,11 +1,11 @@
 id: 537250838
-type: way
+type: node
 latitude: 30.81251
 longitude: -95.12017
 postcode: "77360"
 city: Onalaska
-street: "United States Highway 190"
-housenumber: 14658
-phone: "+1-936-646-2414"
+street: United States Highway 190
+housenumber: "14658"
+phone: +1-936-646-2414
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 734227890
-type: way
+type: node
 latitude: 32.00938
 longitude: -97.13121
 postcode: "76645"
 city: Hillsboro
-street: "South Waco Street"
-housenumber: 120
+street: South Waco Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

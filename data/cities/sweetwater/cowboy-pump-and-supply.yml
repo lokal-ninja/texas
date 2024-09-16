@@ -1,11 +1,11 @@
 id: 966330719
-type: way
+type: node
 latitude: 32.48283
 longitude: -100.37704
 postcode: "79556"
 city: Sweetwater
-street: "East Broadway Street"
-housenumber: 2608
+street: East Broadway Street
+housenumber: "2608"
 phone: "+13252355100"
 opening_hours: ""
-website: "https://cowboypump.com/"
+website: https://cowboypump.com/

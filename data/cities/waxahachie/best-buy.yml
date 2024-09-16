@@ -1,11 +1,11 @@
 id: 515732318
-type: way
+type: node
 latitude: 32.42298
 longitude: -96.84285
 postcode: "75165"
 city: Waxahachie
-street: "West US Highway 287 Bypass"
-housenumber: 1168
-phone: "+1-972-923-7399"
+street: West US Highway 287 Bypass
+housenumber: "1168"
+phone: +1-972-923-7399
 opening_hours: ""
-website: "https://stores.bestbuy.com/tx/waxahachie/1168-w-highway-287-byp-1889.html"
+website: https://stores.bestbuy.com/tx/waxahachie/1168-w-highway-287-byp-1889.html

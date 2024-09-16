@@ -1,11 +1,11 @@
 id: 1189430664
-type: way
+type: node
 latitude: 31.81916
 longitude: -106.17753
 postcode: "79938"
 city: El Paso
-street: "Montana Avenue"
-housenumber: 14421
+street: Montana Avenue
+housenumber: "14421"
 phone: ""
 opening_hours: ""
 website: ""

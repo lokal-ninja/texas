@@ -1,11 +1,11 @@
 id: 318320633
-type: way
+type: node
 latitude: 29.94048
 longitude: -95.46186
 postcode: "77038"
 city: Houston
-street: "North Sam Houston Parkway West"
-housenumber: 2770
+street: North Sam Houston Parkway West
+housenumber: "2770"
 phone: ""
 opening_hours: ""
 website: ""

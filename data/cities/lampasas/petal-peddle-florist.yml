@@ -1,11 +1,11 @@
 id: 1001214272
-type: way
+type: node
 latitude: 31.06543
 longitude: -98.1788
 postcode: "76550"
 city: Lampasas
-street: "East 3rd Street"
-housenumber: 410
+street: East 3rd Street
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

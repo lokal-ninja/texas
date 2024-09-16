@@ -1,11 +1,11 @@
 id: 704418985
-type: way
+type: node
 latitude: 30.07234
 longitude: -99.11243
 postcode: "78028"
 city: Kerrville
-street: "Benson Drive"
-housenumber: 550
+street: Benson Drive
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

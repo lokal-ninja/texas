@@ -1,11 +1,12 @@
 id: 490752091
-type: way
+type: node
 latitude: 32.66282
 longitude: -95.48962
 postcode: "75773"
 city: Mineola
-street: "South Johnson Street"
-housenumber: 122
+street: South Johnson Street
+housenumber: "122"
 phone: ""
-opening_hours: "We-Fr 10:00-16:00; Sa 10:00-17:00; Fr 10:00-14:30 The Annex; Sa 10:00-17:00 The Annex"
+opening_hours: We-Fr 10:00-16:00; Sa 10:00-17:00; Fr 10:00-14:30 "The Annex"; Sa 10:00-17:00
+    "The Annex"
 website: ""

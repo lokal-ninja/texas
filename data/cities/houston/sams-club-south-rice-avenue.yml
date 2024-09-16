@@ -1,11 +1,11 @@
 id: 342660175
-type: way
+type: node
 latitude: 29.72476
 longitude: -95.4721
 postcode: "77081"
 city: Houston
-street: "South Rice Avenue"
-housenumber: 5310
-phone: "+1 832-778-9736"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/houston-tx-sams-club/4769"
+street: South Rice Avenue
+housenumber: "5310"
+phone: +1 832-778-9736
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/houston-tx-sams-club/4769

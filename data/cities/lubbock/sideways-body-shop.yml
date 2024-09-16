@@ -1,11 +1,11 @@
 id: 467375389
-type: way
+type: node
 latitude: 33.60041
 longitude: -101.86217
 postcode: "79415"
 city: Lubbock
-street: "Clovis Road"
-housenumber: 2102
+street: Clovis Road
+housenumber: "2102"
 phone: ""
 opening_hours: ""
 website: ""

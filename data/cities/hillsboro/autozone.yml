@@ -1,11 +1,11 @@
 id: 332819854
-type: way
+type: node
 latitude: 32.00329
 longitude: -97.12979
 postcode: "76645"
 city: Hillsboro
-street: "South Waco Street"
-housenumber: 403
+street: South Waco Street
+housenumber: "403"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/hillsboro/403-s-waco-st.html"
+website: https://www.autozone.com/locations/tx/hillsboro/403-s-waco-st.html

@@ -1,11 +1,11 @@
 id: 426120961
-type: way
+type: node
 latitude: 30.99668
 longitude: -94.82686
 postcode: "75939"
 city: Corrigan
-street: "South Home Street"
-housenumber: 100
-phone: "+1-936-398-4704"
+street: South Home Street
+housenumber: "100"
+phone: +1-936-398-4704
 opening_hours: ""
 website: ""

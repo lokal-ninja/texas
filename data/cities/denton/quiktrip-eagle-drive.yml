@@ -1,11 +1,11 @@
 id: 260963174
-type: way
+type: node
 latitude: 33.20589
 longitude: -97.13598
 postcode: "76201"
 city: Denton
-street: "Eagle Drive"
-housenumber: 321
+street: Eagle Drive
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1054505824
-type: way
+type: node
 latitude: 33.2229
 longitude: -97.76614
 postcode: "76426"
 city: Bridgeport
-street: "East US Highway 380"
-housenumber: 220
+street: East US Highway 380
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/bridgeport/3911"
+website: https://www.dollargeneral.com/store-directory/tx/bridgeport/3911

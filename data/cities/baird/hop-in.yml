@@ -1,11 +1,11 @@
 id: 1125955123
-type: way
+type: node
 latitude: 32.40088
 longitude: -99.38547
 postcode: "79504"
 city: Baird
-street: "Cherry Street"
-housenumber: 1033
+street: Cherry Street
+housenumber: "1033"
 phone: ""
 opening_hours: ""
 website: ""

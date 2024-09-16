@@ -1,11 +1,11 @@
 id: 371445453
-type: way
+type: node
 latitude: 29.78597
 longitude: -95.54333
 postcode: ""
 city: Houston
-street: "Gessner Road"
-housenumber: 1002
+street: Gessner Road
+housenumber: "1002"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/houston-tx-pharmacies/1002-gessner-drive-houston-tx-77055/storeid=8912"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/houston-tx-pharmacies/1002-gessner-drive-houston-tx-77055/storeid=8912

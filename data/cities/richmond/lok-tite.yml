@@ -1,11 +1,11 @@
 id: 607707840
-type: way
+type: node
 latitude: 29.61754
 longitude: -95.74402
 postcode: "77469"
 city: Richmond
-street: "FM 359"
-housenumber: 1609
+street: FM 359
+housenumber: "1609"
 phone: ""
 opening_hours: ""
 website: ""

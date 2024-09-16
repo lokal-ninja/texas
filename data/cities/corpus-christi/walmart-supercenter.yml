@@ -1,11 +1,11 @@
 id: 386568814
-type: way
+type: node
 latitude: 27.67848
 longitude: -97.3756
 postcode: "78414"
 city: Corpus Christi
-street: "Saratoga Boulevard"
-housenumber: 6101
-phone: "+1 361-445-3240"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5898/corpus-christi-tx/whats-new"
+street: Saratoga Boulevard
+housenumber: "6101"
+phone: +1 361-445-3240
+opening_hours: 24/7
+website: https://www.walmart.com/store/5898/corpus-christi-tx/whats-new

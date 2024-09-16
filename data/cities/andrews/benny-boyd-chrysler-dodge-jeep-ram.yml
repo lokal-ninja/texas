@@ -1,11 +1,11 @@
 id: 843581529
-type: way
+type: node
 latitude: 32.33934
 longitude: -102.55207
 postcode: "79714"
 city: Andrews
-street: "North US Highway 385"
-housenumber: 1320
+street: North US Highway 385
+housenumber: "1320"
 phone: ""
 opening_hours: ""
 website: ""

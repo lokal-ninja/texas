@@ -4,8 +4,8 @@ latitude: 30.10756
 longitude: -97.3198
 postcode: "78602"
 city: Bastrop
-street: "Main Street"
-housenumber: 702
-phone: "+1-512-412-6221"
-opening_hours: "Tu-Fr 10:00-17:00; Sa 09:00-16:00"
-website: "https://www.johnsons-bakery.com"
+street: Main Street
+housenumber: "702"
+phone: +1-512-412-6221
+opening_hours: Tu-Fr 10:00-17:00; Sa 09:00-16:00
+website: https://www.johnsons-bakery.com

@@ -1,11 +1,11 @@
 id: 791231853
-type: way
+type: node
 latitude: 35.66
 longitude: -101.41202
 postcode: "79007"
 city: Borger
-street: "West Wilson Street"
-housenumber: 1414
-phone: "+1 806-273-3185"
-opening_hours: "Su-Sa 07:00-22:00"
-website: "https://local.unitedsupermarkets.com/tx/borger/1414-w-wilson-st.html"
+street: West Wilson Street
+housenumber: "1414"
+phone: +1 806-273-3185
+opening_hours: Su-Sa 07:00-22:00
+website: https://local.unitedsupermarkets.com/tx/borger/1414-w-wilson-st.html

@@ -4,8 +4,8 @@ latitude: 30.56021
 longitude: -97.69061
 postcode: "78665"
 city: Round Rock
-street: "University Boulevard"
-housenumber: 200
-phone: "+1-512-763-1700"
-opening_hours: "We-Su 12:00-15:30, 16:00-19:00"
-website: "https://www.games-workshop.com/en-US/Warhammer-University-Commons?_requestid=32420242"
+street: University Boulevard
+housenumber: "200"
+phone: +1-512-763-1700
+opening_hours: We-Su 12:00-15:30, 16:00-19:00
+website: https://www.games-workshop.com/en-US/Warhammer-University-Commons?_requestid=32420242

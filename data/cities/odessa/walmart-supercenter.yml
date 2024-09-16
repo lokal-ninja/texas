@@ -1,11 +1,11 @@
 id: 172603835
-type: way
+type: node
 latitude: 31.89633
 longitude: -102.33292
 postcode: "79762"
 city: Odessa
-street: "John Ben Shepperd Parkway Boulevard"
-housenumber: 4210
-phone: "+1 432-363-9663"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/537/odessa-tx/whats-new"
+street: John Ben Shepperd Parkway Boulevard
+housenumber: "4210"
+phone: +1 432-363-9663
+opening_hours: 24/7
+website: https://www.walmart.com/store/537/odessa-tx/whats-new

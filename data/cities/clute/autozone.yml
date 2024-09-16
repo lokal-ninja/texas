@@ -1,11 +1,11 @@
 id: 521097956
-type: way
+type: node
 latitude: 29.01168
 longitude: -95.41968
 postcode: "77531"
 city: Clute
-street: "Dixie Drive"
-housenumber: 1021
+street: Dixie Drive
+housenumber: "1021"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/clute/1021-dixie-dr.html"
+website: https://www.autozone.com/locations/tx/clute/1021-dixie-dr.html

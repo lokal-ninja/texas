@@ -1,11 +1,11 @@
 id: 346316965
-type: way
+type: node
 latitude: 31.68095
 longitude: -106.31746
 postcode: "79907"
 city: El Paso
-street: "South Americas Avenue"
-housenumber: 201
+street: South Americas Avenue
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.academy.com/storelocator/texas/el-paso/store-0133"
+website: https://www.academy.com/storelocator/texas/el-paso/store-0133

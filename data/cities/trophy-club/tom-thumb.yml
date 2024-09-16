@@ -1,11 +1,11 @@
 id: 131170807
-type: way
+type: node
 latitude: 33.00015
 longitude: -97.20584
 postcode: "76262"
 city: Trophy Club
-street: "Trophy Lake Drive"
-housenumber: 101
-phone: "+1-817-490-6960"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://local.tomthumb.com/tx/trophy-club/101-trophy-lake-dr.html"
+street: Trophy Lake Drive
+housenumber: "101"
+phone: +1-817-490-6960
+opening_hours: Mo-Su 06:00-01:00
+website: https://local.tomthumb.com/tx/trophy-club/101-trophy-lake-dr.html

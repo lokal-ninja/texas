@@ -1,11 +1,11 @@
 id: 1190060926
-type: way
+type: node
 latitude: 30.38965
 longitude: -95.6952
 postcode: "77356"
 city: Montgomery
-street: "Prairie Street"
-housenumber: 301
-phone: "+1-936-597-4885"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-15:00"
-website: "https://www.pre-cuts.com"
+street: Prairie Street
+housenumber: "301"
+phone: +1-936-597-4885
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-15:00
+website: https://www.pre-cuts.com

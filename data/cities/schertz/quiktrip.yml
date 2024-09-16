@@ -1,11 +1,11 @@
 id: 920593492
-type: way
+type: node
 latitude: 29.5977
 longitude: -98.27439
 postcode: "78154"
 city: Schertz
-street: "Roy Richard Drive"
-housenumber: 4894
+street: Roy Richard Drive
+housenumber: "4894"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.quiktrip.com/"
+opening_hours: 24/7
+website: https://www.quiktrip.com/

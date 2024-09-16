@@ -1,11 +1,11 @@
 id: 1217896497
-type: way
+type: node
 latitude: 32.34345
 longitude: -95.33972
 postcode: "75702"
 city: Tyler
-street: "South Southwest Loop 323"
-housenumber: 514
+street: South Southwest Loop 323
+housenumber: "514"
 phone: ""
 opening_hours: ""
 website: ""

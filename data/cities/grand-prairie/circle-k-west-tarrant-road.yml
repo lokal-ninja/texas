@@ -1,11 +1,11 @@
 id: 642723578
-type: way
+type: node
 latitude: 32.75672
 longitude: -97.03666
 postcode: "75050"
 city: Grand Prairie
-street: "West Tarrant Road"
-housenumber: 2475
+street: West Tarrant Road
+housenumber: "2475"
 phone: ""
 opening_hours: ""
 website: ""

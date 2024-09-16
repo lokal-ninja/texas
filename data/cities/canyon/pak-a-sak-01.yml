@@ -1,11 +1,11 @@
 id: 697670385
-type: way
+type: node
 latitude: 34.97941
 longitude: -101.91035
 postcode: "79015"
 city: Canyon
-street: "4th Avenue"
-housenumber: 2800
+street: 4th Avenue
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

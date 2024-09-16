@@ -1,11 +1,11 @@
 id: 747938824
-type: way
+type: node
 latitude: 35.15317
 longitude: -101.88433
 postcode: "79109"
 city: Amarillo
-street: "South Western Street"
-housenumber: 5108
-phone: "+1-806-640-2338"
-opening_hours: "Mo-Tu closed; We-Th 12:00-19:00; Fr-Sa 12:00-20:00; Su 12:00-17:00"
-website: "https://www.elosowesternwear.com/"
+street: South Western Street
+housenumber: "5108"
+phone: +1-806-640-2338
+opening_hours: Mo-Tu closed; We-Th 12:00-19:00; Fr-Sa 12:00-20:00; Su 12:00-17:00
+website: https://www.elosowesternwear.com/

@@ -1,11 +1,11 @@
 id: 1012525467
-type: way
+type: node
 latitude: 29.51156
 longitude: -98.15581
 postcode: "78124"
 city: Marion
-street: "West Interstate 10"
-housenumber: 11855
+street: West Interstate 10
+housenumber: "11855"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 797200608
-type: way
+type: node
 latitude: 29.96977
 longitude: -99.11085
 postcode: "78028"
 city: Kerrville
-street: "Bandera Highway"
-housenumber: 3555
+street: Bandera Highway
+housenumber: "3555"
 phone: ""
 opening_hours: ""
 website: ""

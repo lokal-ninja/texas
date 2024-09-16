@@ -1,11 +1,11 @@
 id: 676950471
-type: way
+type: node
 latitude: 31.46384
 longitude: -100.44422
 postcode: "76903"
 city: San Angelo
-street: "North Koenigheim Street"
-housenumber: 105
-phone: "+1-325-276-6106"
+street: North Koenigheim Street
+housenumber: "105"
+phone: +1-325-276-6106
 opening_hours: ""
 website: ""

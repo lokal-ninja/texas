@@ -4,8 +4,8 @@ latitude: 32.93228
 longitude: -96.68379
 postcode: "75081"
 city: Richardson
-street: "East Buckingham Drive"
-housenumber: 2165
-phone: "+1 972-680-1711"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/richardson/2165-e-buckingham-dr.html"
+street: East Buckingham Drive
+housenumber: "2165"
+phone: +1 972-680-1711
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/richardson/2165-e-buckingham-dr.html

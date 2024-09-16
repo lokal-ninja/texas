@@ -1,11 +1,11 @@
 id: 100052469
-type: way
+type: node
 latitude: 29.42464
 longitude: -98.48724
 postcode: "78205"
 city: San Antonio
-street: "Alamo Plaza"
-housenumber: 209
-phone: "+1-210-226-2593"
-opening_hours: "Mo-Su 09:00-20:00"
+street: Alamo Plaza
+housenumber: "209"
+phone: +1-210-226-2593
+opening_hours: Mo-Su 09:00-20:00
 website: ""

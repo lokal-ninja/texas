@@ -1,11 +1,11 @@
 id: 856570787
-type: way
+type: node
 latitude: 31.87656
 longitude: -102.42241
 postcode: "79764"
 city: Odessa
-street: "Kermit Highway"
-housenumber: 4200
+street: Kermit Highway
+housenumber: "4200"
 phone: ""
 opening_hours: ""
 website: ""

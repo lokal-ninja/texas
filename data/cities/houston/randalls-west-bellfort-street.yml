@@ -1,11 +1,11 @@
 id: 129728509
-type: way
+type: node
 latitude: 29.67326
 longitude: -95.45875
 postcode: "77035"
 city: Houston
-street: "West Bellfort Street"
-housenumber: 4800
-phone: "+1-713-721-0011"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.randalls.com/tx/houston/4800-w-bellfort.html"
+street: West Bellfort Street
+housenumber: "4800"
+phone: +1-713-721-0011
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.randalls.com/tx/houston/4800-w-bellfort.html

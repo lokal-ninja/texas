@@ -1,11 +1,11 @@
 id: 768983805
-type: way
+type: node
 latitude: 31.4303
 longitude: -100.50257
 postcode: "76904"
 city: San Angelo
-street: "Sunset Drive"
-housenumber: 4161
+street: Sunset Drive
+housenumber: "4161"
 phone: ""
 opening_hours: ""
 website: ""

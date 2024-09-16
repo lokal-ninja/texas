@@ -1,11 +1,11 @@
 id: 1113200616
-type: way
+type: node
 latitude: 30.15071
 longitude: -96.4163
 postcode: "77833"
 city: Brenham
-street: "FM 389"
-housenumber: 1700
+street: FM 389
+housenumber: "1700"
 phone: ""
 opening_hours: ""
 website: ""

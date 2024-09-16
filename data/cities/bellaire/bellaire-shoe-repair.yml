@@ -1,11 +1,11 @@
 id: 1252877505
-type: way
+type: node
 latitude: 29.70612
 longitude: -95.47071
 postcode: ""
 city: Bellaire
-street: "Bellaire Boulevard"
-housenumber: 2504
+street: Bellaire Boulevard
+housenumber: "2504"
 phone: ""
 opening_hours: ""
 website: ""

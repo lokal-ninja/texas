@@ -1,11 +1,11 @@
 id: 758750784
-type: way
+type: node
 latitude: 31.51355
 longitude: -100.4741
 postcode: "76903"
 city: San Angelo
-street: "North Chadbourne Street"
-housenumber: 5050
+street: North Chadbourne Street
+housenumber: "5050"
 phone: ""
 opening_hours: ""
 website: ""

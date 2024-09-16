@@ -1,11 +1,11 @@
 id: 61697507
-type: way
+type: node
 latitude: 32.83873
 longitude: -97.00346
 postcode: "75062"
 city: Irving
-street: "West Airport Freeway"
-housenumber: 3915
+street: West Airport Freeway
+housenumber: "3915"
 phone: ""
 opening_hours: ""
 website: ""

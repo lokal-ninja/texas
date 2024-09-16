@@ -1,11 +1,11 @@
 id: 996764102
-type: way
+type: node
 latitude: 30.49076
 longitude: -100.05633
 postcode: "76874"
 city: Roosevelt
-street: "West Loop 291"
-housenumber: 3861
+street: West Loop 291
+housenumber: "3861"
 phone: ""
 opening_hours: ""
 website: ""

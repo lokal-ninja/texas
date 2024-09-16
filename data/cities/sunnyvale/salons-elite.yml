@@ -1,11 +1,11 @@
 id: 1170341213
-type: way
+type: node
 latitude: 32.8013
 longitude: -96.59532
 postcode: "75182"
 city: Sunnyvale
-street: "North Belt Line Road"
-housenumber: 2718
+street: North Belt Line Road
+housenumber: "2718"
 phone: ""
 opening_hours: ""
 website: ""

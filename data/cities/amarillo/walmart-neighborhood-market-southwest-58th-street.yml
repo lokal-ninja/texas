@@ -1,11 +1,11 @@
 id: 660600125
-type: way
+type: node
 latitude: 35.1485
 longitude: -101.86731
 postcode: "79110"
 city: Amarillo
-street: "Southwest 58th Street"
-housenumber: 2711
-phone: "+1 806-513-6506"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4464/amarillo-tx/whats-new"
+street: Southwest 58th Street
+housenumber: "2711"
+phone: +1 806-513-6506
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4464/amarillo-tx/whats-new

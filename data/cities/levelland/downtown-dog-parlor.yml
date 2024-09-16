@@ -1,11 +1,11 @@
 id: 686241900
-type: way
+type: node
 latitude: 33.58406
 longitude: -102.37694
 postcode: "79336"
 city: Levelland
-street: "9th Street"
-housenumber: 802
+street: 9th Street
+housenumber: "802"
 phone: ""
 opening_hours: ""
 website: ""

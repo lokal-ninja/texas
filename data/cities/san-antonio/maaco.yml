@@ -1,11 +1,11 @@
 id: 663595883
-type: way
+type: node
 latitude: 29.50829
 longitude: -98.72496
 postcode: "78254"
 city: San Antonio
-street: "FM 1560"
-housenumber: 7490
+street: FM 1560
+housenumber: "7490"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

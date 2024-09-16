@@ -1,11 +1,11 @@
 id: 280287758
-type: way
+type: node
 latitude: 29.70689
 longitude: -95.46751
 postcode: ""
 city: Bellaire
-street: "Bellaire Boulevard"
-housenumber: 5002
+street: Bellaire Boulevard
+housenumber: "5002"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5002+bellaire+blvd-bellaire-tx-77401/id=5835"
+website: https://www.walgreens.com/locator/walgreens-5002+bellaire+blvd-bellaire-tx-77401/id=5835

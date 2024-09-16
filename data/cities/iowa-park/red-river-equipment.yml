@@ -1,11 +1,11 @@
 id: 1271585378
-type: way
+type: node
 latitude: 33.95829
 longitude: -98.60854
 postcode: "76367"
 city: Iowa Park
-street: "US Highway 287 East"
-housenumber: 3830
+street: US Highway 287 East
+housenumber: "3830"
 phone: ""
 opening_hours: ""
 website: ""

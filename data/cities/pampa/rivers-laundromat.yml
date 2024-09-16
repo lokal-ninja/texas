@@ -1,11 +1,11 @@
 id: 776093648
-type: way
+type: node
 latitude: 35.53281
 longitude: -100.95671
 postcode: "79065"
 city: Pampa
-street: "East Brown Street"
-housenumber: 216
+street: East Brown Street
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

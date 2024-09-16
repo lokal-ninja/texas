@@ -1,11 +1,11 @@
 id: 1101804759
-type: way
+type: node
 latitude: 29.64443
 longitude: -95.47094
 postcode: "77035"
 city: Houston
-street: "South Main Street"
-housenumber: 12841
-phone: "+1-713-721-4321"
+street: South Main Street
+housenumber: "12841"
+phone: +1-713-721-4321
 opening_hours: ""
-website: "https://ourministoragetx.com"
+website: https://ourministoragetx.com

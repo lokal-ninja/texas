@@ -1,11 +1,11 @@
 id: 1193277925
-type: way
+type: node
 latitude: 30.08344
 longitude: -95.48097
 postcode: "77389"
 city: Spring
-street: "Spring Stuebner Road"
-housenumber: 4120
-phone: "+1-832-764-0607"
+street: Spring Stuebner Road
+housenumber: "4120"
+phone: +1-832-764-0607
 opening_hours: ""
-website: "https://sites.google.com/view/completeautorepair/home"
+website: https://sites.google.com/view/completeautorepair/home

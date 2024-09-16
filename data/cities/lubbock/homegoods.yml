@@ -1,11 +1,11 @@
 id: 460424846
-type: way
+type: node
 latitude: 33.56667
 longitude: -101.9471
 postcode: "79407"
 city: Lubbock
-street: "West Loop 289"
-housenumber: 3030
-phone: "+1 806-780-6619"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: West Loop 289
+housenumber: "3030"
+phone: +1 806-780-6619
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

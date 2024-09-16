@@ -1,11 +1,11 @@
 id: 198109783
-type: way
+type: node
 latitude: 33.09342
 longitude: -96.82027
 postcode: "75034"
 city: Frisco
-street: "Ikea Drive"
-housenumber: 7171
+street: Ikea Drive
+housenumber: "7171"
 phone: "+18888884532"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.ikea.com/us/en/stores/frisco/"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.ikea.com/us/en/stores/frisco/

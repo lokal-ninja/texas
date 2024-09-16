@@ -1,11 +1,11 @@
 id: 1046310154
-type: way
+type: node
 latitude: 36.4032
 longitude: -100.79534
 postcode: "79070"
 city: Perryton
-street: "East Brillhart Avenue"
-housenumber: 602
+street: East Brillhart Avenue
+housenumber: "602"
 phone: ""
 opening_hours: ""
 website: ""

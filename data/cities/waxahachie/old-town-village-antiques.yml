@@ -1,11 +1,11 @@
 id: 506580425
-type: way
+type: node
 latitude: 32.3843
 longitude: -96.84861
 postcode: "75165"
 city: Waxahachie
-street: "South Rogers Street"
-housenumber: 307
+street: South Rogers Street
+housenumber: "307"
 phone: ""
 opening_hours: ""
-website: "https://www.oldtownvillageantiques.com/"
+website: https://www.oldtownvillageantiques.com/

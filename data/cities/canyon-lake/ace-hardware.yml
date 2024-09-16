@@ -1,11 +1,11 @@
 id: 884239931
-type: way
+type: node
 latitude: 29.8524
 longitude: -98.16846
 postcode: "78133"
 city: Canyon Lake
-street: "FM 2673"
-housenumber: 1150
-phone: "+1 830-964-2797"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-18:00"
+street: FM 2673
+housenumber: "1150"
+phone: +1 830-964-2797
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-18:00
 website: ""

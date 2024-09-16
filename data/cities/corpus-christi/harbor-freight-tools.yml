@@ -1,11 +1,11 @@
 id: 510694723
-type: way
+type: node
 latitude: 27.85855
 longitude: -97.6313
 postcode: "78410"
 city: Corpus Christi
-street: "IH 69 Access Road"
-housenumber: 4101
-phone: "+1 361-242-2998"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/4101-ih-69-access-road-ste-k-corpus-christi-78410?number=680"
+street: IH 69 Access Road
+housenumber: "4101"
+phone: +1 361-242-2998
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/4101-ih-69-access-road-ste-k-corpus-christi-78410?number=680

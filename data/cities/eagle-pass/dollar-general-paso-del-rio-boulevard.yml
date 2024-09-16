@@ -1,11 +1,11 @@
 id: 1307859208
-type: way
+type: node
 latitude: 28.72989
 longitude: -100.4968
 postcode: "78852"
 city: Eagle Pass
-street: "Paso del Río Boulevard"
-housenumber: 1910
+street: Paso del Río Boulevard
+housenumber: "1910"
 phone: ""
 opening_hours: ""
 website: ""

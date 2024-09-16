@@ -1,11 +1,11 @@
 id: 724851059
-type: way
+type: node
 latitude: 32.41502
 longitude: -94.70583
 postcode: "75603"
 city: Longview
-street: "Estes Parkway"
-housenumber: 5014
-phone: "+1 903-218-0670"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 13:00-17:00"
+street: Estes Parkway
+housenumber: "5014"
+phone: +1 903-218-0670
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 13:00-17:00
 website: ""

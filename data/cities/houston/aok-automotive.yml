@@ -1,11 +1,11 @@
 id: 260963209
-type: way
+type: node
 latitude: 29.82227
 longitude: -95.52884
 postcode: ""
 city: Houston
-street: "Kempwood Drive"
-housenumber: 9566
+street: Kempwood Drive
+housenumber: "9566"
 phone: ""
 opening_hours: ""
 website: ""

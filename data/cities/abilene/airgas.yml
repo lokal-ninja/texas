@@ -1,11 +1,11 @@
 id: 462523213
-type: way
+type: node
 latitude: 32.45091
 longitude: -99.72753
 postcode: "79601"
 city: Abilene
-street: "North Treadaway Boulevard"
-housenumber: 222
+street: North Treadaway Boulevard
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

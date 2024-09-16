@@ -1,11 +1,11 @@
 id: 1068329995
-type: way
+type: node
 latitude: 34.47472
 longitude: -101.30422
 postcode: "79257"
 city: Silverton
-street: "Lone Star Street"
-housenumber: 600
+street: Lone Star Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

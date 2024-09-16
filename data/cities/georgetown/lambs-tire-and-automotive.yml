@@ -1,11 +1,11 @@
 id: 549069858
-type: way
+type: node
 latitude: 30.6645
 longitude: -97.69227
 postcode: "78628"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 3021
-phone: "+1 512 930 2025"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00"
-website: "https://lambstire.com/"
+street: Williams Drive
+housenumber: "3021"
+phone: +1 512 930 2025
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00
+website: https://lambstire.com/

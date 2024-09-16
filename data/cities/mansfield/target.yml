@@ -1,11 +1,11 @@
 id: 433297406
-type: way
+type: node
 latitude: 32.59035
 longitude: -97.14507
-postcode: "76063-7533"
+postcode: 76063-7533
 city: Mansfield
-street: "Highway 287 North"
-housenumber: 1801
-phone: "+1 817-453-0005"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/mansfield/1536"
+street: Highway 287 North
+housenumber: "1801"
+phone: +1 817-453-0005
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/mansfield/1536

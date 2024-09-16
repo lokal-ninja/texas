@@ -1,11 +1,11 @@
 id: 1249737090
-type: way
+type: node
 latitude: 31.44163
 longitude: -97.41923
 postcode: "76657"
 city: McGregor
-street: "Westend Road"
-housenumber: 1207
-phone: "+1-254-236-6580"
-opening_hours: "Mo-Sa 07:30-20:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/tx/mcgregor/autoparts-5618.html"
+street: Westend Road
+housenumber: "1207"
+phone: +1-254-236-6580
+opening_hours: Mo-Sa 07:30-20:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/tx/mcgregor/autoparts-5618.html

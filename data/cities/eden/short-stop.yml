@@ -1,11 +1,11 @@
 id: 865077292
-type: way
+type: node
 latitude: 31.21608
 longitude: -99.84639
 postcode: "76837"
 city: Eden
-street: "West Broadway Street"
-housenumber: 311
-phone: "+1-210-345-2000"
+street: West Broadway Street
+housenumber: "311"
+phone: +1-210-345-2000
 opening_hours: ""
 website: ""

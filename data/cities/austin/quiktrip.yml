@@ -1,11 +1,11 @@
 id: 909110899
-type: way
+type: node
 latitude: 30.40459
 longitude: -97.66494
 postcode: ""
 city: Austin
-street: "East Parmer Lane"
-housenumber: 221
+street: East Parmer Lane
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

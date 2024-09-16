@@ -1,11 +1,11 @@
 id: 909866102
-type: way
+type: node
 latitude: 32.29011
 longitude: -101.30604
 postcode: "79511"
 city: Coahoma
-street: "Echols Drive"
-housenumber: 106
+street: Echols Drive
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

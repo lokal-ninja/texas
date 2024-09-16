@@ -1,11 +1,11 @@
 id: 707961862
-type: way
+type: node
 latitude: 33.66023
 longitude: -101.2373
 postcode: "79322"
 city: Crosbyton
-street: "East Main Street"
-housenumber: 123
+street: East Main Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

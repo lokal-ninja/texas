@@ -1,11 +1,11 @@
 id: 469119704
-type: way
+type: node
 latitude: 32.91392
 longitude: -96.95796
 postcode: "75063"
 city: Irving
-street: "Lyndon B Johnson Freeway"
-housenumber: 770
-phone: "+1-214-496-0216"
-opening_hours: "24/7"
+street: Lyndon B Johnson Freeway
+housenumber: "770"
+phone: +1-214-496-0216
+opening_hours: 24/7
 website: ""

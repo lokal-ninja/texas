@@ -1,11 +1,11 @@
 id: 376547957
-type: way
+type: node
 latitude: 29.69651
 longitude: -95.30008
 postcode: ""
 city: Houston
-street: "South Loop East"
-housenumber: 7205
+street: South Loop East
+housenumber: "7205"
 phone: ""
 opening_hours: ""
 website: ""

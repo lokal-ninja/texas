@@ -1,11 +1,11 @@
 id: 739008588
-type: way
+type: node
 latitude: 35.1521
 longitude: -101.88665
 postcode: "79109"
 city: Amarillo
-street: "South Western Street"
-housenumber: 5220
-phone: "+1 806-391-7780"
+street: South Western Street
+housenumber: "5220"
+phone: +1 806-391-7780
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/texas/amarillo/7710000400/"
+website: https://stores.ashleyfurniture.com/store/us/texas/amarillo/7710000400/

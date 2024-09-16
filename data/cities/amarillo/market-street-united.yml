@@ -1,11 +1,11 @@
 id: 368058522
-type: way
+type: node
 latitude: 35.18663
 longitude: -101.86777
 postcode: "79109"
 city: Amarillo
-street: "South Georgia Street"
-housenumber: 2530
+street: South Georgia Street
+housenumber: "2530"
 phone: ""
 opening_hours: ""
-website: "https://local.marketstreetunited.com/tx/amarillo/2530-s-georgia-st.html"
+website: https://local.marketstreetunited.com/tx/amarillo/2530-s-georgia-st.html

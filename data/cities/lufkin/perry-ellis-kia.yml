@@ -1,11 +1,11 @@
 id: 409075465
-type: way
+type: node
 latitude: 31.31556
 longitude: -94.72691
 postcode: "75901"
 city: Lufkin
-street: "South First Street"
-housenumber: 1705
-phone: "+1 936 639 5588"
+street: South First Street
+housenumber: "1705"
+phone: +1 936 639 5588
 opening_hours: ""
-website: "http://www.premierkiatx.com/"
+website: http://www.premierkiatx.com/

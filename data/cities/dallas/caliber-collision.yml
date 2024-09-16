@@ -1,11 +1,11 @@
 id: 468042796
-type: way
+type: node
 latitude: 32.86946
 longitude: -96.67161
 postcode: "75218"
 city: Dallas
-street: "Self Plaza Drive"
-housenumber: 12101
+street: Self Plaza Drive
+housenumber: "12101"
 phone: ""
 opening_hours: ""
 website: ""

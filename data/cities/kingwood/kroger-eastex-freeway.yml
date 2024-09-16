@@ -1,11 +1,11 @@
 id: 426001042
-type: way
+type: node
 latitude: 30.07247
 longitude: -95.24276
 postcode: "77339"
 city: Kingwood
-street: "Eastex Freeway"
-housenumber: 25651
-phone: "+1 281-713-9447"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/kingwood/north-park/034/00359"
+street: Eastex Freeway
+housenumber: "25651"
+phone: +1 281-713-9447
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/kingwood/north-park/034/00359

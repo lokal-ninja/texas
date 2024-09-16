@@ -1,11 +1,11 @@
 id: 383223938
-type: way
+type: node
 latitude: 32.54298
 longitude: -94.74589
 postcode: "75605"
 city: Longview
-street: "East Loop 281"
-housenumber: 105
+street: East Loop 281
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/tx/longview/oil-change-070037.html"
+website: https://store.vioc.com/tx/longview/oil-change-070037.html

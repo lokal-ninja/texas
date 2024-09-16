@@ -1,11 +1,11 @@
 id: 765412902
-type: way
+type: node
 latitude: 29.80263
 longitude: -98.41912
 postcode: "78070"
 city: Spring Branch
-street: "Singing Oaks"
-housenumber: 366
+street: Singing Oaks
+housenumber: "366"
 phone: ""
 opening_hours: ""
 website: ""

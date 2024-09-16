@@ -1,11 +1,11 @@
 id: 359247421
-type: way
+type: node
 latitude: 29.44875
 longitude: -98.71004
 postcode: "78251"
 city: San Antonio
-street: "West Loop 1604 North"
-housenumber: 1530
+street: West Loop 1604 North
+housenumber: "1530"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 679202034
-type: way
+type: node
 latitude: 33.43819
 longitude: -101.64382
 postcode: ""
 city: Slaton
-street: "West Garza Street"
-housenumber: 156
+street: West Garza Street
+housenumber: "156"
 phone: ""
 opening_hours: ""
 website: ""

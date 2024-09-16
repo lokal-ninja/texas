@@ -1,11 +1,11 @@
 id: 750239917
-type: way
+type: node
 latitude: 29.32218
 longitude: -98.43233
 postcode: "78223"
 city: San Antonio
-street: "Southeast Loop 410"
-housenumber: 9350
-phone: "+1-210-633-9624"
-opening_hours: "24/7"
-website: "https://www.circlek.com"
+street: Southeast Loop 410
+housenumber: "9350"
+phone: +1-210-633-9624
+opening_hours: 24/7
+website: https://www.circlek.com

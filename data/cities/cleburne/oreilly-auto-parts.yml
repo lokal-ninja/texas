@@ -1,11 +1,11 @@
 id: 712914373
-type: way
+type: node
 latitude: 32.35165
 longitude: -97.38732
 postcode: "76033"
 city: Cleburne
-street: "North Main Street"
-housenumber: 514
-phone: "+1-817-202-8422"
-opening_hours: "Mo-Sa 07:30-22:00; Sa 07:30-22:00"
-website: "https://locations.oreillyauto.com/tx/cleburne/autoparts-709.html"
+street: North Main Street
+housenumber: "514"
+phone: +1-817-202-8422
+opening_hours: Mo-Sa 07:30-22:00; Sa 07:30-22:00
+website: https://locations.oreillyauto.com/tx/cleburne/autoparts-709.html

@@ -1,11 +1,11 @@
 id: 512990988
-type: way
+type: node
 latitude: 29.37617
 longitude: -98.44932
 postcode: "78223"
 city: San Antonio
-street: "Goliad Road"
-housenumber: 1105
-phone: "+1-210-533-7602"
-opening_hours: "07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-1105+goliad+rd-san+antonio-tx-78223/id=3141"
+street: Goliad Road
+housenumber: "1105"
+phone: +1-210-533-7602
+opening_hours: 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-1105+goliad+rd-san+antonio-tx-78223/id=3141

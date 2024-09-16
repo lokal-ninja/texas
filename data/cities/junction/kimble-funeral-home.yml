@@ -1,11 +1,11 @@
 id: 682345761
-type: way
+type: node
 latitude: 30.48881
 longitude: -99.77167
 postcode: "76849"
 city: Junction
-street: "College Street"
-housenumber: 1010
+street: College Street
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 383345225
-type: way
+type: node
 latitude: 30.3803
 longitude: -97.69046
 postcode: "78758"
 city: Austin
-street: "Kramer Lane"
-housenumber: 903
-phone: "+1-512-837-3714"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: Kramer Lane
+housenumber: "903"
+phone: +1-512-837-3714
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.23138
 longitude: -97.82131
 postcode: "78745"
 city: Austin
-street: "Brodie Lane"
-housenumber: 5400
-phone: "+1 512-892-0486"
-opening_hours: "Mo-Sa 09:00-21:30; Su 10:00-20:00"
+street: Brodie Lane
+housenumber: "5400"
+phone: +1 512-892-0486
+opening_hours: Mo-Sa 09:00-21:30; Su 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 463968636
-type: way
+type: node
 latitude: 32.85646
 longitude: -96.76896
 postcode: "75206"
 city: Dallas
-street: "Greenville Avenue"
-housenumber: 5809
+street: Greenville Avenue
+housenumber: "5809"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256656956
-type: way
+type: node
 latitude: 32.52121
 longitude: -97.35225
 postcode: "76028"
 city: Burleson
-street: "Northwest John Jones Drive"
-housenumber: 165
-phone: "+1-817-447-7484"
+street: Northwest John Jones Drive
+housenumber: "165"
+phone: +1-817-447-7484
 opening_hours: ""
 website: ""

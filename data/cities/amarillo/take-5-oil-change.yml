@@ -1,11 +1,11 @@
 id: 1192103125
-type: way
+type: node
 latitude: 35.19122
 longitude: -101.7958
 postcode: "79103"
 city: Amarillo
-street: "South Grand Street"
-housenumber: 1820
-phone: "+1-806-414-8326"
-opening_hours: "Su 09:00-17:00; Mo-Sa 07:00-19:00"
-website: "https://www.take5.com/locations/oil-change/texas/amarillo/30721/"
+street: South Grand Street
+housenumber: "1820"
+phone: +1-806-414-8326
+opening_hours: Su 09:00-17:00; Mo-Sa 07:00-19:00
+website: https://www.take5.com/locations/oil-change/texas/amarillo/30721/

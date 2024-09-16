@@ -1,11 +1,11 @@
 id: 853052960
-type: way
+type: node
 latitude: 33.42106
 longitude: -96.59001
 postcode: "75495"
 city: Van Alstyne
-street: "West Van Alstyne Parkway"
-housenumber: 1001
+street: West Van Alstyne Parkway
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

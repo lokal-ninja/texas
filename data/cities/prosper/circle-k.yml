@@ -1,11 +1,11 @@
 id: 1080318296
-type: way
+type: node
 latitude: 33.21969
 longitude: -96.78487
 postcode: "75078"
 city: Prosper
-street: "University Drive"
-housenumber: 1411
+street: University Drive
+housenumber: "1411"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

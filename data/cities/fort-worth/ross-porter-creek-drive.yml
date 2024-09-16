@@ -1,11 +1,11 @@
 id: 611692691
-type: way
+type: node
 latitude: 32.90165
 longitude: -97.32471
 postcode: "76177"
 city: Fort Worth
-street: "Porter Creek Drive"
-housenumber: 2341
-phone: "+1 817-232-6088"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00"
+street: Porter Creek Drive
+housenumber: "2341"
+phone: +1 817-232-6088
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-23:00; Su 09:30-22:00
 website: ""

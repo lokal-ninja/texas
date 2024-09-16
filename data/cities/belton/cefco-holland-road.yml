@@ -1,11 +1,11 @@
 id: 847738807
-type: way
+type: node
 latitude: 31.04346
 longitude: -97.46242
 postcode: "76513"
 city: Belton
-street: "Holland Road"
-housenumber: 614
+street: Holland Road
+housenumber: "614"
 phone: ""
 opening_hours: ""
 website: ""

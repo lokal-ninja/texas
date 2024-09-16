@@ -1,11 +1,11 @@
 id: 747932538
-type: way
+type: node
 latitude: 28.70642
 longitude: -100.50096
 postcode: "78852"
 city: Eagle Pass
-street: "East Garrison Street"
-housenumber: 585
+street: East Garrison Street
+housenumber: "585"
 phone: ""
 opening_hours: ""
 website: ""

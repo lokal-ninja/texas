@@ -1,11 +1,11 @@
 id: 696049900
-type: way
+type: node
 latitude: 26.18355
 longitude: -98.0375
 postcode: "78537"
 city: Donna
-street: "North Salinas Boulevard"
-housenumber: 900
-phone: "+1-956-461-2906"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2763/donna-tx/whats-new"
+street: North Salinas Boulevard
+housenumber: "900"
+phone: +1-956-461-2906
+opening_hours: 24/7
+website: https://www.walmart.com/store/2763/donna-tx/whats-new

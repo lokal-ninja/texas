@@ -1,11 +1,11 @@
 id: 112675926
-type: way
+type: node
 latitude: 32.76486
 longitude: -97.16541
 postcode: "76120"
 city: Fort Worth
-street: "Eastchase Parkway"
-housenumber: 1111
-phone: "+1 817-276-5700"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/"
+street: Eastchase Parkway
+housenumber: "1111"
+phone: +1 817-276-5700
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/

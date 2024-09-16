@@ -1,11 +1,11 @@
 id: 715806085
-type: way
+type: node
 latitude: 33.27496
 longitude: -95.89251
 postcode: "75428"
 city: Commerce
-street: "State Highway 24"
-housenumber: 6751
+street: State Highway 24
+housenumber: "6751"
 phone: ""
 opening_hours: ""
 website: ""

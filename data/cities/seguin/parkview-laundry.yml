@@ -1,11 +1,11 @@
 id: 342653597
-type: way
+type: node
 latitude: 29.54956
 longitude: -97.96896
 postcode: "78155"
 city: Seguin
-street: "Stockdale Highway"
-housenumber: 2047
+street: Stockdale Highway
+housenumber: "2047"
 phone: ""
 opening_hours: ""
 website: ""

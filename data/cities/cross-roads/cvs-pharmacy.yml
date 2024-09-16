@@ -1,11 +1,11 @@
 id: 1132011238
-type: way
+type: node
 latitude: 33.22548
 longitude: -96.98834
 postcode: "76227"
 city: Cross Roads
-street: "US Highway 380"
-housenumber: 11101
+street: US Highway 380
+housenumber: "11101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/crossroads-tx-pharmacies/11101-us-380-crossroads-tx-76227/storeid=10138"
+website: https://www.cvs.com/store-locator/crossroads-tx-pharmacies/11101-us-380-crossroads-tx-76227/storeid=10138

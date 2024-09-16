@@ -1,11 +1,11 @@
 id: 1112431975
-type: way
+type: node
 latitude: 31.76741
 longitude: -106.30154
 postcode: "79936"
 city: El Paso
-street: "Montwood Drive"
-housenumber: 11320
-phone: "+1 915-855-9761"
+street: Montwood Drive
+housenumber: "11320"
+phone: +1 915-855-9761
 opening_hours: ""
-website: "https://local.albertsons.com/tx/el-paso/11320-montwood-dr.html"
+website: https://local.albertsons.com/tx/el-paso/11320-montwood-dr.html

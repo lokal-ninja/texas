@@ -1,11 +1,11 @@
 id: 1314822363
-type: way
+type: node
 latitude: 28.70004
 longitude: -100.47401
 postcode: "78852"
 city: Eagle Pass
-street: "South Veterans Boulevard"
-housenumber: 1451
+street: South Veterans Boulevard
+housenumber: "1451"
 phone: "+18307734040"
 opening_hours: ""
 website: ""

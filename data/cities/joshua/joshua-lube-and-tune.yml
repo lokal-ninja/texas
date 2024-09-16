@@ -1,11 +1,11 @@
 id: 714082536
-type: way
+type: node
 latitude: 32.45214
 longitude: -97.38396
 postcode: "76058"
 city: Joshua
-street: "South Broadway Street"
-housenumber: 725
-phone: "+1-817-774-4161"
+street: South Broadway Street
+housenumber: "725"
+phone: +1-817-774-4161
 opening_hours: ""
-website: "https://joshualubeandtune.com"
+website: https://joshualubeandtune.com

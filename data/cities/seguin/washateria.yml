@@ -1,11 +1,11 @@
 id: 192349860
-type: way
+type: node
 latitude: 29.57979
 longitude: -97.97004
 postcode: "78155"
 city: Seguin
-street: "North Guadalupe Street"
-housenumber: 1118
+street: North Guadalupe Street
+housenumber: "1118"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

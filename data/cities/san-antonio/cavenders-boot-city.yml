@@ -1,11 +1,11 @@
 id: 89373432
-type: way
+type: node
 latitude: 29.49389
 longitude: -98.70305
 postcode: "78251"
 city: San Antonio
-street: "Culebra Road"
-housenumber: 10673
+street: Culebra Road
+housenumber: "10673"
 phone: ""
 opening_hours: ""
 website: ""

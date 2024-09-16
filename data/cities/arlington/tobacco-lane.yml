@@ -1,11 +1,11 @@
 id: 1032456144
-type: way
+type: node
 latitude: 32.68122
 longitude: -97.11015
 postcode: "76018"
 city: Arlington
-street: "Arlington Highlands Blvd."
-housenumber: 3900
-phone: "+1 817-784-0022"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
+street: Arlington Highlands Blvd.
+housenumber: "3900"
+phone: +1 817-784-0022
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
 website: ""

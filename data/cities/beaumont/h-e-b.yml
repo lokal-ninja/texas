@@ -1,11 +1,11 @@
 id: 621507410
-type: way
+type: node
 latitude: 30.07037
 longitude: -94.12835
 postcode: "77701"
 city: Beaumont
-street: "College Street"
-housenumber: 3590
-phone: "+1-409-980-5800"
+street: College Street
+housenumber: "3590"
+phone: +1-409-980-5800
 opening_hours: ""
 website: ""

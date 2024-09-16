@@ -1,11 +1,11 @@
 id: 408036433
-type: way
+type: node
 latitude: 31.32396
 longitude: -94.75482
 postcode: "75904"
 city: Lufkin
-street: "South John Redditt Drive"
-housenumber: 907
-phone: "+1 936 639 4020"
+street: South John Redditt Drive
+housenumber: "907"
+phone: +1 936 639 4020
 opening_hours: ""
-website: "http://www.bizzybea.com/"
+website: http://www.bizzybea.com/

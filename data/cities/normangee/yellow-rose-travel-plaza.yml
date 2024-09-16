@@ -1,11 +1,11 @@
 id: 1228053977
-type: way
+type: node
 latitude: 31.09304
 longitude: -95.96385
 postcode: "77871"
 city: Normangee
-street: "Old San Antonio Road East"
-housenumber: 23456
+street: Old San Antonio Road East
+housenumber: "23456"
 phone: ""
 opening_hours: ""
 website: ""

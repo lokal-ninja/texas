@@ -1,11 +1,11 @@
 id: 1068689246
-type: way
+type: node
 latitude: 30.0822
 longitude: -95.4692
 postcode: "77389"
 city: Spring
-street: "Spring Stuebner Road"
-housenumber: 3327
+street: Spring Stuebner Road
+housenumber: "3327"
 phone: ""
 opening_hours: ""
-website: "https://www.scottsautomotivecentertx.com"
+website: https://www.scottsautomotivecentertx.com

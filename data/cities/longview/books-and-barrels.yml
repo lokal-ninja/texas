@@ -1,11 +1,11 @@
 id: 380024970
-type: way
+type: node
 latitude: 32.49553
 longitude: -94.73996
 postcode: "75601"
 city: Longview
-street: "North Center Street"
-housenumber: 206
-phone: "+1 903-265-9205"
-opening_hours: "Tu-Sa 10:00-20:00"
+street: North Center Street
+housenumber: "206"
+phone: +1 903-265-9205
+opening_hours: Tu-Sa 10:00-20:00
 website: ""

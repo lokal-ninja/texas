@@ -4,8 +4,8 @@ latitude: 30.47668
 longitude: -97.79496
 postcode: "78717"
 city: Austin
-street: "Lakeline Mall Drive"
-housenumber: 10900
-phone: "+1-512-387-7944"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-16:00"
-website: "https://www.goodfeet.com/austin/"
+street: Lakeline Mall Drive
+housenumber: "10900"
+phone: +1-512-387-7944
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-16:00
+website: https://www.goodfeet.com/austin/

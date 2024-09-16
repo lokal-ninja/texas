@@ -1,11 +1,11 @@
 id: 257047336
-type: way
+type: node
 latitude: 29.60229
 longitude: -95.24985
 postcode: "77075"
 city: Houston
-street: "Blackhawk Boulevard"
-housenumber: 9828
-phone: "+1-713-991-2774"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Blackhawk Boulevard
+housenumber: "9828"
+phone: +1-713-991-2774
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

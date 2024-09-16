@@ -1,11 +1,11 @@
 id: 829365802
-type: way
+type: node
 latitude: 35.23229
 longitude: -100.24969
 postcode: "79079"
 city: Shamrock
-street: "North Main Street"
-housenumber: 1627
+street: North Main Street
+housenumber: "1627"
 phone: ""
 opening_hours: ""
 website: ""

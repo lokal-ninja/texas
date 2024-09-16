@@ -1,11 +1,11 @@
 id: 580545516
-type: way
+type: node
 latitude: 29.50609
 longitude: -95.10507
 postcode: "77573"
 city: League City
-street: "West Main Street"
-housenumber: 1088
+street: West Main Street
+housenumber: "1088"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1088+w+main+st-league+city-tx-77573/id=6566"
+website: https://www.walgreens.com/locator/walgreens-1088+w+main+st-league+city-tx-77573/id=6566

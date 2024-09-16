@@ -1,11 +1,11 @@
 id: 499380497
-type: way
+type: node
 latitude: 32.89538
 longitude: -97.27315
 postcode: "76244"
 city: Fort Worth
-street: "North Tarrant Parkway"
-housenumber: 5137
-phone: "+1 682-249-8632"
+street: North Tarrant Parkway
+housenumber: "5137"
+phone: +1 682-249-8632
 opening_hours: ""
 website: ""

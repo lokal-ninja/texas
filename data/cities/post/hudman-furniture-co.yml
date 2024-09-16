@@ -1,11 +1,11 @@
 id: 721575738
-type: way
+type: node
 latitude: 33.19074
 longitude: -101.37541
 postcode: "79356"
 city: Post
-street: "East Main Street"
-housenumber: 301
+street: East Main Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1190502433
-type: way
+type: node
 latitude: 34.11726
 longitude: -101.44131
 postcode: "79241"
 city: Lockney
-street: "East Shurbet Street"
-housenumber: 102
+street: East Shurbet Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

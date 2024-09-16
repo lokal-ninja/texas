@@ -1,11 +1,11 @@
 id: 1005075447
-type: way
+type: node
 latitude: 30.7586
 longitude: -98.22768
 postcode: "78611"
 city: Burnet
-street: "East Polk Street"
-housenumber: 102
+street: East Polk Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

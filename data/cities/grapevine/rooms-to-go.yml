@@ -1,11 +1,11 @@
 id: 28125289
-type: way
+type: node
 latitude: 32.9697
 longitude: -97.0382
 postcode: "76051"
 city: Grapevine
-street: "East Grapevine Mills Circle"
-housenumber: 2905
+street: East Grapevine Mills Circle
+housenumber: "2905"
 phone: ""
 opening_hours: ""
 website: ""

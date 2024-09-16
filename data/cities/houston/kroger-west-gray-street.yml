@@ -1,11 +1,11 @@
 id: 226936280
-type: way
+type: node
 latitude: 29.75451
 longitude: -95.40601
 postcode: "77019"
 city: Houston
-street: "West Gray Street"
-housenumber: 1938
-phone: "+1 713-521-1909"
-opening_hours: "24/7"
-website: "https://www.kroger.com/stores/grocery/tx/houston/river-oaks/034/00355"
+street: West Gray Street
+housenumber: "1938"
+phone: +1 713-521-1909
+opening_hours: 24/7
+website: https://www.kroger.com/stores/grocery/tx/houston/river-oaks/034/00355

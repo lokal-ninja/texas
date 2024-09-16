@@ -1,11 +1,11 @@
 id: 402456739
-type: way
+type: node
 latitude: 29.42824
 longitude: -97.17042
 postcode: "77984"
 city: Shiner
-street: "Avenue E"
-housenumber: 404
+street: Avenue E
+housenumber: "404"
 phone: ""
-opening_hours: "05:00-21:00"
+opening_hours: 05:00-21:00
 website: ""

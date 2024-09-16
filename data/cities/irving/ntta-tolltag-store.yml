@@ -1,11 +1,11 @@
 id: 740853987
-type: way
+type: node
 latitude: 32.8834
 longitude: -96.98764
 postcode: "75038"
 city: Irving
-street: "President George Bush Turnpike"
-housenumber: 5555
+street: President George Bush Turnpike
+housenumber: "5555"
 phone: ""
 opening_hours: ""
-website: "https://www.ntta.org/Pages/default.aspx"
+website: https://www.ntta.org/Pages/default.aspx

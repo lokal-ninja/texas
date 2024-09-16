@@ -1,11 +1,11 @@
 id: 529862120
-type: way
+type: node
 latitude: 32.67419
 longitude: -95.48426
 postcode: "75773"
 city: Mineola
-street: "North Pacific Street"
-housenumber: 1114
+street: North Pacific Street
+housenumber: "1114"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/mineola/1116-n-pacific-st.html"
+website: https://www.autozone.com/locations/tx/mineola/1116-n-pacific-st.html

@@ -1,11 +1,11 @@
 id: 845933327
-type: way
+type: node
 latitude: 29.70227
 longitude: -95.74191
 postcode: "77407"
 city: Richmond
-street: "FM 1093"
-housenumber: 20675
+street: FM 1093
+housenumber: "20675"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-20675+fm+1093+rd-richmond-tx-77407/id=1169"
+website: https://www.walgreens.com/locator/walgreens-20675+fm+1093+rd-richmond-tx-77407/id=1169

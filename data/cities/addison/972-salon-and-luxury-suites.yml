@@ -1,11 +1,11 @@
 id: 424505563
-type: way
+type: node
 latitude: 32.9593
 longitude: -96.82943
 postcode: "75001"
 city: Addison
-street: "Addison Road"
-housenumber: 15404
+street: Addison Road
+housenumber: "15404"
 phone: ""
 opening_hours: ""
 website: ""

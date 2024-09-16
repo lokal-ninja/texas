@@ -1,11 +1,11 @@
 id: 800236835
-type: way
+type: node
 latitude: 30.04544
 longitude: -99.14696
 postcode: "78028"
 city: Kerrville
-street: "Cully Drive"
-housenumber: 204
+street: Cully Drive
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

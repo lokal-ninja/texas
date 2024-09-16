@@ -1,11 +1,11 @@
 id: 1160011612
-type: way
+type: node
 latitude: 29.267
 longitude: -98.30404
 postcode: "78223"
 city: San Antonio
-street: "South US Highway 181"
-housenumber: 15540
+street: South US Highway 181
+housenumber: "15540"
 phone: ""
 opening_hours: ""
 website: ""

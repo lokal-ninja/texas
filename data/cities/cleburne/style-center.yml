@@ -1,11 +1,11 @@
 id: 712908313
-type: way
+type: node
 latitude: 32.34584
 longitude: -97.39344
 postcode: ""
 city: Cleburne
-street: "West Henderson Street"
-housenumber: 611
+street: West Henderson Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

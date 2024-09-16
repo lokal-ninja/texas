@@ -1,11 +1,11 @@
 id: 825901526
-type: way
+type: node
 latitude: 36.20048
 longitude: -101.19358
 postcode: "79081"
 city: Spearman
-street: "Dillon Street"
-housenumber: 205
-phone: "+1 806-659-2662"
+street: Dillon Street
+housenumber: "205"
+phone: +1 806-659-2662
 opening_hours: ""
-website: "https://www.familyfarmstores.com/"
+website: https://www.familyfarmstores.com/

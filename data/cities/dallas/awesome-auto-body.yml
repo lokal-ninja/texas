@@ -1,11 +1,11 @@
 id: 465055961
-type: way
+type: node
 latitude: 32.90345
 longitude: -96.89612
 postcode: "75229"
 city: Dallas
-street: "Reeder Road"
-housenumber: 11571
+street: Reeder Road
+housenumber: "11571"
 phone: ""
 opening_hours: ""
-website: "https://www.awesomeautobody.com"
+website: https://www.awesomeautobody.com

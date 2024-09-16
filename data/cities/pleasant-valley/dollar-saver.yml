@@ -1,11 +1,11 @@
 id: 1081035318
-type: way
+type: node
 latitude: 33.94144
 longitude: -98.60288
 postcode: "76367"
 city: Pleasant Valley
-street: "Business 287"
-housenumber: 4110
+street: Business 287
+housenumber: "4110"
 phone: ""
 opening_hours: ""
 website: ""

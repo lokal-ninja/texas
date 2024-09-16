@@ -1,11 +1,11 @@
 id: 835380568
-type: way
+type: node
 latitude: 31.49994
 longitude: -97.16418
 postcode: "76711"
 city: Waco
-street: "Bagby Avenue"
-housenumber: 5601
+street: Bagby Avenue
+housenumber: "5601"
 phone: ""
 opening_hours: ""
 website: ""

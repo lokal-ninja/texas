@@ -1,11 +1,11 @@
 id: 305926750
-type: way
+type: node
 latitude: 29.47021
 longitude: -98.4648
 postcode: "78209"
 city: San Antonio
-street: "Broadway"
-housenumber: 4821
-phone: "+1 210-368-8600 Main; +1 210-368-8699 Catering"
+street: Broadway
+housenumber: "4821"
+phone: +1 210-368-8600 "Main"; +1 210-368-8699 "Catering"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 665634156
-type: way
+type: node
 latitude: 33.05794
 longitude: -97.01604
 postcode: "75067"
 city: Lewisville
-street: "North Stemmons Freeway"
-housenumber: 1051
-phone: "+1 972-353-4412"
-opening_hours: "Mo-Th 06:00-21:00; Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-lewisville/0551"
+street: North Stemmons Freeway
+housenumber: "1051"
+phone: +1 972-353-4412
+opening_hours: Mo-Th 06:00-21:00; Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-lewisville/0551

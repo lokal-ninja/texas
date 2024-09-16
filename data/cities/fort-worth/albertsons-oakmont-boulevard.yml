@@ -1,11 +1,11 @@
 id: 152383316
-type: way
+type: node
 latitude: 32.66319
 longitude: -97.41946
 postcode: "76132"
 city: Fort Worth
-street: "Oakmont Boulevard"
-housenumber: 7400
-phone: "+1 817-423-9556"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/fort-worth/7400-oakmont-blvd.html"
+street: Oakmont Boulevard
+housenumber: "7400"
+phone: +1 817-423-9556
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/fort-worth/7400-oakmont-blvd.html

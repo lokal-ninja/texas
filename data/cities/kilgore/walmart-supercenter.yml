@@ -1,11 +1,11 @@
 id: 363196987
-type: way
+type: node
 latitude: 32.39426
 longitude: -94.86458
 postcode: "75662"
 city: Kilgore
-street: "Stone Street"
-housenumber: 1201
-phone: "+1 903-983-1494"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/572/kilgore-tx/whats-new"
+street: Stone Street
+housenumber: "1201"
+phone: +1 903-983-1494
+opening_hours: 24/7
+website: https://www.walmart.com/store/572/kilgore-tx/whats-new

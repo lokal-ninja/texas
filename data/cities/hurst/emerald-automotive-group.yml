@@ -1,11 +1,11 @@
 id: 560008642
-type: way
+type: node
 latitude: 32.80809
 longitude: -97.20455
 postcode: "76053"
 city: Hurst
-street: "West Hurst Blvd"
-housenumber: 1347
-phone: "+1-817-590-9771"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: West Hurst Blvd
+housenumber: "1347"
+phone: +1-817-590-9771
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

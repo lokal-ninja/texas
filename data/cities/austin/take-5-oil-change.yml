@@ -1,11 +1,11 @@
 id: 383188285
-type: way
+type: node
 latitude: 30.41821
 longitude: -97.70021
 postcode: "78727"
 city: Austin
-street: "West Parmer Ln"
-housenumber: 2312
-phone: "+1 512 534 6933"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 10:00-16:00"
-website: "https://take5oilchange.com/"
+street: West Parmer Ln
+housenumber: "2312"
+phone: +1 512 534 6933
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 10:00-16:00
+website: https://take5oilchange.com/

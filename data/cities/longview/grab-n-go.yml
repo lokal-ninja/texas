@@ -1,11 +1,11 @@
 id: 901367822
-type: way
+type: node
 latitude: 32.5777
 longitude: -94.75319
 postcode: "75605"
 city: Longview
-street: "Judson Road"
-housenumber: 5200
+street: Judson Road
+housenumber: "5200"
 phone: ""
-opening_hours: "Su-Sa 06:00-24:00"
-website: "http://www.exxonmobilstations.com"
+opening_hours: Su-Sa 06:00-24:00
+website: http://www.exxonmobilstations.com

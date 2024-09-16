@@ -1,11 +1,11 @@
 id: 191581075
-type: way
+type: node
 latitude: 29.58046
 longitude: -97.97233
 postcode: "78155"
 city: Seguin
-street: "West Kingsbury Street"
-housenumber: 571
+street: West Kingsbury Street
+housenumber: "571"
 phone: ""
 opening_hours: ""
 website: ""

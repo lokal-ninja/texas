@@ -1,11 +1,11 @@
 id: 465786334
-type: way
+type: node
 latitude: 33.58855
 longitude: -101.85711
 postcode: "79401"
 city: Lubbock
-street: "7th Street"
-housenumber: 1803
+street: 7th Street
+housenumber: "1803"
 phone: ""
 opening_hours: ""
 website: ""

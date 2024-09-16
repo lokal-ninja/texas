@@ -1,11 +1,11 @@
 id: 837680719
-type: way
+type: node
 latitude: 28.81783
 longitude: -97.85825
 postcode: "78119"
 city: Kenedy
-street: "North Sunset Strip Drive"
-housenumber: 206
+street: North Sunset Strip Drive
+housenumber: "206"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/kenedy/autoparts-4831.html"
+website: https://locations.oreillyauto.com/tx/kenedy/autoparts-4831.html

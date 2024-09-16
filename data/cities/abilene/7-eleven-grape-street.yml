@@ -1,11 +1,11 @@
 id: 961211405
-type: way
+type: node
 latitude: 32.48832
 longitude: -99.73994
 postcode: "79601"
 city: Abilene
-street: "Grape Street"
-housenumber: 3102
+street: Grape Street
+housenumber: "3102"
 phone: ""
 opening_hours: ""
 website: ""

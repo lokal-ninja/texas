@@ -1,11 +1,11 @@
 id: 1305942011
-type: way
+type: node
 latitude: 27.90007
 longitude: -97.31093
 postcode: "78374"
 city: Portland
-street: "Reliant Drive"
-housenumber: 230
+street: Reliant Drive
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 731126492
-type: way
+type: node
 latitude: 31.29621
 longitude: -97.25423
 postcode: "76524"
 city: Bruceville-Eddy
-street: "3rd Street"
-housenumber: 202
+street: 3rd Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 640841824
-type: way
+type: node
 latitude: 32.24399
 longitude: -97.74328
 postcode: "76043"
 city: Glen Rose
-street: "Northeast Barnard Street"
-housenumber: 1500
-phone: "+1-254-897-2857"
+street: Northeast Barnard Street
+housenumber: "1500"
+phone: +1-254-897-2857
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 470922645
-type: way
+type: node
 latitude: 33.47108
 longitude: -101.92318
 postcode: "79424"
 city: Lubbock
-street: "FM 1730"
-housenumber: 13520
+street: FM 1730
+housenumber: "13520"
 phone: ""
 opening_hours: ""
 website: ""

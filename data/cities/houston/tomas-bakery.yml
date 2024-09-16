@@ -1,11 +1,11 @@
 id: 342534957
-type: way
+type: node
 latitude: 29.84971
 longitude: -95.37169
 postcode: ""
 city: Houston
-street: "Bauman Road"
-housenumber: 9756
+street: Bauman Road
+housenumber: "9756"
 phone: ""
-opening_hours: "Mo-Su 05:00-22:00"
+opening_hours: Mo-Su 05:00-22:00
 website: ""

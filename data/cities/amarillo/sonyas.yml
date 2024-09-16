@@ -1,11 +1,11 @@
 id: 685987385
-type: way
+type: node
 latitude: 35.2115
 longitude: -101.86966
 postcode: "79106"
 city: Amarillo
-street: "Southwest 6th Avenue"
-housenumber: 2918
+street: Southwest 6th Avenue
+housenumber: "2918"
 phone: ""
 opening_hours: ""
 website: ""

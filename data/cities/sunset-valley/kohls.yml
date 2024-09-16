@@ -1,11 +1,11 @@
 id: 234059340
-type: way
+type: node
 latitude: 30.23217
 longitude: -97.81419
 postcode: "78735"
 city: Sunset Valley
-street: "West Highway 290"
-housenumber: 4805
-phone: "+1 512-358-7607"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/tx/sunsetvalley-588.shtml"
+street: West Highway 290
+housenumber: "4805"
+phone: +1 512-358-7607
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/tx/sunsetvalley-588.shtml

@@ -1,11 +1,11 @@
 id: 271810750
-type: way
+type: node
 latitude: 30.2553
 longitude: -98.8534
 postcode: "78624"
 city: Fredericksburg
-street: "East Main Street"
-housenumber: 1435
-phone: "+1 830-997-2633"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1154/fredericksburg-tx/whats-new"
+street: East Main Street
+housenumber: "1435"
+phone: +1 830-997-2633
+opening_hours: 24/7
+website: https://www.walmart.com/store/1154/fredericksburg-tx/whats-new

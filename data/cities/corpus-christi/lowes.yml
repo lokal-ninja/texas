@@ -1,11 +1,11 @@
 id: 525775465
-type: way
+type: node
 latitude: 27.7004
 longitude: -97.36178
 postcode: "78412"
 city: Corpus Christi
-street: "Airline Road"
-housenumber: 1530
-phone: "+1 361-673-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-corpus-christi/1825"
+street: Airline Road
+housenumber: "1530"
+phone: +1 361-673-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-corpus-christi/1825

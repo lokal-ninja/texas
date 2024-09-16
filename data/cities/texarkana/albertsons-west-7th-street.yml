@@ -1,11 +1,11 @@
 id: 734205544
-type: way
+type: node
 latitude: 33.41704
 longitude: -94.09868
 postcode: "75501"
 city: Texarkana
-street: "West 7th Street"
-housenumber: 4415
-phone: "+1 903-831-7226"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.albertsons.com/tx/texarkana/4415-w-7th-st.html"
+street: West 7th Street
+housenumber: "4415"
+phone: +1 903-831-7226
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.albertsons.com/tx/texarkana/4415-w-7th-st.html

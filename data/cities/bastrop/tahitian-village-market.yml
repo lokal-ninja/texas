@@ -1,11 +1,11 @@
 id: 905699489
-type: way
+type: node
 latitude: 30.10045
 longitude: -97.28556
 postcode: "78602"
 city: Bastrop
-street: "Tahitian Drive"
-housenumber: 128
+street: Tahitian Drive
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

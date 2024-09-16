@@ -1,11 +1,11 @@
 id: 311810149
-type: way
+type: node
 latitude: 32.53301
 longitude: -96.6578
 postcode: "75125"
 city: Ferris
-street: "East 8th Street"
-housenumber: 607
+street: East 8th Street
+housenumber: "607"
 phone: ""
 opening_hours: ""
 website: ""

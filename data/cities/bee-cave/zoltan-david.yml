@@ -1,11 +1,11 @@
 id: 759446650
-type: way
+type: node
 latitude: 30.30954
 longitude: -97.94217
 postcode: "78738"
 city: Bee Cave
-street: "Hill Country Boulevard"
-housenumber: 12901
-phone: "+1-512-372-8888"
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "https://www.zoltandavid.com/"
+street: Hill Country Boulevard
+housenumber: "12901"
+phone: +1-512-372-8888
+opening_hours: Tu-Sa 11:00-18:00
+website: https://www.zoltandavid.com/

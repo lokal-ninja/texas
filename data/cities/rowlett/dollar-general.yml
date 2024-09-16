@@ -1,11 +1,11 @@
 id: 666164228
-type: way
+type: node
 latitude: 32.91078
 longitude: -96.56914
 postcode: "75088"
 city: Rowlett
-street: "Rowlett Road"
-housenumber: 5610
+street: Rowlett Road
+housenumber: "5610"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/rowlett/4540"
+website: https://www.dollargeneral.com/store-directory/tx/rowlett/4540

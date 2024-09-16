@@ -1,11 +1,11 @@
 id: 1117063976
-type: way
+type: node
 latitude: 31.11475
 longitude: -97.35401
 postcode: "76504"
 city: Temple
-street: "North General Bruce Drive"
-housenumber: 1307
+street: North General Bruce Drive
+housenumber: "1307"
 phone: ""
 opening_hours: ""
 website: ""

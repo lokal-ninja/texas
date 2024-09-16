@@ -1,11 +1,11 @@
 id: 384267483
-type: way
+type: node
 latitude: 30.20389
 longitude: -97.80659
 postcode: "78745"
 city: Austin
-street: "West William Cannon Drive"
-housenumber: 1950
-phone: "+1-512-443-3734"
+street: West William Cannon Drive
+housenumber: "1950"
+phone: +1-512-443-3734
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/austin-tx-pharmacies/1950-w-william-cannon-dr-austin-tx-78745/storeid=7210"
+website: https://www.cvs.com/store-locator/austin-tx-pharmacies/1950-w-william-cannon-dr-austin-tx-78745/storeid=7210

@@ -1,11 +1,11 @@
 id: 31892253
-type: way
+type: node
 latitude: 30.43945
 longitude: -97.7777
 postcode: "78750"
 city: Austin
-street: "North Highway 183"
-housenumber: 13207
+street: North Highway 183
+housenumber: "13207"
 phone: ""
 opening_hours: ""
 website: ""

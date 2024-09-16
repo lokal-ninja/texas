@@ -1,11 +1,11 @@
 id: 565968123
-type: way
+type: node
 latitude: 33.13042
 longitude: -97.03784
 postcode: "75065"
 city: Lake Dallas
-street: "West Swisher Road"
-housenumber: 304
+street: West Swisher Road
+housenumber: "304"
 phone: ""
 opening_hours: ""
 website: ""

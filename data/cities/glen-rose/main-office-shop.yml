@@ -1,11 +1,11 @@
 id: 1117267023
-type: way
+type: node
 latitude: 32.24109
 longitude: -97.80789
 postcode: "76043"
 city: Glen Rose
-street: "Park Road 59"
-housenumber: 1099
-phone: "+1 888 996 3466"
+street: Park Road 59
+housenumber: "1099"
+phone: +1 888 996 3466
 opening_hours: ""
-website: "https://www.dinosaurvalleyrvpark.com"
+website: https://www.dinosaurvalleyrvpark.com

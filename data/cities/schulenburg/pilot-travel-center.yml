@@ -1,11 +1,11 @@
 id: 75464990
-type: way
+type: node
 latitude: 29.69538
 longitude: -96.90201
 postcode: "78956"
 city: Schulenburg
-street: "North Kessler Avenue"
-housenumber: 709
+street: North Kessler Avenue
+housenumber: "709"
 phone: ""
 opening_hours: ""
 website: ""

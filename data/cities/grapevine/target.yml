@@ -1,11 +1,11 @@
 id: 653264508
-type: way
+type: node
 latitude: 32.93032
 longitude: -97.08953
 postcode: "76051"
 city: Grapevine
-street: "Ira E Woods Avenue"
-housenumber: 1101
-phone: "+1 817-488-1800"
-opening_hours: "Mo-Fr 08:00-20:00; Sa,Su 08:00-20:00"
-website: "https://www.target.com/sl/grapevine/876"
+street: Ira E Woods Avenue
+housenumber: "1101"
+phone: +1 817-488-1800
+opening_hours: Mo-Fr 08:00-20:00; Sa,Su 08:00-20:00
+website: https://www.target.com/sl/grapevine/876

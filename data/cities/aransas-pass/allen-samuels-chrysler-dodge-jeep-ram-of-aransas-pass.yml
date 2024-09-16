@@ -1,11 +1,11 @@
 id: 1139293020
-type: way
+type: node
 latitude: 27.92183
 longitude: -97.16045
 postcode: "78336"
 city: Aransas Pass
-street: "Hwy 35 N Bypass"
-housenumber: 877
+street: Hwy 35 N Bypass
+housenumber: "877"
 phone: "+13613862626"
 opening_hours: ""
 website: ""

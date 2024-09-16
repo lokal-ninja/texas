@@ -1,11 +1,11 @@
 id: 761868000
-type: way
+type: node
 latitude: 30.58047
 longitude: -98.28042
 postcode: "78654"
 city: Marble Falls
-street: "9th Street"
-housenumber: 1400
-phone: "+1 830-693-5566"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 10:00-16:00"
+street: 9th Street
+housenumber: "1400"
+phone: +1 830-693-5566
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-18:00; Su 10:00-16:00
 website: ""

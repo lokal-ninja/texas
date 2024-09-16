@@ -4,8 +4,8 @@ latitude: 30.20273
 longitude: -97.8788
 postcode: "78749"
 city: Austin
-street: "Escarpment Blvd"
-housenumber: 9600
-phone: "+1-512-288-2444"
-opening_hours: "Mo-Fr 09:00-19:00, Sa-Su 08:30-17:30"
+street: Escarpment Blvd
+housenumber: "9600"
+phone: +1-512-288-2444
+opening_hours: Mo-Fr 09:00-19:00, Sa-Su 08:30-17:30
 website: ""

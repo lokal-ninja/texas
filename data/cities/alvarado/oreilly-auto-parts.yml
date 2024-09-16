@@ -1,11 +1,11 @@
 id: 661571377
-type: way
+type: node
 latitude: 32.41674
 longitude: -97.21547
 postcode: "76007"
 city: Alvarado
-street: "West US Highway 67"
-housenumber: 420
+street: West US Highway 67
+housenumber: "420"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/alvarado/autoparts-5716.html"
+website: https://locations.oreillyauto.com/tx/alvarado/autoparts-5716.html

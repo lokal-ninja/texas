@@ -1,11 +1,11 @@
 id: 739711493
-type: way
+type: node
 latitude: 29.41099
 longitude: -98.43327
 postcode: "78220"
 city: San Antonio
-street: "Pecan Valley Drive"
-housenumber: 415
+street: Pecan Valley Drive
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

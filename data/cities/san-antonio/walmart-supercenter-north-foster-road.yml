@@ -1,11 +1,11 @@
 id: 318439243
-type: way
+type: node
 latitude: 29.46558
 longitude: -98.35671
 postcode: "78244"
 city: San Antonio
-street: "North Foster Road"
-housenumber: 4096
-phone: "+1 210-507-4958"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3112/san-antonio-tx/whats-new"
+street: North Foster Road
+housenumber: "4096"
+phone: +1 210-507-4958
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3112/san-antonio-tx/whats-new

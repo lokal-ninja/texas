@@ -1,11 +1,11 @@
 id: 914572172
-type: way
+type: node
 latitude: 32.48501
 longitude: -99.70869
 postcode: "79601"
 city: Abilene
-street: "East Overland Trail"
-housenumber: 818
+street: East Overland Trail
+housenumber: "818"
 phone: ""
 opening_hours: ""
 website: ""

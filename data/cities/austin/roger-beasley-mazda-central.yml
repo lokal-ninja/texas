@@ -1,11 +1,11 @@
 id: 381804278
-type: way
+type: node
 latitude: 30.34476
 longitude: -97.73712
 postcode: "78757"
 city: Austin
-street: "Burnet Road"
-housenumber: 6825
-phone: "+1-512-459-4111"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.mazdacentral.com/"
+street: Burnet Road
+housenumber: "6825"
+phone: +1-512-459-4111
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.mazdacentral.com/

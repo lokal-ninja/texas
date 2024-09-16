@@ -1,11 +1,11 @@
 id: 568575508
-type: way
+type: node
 latitude: 33.0776
 longitude: -97.56421
 postcode: "76023"
 city: Boyd
-street: "South Hovey Street"
-housenumber: 112
-phone: "+1 940-433-2322"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: South Hovey Street
+housenumber: "112"
+phone: +1 940-433-2322
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

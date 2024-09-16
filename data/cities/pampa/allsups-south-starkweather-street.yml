@@ -1,11 +1,11 @@
 id: 768897907
-type: way
+type: node
 latitude: 35.53748
 longitude: -100.95688
 postcode: "79065"
 city: Pampa
-street: "South Starkweather Street"
-housenumber: 140
+street: South Starkweather Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

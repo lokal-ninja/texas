@@ -1,11 +1,11 @@
 id: 747932526
-type: way
+type: node
 latitude: 28.70915
 longitude: -100.4992
 postcode: "78852"
 city: Eagle Pass
-street: "North Ceylon Street"
-housenumber: 336
+street: North Ceylon Street
+housenumber: "336"
 phone: "+18307767682"
 opening_hours: ""
 website: ""

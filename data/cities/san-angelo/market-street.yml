@@ -1,11 +1,11 @@
 id: 37668624
-type: way
+type: node
 latitude: 31.42211
 longitude: -100.48099
 postcode: "76904"
 city: San Angelo
-street: "Sunset Drive"
-housenumber: 3121
+street: Sunset Drive
+housenumber: "3121"
 phone: ""
 opening_hours: ""
-website: "https://local.marketstreetunited.com/tx/san-angelo/3121-sunset-dr.html"
+website: https://local.marketstreetunited.com/tx/san-angelo/3121-sunset-dr.html

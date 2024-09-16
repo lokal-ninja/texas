@@ -1,11 +1,11 @@
 id: 334220401
-type: way
+type: node
 latitude: 29.88305
 longitude: -97.91617
 postcode: "78666"
 city: San Marcos
-street: "State Highway 80"
-housenumber: 1005
+street: State Highway 80
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

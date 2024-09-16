@@ -1,11 +1,11 @@
 id: 474521027
-type: way
+type: node
 latitude: 33.50544
 longitude: -102.00271
 postcode: "79382"
 city: Wolfforth
-street: "98th Street"
-housenumber: 8312
+street: 98th Street
+housenumber: "8312"
 phone: ""
 opening_hours: ""
 website: ""

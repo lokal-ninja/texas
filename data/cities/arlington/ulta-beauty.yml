@@ -1,11 +1,11 @@
 id: 620709658
-type: way
+type: node
 latitude: 32.75674
 longitude: -97.10047
 postcode: "76011"
 city: Arlington
-street: "Lincoln Square"
-housenumber: 120
-phone: "+1 817-459-2550"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/arlington-tx-557"
+street: Lincoln Square
+housenumber: "120"
+phone: +1 817-459-2550
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/arlington-tx-557

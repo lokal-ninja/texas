@@ -1,11 +1,11 @@
 id: 784916146
-type: way
+type: node
 latitude: 30.65067
 longitude: -96.26704
 postcode: "77845"
 city: College Station
-street: "SH 30"
-housenumber: 10464
+street: SH 30
+housenumber: "10464"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1107874303
-type: way
+type: node
 latitude: 32.52963
 longitude: -97.35297
 postcode: "76028"
 city: Burleson
-street: "Hillside Drive"
-housenumber: 1305
+street: Hillside Drive
+housenumber: "1305"
 phone: ""
 opening_hours: ""
 website: ""

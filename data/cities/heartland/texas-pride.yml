@@ -1,11 +1,11 @@
 id: 874653600
-type: way
+type: node
 latitude: 32.68793
 longitude: -96.45729
 postcode: "75126"
 city: Heartland
-street: "FM 741"
-housenumber: 5525
+street: FM 741
+housenumber: "5525"
 phone: ""
 opening_hours: ""
 website: ""

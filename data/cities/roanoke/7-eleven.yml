@@ -1,11 +1,11 @@
 id: 765566666
-type: way
+type: node
 latitude: 33.02514
 longitude: -97.25769
 postcode: "76262"
 city: Roanoke
-street: "State Highway 114"
-housenumber: 4250
+street: State Highway 114
+housenumber: "4250"
 phone: ""
 opening_hours: ""
 website: ""

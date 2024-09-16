@@ -1,11 +1,11 @@
 id: 336601824
-type: way
+type: node
 latitude: 33.90324
 longitude: -98.50451
 postcode: "76301"
 city: Wichita Falls
-street: "9th Street"
-housenumber: 1701
+street: 9th Street
+housenumber: "1701"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1701+9th+st-wichita+falls-tx-76301/id=9041"
+website: https://www.walgreens.com/locator/walgreens-1701+9th+st-wichita+falls-tx-76301/id=9041

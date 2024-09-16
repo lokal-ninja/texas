@@ -1,11 +1,11 @@
 id: 655491836
-type: way
+type: node
 latitude: 31.2984
 longitude: -94.73071
 postcode: "75901"
 city: Lufkin
-street: "Whitehouse Drive"
-housenumber: 206
-phone: "+1-936-634-2324"
-opening_hours: "Mo-Sa 09:00-19:00, Su 12:00-17:00"
-website: "https://www.familycrisiscenterofeasttexas.com/thrift-stores/"
+street: Whitehouse Drive
+housenumber: "206"
+phone: +1-936-634-2324
+opening_hours: Mo-Sa 09:00-19:00, Su 12:00-17:00
+website: https://www.familycrisiscenterofeasttexas.com/thrift-stores/

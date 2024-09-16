@@ -1,11 +1,11 @@
 id: 737678073
-type: way
+type: node
 latitude: 32.60725
 longitude: -97.40635
 postcode: "76123"
 city: Fort Worth
-street: "Summer Creek Road;McPherson Boulevard"
-housenumber: 
+street: Summer Creek Road;McPherson Boulevard
+housenumber: ""
 phone: "+19728280711"
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

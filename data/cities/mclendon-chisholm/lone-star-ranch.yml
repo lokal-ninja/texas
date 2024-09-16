@@ -1,11 +1,11 @@
 id: 1052141970
-type: way
+type: node
 latitude: 32.84879
 longitude: -96.38749
 postcode: "75032"
 city: McLendon-Chisholm
-street: "North State Highway 205"
-housenumber: 120
+street: North State Highway 205
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 32.78066
 longitude: -96.80122
 postcode: "75202"
 city: Dallas
-street: "Main Street"
-housenumber: 1201
+street: Main Street
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://pops-corn-shoppe.business.site/"
+website: https://pops-corn-shoppe.business.site/

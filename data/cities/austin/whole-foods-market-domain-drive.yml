@@ -1,11 +1,11 @@
 id: 383198584
-type: way
+type: node
 latitude: 30.40682
 longitude: -97.71999
 postcode: "78758"
 city: Austin
-street: "Domain Drive"
-housenumber: 11920
-phone: "+1 512-831-3981"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/domain"
+street: Domain Drive
+housenumber: "11920"
+phone: +1 512-831-3981
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.wholefoodsmarket.com/stores/domain

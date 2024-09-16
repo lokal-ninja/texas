@@ -1,11 +1,11 @@
 id: 184696308
-type: way
+type: node
 latitude: 31.90076
 longitude: -102.33613
 postcode: "79762"
 city: Odessa
-street: "John Ben Shepperd Parkway Boulevard"
-housenumber: 5050
-phone: "+1-432-614-0339"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-19:00"
-website: "https://www.odessatoyota.com"
+street: John Ben Shepperd Parkway Boulevard
+housenumber: "5050"
+phone: +1-432-614-0339
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-19:00
+website: https://www.odessatoyota.com

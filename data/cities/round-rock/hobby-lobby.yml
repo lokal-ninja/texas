@@ -1,11 +1,11 @@
 id: 293799565
-type: way
+type: node
 latitude: 30.48493
 longitude: -97.68142
 postcode: "78681"
 city: Round Rock
-street: "Sundance Parkway"
-housenumber: 130
-phone: "+1-512-244-5653"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com"
+street: Sundance Parkway
+housenumber: "130"
+phone: +1-512-244-5653
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com

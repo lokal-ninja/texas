@@ -1,11 +1,11 @@
 id: 774903529
-type: way
+type: node
 latitude: 29.49052
 longitude: -98.43854
 postcode: "78209"
 city: San Antonio
-street: "Austin Highway"
-housenumber: 1430
-phone: "+1 210-637-1700"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1347-san-antonio-tx"
+street: Austin Highway
+housenumber: "1430"
+phone: +1 210-637-1700
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1347-san-antonio-tx

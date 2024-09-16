@@ -1,11 +1,11 @@
 id: 314361375
-type: way
+type: node
 latitude: 29.97722
 longitude: -95.49181
 postcode: "77014"
 city: Houston
-street: "Veterans Memorial Drive"
-housenumber: 13133
-phone: "+1 281-440-0522"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.kroger.com/stores/grocery/tx/houston/veterans/034/00275"
+street: Veterans Memorial Drive
+housenumber: "13133"
+phone: +1 281-440-0522
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.kroger.com/stores/grocery/tx/houston/veterans/034/00275

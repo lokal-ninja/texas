@@ -4,8 +4,8 @@ latitude: 29.78232
 longitude: -95.52219
 postcode: "77024"
 city: Houston
-street: "Katy Freeway"
-housenumber: 9325
-phone: "+1 713-461-7754"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.kroger.com/stores/grocery/tx/houston/echo-lane/034/00600"
+street: Katy Freeway
+housenumber: "9325"
+phone: +1 713-461-7754
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.kroger.com/stores/grocery/tx/houston/echo-lane/034/00600

@@ -1,11 +1,11 @@
 id: 708110355
-type: way
+type: node
 latitude: 33.34293
 longitude: -96.56548
 postcode: "75409"
 city: Anna
-street: "West White Street"
-housenumber: 1325
+street: West White Street
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

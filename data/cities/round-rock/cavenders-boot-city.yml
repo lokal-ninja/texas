@@ -1,11 +1,11 @@
 id: 554959828
-type: way
+type: node
 latitude: 30.57098
 longitude: -97.68838
 postcode: "78665"
 city: Round Rock
-street: "Bass Pro Drive"
-housenumber: 220
-phone: "+1-512-763-8060"
+street: Bass Pro Drive
+housenumber: "220"
+phone: +1-512-763-8060
 opening_hours: ""
-website: "https://www.cavenders.com/storedetails?StoreID=82"
+website: https://www.cavenders.com/storedetails?StoreID=82

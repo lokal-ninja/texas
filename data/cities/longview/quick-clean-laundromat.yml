@@ -1,11 +1,11 @@
 id: 1001874868
-type: way
+type: node
 latitude: 32.50558
 longitude: -94.70994
 postcode: "75601"
 city: Longview
-street: "North Eastman Road"
-housenumber: 516
+street: North Eastman Road
+housenumber: "516"
 phone: ""
 opening_hours: ""
 website: ""

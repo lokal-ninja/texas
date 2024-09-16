@@ -1,11 +1,11 @@
 id: 382111341
-type: way
+type: node
 latitude: 30.35146
 longitude: -97.41276
 postcode: "78621"
 city: Elgin
-street: "County Line Road"
-housenumber: 13108
+street: County Line Road
+housenumber: "13108"
 phone: ""
 opening_hours: ""
 website: ""

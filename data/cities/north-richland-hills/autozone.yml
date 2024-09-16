@@ -1,11 +1,11 @@
 id: 792713352
-type: way
+type: node
 latitude: 32.90973
 longitude: -97.19034
 postcode: "76182"
 city: North Richland Hills
-street: "Davis Boulevard"
-housenumber: 8553
-phone: "+1-817-770-8600"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://www.autozone.com/locations/tx/north-richland-hills/8553-davis-blvd.html"
+street: Davis Boulevard
+housenumber: "8553"
+phone: +1-817-770-8600
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00
+website: https://www.autozone.com/locations/tx/north-richland-hills/8553-davis-blvd.html

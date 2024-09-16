@@ -1,11 +1,11 @@
 id: 1071068483
-type: way
+type: node
 latitude: 33.63007
 longitude: -95.56134
 postcode: "75460"
 city: Paris
-street: "South Church Street"
-housenumber: 2900
+street: South Church Street
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

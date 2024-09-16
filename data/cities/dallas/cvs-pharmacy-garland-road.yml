@@ -1,11 +1,11 @@
 id: 468090817
-type: way
+type: node
 latitude: 32.83836
 longitude: -96.69566
 postcode: "75218"
 city: Dallas
-street: "Garland Road"
-housenumber: 10014
+street: Garland Road
+housenumber: "10014"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-tx-pharmacies/10014-garland-rd-dallas-tx-75218/storeid=7413"
+website: https://www.cvs.com/store-locator/dallas-tx-pharmacies/10014-garland-rd-dallas-tx-75218/storeid=7413

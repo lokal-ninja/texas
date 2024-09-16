@@ -1,11 +1,11 @@
 id: 459207029
-type: way
+type: node
 latitude: 33.58482
 longitude: -101.86869
 postcode: "79401"
 city: Lubbock
-street: "Broadway"
-housenumber: 2402
+street: Broadway
+housenumber: "2402"
 phone: ""
 opening_hours: ""
 website: ""

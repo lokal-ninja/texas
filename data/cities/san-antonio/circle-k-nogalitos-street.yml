@@ -1,11 +1,11 @@
 id: 746786103
-type: way
+type: node
 latitude: 29.38923
 longitude: -98.52181
 postcode: "78225"
 city: San Antonio
-street: "Nogalitos Street"
-housenumber: 2601
-phone: "+1-210-922-7611"
-opening_hours: "06:00-24:00"
-website: "https://www.circlek.com"
+street: Nogalitos Street
+housenumber: "2601"
+phone: +1-210-922-7611
+opening_hours: 06:00-24:00
+website: https://www.circlek.com

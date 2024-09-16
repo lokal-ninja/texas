@@ -1,11 +1,11 @@
 id: 1005713428
-type: way
+type: node
 latitude: 30.27663
 longitude: -95.46241
 postcode: "77304"
 city: Conroe
-street: "South Loop 336 West"
-housenumber: 255
-phone: "+1 936-283-5051"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/conroe-tx-1528"
+street: South Loop 336 West
+housenumber: "255"
+phone: +1 936-283-5051
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/conroe-tx-1528

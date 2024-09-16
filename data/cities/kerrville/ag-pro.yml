@@ -1,11 +1,11 @@
 id: 760417740
-type: way
+type: node
 latitude: 30.08443
 longitude: -99.15414
 postcode: "78028"
 city: Kerrville
-street: "Harper Road"
-housenumber: 884
+street: Harper Road
+housenumber: "884"
 phone: ""
 opening_hours: ""
 website: ""

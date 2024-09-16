@@ -1,11 +1,11 @@
 id: 289421659
-type: way
+type: node
 latitude: 32.80526
 longitude: -96.79814
 postcode: "75204"
 city: Dallas
-street: "McKinney Avenue"
-housenumber: 3418
+street: McKinney Avenue
+housenumber: "3418"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3418+mckinney+ave-dallas-tx-75204/id=5092"
+website: https://www.walgreens.com/locator/walgreens-3418+mckinney+ave-dallas-tx-75204/id=5092

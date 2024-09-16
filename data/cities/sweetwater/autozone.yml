@@ -1,11 +1,11 @@
 id: 965998583
-type: way
+type: node
 latitude: 32.45782
 longitude: -100.40004
 postcode: "79556"
 city: Sweetwater
-street: "Lamar Street"
-housenumber: 1201
+street: Lamar Street
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/sweetwater/1201-lamar-st.html"
+website: https://www.autozone.com/locations/tx/sweetwater/1201-lamar-st.html

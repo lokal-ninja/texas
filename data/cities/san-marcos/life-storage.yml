@@ -1,11 +1,11 @@
 id: 886597638
-type: way
+type: node
 latitude: 29.89606
 longitude: -97.91264
 postcode: "78666"
 city: San Marcos
-street: "North Interstate 35"
-housenumber: 1615
+street: North Interstate 35
+housenumber: "1615"
 phone: ""
 opening_hours: ""
 website: ""

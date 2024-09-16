@@ -1,11 +1,11 @@
 id: 662536773
-type: way
+type: node
 latitude: 33.11611
 longitude: -94.18527
 postcode: "75551"
 city: Atlanta
-street: "Loop 59"
-housenumber: 201
-phone: "+1 903-796-7916"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/226/atlanta-tx/whats-new"
+street: Loop 59
+housenumber: "201"
+phone: +1 903-796-7916
+opening_hours: 24/7
+website: https://www.walmart.com/store/226/atlanta-tx/whats-new

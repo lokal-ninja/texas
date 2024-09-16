@@ -1,11 +1,11 @@
 id: 92188386
-type: way
+type: node
 latitude: 30.41417
 longitude: -97.85142
 postcode: "78726"
 city: Austin
-street: "Ranch Road 620 North"
-housenumber: 7900
-phone: "+1 512-258-7914"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Four-Points-W-Austin/TX/Austin/78726/8418"
+street: Ranch Road 620 North
+housenumber: "7900"
+phone: +1 512-258-7914
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Four-Points-W-Austin/TX/Austin/78726/8418

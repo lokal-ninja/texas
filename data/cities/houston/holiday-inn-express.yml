@@ -1,11 +1,11 @@
 id: 55374749
-type: way
+type: node
 latitude: 29.74866
 longitude: -95.36119
 postcode: "77003"
 city: Houston
-street: "Bell Street"
-housenumber: 1810
-phone: "+1 713-652-9400"
+street: Bell Street
+housenumber: "1810"
+phone: +1 713-652-9400
 opening_hours: ""
-website: "https://www.ihg.com/holidayinnexpress/hotels/us/en/houston/houls/hoteldetail"
+website: https://www.ihg.com/holidayinnexpress/hotels/us/en/houston/houls/hoteldetail

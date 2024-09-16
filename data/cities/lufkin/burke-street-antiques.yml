@@ -1,11 +1,11 @@
 id: 410960473
-type: way
+type: node
 latitude: 31.33683
 longitude: -94.72891
 postcode: "75901"
 city: Lufkin
-street: "East Burke Avenue"
-housenumber: 122
-phone: "+1 936 634 7433"
+street: East Burke Avenue
+housenumber: "122"
+phone: +1 936 634 7433
 opening_hours: ""
-website: "http://www.burkestreetantiques.com/"
+website: http://www.burkestreetantiques.com/

@@ -1,11 +1,11 @@
 id: 1254509961
-type: way
+type: node
 latitude: 29.63788
 longitude: -95.57718
 postcode: "77477"
 city: Stafford
-street: "Network Drive"
-housenumber: 12717
-phone: "+1 346-309-3871"
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.costco.com/warehouse-locations/stafford-bus-ctr-stafford-tx-1487.html"
+street: Network Drive
+housenumber: "12717"
+phone: +1 346-309-3871
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.costco.com/warehouse-locations/stafford-bus-ctr-stafford-tx-1487.html

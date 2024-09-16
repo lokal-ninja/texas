@@ -1,11 +1,11 @@
 id: 761868006
-type: way
+type: node
 latitude: 30.60531
 longitude: -98.26928
 postcode: "78654"
 city: Marble Falls
-street: "North US Highway 281"
-housenumber: 3200
-phone: "+1 830-798-5460"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-marble-falls/3002"
+street: North US Highway 281
+housenumber: "3200"
+phone: +1 830-798-5460
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-marble-falls/3002

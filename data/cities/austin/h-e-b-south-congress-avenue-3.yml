@@ -1,11 +1,11 @@
 id: 1235247866
-type: way
+type: node
 latitude: 30.23864
 longitude: -97.75556
 postcode: "78704"
 city: Austin
-street: "South Congress Avenue"
-housenumber: 2400
+street: South Congress Avenue
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

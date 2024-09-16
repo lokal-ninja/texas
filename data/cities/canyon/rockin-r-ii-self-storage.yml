@@ -1,11 +1,11 @@
 id: 697915125
-type: way
+type: node
 latitude: 34.9711
 longitude: -101.91855
 postcode: "79015"
 city: Canyon
-street: "24th Street"
-housenumber: 1210
+street: 24th Street
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

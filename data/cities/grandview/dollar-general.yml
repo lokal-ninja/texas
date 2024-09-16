@@ -1,11 +1,11 @@
 id: 710110898
-type: way
+type: node
 latitude: 32.27078
 longitude: -97.17639
 postcode: "76050"
 city: Grandview
-street: "East Criner Street"
-housenumber: 701
-phone: "+1 682 916 0133"
-opening_hours: "07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/tx/grandview/10697"
+street: East Criner Street
+housenumber: "701"
+phone: +1 682 916 0133
+opening_hours: 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/tx/grandview/10697

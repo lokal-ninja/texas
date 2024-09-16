@@ -1,11 +1,11 @@
 id: 739872526
-type: way
+type: node
 latitude: 29.55945
 longitude: -98.32533
 postcode: "78148"
 city: Universal City
-street: "Pat Booker Road"
-housenumber: 3101
+street: Pat Booker Road
+housenumber: "3101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 802312015
-type: way
+type: node
 latitude: 26.24448
 longitude: -98.24583
 postcode: "78504"
 city: McAllen
-street: "West Nolana Avenue"
-housenumber: 2800
-phone: "+1 956-687-8285"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/452-mcallen-tx"
+street: West Nolana Avenue
+housenumber: "2800"
+phone: +1 956-687-8285
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/452-mcallen-tx

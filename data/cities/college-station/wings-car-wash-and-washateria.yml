@@ -1,11 +1,11 @@
 id: 720802495
-type: way
+type: node
 latitude: 30.59354
 longitude: -96.29441
 postcode: "77845"
 city: College Station
-street: "Deacon Drive"
-housenumber: 1801
+street: Deacon Drive
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5222385435
 type: node
 latitude: 32.59253
 longitude: -97.10635
-postcode: "76063-3800"
+postcode: 76063-3800
 city: Mansfield
-street: "Matlock Road"
-housenumber: 2000
-phone: "+1 817-473-0045"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+street: Matlock Road
+housenumber: "2000"
+phone: +1 817-473-0045
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

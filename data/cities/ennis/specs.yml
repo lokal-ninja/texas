@@ -1,11 +1,11 @@
 id: 717724515
-type: way
+type: node
 latitude: 32.37287
 longitude: -96.64611
 postcode: "75119"
 city: Ennis
-street: "FM 879"
-housenumber: 5788
+street: FM 879
+housenumber: "5788"
 phone: ""
 opening_hours: ""
 website: ""

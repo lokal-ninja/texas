@@ -1,11 +1,11 @@
 id: 466514863
-type: way
+type: node
 latitude: 32.7137
 longitude: -96.70064
 postcode: "75217"
 city: Dallas
-street: "South Great Trinity Forest Way"
-housenumber: 7071
+street: South Great Trinity Forest Way
+housenumber: "7071"
 phone: ""
 opening_hours: ""
 website: ""

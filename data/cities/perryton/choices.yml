@@ -1,11 +1,11 @@
 id: 1044773001
-type: way
+type: node
 latitude: 36.39351
 longitude: -100.80247
 postcode: "79070"
 city: Perryton
-street: "South Main Street"
-housenumber: 621
+street: South Main Street
+housenumber: "621"
 phone: ""
 opening_hours: ""
 website: ""

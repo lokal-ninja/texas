@@ -4,8 +4,8 @@ latitude: 29.42549
 longitude: -98.46256
 postcode: "78202"
 city: San Antonio
-street: "East Houston Street"
-housenumber: 2143
-phone: "+1-210-226-2719"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://www.cricketwireless.com"
+street: East Houston Street
+housenumber: "2143"
+phone: +1-210-226-2719
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.cricketwireless.com

@@ -1,11 +1,11 @@
 id: 848577022
-type: way
+type: node
 latitude: 31.08233
 longitude: -97.6981
 postcode: "76543"
 city: Killeen
-street: "East Central Texas Expressway"
-housenumber: 4001
+street: East Central Texas Expressway
+housenumber: "4001"
 phone: ""
 opening_hours: ""
 website: ""

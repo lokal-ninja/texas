@@ -1,11 +1,11 @@
 id: 317862348
-type: way
+type: node
 latitude: 29.71798
 longitude: -95.49601
 postcode: ""
 city: Houston
-street: "Southwest Freeway"
-housenumber: 6445
+street: Southwest Freeway
+housenumber: "6445"
 phone: ""
 opening_hours: ""
 website: ""

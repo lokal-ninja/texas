@@ -1,11 +1,11 @@
 id: 608001732
-type: way
+type: node
 latitude: 29.58279
 longitude: -95.76359
 postcode: ""
 city: Richmond
-street: "Morton Street"
-housenumber: 512
+street: Morton Street
+housenumber: "512"
 phone: ""
 opening_hours: ""
 website: ""

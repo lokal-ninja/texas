@@ -1,11 +1,11 @@
 id: 203540356
-type: way
+type: node
 latitude: 31.99866
 longitude: -106.58651
 postcode: "79821"
 city: Anthony
-street: "Antonio Street"
-housenumber: 2000
+street: Antonio Street
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

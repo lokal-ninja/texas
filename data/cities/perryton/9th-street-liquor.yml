@@ -1,11 +1,11 @@
 id: 1044768234
-type: way
+type: node
 latitude: 36.39144
 longitude: -100.80117
 postcode: "79070"
 city: Perryton
-street: "Southeast 9th Avenue"
-housenumber: 105
+street: Southeast 9th Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

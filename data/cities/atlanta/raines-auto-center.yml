@@ -1,11 +1,11 @@
 id: 1055775416
-type: way
+type: node
 latitude: 33.11241
 longitude: -94.16892
 postcode: "75551"
 city: Atlanta
-street: "South Louise Street"
-housenumber: 401
+street: South Louise Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

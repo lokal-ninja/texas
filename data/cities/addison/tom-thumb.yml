@@ -1,11 +1,11 @@
 id: 131172462
-type: way
+type: node
 latitude: 32.93898
 longitude: -96.85391
 postcode: "75001"
 city: Addison
-street: "Marsh Lane"
-housenumber: 14280
+street: Marsh Lane
+housenumber: "14280"
 phone: ""
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/addison/14280-marsh-ln.html"
+website: https://local.tomthumb.com/tx/addison/14280-marsh-ln.html

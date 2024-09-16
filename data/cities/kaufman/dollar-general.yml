@@ -1,11 +1,11 @@
 id: 503477499
-type: way
+type: node
 latitude: 32.58954
 longitude: -96.30729
 postcode: "75142"
 city: Kaufman
-street: "East Mulberry Street"
-housenumber: 303
+street: East Mulberry Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/kaufman/14474"
+website: https://www.dollargeneral.com/store-directory/tx/kaufman/14474

@@ -1,11 +1,11 @@
 id: 1017489619
-type: way
+type: node
 latitude: 29.0142
 longitude: -95.40305
 postcode: "77531"
 city: Clute
-street: "Commerce Street"
-housenumber: 130
+street: Commerce Street
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

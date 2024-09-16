@@ -1,11 +1,11 @@
 id: 936970805
-type: way
+type: node
 latitude: 32.33524
 longitude: -97.42384
 postcode: "76033"
 city: Cleburne
-street: "West Henderson Street"
-housenumber: 1708
-phone: "+1-888-475-7101"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/tx/cleburne/1708-w-henderson"
+street: West Henderson Street
+housenumber: "1708"
+phone: +1-888-475-7101
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/tx/cleburne/1708-w-henderson

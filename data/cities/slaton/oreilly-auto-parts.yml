@@ -1,11 +1,11 @@
 id: 680456923
-type: way
+type: node
 latitude: 33.43366
 longitude: -101.66042
 postcode: "79364"
 city: Slaton
-street: "West Division Street"
-housenumber: 1555
+street: West Division Street
+housenumber: "1555"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/slaton/autoparts-5642.html"
+website: https://locations.oreillyauto.com/tx/slaton/autoparts-5642.html

@@ -1,11 +1,11 @@
 id: 659926842
-type: way
+type: node
 latitude: 29.75551
 longitude: -95.48061
 postcode: "77057"
 city: Houston
-street: "Bering Drive"
-housenumber: 1010
+street: Bering Drive
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

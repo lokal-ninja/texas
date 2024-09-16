@@ -1,11 +1,11 @@
 id: 261720960
-type: way
+type: node
 latitude: 29.77777
 longitude: -94.98135
 postcode: "77521"
 city: Baytown
-street: "Garth Road"
-housenumber: 4915
-phone: "+1 281-428-5091"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Baytown/TX/Baytown/77521/6507"
+street: Garth Road
+housenumber: "4915"
+phone: +1 281-428-5091
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Baytown/TX/Baytown/77521/6507

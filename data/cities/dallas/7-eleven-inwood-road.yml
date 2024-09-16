@@ -1,11 +1,11 @@
 id: 465042547
-type: way
+type: node
 latitude: 32.81197
 longitude: -96.84978
 postcode: "75247"
 city: Dallas
-street: "Inwood Road"
-housenumber: 1607
+street: Inwood Road
+housenumber: "1607"
 phone: ""
 opening_hours: ""
 website: ""

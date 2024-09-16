@@ -1,11 +1,11 @@
 id: 197367264
-type: way
+type: node
 latitude: 29.85426
 longitude: -97.95106
 postcode: "78666"
 city: San Marcos
-street: "IH-35"
-housenumber: 2211
+street: IH-35
+housenumber: "2211"
 phone: ""
 opening_hours: ""
 website: ""

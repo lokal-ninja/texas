@@ -1,11 +1,11 @@
 id: 1284775349
-type: way
+type: node
 latitude: 31.84739
 longitude: -103.0887
 postcode: "79745"
 city: Kermit
-street: "East Jim Sharp Boulevard"
-housenumber: 200
+street: East Jim Sharp Boulevard
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

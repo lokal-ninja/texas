@@ -1,11 +1,11 @@
 id: 1178224806
-type: way
+type: node
 latitude: 35.17884
 longitude: -103.04346
 postcode: "88434"
 city: Glenrio
-street: "Old Route 66"
-housenumber: 105
+street: Old Route 66
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

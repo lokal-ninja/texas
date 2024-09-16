@@ -1,11 +1,11 @@
 id: 717720342
-type: way
+type: node
 latitude: 32.43688
 longitude: -96.6691
 postcode: "75152"
 city: Palmer
-street: "North Dallas Street"
-housenumber: 428
+street: North Dallas Street
+housenumber: "428"
 phone: ""
 opening_hours: ""
 website: ""

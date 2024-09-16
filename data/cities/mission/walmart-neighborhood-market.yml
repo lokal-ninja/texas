@@ -1,11 +1,11 @@
 id: 961410927
-type: way
+type: node
 latitude: 26.21447
 longitude: -98.30792
 postcode: "78572"
 city: Mission
-street: "North Bryan Road"
-housenumber: 1006
-phone: "+1 956-391-3418"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/6850/mission-tx/whats-new"
+street: North Bryan Road
+housenumber: "1006"
+phone: +1 956-391-3418
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/6850/mission-tx/whats-new

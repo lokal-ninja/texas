@@ -1,11 +1,11 @@
 id: 508238876
-type: way
+type: node
 latitude: 32.91337
 longitude: -97.28896
 postcode: "76244"
 city: Fort Worth
-street: "Heritage Trace Parkway"
-housenumber: 4536
-phone: "+1 817-898-6071"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3043/fort-worth-tx/whats-new"
+street: Heritage Trace Parkway
+housenumber: "4536"
+phone: +1 817-898-6071
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3043/fort-worth-tx/whats-new

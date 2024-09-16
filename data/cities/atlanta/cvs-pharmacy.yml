@@ -1,11 +1,11 @@
 id: 662536769
-type: way
+type: node
 latitude: 33.11306
 longitude: -94.1836
 postcode: "75551"
 city: Atlanta
-street: "Loop 59"
-housenumber: 101
+street: Loop 59
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/atlanta-tx-pharmacies/101-loop-59-north-atlanta-tx-75551/storeid=1368"
+website: https://www.cvs.com/store-locator/atlanta-tx-pharmacies/101-loop-59-north-atlanta-tx-75551/storeid=1368

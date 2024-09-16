@@ -1,11 +1,11 @@
 id: 652967207
-type: way
+type: node
 latitude: 26.25702
 longitude: -98.21988
 postcode: "78504"
 city: McAllen
-street: "North 10th Street"
-housenumber: 5800
-phone: "+1 956-331-2123"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/mcallen/mcallen/"
+street: North 10th Street
+housenumber: "5800"
+phone: +1 956-331-2123
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/mcallen/mcallen/

@@ -1,11 +1,11 @@
 id: 532790903
-type: way
+type: node
 latitude: 30.04063
 longitude: -95.25216
 postcode: "77339"
 city: Kingwood
-street: "Eastex Freeway"
-housenumber: 22600
-phone: "+1 281-359-0002"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-kingwood/0750"
+street: Eastex Freeway
+housenumber: "22600"
+phone: +1 281-359-0002
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-kingwood/0750

@@ -1,11 +1,11 @@
 id: 1017276539
-type: way
+type: node
 latitude: 29.02121
 longitude: -95.43684
 postcode: "77566"
 city: Lake Jackson
-street: "State Highway 332 East"
-housenumber: 598
+street: State Highway 332 East
+housenumber: "598"
 phone: ""
 opening_hours: ""
 website: ""

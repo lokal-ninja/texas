@@ -1,11 +1,11 @@
 id: 525138494
-type: way
+type: node
 latitude: 27.82804
 longitude: -97.06783
 postcode: "78373"
 city: Port Aransas
-street: "Hwy 361"
-housenumber: 710
-phone: "+1-361-749-2277"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.cvs.com/store-locator/port-aransas-tx-pharmacies/710-highway-361-port-aransas-tx-78373/storeid=10268"
+street: Hwy 361
+housenumber: "710"
+phone: +1-361-749-2277
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.cvs.com/store-locator/port-aransas-tx-pharmacies/710-highway-361-port-aransas-tx-78373/storeid=10268

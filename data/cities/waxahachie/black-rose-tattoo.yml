@@ -1,11 +1,11 @@
 id: 506579581
-type: way
+type: node
 latitude: 32.38539
 longitude: -96.84624
 postcode: "75165"
 city: Waxahachie
-street: "East Main Street"
-housenumber: 201
+street: East Main Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

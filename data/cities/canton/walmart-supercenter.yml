@@ -1,11 +1,11 @@
 id: 250470102
-type: way
+type: node
 latitude: 32.54362
 longitude: -95.8547
 postcode: "75103"
 city: Canton
-street: "East Veterans Memorial Parkway"
-housenumber: 603
-phone: "+1 903-567-5744"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/827/canton-tx/whats-new"
+street: East Veterans Memorial Parkway
+housenumber: "603"
+phone: +1 903-567-5744
+opening_hours: 24/7
+website: https://www.walmart.com/store/827/canton-tx/whats-new

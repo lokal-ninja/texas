@@ -1,11 +1,11 @@
 id: 754297747
-type: way
+type: node
 latitude: 31.86233
 longitude: -106.57778
 postcode: "79932"
 city: El Paso
-street: "South Desert Boulevard"
-housenumber: 5665
+street: South Desert Boulevard
+housenumber: "5665"
 phone: ""
 opening_hours: ""
 website: ""

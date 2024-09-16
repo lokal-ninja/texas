@@ -1,11 +1,11 @@
 id: 560015892
-type: way
+type: node
 latitude: 32.80869
 longitude: -97.1971
 postcode: "76053"
 city: Hurst
-street: "West Hurst Blvd"
-housenumber: 1147
-phone: "+1-817-989-6465"
-opening_hours: "Mo-Fr 09:30-18:00, Sa-Su 09:30-17:00"
-website: "https://www.publicstorage.com/"
+street: West Hurst Blvd
+housenumber: "1147"
+phone: +1-817-989-6465
+opening_hours: Mo-Fr 09:30-18:00, Sa-Su 09:30-17:00
+website: https://www.publicstorage.com/

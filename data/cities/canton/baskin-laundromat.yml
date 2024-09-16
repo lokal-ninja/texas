@@ -1,11 +1,11 @@
 id: 758617540
-type: way
+type: node
 latitude: 32.5426
 longitude: -95.86164
 postcode: "75103"
 city: Canton
-street: "South Trade Days Boulevard"
-housenumber: 1300
+street: South Trade Days Boulevard
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

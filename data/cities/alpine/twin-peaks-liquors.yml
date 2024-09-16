@@ -1,11 +1,11 @@
 id: 294609713
-type: way
+type: node
 latitude: 30.35956
 longitude: -103.65644
 postcode: "79830"
 city: Alpine
-street: "East Holland Avenue"
-housenumber: 605
+street: East Holland Avenue
+housenumber: "605"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 929529836
-type: way
+type: node
 latitude: 31.92633
 longitude: -106.43948
 postcode: "79934"
 city: El Paso
-street: "Gateway South Boulevard"
-housenumber: 10771
-phone: "+1 915-822-2214"
-opening_hours: "Mo-Th 09:00-22:30; Fr-Sa 08:30-23:30; Su 09:00-22:00"
+street: Gateway South Boulevard
+housenumber: "10771"
+phone: +1 915-822-2214
+opening_hours: Mo-Th 09:00-22:30; Fr-Sa 08:30-23:30; Su 09:00-22:00
 website: ""

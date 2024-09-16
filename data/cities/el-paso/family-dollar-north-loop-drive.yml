@@ -1,11 +1,11 @@
 id: 734925202
-type: way
+type: node
 latitude: 31.68803
 longitude: -106.29911
 postcode: "79907"
 city: El Paso
-street: "North Loop Drive"
-housenumber: 9595
+street: North Loop Drive
+housenumber: "9595"
 phone: ""
 opening_hours: ""
 website: ""

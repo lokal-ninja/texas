@@ -1,11 +1,11 @@
 id: 1076770834
-type: way
+type: node
 latitude: 29.76857
 longitude: -95.3984
 postcode: "77007"
 city: Houston
-street: "Waugh Drive"
-housenumber: 22
+street: Waugh Drive
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

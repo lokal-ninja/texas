@@ -1,11 +1,11 @@
 id: 791250125
-type: way
+type: node
 latitude: 35.66135
 longitude: -101.39403
 postcode: "79007"
 city: Borger
-street: "West Wilson Street"
-housenumber: 416
+street: West Wilson Street
+housenumber: "416"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 299618025
-type: way
+type: node
 latitude: 33.18942
 longitude: -97.09613
 postcode: "76208"
 city: Denton
-street: "Brinker Road"
-housenumber: 1880
+street: Brinker Road
+housenumber: "1880"
 phone: "+19403125331"
 opening_hours: ""
-website: "https://www.ntb.com/store/tx/denton/1880-brinker-rd-76208/4453"
+website: https://www.ntb.com/store/tx/denton/1880-brinker-rd-76208/4453

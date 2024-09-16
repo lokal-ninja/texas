@@ -1,11 +1,11 @@
 id: 848262814
-type: way
+type: node
 latitude: 31.05706
 longitude: -97.4598
 postcode: "76513"
 city: Belton
-street: "East 2nd Avenue"
-housenumber: 410
+street: East 2nd Avenue
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

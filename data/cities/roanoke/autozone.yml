@@ -1,11 +1,11 @@
 id: 603889812
-type: way
+type: node
 latitude: 33.01431
 longitude: -97.22113
 postcode: "76262"
 city: Roanoke
-street: "North US Highway 377"
-housenumber: 1205
+street: North US Highway 377
+housenumber: "1205"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/roanoke/1205-n-hwy-377.html"
+website: https://www.autozone.com/locations/tx/roanoke/1205-n-hwy-377.html

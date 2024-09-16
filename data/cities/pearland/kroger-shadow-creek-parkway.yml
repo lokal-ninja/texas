@@ -1,11 +1,11 @@
 id: 368086078
-type: way
+type: node
 latitude: 29.58246
 longitude: -95.38999
 postcode: "77584"
 city: Pearland
-street: "Shadow Creek Parkway"
-housenumber: 11003
-phone: "+1 281-669-1250"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tx/pearland/shadow-creek/034/00308"
+street: Shadow Creek Parkway
+housenumber: "11003"
+phone: +1 281-669-1250
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tx/pearland/shadow-creek/034/00308

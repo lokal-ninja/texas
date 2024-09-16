@@ -1,11 +1,11 @@
 id: 296733532
-type: way
+type: node
 latitude: 30.03146
 longitude: -95.43113
 postcode: "77090"
 city: Houston
-street: "North Freeway Frontage Road"
-housenumber: 18205
-phone: "+1-800-410-2708"
+street: North Freeway Frontage Road
+housenumber: "18205"
+phone: +1-800-410-2708
 opening_hours: ""
-website: "https://www.jaguarhoustonnorth.com/"
+website: https://www.jaguarhoustonnorth.com/

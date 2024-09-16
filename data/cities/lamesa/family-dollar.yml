@@ -1,11 +1,11 @@
 id: 738894591
-type: way
+type: node
 latitude: 32.73593
 longitude: -101.95594
 postcode: "79331"
 city: Lamesa
-street: "North 4th Street"
-housenumber: 610
+street: North 4th Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

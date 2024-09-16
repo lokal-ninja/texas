@@ -1,11 +1,11 @@
 id: 383891251
-type: way
+type: node
 latitude: 32.44548
 longitude: -95.70487
 postcode: "75754"
 city: Ben Wheeler
-street: "Farm-to-Market Road 279"
-housenumber: 1520
-phone: "+1 903 8339065"
+street: Farm-to-Market Road 279
+housenumber: "1520"
+phone: +1 903 8339065
 opening_hours: ""
 website: ""

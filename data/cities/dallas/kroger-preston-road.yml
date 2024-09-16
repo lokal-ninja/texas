@@ -1,11 +1,11 @@
 id: 470318479
-type: way
+type: node
 latitude: 32.98406
 longitude: -96.80106
 postcode: "75248"
 city: Dallas
-street: "Preston Road"
-housenumber: 17194
-phone: "+1 972-931-5794"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tx/dallas/preston-trail/035/00689"
+street: Preston Road
+housenumber: "17194"
+phone: +1 972-931-5794
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tx/dallas/preston-trail/035/00689

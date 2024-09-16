@@ -1,11 +1,11 @@
 id: 1239349667
-type: way
+type: node
 latitude: 32.62733
 longitude: -96.45635
 postcode: "75114"
 city: Crandall
-street: "West Gleason Street"
-housenumber: 102
+street: West Gleason Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 658282874
-type: way
+type: node
 latitude: 30.33391
 longitude: -95.0972
 postcode: "77327"
 city: Cleveland
-street: "Highway 59 South"
-housenumber: 831
-phone: "+1 281-592-2654"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/249-cleveland-tx"
+street: Highway 59 South
+housenumber: "831"
+phone: +1 281-592-2654
+opening_hours: 24/7
+website: https://www.walmart.com/store/249-cleveland-tx

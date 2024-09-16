@@ -1,11 +1,11 @@
 id: 667510666
-type: way
+type: node
 latitude: 32.54614
 longitude: -97.3278
 postcode: "76028"
 city: Burleson
-street: "Northeast Wilshire Boulevard"
-housenumber: 111
-phone: "+1-817-447-9996"
+street: Northeast Wilshire Boulevard
+housenumber: "111"
+phone: +1-817-447-9996
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/burleson/autoparts-643.html"
+website: https://locations.oreillyauto.com/tx/burleson/autoparts-643.html

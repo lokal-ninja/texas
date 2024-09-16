@@ -1,11 +1,11 @@
 id: 500509683
-type: way
+type: node
 latitude: 32.73158
 longitude: -97.4801
 postcode: "76116"
 city: Fort Worth
-street: "West Loop 820 South"
-housenumber: 2951
+street: West Loop 820 South
+housenumber: "2951"
 phone: ""
 opening_hours: ""
 website: ""

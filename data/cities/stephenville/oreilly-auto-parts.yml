@@ -1,11 +1,11 @@
 id: 451945282
-type: way
+type: node
 latitude: 32.20698
 longitude: -98.23269
 postcode: "76401"
 city: Stephenville
-street: "West Washington Street"
-housenumber: 2609
+street: West Washington Street
+housenumber: "2609"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/stephenville/autoparts-807.html"
+website: https://locations.oreillyauto.com/tx/stephenville/autoparts-807.html

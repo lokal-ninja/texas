@@ -1,11 +1,11 @@
 id: 318313968
-type: way
+type: node
 latitude: 29.92175
 longitude: -95.41389
 postcode: "77037"
 city: Houston
-street: "North Freeway"
-housenumber: 10727
-phone: "+1 281-260-0982"
+street: North Freeway
+housenumber: "10727"
+phone: +1 281-260-0982
 opening_hours: ""
 website: ""

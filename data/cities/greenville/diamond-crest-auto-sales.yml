@@ -1,11 +1,11 @@
 id: 1000070028
-type: way
+type: node
 latitude: 33.11091
 longitude: -96.11001
 postcode: "75402"
 city: Greenville
-street: "Wesley Street"
-housenumber: 5900
-phone: "+1-903-455-0019"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00"
-website: "https://www.diamondcrestautosales.com/"
+street: Wesley Street
+housenumber: "5900"
+phone: +1-903-455-0019
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00
+website: https://www.diamondcrestautosales.com/

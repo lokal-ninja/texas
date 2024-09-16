@@ -1,11 +1,11 @@
 id: 382597045
-type: way
+type: node
 latitude: 30.27304
 longitude: -97.7567
 postcode: "78703"
 city: Austin
-street: "Blanco Street"
-housenumber: 605
+street: Blanco Street
+housenumber: "605"
 phone: ""
-opening_hours: "Tu-Sa 12:00-19:00; Su-Mo 12:00-18:00"
-website: "https://ellesboutique.co/"
+opening_hours: Tu-Sa 12:00-19:00; Su-Mo 12:00-18:00
+website: https://ellesboutique.co/

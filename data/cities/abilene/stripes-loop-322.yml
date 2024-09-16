@@ -1,11 +1,11 @@
 id: 634471362
-type: way
+type: node
 latitude: 32.4022
 longitude: -99.71428
 postcode: "79606"
 city: Abilene
-street: "Loop 322"
-housenumber: 4057
+street: Loop 322
+housenumber: "4057"
 phone: ""
 opening_hours: ""
 website: ""

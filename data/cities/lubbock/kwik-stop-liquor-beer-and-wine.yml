@@ -1,11 +1,11 @@
 id: 461729023
-type: way
+type: node
 latitude: 33.55752
 longitude: -101.93151
 postcode: "79414"
 city: Lubbock
-street: "Chicago Avenue"
-housenumber: 4010
+street: Chicago Avenue
+housenumber: "4010"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 923240949
-type: way
+type: node
 latitude: 28.81174
 longitude: -96.9381
 postcode: "77905"
 city: Victoria
-street: "Lone Tree Road"
-housenumber: 6509
+street: Lone Tree Road
+housenumber: "6509"
 phone: ""
 opening_hours: ""
 website: ""

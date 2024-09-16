@@ -1,11 +1,11 @@
 id: 689505201
-type: way
+type: node
 latitude: 32.41828
 longitude: -99.78046
 postcode: "79605"
 city: Abilene
-street: "South Danville Drive"
-housenumber: 2489
+street: South Danville Drive
+housenumber: "2489"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137166991
-type: way
+type: node
 latitude: 30.61885
 longitude: -96.33681
 postcode: "77843"
 city: College Station
-street: "Bizzell Street"
-housenumber: 400
+street: Bizzell Street
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

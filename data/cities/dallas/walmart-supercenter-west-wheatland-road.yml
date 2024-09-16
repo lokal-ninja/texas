@@ -1,11 +1,11 @@
 id: 860433243
-type: way
+type: node
 latitude: 32.65002
 longitude: -96.94522
 postcode: "75249"
 city: Dallas
-street: "West Wheatland Road"
-housenumber: 7075
-phone: "+1 469-608-6228"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5810-dallas-tx"
+street: West Wheatland Road
+housenumber: "7075"
+phone: +1 469-608-6228
+opening_hours: 24/7
+website: https://www.walmart.com/store/5810-dallas-tx

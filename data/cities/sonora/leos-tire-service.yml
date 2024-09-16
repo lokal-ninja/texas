@@ -1,11 +1,11 @@
 id: 997283864
-type: way
+type: node
 latitude: 30.56623
 longitude: -100.64573
 postcode: "76950"
 city: Sonora
-street: "US Highway 277 South"
-housenumber: 208
+street: US Highway 277 South
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

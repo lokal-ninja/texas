@@ -1,11 +1,11 @@
 id: 239505721
-type: way
+type: node
 latitude: 32.3468
 longitude: -97.38595
 postcode: "76031"
 city: Cleburne
-street: "East Chambers Street"
-housenumber: 10
+street: East Chambers Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.publishedpage.com/"
+website: https://www.publishedpage.com/

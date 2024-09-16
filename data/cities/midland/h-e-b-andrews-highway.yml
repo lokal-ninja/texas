@@ -1,11 +1,11 @@
 id: 473069028
-type: way
+type: node
 latitude: 31.9961
 longitude: -102.15611
 postcode: "79706"
 city: Midland
-street: "Andrews Highway"
-housenumber: 5407
-phone: "+1-432-699-8201"
+street: Andrews Highway
+housenumber: "5407"
+phone: +1-432-699-8201
 opening_hours: ""
 website: ""

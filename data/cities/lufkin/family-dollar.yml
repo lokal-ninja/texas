@@ -1,11 +1,11 @@
 id: 408046802
-type: way
+type: node
 latitude: 31.33262
 longitude: -94.75646
 postcode: "75904"
 city: Lufkin
-street: "West Frank Avenue"
-housenumber: 1891
-phone: "+1 936 634 0775"
+street: West Frank Avenue
+housenumber: "1891"
+phone: +1 936 634 0775
 opening_hours: ""
 website: ""

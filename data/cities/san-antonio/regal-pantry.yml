@@ -1,11 +1,11 @@
 id: 500799516
-type: way
+type: node
 latitude: 29.62613
 longitude: -98.60873
 postcode: "78257"
 city: San Antonio
-street: "Camp Bullis Road"
-housenumber: 6447
+street: Camp Bullis Road
+housenumber: "6447"
 phone: ""
 opening_hours: ""
 website: ""

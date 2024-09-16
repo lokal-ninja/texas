@@ -1,11 +1,11 @@
 id: 963772456
-type: way
+type: node
 latitude: 32.46025
 longitude: -99.80815
 postcode: "79603"
 city: Abilene
-street: "North Arnold Boulevard"
-housenumber: 801
+street: North Arnold Boulevard
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

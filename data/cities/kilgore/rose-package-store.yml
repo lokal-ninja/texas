@@ -1,11 +1,11 @@
 id: 740874528
-type: way
+type: node
 latitude: 32.41309
 longitude: -94.84753
 postcode: "75662"
 city: Kilgore
-street: "US Highway 259 North"
-housenumber: 3300
+street: US Highway 259 North
+housenumber: "3300"
 phone: ""
 opening_hours: ""
 website: ""

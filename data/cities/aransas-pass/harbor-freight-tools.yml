@@ -1,11 +1,11 @@
 id: 1084307266
-type: way
+type: node
 latitude: 27.9162
 longitude: -97.16423
 postcode: "78336"
 city: Aransas Pass
-street: "West Wheeler Avenue"
-housenumber: 1911
-phone: "+1 361-213-2121"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1911-w-wheeler-ave-aransas-pass-78336?number=3220"
+street: West Wheeler Avenue
+housenumber: "1911"
+phone: +1 361-213-2121
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1911-w-wheeler-ave-aransas-pass-78336?number=3220

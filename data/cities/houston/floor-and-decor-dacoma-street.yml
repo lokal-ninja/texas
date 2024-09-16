@@ -1,11 +1,11 @@
 id: 404495720
-type: way
+type: node
 latitude: 29.80932
 longitude: -95.4524
 postcode: "77092"
 city: Houston
-street: "Dacoma Street"
-housenumber: 4330
+street: Dacoma Street
+housenumber: "4330"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1253737890
-type: way
+type: node
 latitude: 30.09829
 longitude: -93.76982
 postcode: "77630"
 city: Orange
-street: "Strickland Drive"
-housenumber: 603
-phone: "+1 409-988-0294"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Orange/TX/Orange/77630/8419"
+street: Strickland Drive
+housenumber: "603"
+phone: +1 409-988-0294
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Orange/TX/Orange/77630/8419

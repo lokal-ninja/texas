@@ -1,11 +1,11 @@
 id: 473412570
-type: way
+type: node
 latitude: 32.68352
 longitude: -96.82631
 postcode: "75232"
 city: Dallas
-street: "Short Boulevard"
-housenumber: 200
-phone: "+1 972-232-6400"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3014/dallas-tx/whats-new"
+street: Short Boulevard
+housenumber: "200"
+phone: +1 972-232-6400
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3014/dallas-tx/whats-new

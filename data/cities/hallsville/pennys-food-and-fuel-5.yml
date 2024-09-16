@@ -1,11 +1,11 @@
 id: 733458287
-type: way
+type: node
 latitude: 32.50787
 longitude: -94.58551
 postcode: "75650"
 city: Hallsville
-street: "West Main Street"
-housenumber: 494
+street: West Main Street
+housenumber: "494"
 phone: ""
 opening_hours: ""
 website: ""

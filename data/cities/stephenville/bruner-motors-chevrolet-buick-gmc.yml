@@ -1,11 +1,11 @@
 id: 453369678
-type: way
+type: node
 latitude: 32.20508
 longitude: -98.21145
 postcode: "76401"
 city: Stephenville
-street: "West South Loop"
-housenumber: 1515
+street: West South Loop
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

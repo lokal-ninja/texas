@@ -1,11 +1,11 @@
 id: 731131260
-type: way
+type: node
 latitude: 31.29389
 longitude: -97.24828
 postcode: "76524"
 city: Bruceville-Eddy
-street: "State Highway 7"
-housenumber: 205
+street: State Highway 7
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

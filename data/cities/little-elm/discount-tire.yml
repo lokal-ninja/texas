@@ -1,11 +1,11 @@
 id: 691317347
-type: way
+type: node
 latitude: 33.18622
 longitude: -96.88741
 postcode: "75068"
 city: Little Elm
-street: "FM 423"
-housenumber: 2990
-phone: "+1-972-292-0707"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://www.discounttire.com/store/tx/little-elm/s/1757"
+street: FM 423
+housenumber: "2990"
+phone: +1-972-292-0707
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off
+website: https://www.discounttire.com/store/tx/little-elm/s/1757

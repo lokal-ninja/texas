@@ -1,11 +1,11 @@
 id: 715805498
-type: way
+type: node
 latitude: 33.25351
 longitude: -95.91156
 postcode: "75428"
 city: Commerce
-street: "West State Highway 224"
-housenumber: 105
+street: West State Highway 224
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

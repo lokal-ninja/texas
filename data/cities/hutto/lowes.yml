@@ -1,11 +1,11 @@
 id: 118132493
-type: way
+type: node
 latitude: 30.54384
 longitude: -97.56388
 postcode: "78634"
 city: Hutto
-street: "Ed Schmidt Boulevard"
-housenumber: 201
-phone: "+1 512-846-1620"
-opening_hours: "Mo-We 06:00-21:00; Th-Fr 06:00-22:00; Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com"
+street: Ed Schmidt Boulevard
+housenumber: "201"
+phone: +1 512-846-1620
+opening_hours: Mo-We 06:00-21:00; Th-Fr 06:00-22:00; Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com

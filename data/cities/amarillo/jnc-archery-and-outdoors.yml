@@ -1,11 +1,11 @@
 id: 1204037995
-type: way
+type: node
 latitude: 35.07608
 longitude: -101.92249
 postcode: "79119"
 city: Amarillo
-street: "Longoria Road"
-housenumber: 7551
-phone: "+1-806-282-9540"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.jncarchery.co/"
+street: Longoria Road
+housenumber: "7551"
+phone: +1-806-282-9540
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.jncarchery.co/

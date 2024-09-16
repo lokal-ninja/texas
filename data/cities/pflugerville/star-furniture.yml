@@ -1,11 +1,11 @@
 id: 382984202
-type: way
+type: node
 latitude: 30.42974
 longitude: -97.66957
 postcode: "78660"
 city: Pflugerville
-street: "North Interstate Highway 35 Service Road"
-housenumber: 14051
-phone: "+1-512-346-9400"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-19:00"
-website: "https://www.starfurniture.com/"
+street: North Interstate Highway 35 Service Road
+housenumber: "14051"
+phone: +1-512-346-9400
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-19:00
+website: https://www.starfurniture.com/

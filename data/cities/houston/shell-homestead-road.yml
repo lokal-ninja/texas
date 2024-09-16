@@ -1,11 +1,11 @@
 id: 825763779
-type: way
+type: node
 latitude: 29.92284
 longitude: -95.303
 postcode: ""
 city: Houston
-street: "Homestead Road"
-housenumber: 14103
+street: Homestead Road
+housenumber: "14103"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

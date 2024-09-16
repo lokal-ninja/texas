@@ -1,11 +1,11 @@
 id: 239550602
-type: way
+type: node
 latitude: 32.34771
 longitude: -97.38541
 postcode: "76031"
 city: Cleburne
-street: "East Henderson Street"
-housenumber: 106
+street: East Henderson Street
+housenumber: "106"
 phone: ""
 opening_hours: ""
-website: "https://trovatostreet.com/"
+website: https://trovatostreet.com/

@@ -1,11 +1,11 @@
 id: 1093506434
-type: way
+type: node
 latitude: 32.79473
 longitude: -95.44646
 postcode: "75783"
 city: Quitman
-street: "East Goode Street"
-housenumber: 502
+street: East Goode Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

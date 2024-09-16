@@ -4,8 +4,8 @@ latitude: 29.37695
 longitude: -98.45883
 postcode: "78223"
 city: San Antonio
-street: "South New Braunfels Avenue"
-housenumber: 4224
-phone: "+1-210-532-4015"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
-website: "https://www.marshalls.com"
+street: South New Braunfels Avenue
+housenumber: "4224"
+phone: +1-210-532-4015
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
+website: https://www.marshalls.com

@@ -1,11 +1,11 @@
 id: 725250639
-type: way
+type: node
 latitude: 32.73246
 longitude: -97.79055
 postcode: "76086"
 city: Weatherford
-street: "Adams Drive"
-housenumber: 201
+street: Adams Drive
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/tx/weatherford/oil-change-070169.html"
+website: https://store.vioc.com/tx/weatherford/oil-change-070169.html

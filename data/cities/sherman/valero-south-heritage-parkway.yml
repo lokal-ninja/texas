@@ -1,11 +1,11 @@
 id: 984988800
-type: way
+type: node
 latitude: 33.60964
 longitude: -96.64571
 postcode: "75092"
 city: Sherman
-street: "South Heritage Parkway"
-housenumber: 1728
+street: South Heritage Parkway
+housenumber: "1728"
 phone: ""
 opening_hours: ""
 website: ""

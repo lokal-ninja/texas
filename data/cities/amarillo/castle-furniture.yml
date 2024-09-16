@@ -1,11 +1,11 @@
 id: 769881741
-type: way
+type: node
 latitude: 35.22243
 longitude: -101.83143
 postcode: "79107"
 city: Amarillo
-street: "North Fillmore Street"
-housenumber: 800
+street: North Fillmore Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

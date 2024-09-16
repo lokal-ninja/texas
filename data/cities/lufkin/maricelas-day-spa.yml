@@ -1,11 +1,11 @@
 id: 410942643
-type: way
+type: node
 latitude: 31.34
 longitude: -94.729
 postcode: "75901"
 city: Lufkin
-street: "North 1st Street"
-housenumber: 121
-phone: "+1 936 699 2000"
+street: North 1st Street
+housenumber: "121"
+phone: +1 936 699 2000
 opening_hours: ""
-website: "https://www.maricelasdayspa.com/"
+website: https://www.maricelasdayspa.com/

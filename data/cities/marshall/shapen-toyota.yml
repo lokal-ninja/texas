@@ -1,11 +1,11 @@
 id: 750513180
-type: way
+type: node
 latitude: 32.49815
 longitude: -94.35896
 postcode: "75672"
 city: Marshall
-street: "East End Boulevard South"
-housenumber: 5015
+street: East End Boulevard South
+housenumber: "5015"
 phone: ""
 opening_hours: ""
 website: ""

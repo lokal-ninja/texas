@@ -1,11 +1,11 @@
 id: 382490581
-type: way
+type: node
 latitude: 30.23311
 longitude: -97.79016
 postcode: "78704"
 city: Austin
-street: "Victory Drive"
-housenumber: 4107
+street: Victory Drive
+housenumber: "4107"
 phone: ""
 opening_hours: ""
 website: ""

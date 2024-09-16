@@ -1,11 +1,11 @@
 id: 382461709
-type: way
+type: node
 latitude: 30.24465
 longitude: -97.73084
 postcode: "78741"
 city: Austin
-street: "East Riverside Drive"
-housenumber: 1637
-phone: "+1-512-628-0500"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.samesrbm.com/"
+street: East Riverside Drive
+housenumber: "1637"
+phone: +1-512-628-0500
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.samesrbm.com/

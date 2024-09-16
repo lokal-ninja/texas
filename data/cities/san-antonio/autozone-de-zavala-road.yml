@@ -1,11 +1,11 @@
 id: 660725354
-type: way
+type: node
 latitude: 29.56365
 longitude: -98.60508
 postcode: "78249"
 city: San Antonio
-street: "De Zavala Road"
-housenumber: 6071
+street: De Zavala Road
+housenumber: "6071"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/san-antonio/6071-de-zavala-rd.html"
+website: https://www.autozone.com/locations/tx/san-antonio/6071-de-zavala-rd.html

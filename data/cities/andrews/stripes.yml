@@ -1,11 +1,11 @@
 id: 843566164
-type: way
+type: node
 latitude: 32.30662
 longitude: -102.54354
 postcode: "79714"
 city: Andrews
-street: "South Main Street"
-housenumber: 1112
+street: South Main Street
+housenumber: "1112"
 phone: ""
 opening_hours: ""
 website: ""

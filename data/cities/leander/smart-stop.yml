@@ -1,11 +1,11 @@
 id: 733607356
-type: way
+type: node
 latitude: 30.59524
 longitude: -97.81374
 postcode: "78641"
 city: Leander
-street: "Hero Way"
-housenumber: 3980
-phone: "+1-512-337-7734"
+street: Hero Way
+housenumber: "3980"
+phone: +1-512-337-7734
 opening_hours: ""
-website: "https://smart-stop-leander.edan.io/"
+website: https://smart-stop-leander.edan.io/

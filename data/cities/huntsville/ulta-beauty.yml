@@ -1,11 +1,11 @@
 id: 490969695
-type: way
+type: node
 latitude: 30.70773
 longitude: -95.5672
 postcode: "77340"
 city: Huntsville
 street: ""
-housenumber: 
-phone: "+1 936-400-7288"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/huntsville-tx-1727"
+housenumber: ""
+phone: +1 936-400-7288
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/huntsville-tx-1727

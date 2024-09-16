@@ -1,11 +1,11 @@
 id: 802008607
-type: way
+type: node
 latitude: 29.78688
 longitude: -95.49493
 postcode: "77024"
 city: Spring Valley
-street: "Katy Freeway"
-housenumber: 8400
-phone: "+1 713-984-2741"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Spring-Valley/TX/Houston/77024/6985"
+street: Katy Freeway
+housenumber: "8400"
+phone: +1 713-984-2741
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Spring-Valley/TX/Houston/77024/6985

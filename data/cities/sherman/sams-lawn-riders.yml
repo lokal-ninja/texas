@@ -1,11 +1,11 @@
 id: 987216835
-type: way
+type: node
 latitude: 33.63431
 longitude: -96.61473
 postcode: "75090"
 city: Sherman
-street: "West Lamar Street"
-housenumber: 520
+street: West Lamar Street
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

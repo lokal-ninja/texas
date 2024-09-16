@@ -1,11 +1,11 @@
 id: 123523154
-type: way
+type: node
 latitude: 29.82342
 longitude: -95.54482
 postcode: "77080"
 city: Houston
-street: "Gessner Road"
-housenumber: 2808
+street: Gessner Road
+housenumber: "2808"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2808+gessner+rd-houston-tx-77080/id=5536"
+website: https://www.walgreens.com/locator/walgreens-2808+gessner+rd-houston-tx-77080/id=5536

@@ -1,11 +1,11 @@
 id: 645086713
-type: way
+type: node
 latitude: 32.85555
 longitude: -96.64575
 postcode: "75041"
 city: Garland
-street: "West Centerville Road"
-housenumber: 1334
+street: West Centerville Road
+housenumber: "1334"
 phone: ""
 opening_hours: ""
 website: ""

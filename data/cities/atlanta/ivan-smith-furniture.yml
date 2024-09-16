@@ -1,11 +1,11 @@
 id: 1055496761
-type: way
+type: node
 latitude: 33.116
 longitude: -94.18107
 postcode: "75551"
 city: Atlanta
-street: "Loop 59"
-housenumber: 126
+street: Loop 59
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

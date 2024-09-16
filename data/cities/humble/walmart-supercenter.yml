@@ -1,11 +1,11 @@
 id: 182997201
-type: way
+type: node
 latitude: 30.00965
 longitude: -95.28433
 postcode: "77338"
 city: Humble
-street: "Fm 1960 Bypass"
-housenumber: 9451
-phone: "+1 281-540-8838"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/;https://www.walmart.com/store/1837/humble-tx/whats-new"
+street: Fm 1960 Bypass
+housenumber: "9451"
+phone: +1 281-540-8838
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/;https://www.walmart.com/store/1837/humble-tx/whats-new

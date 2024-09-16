@@ -1,11 +1,11 @@
 id: 1149476617
-type: way
+type: node
 latitude: 32.74305
 longitude: -97.74288
 postcode: "76087"
 city: Weatherford
-street: "East Bankhead Drive"
-housenumber: 2605
+street: East Bankhead Drive
+housenumber: "2605"
 phone: ""
 opening_hours: ""
 website: ""

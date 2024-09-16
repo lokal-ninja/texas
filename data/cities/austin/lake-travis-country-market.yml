@@ -1,11 +1,11 @@
 id: 383015325
-type: way
+type: node
 latitude: 30.32784
 longitude: -97.96321
 postcode: "78738"
 city: Austin
-street: "Ranch Road 620 South"
-housenumber: 3325
+street: Ranch Road 620 South
+housenumber: "3325"
 phone: "+15122630900"
 opening_hours: ""
 website: ""

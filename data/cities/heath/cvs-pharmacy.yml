@@ -1,11 +1,11 @@
 id: 813710518
-type: way
+type: node
 latitude: 32.86084
 longitude: -96.47126
 postcode: ""
 city: Heath
-street: "Ridge Road"
-housenumber: 4282
+street: Ridge Road
+housenumber: "4282"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/heath-tx-pharmacies/4282-ridge-rd-heath-tx-75032/storeid=10562"
+website: https://www.cvs.com/store-locator/heath-tx-pharmacies/4282-ridge-rd-heath-tx-75032/storeid=10562

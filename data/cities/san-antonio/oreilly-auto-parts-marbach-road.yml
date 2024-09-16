@@ -1,11 +1,11 @@
 id: 942386028
-type: way
+type: node
 latitude: 29.41736
 longitude: -98.67713
 postcode: "78245"
 city: San Antonio
-street: "Marbach Road"
-housenumber: 9678
-phone: "+1 210 390-0176"
-opening_hours: "07:30-22:00"
-website: "https://locations.oreillyauto.com/tx/sanantonio/autoparts-5573.html"
+street: Marbach Road
+housenumber: "9678"
+phone: +1 210 390-0176
+opening_hours: 07:30-22:00
+website: https://locations.oreillyauto.com/tx/sanantonio/autoparts-5573.html

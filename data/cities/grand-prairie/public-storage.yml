@@ -1,11 +1,11 @@
 id: 423024371
-type: way
+type: node
 latitude: 32.75803
 longitude: -97.02818
 postcode: "75050"
 city: Grand Prairie
-street: "North State Highway 161"
-housenumber: 1401
-phone: "+1 972-905-6839"
-opening_hours: "Mo-Fr 09:00-17:30, Sa-Su 09:30-17:00"
-website: "https://www.publicstorage.com/texas/self-storage-grand-prairie-tx/75050-self-storage/882?PID=PSLocalSearch&CID=1341&CHID=LL#/?zl=16&vd=0.47440338227124196&lat=0&lng=0&sort=dasc&ssort=dasc&vsort=dasc&v20=0&v35=0&v50=0&vc=0&vu=0&ve=0&cc=0&da=0&ms=5,6,7,8"
+street: North State Highway 161
+housenumber: "1401"
+phone: +1 972-905-6839
+opening_hours: Mo-Fr 09:00-17:30, Sa-Su 09:30-17:00
+website: https://www.publicstorage.com/texas/self-storage-grand-prairie-tx/75050-self-storage/882?PID=PSLocalSearch&CID=1341&CHID=LL#/?zl=16&vd=0.47440338227124196&lat=0&lng=0&sort=dasc&ssort=dasc&vsort=dasc&v20=0&v35=0&v50=0&vc=0&vu=0&ve=0&cc=0&da=0&ms=5,6,7,8

@@ -1,11 +1,11 @@
 id: 673936338
-type: way
+type: node
 latitude: 32.76654
 longitude: -96.60553
 postcode: "75149"
 city: Mesquite
-street: "South Carmack Street"
-housenumber: 202
+street: South Carmack Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

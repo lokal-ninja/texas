@@ -1,11 +1,11 @@
 id: 506726369
-type: way
+type: node
 latitude: 33.14113
 longitude: -96.69293
 postcode: "75070"
 city: McKinney
-street: "Stacy Road"
-housenumber: 4151
+street: Stacy Road
+housenumber: "4151"
 phone: ""
 opening_hours: ""
 website: ""

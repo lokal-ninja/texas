@@ -1,11 +1,11 @@
 id: 1265887743
-type: way
+type: node
 latitude: 31.79498
 longitude: -97.58663
 postcode: "76634"
 city: Clifton
-street: "North Avenue G"
-housenumber: 1207
-phone: "+1 254-675-2626"
-opening_hours: "Su 09:00-19:00; Mo-Sa 08:00-21:00"
-website: "https://www.tractorsupply.com"
+street: North Avenue G
+housenumber: "1207"
+phone: +1 254-675-2626
+opening_hours: Su 09:00-19:00; Mo-Sa 08:00-21:00
+website: https://www.tractorsupply.com

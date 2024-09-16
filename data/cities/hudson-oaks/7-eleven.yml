@@ -1,11 +1,11 @@
 id: 1019105223
-type: way
+type: node
 latitude: 32.75761
 longitude: -97.70257
 postcode: "76087"
 city: Hudson Oaks
-street: "Fort Worth Highway"
-housenumber: 3105
-phone: "+1 682-290-1606"
+street: Fort Worth Highway
+housenumber: "3105"
+phone: +1 682-290-1606
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 183748940
-type: way
+type: node
 latitude: 29.56984
 longitude: -97.95009
 postcode: "78155"
 city: Seguin
-street: "North King Street"
-housenumber: 118
+street: North King Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1133559932
-type: way
+type: node
 latitude: 30.41763
 longitude: -99.67237
 postcode: "76849"
 city: Junction
-street: "South Segovia Access Road"
-housenumber: 465
+street: South Segovia Access Road
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 983448170
-type: way
+type: node
 latitude: 33.61337
 longitude: -95.08049
 postcode: "75426"
 city: Clarksville
-street: "West Main Street"
-housenumber: 2205
+street: West Main Street
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

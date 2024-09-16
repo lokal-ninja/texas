@@ -1,11 +1,11 @@
 id: 937934091
-type: way
+type: node
 latitude: 29.90481
 longitude: -95.58386
 postcode: "77065"
 city: Houston
-street: "Jones Road"
-housenumber: 9010
-phone: "+1 832-451-2663"
+street: Jones Road
+housenumber: "9010"
+phone: +1 832-451-2663
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/tx/houston/9010-jones-rd.-41668"
+website: https://www.7-eleven.com/locations/tx/houston/9010-jones-rd.-41668

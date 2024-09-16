@@ -1,11 +1,11 @@
 id: 899732862
-type: way
+type: node
 latitude: 33.43362
 longitude: -94.04284
 postcode: "71854"
 city: Texarkana
-street: "North State Line Avenue"
-housenumber: 1010
+street: North State Line Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ar/texarkana/1010-n-state-line-ave"
+website: https://stores.advanceautoparts.com/ar/texarkana/1010-n-state-line-ave

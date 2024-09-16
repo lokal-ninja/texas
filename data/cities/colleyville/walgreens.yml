@@ -1,11 +1,11 @@
 id: 666705817
-type: way
+type: node
 latitude: 32.8821
 longitude: -97.10641
 postcode: "76034"
 city: Colleyville
-street: "West Glade Road"
-housenumber: 3830
+street: West Glade Road
+housenumber: "3830"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00"
-website: "https://www.walgreens.com/locator/walgreens-3830+glade+rd-colleyville-tx-76034/id=4634"
+opening_hours: Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00
+website: https://www.walgreens.com/locator/walgreens-3830+glade+rd-colleyville-tx-76034/id=4634

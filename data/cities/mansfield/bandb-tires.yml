@@ -1,11 +1,11 @@
 id: 713063210
-type: way
+type: node
 latitude: 32.59013
 longitude: -97.16237
 postcode: "76063"
 city: Mansfield
-street: "North Main Street"
-housenumber: 1773
+street: North Main Street
+housenumber: "1773"
 phone: ""
 opening_hours: ""
 website: ""

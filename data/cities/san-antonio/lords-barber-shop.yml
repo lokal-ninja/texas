@@ -1,11 +1,11 @@
 id: 687476073
-type: way
+type: node
 latitude: 29.34068
 longitude: -98.50424
 postcode: "78221"
 city: San Antonio
-street: "Pleasanton Road"
-housenumber: 3751
+street: Pleasanton Road
+housenumber: "3751"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 35.1892
 longitude: -101.88229
 postcode: "79109"
 city: Amarillo
-street: "South Western Street"
-housenumber: 2203
-phone: "+1-806-353-2135"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.mardel.com/stores/search/27?lat=35.2219971&long=-101.8312969"
+street: South Western Street
+housenumber: "2203"
+phone: +1-806-353-2135
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.mardel.com/stores/search/27?lat=35.2219971&long=-101.8312969

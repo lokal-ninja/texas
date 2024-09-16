@@ -1,11 +1,11 @@
 id: 530451797
-type: way
+type: node
 latitude: 27.79817
 longitude: -97.39394
 postcode: "78401"
 city: Corpus Christi
-street: "North Chaparral Street"
-housenumber: 711
-phone: "+1-361-437-2544"
-opening_hours: "Tu-Sa 08:00-17:00"
+street: North Chaparral Street
+housenumber: "711"
+phone: +1-361-437-2544
+opening_hours: Tu-Sa 08:00-17:00
 website: ""

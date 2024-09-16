@@ -1,11 +1,11 @@
 id: 292983819
-type: way
+type: node
 latitude: 32.45072
 longitude: -95.28391
 postcode: "75706"
 city: Tyler
-street: "State Park Highway"
-housenumber: 12881
+street: State Park Highway
+housenumber: "12881"
 phone: ""
 opening_hours: ""
 website: ""

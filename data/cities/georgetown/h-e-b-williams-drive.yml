@@ -1,11 +1,11 @@
 id: 203404942
-type: way
+type: node
 latitude: 30.68138
 longitude: -97.7203
 postcode: "78628"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 4500
-phone: "+1-512-863-4427"
-opening_hours: "06:00-23:00"
+street: Williams Drive
+housenumber: "4500"
+phone: +1-512-863-4427
+opening_hours: 06:00-23:00
 website: ""

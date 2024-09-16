@@ -1,11 +1,11 @@
 id: 1274312415
-type: way
+type: node
 latitude: 29.73507
 longitude: -95.5921
 postcode: "77077"
 city: Houston
-street: "Kirkwood Drive"
-housenumber: 2610
-phone: "+1 281-920-5660"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/tx-houston/1131"
+street: Kirkwood Drive
+housenumber: "2610"
+phone: +1 281-920-5660
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/tx-houston/1131

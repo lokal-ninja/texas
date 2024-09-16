@@ -1,11 +1,11 @@
 id: 537844246
-type: way
+type: node
 latitude: 30.0975
 longitude: -96.06491
 postcode: "77445"
 city: Hempstead
-street: "Austin Street"
-housenumber: 300
-phone: "+1-979-826-9841"
+street: Austin Street
+housenumber: "300"
+phone: +1-979-826-9841
 opening_hours: ""
 website: ""

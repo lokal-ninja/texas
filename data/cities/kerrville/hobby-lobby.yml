@@ -1,11 +1,11 @@
 id: 847300974
-type: way
+type: node
 latitude: 30.0663
 longitude: -99.11486
 postcode: "78028"
 city: Kerrville
-street: "Sidney Baker Street"
-housenumber: 2101
-phone: "+1-830-257-0144"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/stores/search/893?lat=29.9791272&long=-99.14561529999999"
+street: Sidney Baker Street
+housenumber: "2101"
+phone: +1-830-257-0144
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/stores/search/893?lat=29.9791272&long=-99.14561529999999

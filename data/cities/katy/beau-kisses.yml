@@ -1,11 +1,11 @@
 id: 107773565
-type: way
+type: node
 latitude: 29.74206
 longitude: -95.77587
 postcode: "77494"
 city: Katy
-street: "Cinco Ranch Boulevard"
-housenumber: 23501
+street: Cinco Ranch Boulevard
+housenumber: "23501"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-17:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-17:00
 website: ""

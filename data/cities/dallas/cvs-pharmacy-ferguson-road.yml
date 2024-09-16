@@ -1,11 +1,11 @@
 id: 468031992
-type: way
+type: node
 latitude: 32.83544
 longitude: -96.67189
 postcode: "75228"
 city: Dallas
-street: "Ferguson Road"
-housenumber: 10306
+street: Ferguson Road
+housenumber: "10306"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/dallas-tx-pharmacies/10306-ferguson-rd-dallas-tx-75228/storeid=7739"
+website: https://www.cvs.com/store-locator/dallas-tx-pharmacies/10306-ferguson-rd-dallas-tx-75228/storeid=7739

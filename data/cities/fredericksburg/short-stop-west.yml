@@ -1,11 +1,11 @@
 id: 760437414
-type: way
+type: node
 latitude: 30.2815
 longitude: -98.88011
 postcode: "78624"
 city: Fredericksburg
-street: "West Main Street"
-housenumber: 528
+street: West Main Street
+housenumber: "528"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 662414941
-type: way
+type: node
 latitude: 32.54518
 longitude: -94.71544
 postcode: "75605"
 city: Longview
-street: "East Hawkins Parkway"
-housenumber: 1155
+street: East Hawkins Parkway
+housenumber: "1155"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

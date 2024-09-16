@@ -1,11 +1,11 @@
 id: 366886946
-type: way
+type: node
 latitude: 29.71025
 longitude: -95.31407
 postcode: ""
 city: Houston
-street: "Telephone Road"
-housenumber: 3511
+street: Telephone Road
+housenumber: "3511"
 phone: ""
 opening_hours: ""
 website: ""

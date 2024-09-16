@@ -1,11 +1,11 @@
 id: 758454719
-type: way
+type: node
 latitude: 32.18195
 longitude: -95.84934
 postcode: "75751"
 city: Athens
-street: "Hillside Drive"
-housenumber: 201
+street: Hillside Drive
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

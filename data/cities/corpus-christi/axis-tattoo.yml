@@ -1,11 +1,11 @@
 id: 530451910
-type: way
+type: node
 latitude: 27.79802
 longitude: -97.39395
 postcode: "78401"
 city: Corpus Christi
-street: "North Chaparral Street"
-housenumber: 701
-phone: "+1-361-882-5440"
-opening_hours: "Mo-Su 11:00-21:00"
-website: "https://www.electraartcc.com/"
+street: North Chaparral Street
+housenumber: "701"
+phone: +1-361-882-5440
+opening_hours: Mo-Su 11:00-21:00
+website: https://www.electraartcc.com/

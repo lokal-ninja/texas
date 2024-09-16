@@ -1,11 +1,11 @@
 id: 871377915
-type: way
+type: node
 latitude: 30.14229
 longitude: -96.37226
 postcode: "77833"
 city: Brenham
-street: "US Highway 290 East"
-housenumber: 1800
+street: US Highway 290 East
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

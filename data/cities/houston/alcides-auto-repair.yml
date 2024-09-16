@@ -1,11 +1,11 @@
 id: 671192321
-type: way
+type: node
 latitude: 29.84307
 longitude: -95.38379
 postcode: ""
 city: Houston
-street: "De Boll Street"
-housenumber: 5
+street: De Boll Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

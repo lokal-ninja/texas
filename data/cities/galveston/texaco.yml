@@ -1,11 +1,11 @@
 id: 881205927
-type: way
+type: node
 latitude: 29.28796
 longitude: -94.83816
 postcode: "77551"
 city: Galveston
-street: "Broadway Street"
-housenumber: 6101
+street: Broadway Street
+housenumber: "6101"
 phone: ""
 opening_hours: ""
 website: ""

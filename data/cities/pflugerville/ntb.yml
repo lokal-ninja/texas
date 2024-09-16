@@ -1,11 +1,11 @@
 id: 1226023416
-type: way
+type: node
 latitude: 30.43558
 longitude: -97.61098
 postcode: "78660"
 city: Pflugerville
-street: "East Pecan Street"
-housenumber: 1020
+street: East Pecan Street
+housenumber: "1020"
 phone: ""
 opening_hours: ""
-website: "https://www.ntb.com/store/tx/pflugerville/1020-e-pecan-st-78660/4501"
+website: https://www.ntb.com/store/tx/pflugerville/1020-e-pecan-st-78660/4501

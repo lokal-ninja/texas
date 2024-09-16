@@ -1,11 +1,11 @@
 id: 421098113
-type: way
+type: node
 latitude: 29.72517
 longitude: -95.46697
 postcode: "77081"
 city: Houston
-street: "South Rice Avenue"
-housenumber: 5305
+street: South Rice Avenue
+housenumber: "5305"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-18:00"
-website: "https://www.microcenter.com/site/stores/houston.aspx?storeid=155"
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-18:00
+website: https://www.microcenter.com/site/stores/houston.aspx?storeid=155

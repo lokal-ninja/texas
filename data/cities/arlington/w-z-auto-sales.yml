@@ -1,11 +1,11 @@
 id: 524825612
-type: way
+type: node
 latitude: 32.73446
 longitude: -97.14966
 postcode: "76012"
 city: Arlington
-street: "South Bowen Road"
-housenumber: 140
-phone: "+1-817-987-1326"
+street: South Bowen Road
+housenumber: "140"
+phone: +1-817-987-1326
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 119428958
-type: way
+type: node
 latitude: 29.67697
 longitude: -95.41152
 postcode: ""
 city: Houston
-street: "South Loop West"
-housenumber: 2277
+street: South Loop West
+housenumber: "2277"
 phone: ""
 opening_hours: ""
 website: ""

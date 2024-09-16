@@ -1,11 +1,11 @@
 id: 956648383
-type: way
+type: node
 latitude: 35.85947
 longitude: -101.97374
 postcode: "79029"
 city: Dumas
-street: "South Dumas Avenue"
-housenumber: 610
-phone: "+1-806-717-1103"
+street: South Dumas Avenue
+housenumber: "610"
+phone: +1-806-717-1103
 opening_hours: ""
 website: ""

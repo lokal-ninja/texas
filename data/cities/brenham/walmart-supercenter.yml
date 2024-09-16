@@ -1,11 +1,11 @@
 id: 514873995
-type: way
+type: node
 latitude: 30.1395
 longitude: -96.39391
 postcode: "77833"
 city: Brenham
-street: "US Highway 290 West"
-housenumber: 203
-phone: "+1 979-836-1118"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/321-brenham-tx"
+street: US Highway 290 West
+housenumber: "203"
+phone: +1 979-836-1118
+opening_hours: 24/7
+website: https://www.walmart.com/store/321-brenham-tx

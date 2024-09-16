@@ -1,11 +1,11 @@
 id: 1190447223
-type: way
+type: node
 latitude: 33.41372
 longitude: -102.15664
 postcode: "79358"
 city: Ropesville
-street: "South Plains Street"
-housenumber: 103
+street: South Plains Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/ropesville/22982"
+website: https://www.dollargeneral.com/store-directory/tx/ropesville/22982

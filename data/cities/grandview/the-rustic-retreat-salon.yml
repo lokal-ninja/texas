@@ -1,11 +1,11 @@
 id: 710104453
-type: way
+type: node
 latitude: 32.2686
 longitude: -97.18064
 postcode: "76050"
 city: Grandview
-street: "South First Street"
-housenumber: 203
+street: South First Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

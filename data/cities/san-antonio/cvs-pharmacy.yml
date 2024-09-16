@@ -4,8 +4,8 @@ latitude: 29.42401
 longitude: -98.48974
 postcode: "78205"
 city: San Antonio
-street: "East Commerce Street"
-housenumber: 300
+street: East Commerce Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/san-antonio-tx-pharmacies/300-east-commerce-st-san-antonio-tx-78205/storeid=10179"
+website: https://www.cvs.com/store-locator/san-antonio-tx-pharmacies/300-east-commerce-st-san-antonio-tx-78205/storeid=10179

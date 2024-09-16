@@ -1,11 +1,11 @@
 id: 384758356
-type: way
+type: node
 latitude: 30.38951
 longitude: -97.6481
 postcode: "78754"
 city: Austin
-street: "Dessau Road"
-housenumber: 12320
-phone: "+1-737-241-9332"
+street: Dessau Road
+housenumber: "12320"
+phone: +1-737-241-9332
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/austin/12304"
+website: https://www.dollargeneral.com/store-directory/tx/austin/12304

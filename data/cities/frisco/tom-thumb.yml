@@ -1,11 +1,11 @@
 id: 1095689857
-type: way
+type: node
 latitude: 33.12601
 longitude: -96.88878
 postcode: ""
 city: Frisco
-street: "FM 423"
-housenumber: 5550
+street: FM 423
+housenumber: "5550"
 phone: ""
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/frisco/5550-fm-423.html"
+website: https://local.tomthumb.com/tx/frisco/5550-fm-423.html

@@ -1,11 +1,11 @@
 id: 1021766550
-type: way
+type: node
 latitude: 31.535
 longitude: -97.12906
 postcode: "76706"
 city: Waco
-street: "South 18th Street"
-housenumber: 1620
+street: South 18th Street
+housenumber: "1620"
 phone: ""
 opening_hours: ""
 website: ""

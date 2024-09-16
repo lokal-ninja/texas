@@ -1,11 +1,11 @@
 id: 1085729946
-type: way
+type: node
 latitude: 33.67067
 longitude: -96.90429
 postcode: "76273"
 city: Whitesboro
-street: "Highway 82 East"
-housenumber: 1000
+street: Highway 82 East
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

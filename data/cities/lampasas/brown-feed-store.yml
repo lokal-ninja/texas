@@ -1,11 +1,11 @@
 id: 1001219563
-type: way
+type: node
 latitude: 31.06532
 longitude: -98.17673
 postcode: "76550"
 city: Lampasas
-street: "South Pecan Street"
-housenumber: 501
+street: South Pecan Street
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

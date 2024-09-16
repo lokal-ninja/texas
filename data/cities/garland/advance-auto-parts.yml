@@ -1,11 +1,11 @@
 id: 645320392
-type: way
+type: node
 latitude: 32.91588
 longitude: -96.69989
 postcode: "75042"
 city: Garland
-street: "North Plano Road"
-housenumber: 450
+street: North Plano Road
+housenumber: "450"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/garland/450-n-plano-rd"
+website: https://stores.advanceautoparts.com/tx/garland/450-n-plano-rd

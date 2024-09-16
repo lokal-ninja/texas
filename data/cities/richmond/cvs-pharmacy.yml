@@ -1,11 +1,11 @@
 id: 230065545
-type: way
+type: node
 latitude: 29.55308
 longitude: -95.69408
 postcode: "77469"
 city: Richmond
-street: "Crabb River Road"
-housenumber: 1410
+street: Crabb River Road
+housenumber: "1410"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.cvs.com/store-locator/richmond-tx-pharmacies/1410-crabb-river-rd-richmond-tx-77469/storeid=3701"
+opening_hours: 24/7
+website: https://www.cvs.com/store-locator/richmond-tx-pharmacies/1410-crabb-river-rd-richmond-tx-77469/storeid=3701

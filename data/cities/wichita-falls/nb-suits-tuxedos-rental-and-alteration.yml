@@ -4,8 +4,8 @@ latitude: 33.90404
 longitude: -98.50397
 postcode: "76301"
 city: Wichita Falls
-street: "9th Street"
-housenumber: 1700
-phone: "+1-940-234-0100"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-18:00"
+street: 9th Street
+housenumber: "1700"
+phone: +1-940-234-0100
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:00-18:00
 website: ""

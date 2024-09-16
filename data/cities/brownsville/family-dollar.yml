@@ -1,11 +1,11 @@
 id: 736665454
-type: way
+type: node
 latitude: 26.01682
 longitude: -97.53167
 postcode: "78575"
 city: Brownsville
-street: "Anacua Street"
-housenumber: 9605
+street: Anacua Street
+housenumber: "9605"
 phone: ""
 opening_hours: ""
 website: ""

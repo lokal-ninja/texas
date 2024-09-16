@@ -4,8 +4,8 @@ latitude: 32.82799
 longitude: -96.85862
 postcode: "75235"
 city: Dallas
-street: "Empire Central Drive"
-housenumber: 1835
+street: Empire Central Drive
+housenumber: "1835"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

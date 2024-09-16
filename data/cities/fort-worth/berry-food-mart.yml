@@ -1,11 +1,11 @@
 id: 504049275
-type: way
+type: node
 latitude: 32.7133
 longitude: -97.27737
 postcode: "76119"
 city: Fort Worth
-street: "East Berry Street"
-housenumber: 3300
+street: East Berry Street
+housenumber: "3300"
 phone: ""
 opening_hours: ""
 website: ""

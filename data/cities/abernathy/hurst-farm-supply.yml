@@ -1,11 +1,11 @@
 id: 958505118
-type: way
+type: node
 latitude: 33.82524
 longitude: -101.84408
 postcode: "79311"
 city: Abernathy
-street: "Avenue D"
-housenumber: 105
+street: Avenue D
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

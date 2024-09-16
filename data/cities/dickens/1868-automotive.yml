@@ -1,11 +1,11 @@
 id: 707932314
-type: way
+type: node
 latitude: 33.6217
 longitude: -100.83944
 postcode: "79229"
 city: Dickens
-street: "5th Street"
-housenumber: 1111
+street: 5th Street
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

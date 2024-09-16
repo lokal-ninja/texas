@@ -1,11 +1,11 @@
 id: 553098231
-type: way
+type: node
 latitude: 30.34772
 longitude: -97.38493
 postcode: "78621"
 city: Elgin
-street: "Lee Dildy Boulevard"
-housenumber: 910
-phone: "+1-512-285-6017"
-opening_hours: "10:00-22:00"
-website: "https://www.cricketwireless.com/"
+street: Lee Dildy Boulevard
+housenumber: "910"
+phone: +1-512-285-6017
+opening_hours: 10:00-22:00
+website: https://www.cricketwireless.com/

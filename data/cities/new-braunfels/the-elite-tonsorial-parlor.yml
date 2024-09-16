@@ -1,11 +1,11 @@
 id: 949809354
-type: way
+type: node
 latitude: 29.7018
 longitude: -98.12604
 postcode: "78130"
 city: New Braunfels
-street: "West San Antonio Street"
-housenumber: 226
+street: West San Antonio Street
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 402251248
-type: way
+type: node
 latitude: 29.43784
 longitude: -97.17884
 postcode: "77984"
 city: Shiner
-street: "East 16th Street"
-housenumber: 201
-phone: "+1 361-594-3123"
+street: East 16th Street
+housenumber: "201"
+phone: +1 361-594-3123
 opening_hours: ""
-website: "https://www.boehmtractor.com/"
+website: https://www.boehmtractor.com/

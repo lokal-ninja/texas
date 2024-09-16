@@ -1,11 +1,11 @@
 id: 1133291662
-type: way
+type: node
 latitude: 32.67131
 longitude: -97.47024
 postcode: "76126"
 city: Benbrook
-street: "Benbrook Boulevard"
-housenumber: 9249
-phone: "+1-817-249-5505"
+street: Benbrook Boulevard
+housenumber: "9249"
+phone: +1-817-249-5505
 opening_hours: ""
-website: "https://www.tractorsupply.com/"
+website: https://www.tractorsupply.com/

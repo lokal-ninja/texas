@@ -1,11 +1,11 @@
 id: 650140056
-type: way
+type: node
 latitude: 33.00662
 longitude: -96.97431
 postcode: "75067"
 city: Lewisville
-street: "I-35E Frontage Road"
-housenumber: 2385
-phone: "+1-972-315-3899"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
+street: I-35E Frontage Road
+housenumber: "2385"
+phone: +1-972-315-3899
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
 website: ""

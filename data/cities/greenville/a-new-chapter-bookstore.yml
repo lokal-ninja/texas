@@ -1,11 +1,11 @@
 id: 715964045
-type: way
+type: node
 latitude: 33.05176
 longitude: -96.10889
 postcode: "75402"
 city: Greenville
-street: "Taylor Plaza Drive"
-housenumber: 111
-phone: "+1-903-454-9199"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.2018anewchapter.com"
+street: Taylor Plaza Drive
+housenumber: "111"
+phone: +1-903-454-9199
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.2018anewchapter.com

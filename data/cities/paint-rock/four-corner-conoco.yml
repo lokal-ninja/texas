@@ -1,11 +1,11 @@
 id: 1294745022
-type: way
+type: node
 latitude: 31.55929
 longitude: -99.92197
 postcode: "76866"
 city: Paint Rock
-street: "US 83"
-housenumber: 22693
-phone: "+1 325 7322042"
-opening_hours: "Mo-Sa: 06:00-22:00; Su: 07:00-22:00"
-website: "https://www.fourcornerconoco.com/"
+street: US 83
+housenumber: "22693"
+phone: +1 325 7322042
+opening_hours: 'Mo-Sa: 06:00-22:00; Su: 07:00-22:00'
+website: https://www.fourcornerconoco.com/

@@ -1,11 +1,11 @@
 id: 583443038
-type: way
+type: node
 latitude: 29.52129
 longitude: -98.47615
 postcode: "78216"
 city: San Antonio
-street: "Airport Boulevard"
-housenumber: 8922
+street: Airport Boulevard
+housenumber: "8922"
 phone: ""
 opening_hours: ""
 website: ""

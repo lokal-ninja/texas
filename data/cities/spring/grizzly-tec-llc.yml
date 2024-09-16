@@ -4,8 +4,8 @@ latitude: 30.12453
 longitude: -95.42568
 postcode: "77386"
 city: Spring
-street: "Rayford Park Rd Suite 364"
-housenumber: 1310
-phone: "713-562-0662"
-opening_hours: "Mon - Fri : 9:00 AM - 6:00 PM,Sat : 9:00 AM - 2:00 PM"
-website: "https://grizzlytec.com/"
+street: Rayford Park Rd Suite 364
+housenumber: "1310"
+phone: 713-562-0662
+opening_hours: 'Mon - Fri : 9:00 AM - 6:00 PM,Sat : 9:00 AM - 2:00 PM'
+website: https://grizzlytec.com/

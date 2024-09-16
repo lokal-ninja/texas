@@ -1,11 +1,11 @@
 id: 667757975
-type: way
+type: node
 latitude: 32.52677
 longitude: -97.33806
 postcode: "76028"
 city: Burleson
-street: "Southwest Wilshire Boulevard"
-housenumber: 951
-phone: "+1 817-572-9574"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/220/burleson-tx/whats-new"
+street: Southwest Wilshire Boulevard
+housenumber: "951"
+phone: +1 817-572-9574
+opening_hours: 24/7
+website: https://www.walmart.com/store/220/burleson-tx/whats-new

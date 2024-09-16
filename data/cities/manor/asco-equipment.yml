@@ -1,11 +1,11 @@
 id: 382832351
-type: way
+type: node
 latitude: 30.34907
 longitude: -97.52558
 postcode: "78653"
 city: Manor
-street: "US Highway 290"
-housenumber: 12805
+street: US Highway 290
+housenumber: "12805"
 phone: ""
 opening_hours: ""
 website: ""

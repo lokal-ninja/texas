@@ -1,11 +1,11 @@
 id: 764683618
-type: way
+type: node
 latitude: 33.74589
 longitude: -96.53688
 postcode: "75020"
 city: Denison
-street: "South Austin Avenue"
-housenumber: 1010
+street: South Austin Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/denison/autoparts-310.html"
+website: https://locations.oreillyauto.com/tx/denison/autoparts-310.html

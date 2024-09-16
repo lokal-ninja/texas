@@ -4,8 +4,8 @@ latitude: 29.74714
 longitude: -95.46161
 postcode: "77056"
 city: Houston
-street: "Post Oak Boulevard"
-housenumber: 1800
-phone: "+1-713-622-6275"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "http://stores.newbalance.com/houston"
+street: Post Oak Boulevard
+housenumber: "1800"
+phone: +1-713-622-6275
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: http://stores.newbalance.com/houston

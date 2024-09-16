@@ -1,11 +1,11 @@
 id: 667700616
-type: way
+type: node
 latitude: 32.73336
 longitude: -97.78354
 postcode: "76086"
 city: Weatherford
-street: "Adams Drive"
-housenumber: 735
+street: Adams Drive
+housenumber: "735"
 phone: ""
 opening_hours: ""
 website: ""

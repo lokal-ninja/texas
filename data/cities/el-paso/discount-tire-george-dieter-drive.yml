@@ -1,11 +1,11 @@
 id: 568338236
-type: way
+type: node
 latitude: 31.72943
 longitude: -106.3017
 postcode: "79936"
 city: El Paso
-street: "George Dieter Drive"
-housenumber: 1370
-phone: "+1-915-921-9660"
+street: George Dieter Drive
+housenumber: "1370"
+phone: +1-915-921-9660
 opening_hours: ""
 website: ""

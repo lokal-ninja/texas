@@ -1,11 +1,11 @@
 id: 316352286
-type: way
+type: node
 latitude: 29.84858
 longitude: -95.36291
 postcode: "77076"
 city: Houston
-street: "Irvington Boulevard"
-housenumber: 9605
+street: Irvington Boulevard
+housenumber: "9605"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1267299576
-type: way
+type: node
 latitude: 31.73122
 longitude: -98.97702
 postcode: "76801"
 city: Brownwood
-street: "East Commerce Street"
-housenumber: 300
+street: East Commerce Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

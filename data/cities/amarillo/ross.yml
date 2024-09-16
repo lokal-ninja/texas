@@ -1,11 +1,11 @@
 id: 178594989
-type: way
+type: node
 latitude: 35.17948
 longitude: -101.93991
 postcode: "79124"
 city: Amarillo
-street: "South Soncy Road"
-housenumber: 3030
-phone: "+1 806-355-8901"
-opening_hours: "Mo-Th 09:30-22:00; Fr-Sa 09:00-22:00; Su 09:30-22:00"
-website: "https://www.rossstores.com/"
+street: South Soncy Road
+housenumber: "3030"
+phone: +1 806-355-8901
+opening_hours: Mo-Th 09:30-22:00; Fr-Sa 09:00-22:00; Su 09:30-22:00
+website: https://www.rossstores.com/

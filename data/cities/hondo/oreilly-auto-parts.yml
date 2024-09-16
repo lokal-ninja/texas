@@ -4,8 +4,8 @@ latitude: 29.34701
 longitude: -99.13978
 postcode: "78861"
 city: Hondo
-street: "19th Street"
-housenumber: 1003
+street: 19th Street
+housenumber: "1003"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/hondo/autoparts-1988.html"
+website: https://locations.oreillyauto.com/tx/hondo/autoparts-1988.html

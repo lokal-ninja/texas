@@ -1,11 +1,11 @@
 id: 455198895
-type: way
+type: node
 latitude: 33.55729
 longitude: -101.93951
 postcode: "79407"
 city: Lubbock
-street: "Frankford Avenue"
-housenumber: 4103
+street: Frankford Avenue
+housenumber: "4103"
 phone: ""
 opening_hours: ""
 website: ""

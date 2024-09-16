@@ -1,11 +1,11 @@
 id: 669847858
-type: way
+type: node
 latitude: 29.82798
 longitude: -94.84993
 postcode: "77523"
 city: Mont Belvieu
-street: "East Freeway"
-housenumber: 13401
-phone: "+1-281-576-3500"
-opening_hours: "Mo-Su 04:00-23:00"
+street: East Freeway
+housenumber: "13401"
+phone: +1-281-576-3500
+opening_hours: Mo-Su 04:00-23:00
 website: ""

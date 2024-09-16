@@ -1,11 +1,11 @@
 id: 428095801
-type: way
+type: node
 latitude: 29.74491
 longitude: -95.38959
 postcode: "77006"
 city: Houston
-street: "Westheimer Road"
-housenumber: 616
+street: Westheimer Road
+housenumber: "616"
 phone: ""
-opening_hours: "24/7"
-website: "https://katzsneverkloses.com"
+opening_hours: 24/7
+website: https://katzsneverkloses.com

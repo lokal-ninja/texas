@@ -1,11 +1,11 @@
 id: 1226635257
-type: way
+type: node
 latitude: 29.80706
 longitude: -95.54468
 postcode: "77080"
 city: Houston
-street: "Gessner Road"
-housenumber: 1918
+street: Gessner Road
+housenumber: "1918"
 phone: ""
 opening_hours: ""
-website: "https://www.metrostorage.com/locations/tx/houston/metro-self-storage-houston-gessner/"
+website: https://www.metrostorage.com/locations/tx/houston/metro-self-storage-houston-gessner/

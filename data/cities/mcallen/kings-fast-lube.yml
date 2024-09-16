@@ -1,11 +1,11 @@
 id: 955967070
-type: way
+type: node
 latitude: 26.27255
 longitude: -98.23914
 postcode: "78504"
 city: McAllen
-street: "Trenton Road"
-housenumber: 2600
+street: Trenton Road
+housenumber: "2600"
 phone: "+19569929700"
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

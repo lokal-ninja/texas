@@ -1,11 +1,11 @@
 id: 408215115
-type: way
+type: node
 latitude: 31.34342
 longitude: -94.71912
 postcode: "75901"
 city: Lufkin
-street: "North Timberland Drive"
-housenumber: 601
-phone: "+1 936 634 1044"
+street: North Timberland Drive
+housenumber: "601"
+phone: +1 936 634 1044
 opening_hours: ""
-website: "https://www.instacashpawn.com/"
+website: https://www.instacashpawn.com/

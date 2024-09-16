@@ -1,11 +1,11 @@
 id: 734270319
-type: way
+type: node
 latitude: 32.25858
 longitude: -101.45334
 postcode: "79720"
 city: Big Spring
-street: "Birdwell Lane"
-housenumber: 401
+street: Birdwell Lane
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

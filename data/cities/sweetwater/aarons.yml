@@ -1,11 +1,11 @@
 id: 569469970
-type: way
+type: node
 latitude: 32.45453
 longitude: -100.39111
 postcode: "79556"
 city: Sweetwater
-street: "Northeast Georgia Avenue"
-housenumber: 411
+street: Northeast Georgia Avenue
+housenumber: "411"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/tx/sweetwater/411-ne-georgia-ave"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/tx/sweetwater/411-ne-georgia-ave

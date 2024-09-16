@@ -1,11 +1,11 @@
 id: 201983465
-type: way
+type: node
 latitude: 30.62183
 longitude: -97.68346
 postcode: "78626"
 city: Georgetown
-street: "Leander Road"
-housenumber: 300
-phone: "+1-512-930-5050"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.bldr.com/"
+street: Leander Road
+housenumber: "300"
+phone: +1-512-930-5050
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.bldr.com/

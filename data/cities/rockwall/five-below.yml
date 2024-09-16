@@ -1,11 +1,11 @@
 id: 850251819
-type: way
+type: node
 latitude: 32.90554
 longitude: -96.44991
 postcode: "75087"
 city: Rockwall
-street: "East Interstate 30"
-housenumber: 1047
+street: East Interstate 30
+housenumber: "1047"
 phone: ""
 opening_hours: ""
 website: ""

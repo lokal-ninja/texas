@@ -1,11 +1,11 @@
 id: 793656717
-type: way
+type: node
 latitude: 35.67734
 longitude: -101.3828
 postcode: "79007"
 city: Borger
-street: "East 10th Street"
-housenumber: 616
+street: East 10th Street
+housenumber: "616"
 phone: ""
 opening_hours: ""
 website: ""

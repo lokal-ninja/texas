@@ -1,11 +1,11 @@
 id: 129924990
-type: way
+type: node
 latitude: 29.78673
 longitude: -95.53103
-postcode: "77055-6322"
+postcode: 77055-6322
 city: Houston
-street: "Katy Freeway"
-housenumber: 9666
-phone: "+1 713-490-1796"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/tx/houston/2719"
+street: Katy Freeway
+housenumber: "9666"
+phone: +1 713-490-1796
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/tx/houston/2719

@@ -1,11 +1,11 @@
 id: 383203410
-type: way
+type: node
 latitude: 32.53862
 longitude: -94.76078
 postcode: "75605"
 city: Longview
-street: "West Loop 281"
-housenumber: 422
+street: West Loop 281
+housenumber: "422"
 phone: ""
 opening_hours: ""
 website: ""

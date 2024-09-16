@@ -1,11 +1,11 @@
 id: 1216155825
-type: way
+type: node
 latitude: 29.26417
 longitude: -95.44981
 postcode: "77515"
 city: Angleton
-street: "North Business State Highway 288"
-housenumber: 22679
+street: North Business State Highway 288
+housenumber: "22679"
 phone: ""
 opening_hours: ""
 website: ""

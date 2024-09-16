@@ -1,11 +1,11 @@
 id: 817892209
-type: way
+type: node
 latitude: 30.02897
 longitude: -95.43273
 postcode: "77090"
 city: Houston
-street: "Hollow Tree Lane"
-housenumber: 90
+street: Hollow Tree Lane
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

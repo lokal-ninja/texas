@@ -1,11 +1,11 @@
 id: 315701229
-type: way
+type: node
 latitude: 32.71003
 longitude: -97.00469
 postcode: "75051"
 city: Grand Prairie
-street: "Pioneer Parkway"
-housenumber: 180
-phone: "+1-972-266-0320"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: Pioneer Parkway
+housenumber: "180"
+phone: +1-972-266-0320
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

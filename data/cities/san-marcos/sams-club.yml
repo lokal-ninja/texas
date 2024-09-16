@@ -1,11 +1,11 @@
 id: 197566000
-type: way
+type: node
 latitude: 29.8507
 longitude: -97.95327
 postcode: "78666"
 city: San Marcos
-street: "Leah Avenue"
-housenumber: 1350
-phone: "+1 512-392-1963"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/san-marcos-tx-sams-club/4958"
+street: Leah Avenue
+housenumber: "1350"
+phone: +1 512-392-1963
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/san-marcos-tx-sams-club/4958

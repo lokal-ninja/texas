@@ -4,8 +4,8 @@ latitude: 32.99086
 longitude: -96.97989
 postcode: "75067"
 city: Lewisville
-street: "State Highway 121"
-housenumber: 405
-phone: "+1 469-895-6888"
-opening_hours: "Mo-Su 09:00-22:00"
+street: State Highway 121
+housenumber: "405"
+phone: +1 469-895-6888
+opening_hours: Mo-Su 09:00-22:00
 website: ""

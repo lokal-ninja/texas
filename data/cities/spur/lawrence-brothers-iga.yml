@@ -1,11 +1,11 @@
 id: 1131873605
-type: way
+type: node
 latitude: 33.47946
 longitude: -100.85443
 postcode: "79370"
 city: Spur
-street: "Burlington Avenue"
-housenumber: 601
-phone: "+1-806-271-4372"
-opening_hours: "08:00-19:00"
-website: "https://www.lawrencebros.com"
+street: Burlington Avenue
+housenumber: "601"
+phone: +1-806-271-4372
+opening_hours: 08:00-19:00
+website: https://www.lawrencebros.com

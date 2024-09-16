@@ -1,11 +1,11 @@
 id: 964461363
-type: way
+type: node
 latitude: 32.61069
 longitude: -99.81949
 postcode: "79525"
 city: Hawley
-street: "East Access Road"
-housenumber: 510
+street: East Access Road
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

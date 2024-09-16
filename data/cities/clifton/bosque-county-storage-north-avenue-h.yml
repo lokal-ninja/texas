@@ -1,11 +1,11 @@
 id: 1263955174
-type: way
+type: node
 latitude: 31.78862
 longitude: -97.58197
 postcode: "76634"
 city: Clifton
-street: "North Avenue H"
-housenumber: 714
-phone: "+1-254-386-7721"
+street: North Avenue H
+housenumber: "714"
+phone: +1-254-386-7721
 opening_hours: ""
-website: "https://www.bosquecountystorage.net"
+website: https://www.bosquecountystorage.net

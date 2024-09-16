@@ -1,11 +1,11 @@
 id: 1100740586
-type: way
+type: node
 latitude: 29.6478
 longitude: -95.46133
 postcode: "77035"
 city: Houston
-street: "South Main Street"
-housenumber: 12311
+street: South Main Street
+housenumber: "12311"
 phone: ""
 opening_hours: ""
 website: ""

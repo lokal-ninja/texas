@@ -1,11 +1,11 @@
 id: 1097759392
-type: way
+type: node
 latitude: 31.56159
 longitude: -100.27599
 postcode: "76861"
 city: Miles
-street: "Thompson Road"
-housenumber: 8150
+street: Thompson Road
+housenumber: "8150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 31.82515
 longitude: -102.35289
 postcode: "79766"
 city: Odessa
-street: "US-385"
-housenumber: 2001
-phone: "469-945-6612"
-opening_hours: "24/7"
-website: "https://www.chsoilfield.com/location/odessa-tx-north-lodging/"
+street: US-385
+housenumber: "2001"
+phone: 469-945-6612
+opening_hours: 24/7
+website: https://www.chsoilfield.com/location/odessa-tx-north-lodging/

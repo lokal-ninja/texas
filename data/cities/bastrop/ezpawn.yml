@@ -1,11 +1,11 @@
 id: 904331348
-type: way
+type: node
 latitude: 30.10641
 longitude: -97.33036
 postcode: "78602"
 city: Bastrop
-street: "State Highway 71 West"
-housenumber: 311
-phone: "+1-512-303-9337"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 12:00-17:00"
-website: "https://ezpawn.com"
+street: State Highway 71 West
+housenumber: "311"
+phone: +1-512-303-9337
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 12:00-17:00
+website: https://ezpawn.com

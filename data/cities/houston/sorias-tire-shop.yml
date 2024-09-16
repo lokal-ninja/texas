@@ -1,11 +1,11 @@
 id: 1088665986
-type: way
+type: node
 latitude: 29.69633
 longitude: -95.27807
 postcode: ""
 city: Houston
-street: "Broadway Street"
-housenumber: 3002
+street: Broadway Street
+housenumber: "3002"
 phone: ""
 opening_hours: ""
 website: ""

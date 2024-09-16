@@ -1,11 +1,11 @@
 id: 304802747
-type: way
+type: node
 latitude: 30.03159
 longitude: -95.43031
 postcode: "77090"
 city: Houston
-street: "North Freeway"
-housenumber: 18205
-phone: "+1 844-896-1938"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.landrovernorth.net/"
+street: North Freeway
+housenumber: "18205"
+phone: +1 844-896-1938
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.landrovernorth.net/

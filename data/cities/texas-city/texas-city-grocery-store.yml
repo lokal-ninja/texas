@@ -1,11 +1,11 @@
 id: 1019630081
-type: way
+type: node
 latitude: 29.40896
 longitude: -94.95607
 postcode: "77590"
 city: Texas City
-street: "State Highway 146 North"
-housenumber: 2520
+street: State Highway 146 North
+housenumber: "2520"
 phone: ""
 opening_hours: ""
 website: ""

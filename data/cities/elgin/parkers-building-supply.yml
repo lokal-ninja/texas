@@ -1,11 +1,11 @@
 id: 382104679
-type: way
+type: node
 latitude: 30.35393
 longitude: -97.3854
 postcode: "78621"
 city: Elgin
-street: "State Highway 95 North"
-housenumber: 224
-phone: "+1 512-285-3431"
-opening_hours: "Mo-Sa 07:00-18:00; Su 09:00-17:00"
+street: State Highway 95 North
+housenumber: "224"
+phone: +1 512-285-3431
+opening_hours: Mo-Sa 07:00-18:00; Su 09:00-17:00
 website: ""

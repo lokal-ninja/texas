@@ -1,11 +1,11 @@
 id: 1055816031
-type: way
+type: node
 latitude: 33.114
 longitude: -94.16461
 postcode: "75551"
 city: Atlanta
-street: "East Main Street"
-housenumber: 113
+street: East Main Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 477226185
-type: way
+type: node
 latitude: 29.40243
 longitude: -95.24836
 postcode: "77511"
 city: Alvin
-street: "Farm-to-Market Road 1462"
-housenumber: 1204
+street: Farm-to-Market Road 1462
+housenumber: "1204"
 phone: ""
 opening_hours: ""
 website: ""

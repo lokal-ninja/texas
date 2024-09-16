@@ -1,11 +1,11 @@
 id: 645466182
-type: way
+type: node
 latitude: 32.93355
 longitude: -96.68013
 postcode: "75044"
 city: Garland
-street: "Jupiter Road"
-housenumber: 2140
-phone: "+1 972-496-5292"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Richardson/TX/Garland/75044/556"
+street: Jupiter Road
+housenumber: "2140"
+phone: +1 972-496-5292
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Richardson/TX/Garland/75044/556

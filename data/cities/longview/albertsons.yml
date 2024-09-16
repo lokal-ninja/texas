@@ -1,11 +1,11 @@
 id: 386428204
-type: way
+type: node
 latitude: 32.54286
 longitude: -94.75553
 postcode: "75605"
 city: Longview
-street: "McCann Road"
-housenumber: 3603
-phone: "+1 903-663-2082"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/tx/longview/3603-mccann-rd.html"
+street: McCann Road
+housenumber: "3603"
+phone: +1 903-663-2082
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/tx/longview/3603-mccann-rd.html

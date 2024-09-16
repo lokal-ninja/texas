@@ -4,8 +4,8 @@ latitude: 30.34819
 longitude: -97.7341
 postcode: "78757"
 city: Austin
-street: "Burnet Road #200N"
-housenumber: 7301
-phone: "+1-512-323-6181"
+street: 'Burnet Road #200N'
+housenumber: "7301"
+phone: +1-512-323-6181
 opening_hours: ""
-website: "https://thecomfortstoreonline.com/"
+website: https://thecomfortstoreonline.com/

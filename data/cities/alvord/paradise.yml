@@ -1,11 +1,11 @@
 id: 501095217
-type: way
+type: node
 latitude: 33.34147
 longitude: -97.67964
 postcode: "76225"
 city: Alvord
-street: "North US Highway 287"
-housenumber: 5985
+street: North US Highway 287
+housenumber: "5985"
 phone: ""
 opening_hours: ""
 website: ""

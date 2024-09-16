@@ -1,11 +1,11 @@
 id: 93655935
-type: way
+type: node
 latitude: 29.76597
 longitude: -96.15296
 postcode: ""
 city: Sealy
-street: "Meyer Street"
-housenumber: 1808
+street: Meyer Street
+housenumber: "1808"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1808+meyer+st-sealy-tx-77474/id=10681"
+website: https://www.walgreens.com/locator/walgreens-1808+meyer+st-sealy-tx-77474/id=10681

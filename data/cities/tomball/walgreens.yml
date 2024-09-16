@@ -1,11 +1,11 @@
 id: 1071382996
-type: way
+type: node
 latitude: 30.08713
 longitude: -95.63145
 postcode: ""
 city: Tomball
-street: "Tomball Parkway"
-housenumber: 28426
+street: Tomball Parkway
+housenumber: "28426"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-28426+state+highway+249-tomball-tx-77375/id=3233"
+website: https://www.walgreens.com/locator/walgreens-28426+state+highway+249-tomball-tx-77375/id=3233

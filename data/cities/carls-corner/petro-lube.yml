@@ -1,11 +1,11 @@
 id: 761152599
-type: way
+type: node
 latitude: 32.08037
 longitude: -97.05214
 postcode: "76645"
 city: Carl's Corner
-street: "Autumn Way"
-housenumber: 100
+street: Autumn Way
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

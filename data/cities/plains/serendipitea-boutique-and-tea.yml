@@ -1,11 +1,11 @@
 id: 715631135
-type: way
+type: node
 latitude: 33.1899
 longitude: -102.83086
 postcode: "79355"
 city: Plains
-street: "Avenue E"
-housenumber: 812
+street: Avenue E
+housenumber: "812"
 phone: ""
 opening_hours: ""
 website: ""

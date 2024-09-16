@@ -1,11 +1,11 @@
 id: 714600408
-type: way
+type: node
 latitude: 32.63521
 longitude: -96.45784
 postcode: "75114"
 city: Crandall
-street: "US Highway 175"
-housenumber: 1011
+street: US Highway 175
+housenumber: "1011"
 phone: ""
 opening_hours: ""
 website: ""

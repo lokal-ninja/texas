@@ -1,11 +1,11 @@
 id: 1229484820
-type: way
+type: node
 latitude: 35.15816
 longitude: -101.90282
 postcode: "79109"
 city: Amarillo
-street: "Bell Street"
-housenumber: 4712
-phone: "+1 806-359-7555"
+street: Bell Street
+housenumber: "4712"
+phone: +1 806-359-7555
 opening_hours: ""
-website: "https://waterstill.com/"
+website: https://waterstill.com/

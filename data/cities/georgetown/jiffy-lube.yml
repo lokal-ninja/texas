@@ -1,11 +1,11 @@
 id: 750548714
-type: way
+type: node
 latitude: 30.66004
 longitude: -97.68994
 postcode: "78628"
 city: Georgetown
-street: "Williams Drive"
-housenumber: 2504
-phone: "+1-512-869-1424"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.jiffylube.com"
+street: Williams Drive
+housenumber: "2504"
+phone: +1-512-869-1424
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.jiffylube.com

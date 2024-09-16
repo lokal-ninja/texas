@@ -1,11 +1,11 @@
 id: 1136886030
-type: way
+type: node
 latitude: 30.23619
 longitude: -98.65902
 postcode: "78671"
 city: Stonewall
-street: "East US Highway 290"
-housenumber: 14780
+street: East US Highway 290
+housenumber: "14780"
 phone: ""
 opening_hours: ""
 website: ""

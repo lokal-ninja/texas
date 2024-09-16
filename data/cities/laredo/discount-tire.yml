@@ -1,11 +1,11 @@
 id: 667604254
-type: way
+type: node
 latitude: 27.61196
 longitude: -99.46804
 postcode: "78045"
 city: Laredo
-street: "Bob Bullock Loop"
-housenumber: 2515
-phone: "+1-956-229-6840"
+street: Bob Bullock Loop
+housenumber: "2515"
+phone: +1-956-229-6840
 opening_hours: ""
 website: ""

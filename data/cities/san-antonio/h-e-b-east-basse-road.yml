@@ -1,11 +1,11 @@
 id: 284675914
-type: way
+type: node
 latitude: 29.49799
 longitude: -98.46804
 postcode: "78209"
 city: San Antonio
-street: "East Basse Road"
-housenumber: 999
-phone: "+1-210-822-0156"
+street: East Basse Road
+housenumber: "999"
+phone: +1-210-822-0156
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 466717078
-type: way
+type: node
 latitude: 32.70131
 longitude: -96.83482
 postcode: "75224"
 city: Dallas
-street: "Fawn Ridge Drive"
-housenumber: 777
+street: Fawn Ridge Drive
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

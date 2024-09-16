@@ -1,11 +1,11 @@
 id: 479203822
-type: way
+type: node
 latitude: 32.88331
 longitude: -97.38751
 postcode: "76179"
 city: Saginaw
-street: "North Saginaw Boulevard"
-housenumber: 1401
-phone: "+1 817-306-1468"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5316/saginaw-tx/whats-new"
+street: North Saginaw Boulevard
+housenumber: "1401"
+phone: +1 817-306-1468
+opening_hours: 24/7
+website: https://www.walmart.com/store/5316/saginaw-tx/whats-new

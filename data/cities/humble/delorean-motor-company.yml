@@ -1,11 +1,11 @@
 id: 396922269
-type: way
+type: node
 latitude: 29.93848
 longitude: -95.29028
 postcode: "77396"
 city: Humble
-street: "Eddie Drive"
-housenumber: 15023
-phone: "+1 281 441 2537"
+street: Eddie Drive
+housenumber: "15023"
+phone: +1 281 441 2537
 opening_hours: ""
-website: "https://www.delorean.com/"
+website: https://www.delorean.com/

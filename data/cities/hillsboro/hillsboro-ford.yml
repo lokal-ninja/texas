@@ -1,11 +1,11 @@
 id: 439648748
-type: way
+type: node
 latitude: 32.00456
 longitude: -97.0975
 postcode: "76645"
 city: Hillsboro
-street: "Southwest I-35 Frontage Road"
-housenumber: 404
+street: Southwest I-35 Frontage Road
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
-id: 128369486
-type: way
-latitude: 32.88132
-longitude: -96.96339
-postcode: ""
+id: 29501111
+type: node
+latitude: 32.94124
+longitude: -96.9528
+postcode: "75063"
 city: Irving
-street: "North Macarthur Boulevard"
-housenumber: 5310
+street: North MacArthur Boulevard
+housenumber: "10001"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa,Su 08:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-5310+n+macarthur+blvd-irving-tx-75038/id=3847"
+opening_hours: ""
+website: https://www.walgreens.com/locator/walgreens-10001+n+macarthur+blvd-irving-tx-75063/id=3921

@@ -1,11 +1,11 @@
 id: 701973992
-type: way
+type: node
 latitude: 31.03752
 longitude: -104.85529
 postcode: "79855"
 city: Van Horn
-street: "West Broadway Street"
-housenumber: 1807
+street: West Broadway Street
+housenumber: "1807"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 906721529
-type: way
+type: node
 latitude: 30.10434
 longitude: -97.33418
 postcode: "78602"
 city: Bastrop
-street: "Agnes Street"
-housenumber: 494
-phone: "+1-512-321-4565"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-16:00"
-website: "https://www.cometcleaners.com/"
+street: Agnes Street
+housenumber: "494"
+phone: +1-512-321-4565
+opening_hours: Mo-Fr 07:00-21:00; Sa 08:00-16:00
+website: https://www.cometcleaners.com/

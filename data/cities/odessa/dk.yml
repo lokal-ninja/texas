@@ -1,11 +1,11 @@
 id: 1086567255
-type: way
+type: node
 latitude: 31.83562
 longitude: -102.40949
 postcode: "79763"
 city: Odessa
-street: "West 8th Street"
-housenumber: 3360
+street: West 8th Street
+housenumber: "3360"
 phone: ""
 opening_hours: ""
 website: ""

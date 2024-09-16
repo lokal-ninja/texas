@@ -1,11 +1,11 @@
 id: 714106316
-type: way
+type: node
 latitude: 32.75349
 longitude: -96.47233
 postcode: "75126"
 city: Forney
-street: "West Broad Street"
-housenumber: 410
+street: West Broad Street
+housenumber: "410"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/forney/7595"
+website: https://www.dollargeneral.com/store-directory/tx/forney/7595

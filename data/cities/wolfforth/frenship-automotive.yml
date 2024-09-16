@@ -1,11 +1,11 @@
 id: 470455990
-type: way
+type: node
 latitude: 33.50463
 longitude: -102.00609
 postcode: "79382"
 city: Wolfforth
-street: "East Highway 62"
-housenumber: 208
+street: East Highway 62
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

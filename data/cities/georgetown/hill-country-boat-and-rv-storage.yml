@@ -1,11 +1,12 @@
 id: 1224930982
-type: way
+type: node
 latitude: 30.73115
 longitude: -97.64077
 postcode: "78626"
 city: Georgetown
-street: "Interstate 35 Frontage Road"
-housenumber: 6200
-phone: "+1-512-843-0577"
-opening_hours: "Mo-Fr 09:00-17:00 open Office hours || Su-Sa 00:00-24:00 open Access hours"
-website: "https://www.hillcountryboatandrvstorage.com"
+street: Interstate 35 Frontage Road
+housenumber: "6200"
+phone: +1-512-843-0577
+opening_hours: Mo-Fr 09:00-17:00 open "Office hours" || Su-Sa 00:00-24:00 open "Access
+    hours"
+website: https://www.hillcountryboatandrvstorage.com

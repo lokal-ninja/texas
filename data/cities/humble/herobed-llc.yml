@@ -1,11 +1,11 @@
 id: 428377510
-type: way
+type: node
 latitude: 29.99849
 longitude: -95.16005
 postcode: "77346"
 city: Humble
-street: "FM 1960 East"
-housenumber: 7702
-phone: "+1-844-256-7876"
+street: FM 1960 East
+housenumber: "7702"
+phone: +1-844-256-7876
 opening_hours: ""
-website: "https://herobed.com/"
+website: https://herobed.com/

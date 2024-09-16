@@ -1,11 +1,11 @@
 id: 715928450
-type: way
+type: node
 latitude: 33.08586
 longitude: -96.10893
 postcode: "75402"
 city: Greenville
-street: "Wesley Street"
-housenumber: 8602
-phone: "+1 903-455-2043"
+street: Wesley Street
+housenumber: "8602"
+phone: +1 903-455-2043
 opening_hours: ""
-website: "https://www.crumptontv.com/"
+website: https://www.crumptontv.com/

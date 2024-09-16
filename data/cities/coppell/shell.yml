@@ -1,11 +1,11 @@
 id: 666753025
-type: way
+type: node
 latitude: 32.94388
 longitude: -97.02132
 postcode: "75019"
 city: Coppell
-street: "South Royal Lane"
-housenumber: 1000
+street: South Royal Lane
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

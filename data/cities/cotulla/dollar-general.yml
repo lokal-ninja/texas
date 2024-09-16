@@ -1,11 +1,11 @@
 id: 837508313
-type: way
+type: node
 latitude: 28.44136
 longitude: -99.23559
 postcode: "78014"
 city: Cotulla
-street: "North Main Street"
-housenumber: 512
+street: North Main Street
+housenumber: "512"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/cotulla/7840"
+website: https://www.dollargeneral.com/store-directory/tx/cotulla/7840

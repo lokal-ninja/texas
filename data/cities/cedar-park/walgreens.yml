@@ -1,11 +1,11 @@
 id: 29169777
-type: way
+type: node
 latitude: 30.51834
 longitude: -97.82785
 postcode: "78613"
 city: Cedar Park
-street: "North Bell Boulevard"
-housenumber: 710
-phone: "+1-512-250-0867"
-opening_hours: "06:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-710+n+bell+blvd-cedar+park-tx-78613/id=3342"
+street: North Bell Boulevard
+housenumber: "710"
+phone: +1-512-250-0867
+opening_hours: 06:00-24:00
+website: https://www.walgreens.com/locator/walgreens-710+n+bell+blvd-cedar+park-tx-78613/id=3342

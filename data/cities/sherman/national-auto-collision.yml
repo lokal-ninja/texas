@@ -1,11 +1,11 @@
 id: 853582204
-type: way
+type: node
 latitude: 33.64858
 longitude: -96.6098
 postcode: "75090"
 city: Sherman
-street: "East Sycamore Street"
-housenumber: 300
+street: East Sycamore Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

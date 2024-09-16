@@ -4,8 +4,8 @@ latitude: 32.94229
 longitude: -97.13201
 postcode: "76092"
 city: Southlake
-street: "State Street"
-housenumber: 180
-phone: "(817) 591-1633"
-opening_hours: "Mon-Fri: 8 AM–5 PM || Sat & Sun : Closed"
-website: "https://cmitsolutions.com/southlake-tx-1197/"
+street: State Street
+housenumber: "180"
+phone: (817) 591-1633
+opening_hours: 'Mon-Fri: 8 AM–5 PM || Sat & Sun : Closed'
+website: https://cmitsolutions.com/southlake-tx-1197/

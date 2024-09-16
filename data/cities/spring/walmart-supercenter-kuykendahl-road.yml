@@ -1,11 +1,11 @@
 id: 707043835
-type: way
+type: node
 latitude: 30.0776
 longitude: -95.51342
 postcode: "77379"
 city: Spring
-street: "Kuykendahl Road"
-housenumber: 21150
-phone: "+1 281-288-6437"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/5287"
+street: Kuykendahl Road
+housenumber: "21150"
+phone: +1 281-288-6437
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/5287

@@ -1,11 +1,11 @@
 id: 1120710291
-type: way
+type: node
 latitude: 33.83318
 longitude: -101.84157
 postcode: "79311"
 city: Abernathy
-street: "West Service Road"
-housenumber: 931
+street: West Service Road
+housenumber: "931"
 phone: ""
 opening_hours: ""
 website: ""

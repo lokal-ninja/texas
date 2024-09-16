@@ -1,11 +1,11 @@
 id: 1007846142
-type: way
+type: node
 latitude: 27.21906
 longitude: -98.14059
 postcode: "78355"
 city: Falfurrias
-street: "South US Highway 281"
-housenumber: 925
+street: South US Highway 281
+housenumber: "925"
 phone: ""
 opening_hours: ""
 website: ""

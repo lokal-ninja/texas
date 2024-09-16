@@ -1,11 +1,11 @@
 id: 468105589
-type: way
+type: node
 latitude: 32.30823
 longitude: -97.01277
 postcode: "76064"
 city: Maypearl
-street: "Main Street"
-housenumber: 109
-phone: "+1-972-435-2197"
+street: Main Street
+housenumber: "109"
+phone: +1-972-435-2197
 opening_hours: ""
 website: ""

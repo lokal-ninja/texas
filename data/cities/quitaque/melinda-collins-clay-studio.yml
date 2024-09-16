@@ -1,11 +1,11 @@
 id: 1064910882
-type: way
+type: node
 latitude: 34.36584
 longitude: -101.05763
 postcode: "79255"
 city: Quitaque
-street: "East Main Street"
-housenumber: 105
+street: East Main Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

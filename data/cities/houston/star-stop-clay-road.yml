@@ -1,11 +1,11 @@
 id: 971989193
-type: way
+type: node
 latitude: 29.83152
 longitude: -95.54631
 postcode: ""
 city: Houston
-street: "Clay Road"
-housenumber: 10231
+street: Clay Road
+housenumber: "10231"
 phone: ""
 opening_hours: ""
 website: ""

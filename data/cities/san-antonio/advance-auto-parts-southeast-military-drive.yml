@@ -1,11 +1,11 @@
 id: 673243220
-type: way
+type: node
 latitude: 29.35626
 longitude: -98.48503
 postcode: "78214"
 city: San Antonio
-street: "Southeast Military Drive"
-housenumber: 930
+street: Southeast Military Drive
+housenumber: "930"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/san-antonio/930-se-military-dr"
+website: https://stores.advanceautoparts.com/tx/san-antonio/930-se-military-dr

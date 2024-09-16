@@ -1,11 +1,11 @@
 id: 1107274361
-type: way
+type: node
 latitude: 32.95758
 longitude: -96.2929
 postcode: "75189"
 city: Royse City
-street: "Farm-to-Market Road 35"
-housenumber: 7252
-phone: "+1-972-636-3937"
-opening_hours: "Tu-Fr 07:00-17:00"
-website: "http://roysecityeyecare.com"
+street: Farm-to-Market Road 35
+housenumber: "7252"
+phone: +1-972-636-3937
+opening_hours: Tu-Fr 07:00-17:00
+website: http://roysecityeyecare.com

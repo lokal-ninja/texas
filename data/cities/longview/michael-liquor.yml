@@ -1,11 +1,11 @@
 id: 575199095
-type: way
+type: node
 latitude: 32.506
 longitude: -94.7482
 postcode: "75601"
 city: Longview
-street: "North Spur 63"
-housenumber: 510
-phone: "+1-903-553-9992"
+street: North Spur 63
+housenumber: "510"
+phone: +1-903-553-9992
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.159
 longitude: -97.79089
 postcode: "78748"
 city: Austin
-street: "South Interstate 35"
-housenumber: 9500
-phone: "+1-512-541-3823"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.jamesavery.com/custserv/store_details.jsp?storeId=754"
+street: South Interstate 35
+housenumber: "9500"
+phone: +1-512-541-3823
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=754

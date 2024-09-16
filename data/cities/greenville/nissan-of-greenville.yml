@@ -1,11 +1,11 @@
 id: 649282001
-type: way
+type: node
 latitude: 33.1048
 longitude: -96.1023
 postcode: "75402"
 city: Greenville
-street: "I-30 Frontage Road"
-housenumber: 6501
+street: I-30 Frontage Road
+housenumber: "6501"
 phone: ""
 opening_hours: ""
 website: ""

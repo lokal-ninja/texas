@@ -1,11 +1,11 @@
 id: 1160777153
-type: way
+type: node
 latitude: 32.11708
 longitude: -98.53454
 postcode: "76444"
 city: De Leon
-street: "East Navarro Avenue"
-housenumber: 100
+street: East Navarro Avenue
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

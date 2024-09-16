@@ -1,11 +1,11 @@
 id: 241575808
-type: way
+type: node
 latitude: 29.14585
 longitude: -95.64842
 postcode: "77486"
 city: West Columbia
-street: "East Brazos Avenue"
-housenumber: 110
-phone: "+1-979-345-6950"
+street: East Brazos Avenue
+housenumber: "110"
+phone: +1-979-345-6950
 opening_hours: ""
 website: ""

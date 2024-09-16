@@ -1,11 +1,11 @@
 id: 715597425
-type: way
+type: node
 latitude: 33.18339
 longitude: -102.81417
 postcode: "79355"
 city: Plains
-street: "Highway 82"
-housenumber: 1511
+street: Highway 82
+housenumber: "1511"
 phone: ""
 opening_hours: ""
 website: ""

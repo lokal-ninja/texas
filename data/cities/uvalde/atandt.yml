@@ -1,11 +1,11 @@
 id: 1064488272
-type: way
+type: node
 latitude: 29.23474
 longitude: -99.75209
 postcode: "78801"
 city: Uvalde
-street: "East Main Street"
-housenumber: 3190
+street: East Main Street
+housenumber: "3190"
 phone: ""
 opening_hours: ""
 website: ""

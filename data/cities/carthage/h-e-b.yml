@@ -1,11 +1,11 @@
 id: 256665690
-type: way
+type: node
 latitude: 32.15931
 longitude: -94.37311
 postcode: "75633"
 city: CARTHAGE
-street: "WEST LOOP 436"
-housenumber: 419
-phone: "+1-903-693-4952"
+street: WEST LOOP 436
+housenumber: "419"
+phone: +1-903-693-4952
 opening_hours: ""
 website: ""

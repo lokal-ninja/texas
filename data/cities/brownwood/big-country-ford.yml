@@ -1,11 +1,11 @@
 id: 734281632
-type: way
+type: node
 latitude: 31.72717
 longitude: -98.98433
 postcode: "76801"
 city: Brownwood
-street: "West Commerce Street"
-housenumber: 500
+street: West Commerce Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

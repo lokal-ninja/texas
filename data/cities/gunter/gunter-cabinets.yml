@@ -1,11 +1,11 @@
 id: 984560196
-type: way
+type: node
 latitude: 33.4514
 longitude: -96.74112
 postcode: "75058"
 city: Gunter
-street: "North 8th Street"
-housenumber: 520
+street: North 8th Street
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

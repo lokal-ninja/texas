@@ -1,11 +1,11 @@
 id: 877404700
-type: way
+type: node
 latitude: 33.16115
 longitude: -95.17864
 postcode: "75457"
 city: Mount Vernon
-street: "East Interstate 30"
-housenumber: 2306
+street: East Interstate 30
+housenumber: "2306"
 phone: ""
 opening_hours: ""
 website: ""

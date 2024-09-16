@@ -1,11 +1,11 @@
 id: 842090641
-type: way
+type: node
 latitude: 29.81092
 longitude: -95.39919
 postcode: ""
 city: Houston
-street: "Yale Street"
-housenumber: 2624
+street: Yale Street
+housenumber: "2624"
 phone: ""
 opening_hours: ""
 website: ""

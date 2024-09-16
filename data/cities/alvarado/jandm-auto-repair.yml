@@ -1,11 +1,11 @@
 id: 713991284
-type: way
+type: node
 latitude: 32.39639
 longitude: -97.21461
 postcode: "76009"
 city: Alvarado
-street: "South Parkway Drive"
-housenumber: 810
-phone: "+1-682-667-2488"
+street: South Parkway Drive
+housenumber: "810"
+phone: +1-682-667-2488
 opening_hours: ""
 website: ""

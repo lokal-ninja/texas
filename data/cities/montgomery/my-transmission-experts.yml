@@ -1,11 +1,11 @@
 id: 1190212133
-type: way
+type: node
 latitude: 30.38251
 longitude: -95.654
 postcode: "77356"
 city: Montgomery
-street: "TX-105"
-housenumber: 18849
-phone: "+1 936-230-5305"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.mytransmissionexperts.com/locations/montgomery-tx/"
+street: TX-105
+housenumber: "18849"
+phone: +1 936-230-5305
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.mytransmissionexperts.com/locations/montgomery-tx/

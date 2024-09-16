@@ -1,11 +1,11 @@
 id: 1216013688
-type: way
+type: node
 latitude: 30.07891
 longitude: -95.42028
 postcode: "77373"
 city: Spring
-street: "Gentry Street"
-housenumber: 318
-phone: "+1-713-999-9193"
+street: Gentry Street
+housenumber: "318"
+phone: +1-713-999-9193
 opening_hours: ""
-website: "https://blackhousecigars.com"
+website: https://blackhousecigars.com

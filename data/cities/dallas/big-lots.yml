@@ -4,8 +4,8 @@ latitude: 32.90869
 longitude: -96.8585
 postcode: "75234"
 city: Dallas
-street: "Forest Lane"
-housenumber: 3610
-phone: "+1 214-350-6419"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/tx/dallas/3610-forest-ln"
+street: Forest Lane
+housenumber: "3610"
+phone: +1 214-350-6419
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/tx/dallas/3610-forest-ln

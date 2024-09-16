@@ -1,11 +1,11 @@
 id: 745296904
-type: way
+type: node
 latitude: 32.80967
 longitude: -98.0942
 postcode: "76067"
 city: Mineral Wells
-street: "East Hubbard Street"
-housenumber: 2305
+street: East Hubbard Street
+housenumber: "2305"
 phone: ""
 opening_hours: ""
 website: ""

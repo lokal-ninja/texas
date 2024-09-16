@@ -1,11 +1,11 @@
 id: 547700053
-type: way
+type: node
 latitude: 32.91376
 longitude: -96.63805
 postcode: "75040"
 city: Garland
-street: "West State Street"
-housenumber: 605
-phone: "+1-972-485-8759"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.therapeutichealing.com/"
+street: West State Street
+housenumber: "605"
+phone: +1-972-485-8759
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.therapeutichealing.com/

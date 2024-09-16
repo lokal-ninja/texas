@@ -1,11 +1,11 @@
 id: 443530721
-type: way
+type: node
 latitude: 33.5377
 longitude: -101.94767
 postcode: "79424"
 city: Lubbock
-street: "Spur 327"
-housenumber: 6027
+street: Spur 327
+housenumber: "6027"
 phone: ""
 opening_hours: ""
 website: ""

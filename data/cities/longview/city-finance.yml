@@ -1,11 +1,11 @@
 id: 620532200
-type: way
+type: node
 latitude: 32.49505
 longitude: -94.73059
 postcode: "75601"
 city: Longview
-street: "East Methvin Street"
-housenumber: 709
+street: East Methvin Street
+housenumber: "709"
 phone: ""
 opening_hours: ""
 website: ""

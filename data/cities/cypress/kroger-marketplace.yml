@@ -1,11 +1,11 @@
 id: 740010552
-type: way
+type: node
 latitude: 29.91838
 longitude: -95.68997
 postcode: "77433"
 city: Cypress
-street: "Barker Cypress Road"
-housenumber: 9703
-phone: "+1 281-746-3649"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/tx/cypress/town-lake/034/00115"
+street: Barker Cypress Road
+housenumber: "9703"
+phone: +1 281-746-3649
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/tx/cypress/town-lake/034/00115

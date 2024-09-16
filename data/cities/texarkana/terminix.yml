@@ -1,11 +1,11 @@
 id: 732504688
-type: way
+type: node
 latitude: 33.43972
 longitude: -94.09794
 postcode: "75501"
 city: Texarkana
-street: "North Bishop Road"
-housenumber: 1625
+street: North Bishop Road
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

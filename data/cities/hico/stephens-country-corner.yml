@@ -1,11 +1,11 @@
 id: 765278358
-type: way
+type: node
 latitude: 31.98289
 longitude: -98.03455
 postcode: "76457"
 city: Hico
-street: "North 2nd Street"
-housenumber: 404
+street: North 2nd Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

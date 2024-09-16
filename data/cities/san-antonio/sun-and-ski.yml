@@ -1,11 +1,11 @@
 id: 477544970
-type: way
+type: node
 latitude: 29.61411
 longitude: -98.59855
 postcode: "78257"
 city: San Antonio
-street: "Worth Parkway"
-housenumber: 5811
-phone: "+1-210-485-3352"
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://www.sunandski.com/the-rim"
+street: Worth Parkway
+housenumber: "5811"
+phone: +1-210-485-3352
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-18:00
+website: https://www.sunandski.com/the-rim

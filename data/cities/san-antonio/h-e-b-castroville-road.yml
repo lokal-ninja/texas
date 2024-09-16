@@ -1,11 +1,11 @@
 id: 257655253
-type: way
+type: node
 latitude: 29.41841
 longitude: -98.55469
 postcode: "78237"
 city: San Antonio
-street: "Castroville Road"
-housenumber: 721
-phone: "+1-210-432-0949"
+street: Castroville Road
+housenumber: "721"
+phone: +1-210-432-0949
 opening_hours: ""
 website: ""

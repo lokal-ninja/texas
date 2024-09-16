@@ -1,11 +1,11 @@
 id: 518402376
-type: way
+type: node
 latitude: 33.21952
 longitude: -96.6394
 postcode: "75070"
 city: Mc Kinney
-street: "West University Drive"
-housenumber: 2050
-phone: "+1 214-491-1503"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/tx/mc-kinney/2296/"
+street: West University Drive
+housenumber: "2050"
+phone: +1 214-491-1503
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/tx/mc-kinney/2296/

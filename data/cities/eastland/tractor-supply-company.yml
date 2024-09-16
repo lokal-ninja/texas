@@ -1,11 +1,11 @@
 id: 700454313
-type: way
+type: node
 latitude: 32.40092
 longitude: -98.79517
 postcode: "76448"
 city: Eastland
-street: "East Main Street"
-housenumber: 1401
-phone: "+1 254-629-8564"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Main Street
+housenumber: "1401"
+phone: +1 254-629-8564
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

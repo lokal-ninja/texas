@@ -1,11 +1,11 @@
 id: 734273342
-type: way
+type: node
 latitude: 32.39109
 longitude: -100.86304
 postcode: "79512"
 city: Colorado City
-street: "Hickory Street"
-housenumber: 405
+street: Hickory Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

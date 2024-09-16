@@ -1,11 +1,11 @@
 id: 257558765
-type: way
+type: node
 latitude: 26.07192
 longitude: -97.22743
 postcode: "78578"
 city: Port Isabel
-street: "State Highway 100"
-housenumber: 1679
-phone: "+1-956-943-1171"
+street: State Highway 100
+housenumber: "1679"
+phone: +1-956-943-1171
 opening_hours: ""
 website: ""

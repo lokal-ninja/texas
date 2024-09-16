@@ -1,11 +1,11 @@
 id: 955215615
-type: way
+type: node
 latitude: 26.26998
 longitude: -98.23417
 postcode: "78504"
 city: McAllen
-street: "North 23rd Street"
-housenumber: 7144
+street: North 23rd Street
+housenumber: "7144"
 phone: ""
 opening_hours: ""
 website: ""

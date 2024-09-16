@@ -1,11 +1,11 @@
 id: 479809624
-type: way
+type: node
 latitude: 33.23129
 longitude: -97.59418
 postcode: "76234"
 city: Decatur
-street: "West Business 380"
-housenumber: 805
+street: West Business 380
+housenumber: "805"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/decatur-tx-pharmacies/805-w-business-hwy-380-decatur-tx-76234/storeid=4880"
+website: https://www.cvs.com/store-locator/decatur-tx-pharmacies/805-w-business-hwy-380-decatur-tx-76234/storeid=4880

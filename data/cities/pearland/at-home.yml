@@ -1,11 +1,11 @@
 id: 589101035
-type: way
+type: node
 latitude: 29.55438
 longitude: -95.40014
 postcode: ""
 city: Pearland
-street: "Kirby Drive"
-housenumber: 3000
+street: Kirby Drive
+housenumber: "3000"
 phone: ""
 opening_hours: ""
 website: ""

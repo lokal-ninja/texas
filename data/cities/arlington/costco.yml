@@ -1,11 +1,11 @@
 id: 267072550
-type: way
+type: node
 latitude: 32.68272
 longitude: -97.11136
-postcode: "76014-3702"
+postcode: 76014-3702
 city: Arlington
-street: "West Arbrook Boulevard"
-housenumber: 600
-phone: "+1 817-417-1603"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/arlington-tx-668.html"
+street: West Arbrook Boulevard
+housenumber: "600"
+phone: +1 817-417-1603
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/arlington-tx-668.html

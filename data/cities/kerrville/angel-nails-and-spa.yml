@@ -1,11 +1,11 @@
 id: 649028036
-type: way
+type: node
 latitude: 30.04278
 longitude: -99.14574
 postcode: "78028"
 city: Kerrville
-street: "Sidney Baker Street South"
-housenumber: 214
+street: Sidney Baker Street South
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

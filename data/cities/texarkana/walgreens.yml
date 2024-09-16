@@ -1,11 +1,11 @@
 id: 746238406
-type: way
+type: node
 latitude: 33.46
 longitude: -94.04453
 postcode: "75503"
 city: Texarkana
-street: "North State Line Avenue"
-housenumber: 4415
+street: North State Line Avenue
+housenumber: "4415"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4415+n+state+line+ave-texarkana-tx-75503/id=6195"
+website: https://www.walgreens.com/locator/walgreens-4415+n+state+line+ave-texarkana-tx-75503/id=6195

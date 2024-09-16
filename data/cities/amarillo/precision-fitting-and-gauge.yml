@@ -1,11 +1,11 @@
 id: 748709039
-type: way
+type: node
 latitude: 35.14378
 longitude: -101.88187
 postcode: "79110"
 city: Amarillo
-street: "South Western Street"
-housenumber: 6335
-phone: "+1 806-359-5431"
+street: South Western Street
+housenumber: "6335"
+phone: +1 806-359-5431
 opening_hours: ""
-website: "https://relevantsolutions.com/relevant-companies/precision-fitting-gauge-(pf-g)"
+website: https://relevantsolutions.com/relevant-companies/precision-fitting-gauge-(pf-g)

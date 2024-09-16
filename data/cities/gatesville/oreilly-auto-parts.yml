@@ -1,11 +1,11 @@
 id: 745964279
-type: way
+type: node
 latitude: 31.43517
 longitude: -97.73646
 postcode: "76528"
 city: Gatesville
-street: "East Main Street"
-housenumber: 2001
-phone: "+1-254-248-0025"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
-website: "https://locations.oreillyauto.com/tx/gatesville/autoparts-687.html"
+street: East Main Street
+housenumber: "2001"
+phone: +1-254-248-0025
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
+website: https://locations.oreillyauto.com/tx/gatesville/autoparts-687.html

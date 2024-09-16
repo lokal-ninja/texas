@@ -1,11 +1,11 @@
 id: 753362423
-type: way
+type: node
 latitude: 30.51906
 longitude: -97.68478
 postcode: "78664"
 city: Round Rock
-street: "West Palm Valley Boulevard"
-housenumber: 150
+street: West Palm Valley Boulevard
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

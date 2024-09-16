@@ -1,11 +1,11 @@
 id: 971499380
-type: way
+type: node
 latitude: 30.57346
 longitude: -96.32067
 postcode: "77845"
 city: College Station
-street: "Deacon Drive West"
-housenumber: 350
+street: Deacon Drive West
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

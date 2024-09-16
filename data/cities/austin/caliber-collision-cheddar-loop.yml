@@ -1,11 +1,11 @@
 id: 1122755843
-type: way
+type: node
 latitude: 30.44602
 longitude: -97.66824
 postcode: "78728"
 city: Austin
-street: "Cheddar Loop"
-housenumber: 1916
-phone: "+1-737-273-0340"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://www.caliber.com"
+street: Cheddar Loop
+housenumber: "1916"
+phone: +1-737-273-0340
+opening_hours: Mo-Fr 07:30-17:30
+website: https://www.caliber.com

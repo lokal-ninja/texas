@@ -1,11 +1,11 @@
 id: 983122259
-type: way
+type: node
 latitude: 29.93156
 longitude: -95.50798
 postcode: "77086"
 city: Houston
-street: "Tomball Parkway"
-housenumber: 14960
-phone: "+1 346-378-8990"
-opening_hours: "24/7"
-website: "https://www.7-eleven.com/locations/tx/houston/14960-tomball-pkwy-41657"
+street: Tomball Parkway
+housenumber: "14960"
+phone: +1 346-378-8990
+opening_hours: 24/7
+website: https://www.7-eleven.com/locations/tx/houston/14960-tomball-pkwy-41657

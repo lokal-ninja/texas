@@ -1,11 +1,11 @@
 id: 832947268
-type: way
+type: node
 latitude: 33.23666
 longitude: -97.59809
 postcode: "76234"
 city: Decatur
-street: "North Highway 287"
-housenumber: 311
+street: North Highway 287
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

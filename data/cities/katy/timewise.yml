@@ -1,11 +1,11 @@
 id: 648231831
-type: way
+type: node
 latitude: 29.77832
 longitude: -95.83076
 postcode: "77494"
 city: Katy
-street: "Katy Freeway"
-housenumber: 26150
+street: Katy Freeway
+housenumber: "26150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1216371900
-type: way
+type: node
 latitude: 30.37718
 longitude: -96.06888
 postcode: "77868"
 city: Navasota
-street: "State Highway 6"
-housenumber: 10200
+street: State Highway 6
+housenumber: "10200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 386428212
-type: way
+type: node
 latitude: 32.54196
 longitude: -94.756
 postcode: "75605"
 city: Longview
-street: "West Loop 281"
-housenumber: 405
-phone: "+1 903-663-9442"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/longview/pet-supplies-longview-tx-446.html"
+street: West Loop 281
+housenumber: "405"
+phone: +1 903-663-9442
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/longview/pet-supplies-longview-tx-446.html

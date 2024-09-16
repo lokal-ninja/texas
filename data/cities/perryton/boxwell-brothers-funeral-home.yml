@@ -1,11 +1,11 @@
 id: 1039396988
-type: way
+type: node
 latitude: 36.36849
 longitude: -100.79963
 postcode: "79070"
 city: Perryton
-street: "Southeast 32nd Avenue"
-housenumber: 310
+street: Southeast 32nd Avenue
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

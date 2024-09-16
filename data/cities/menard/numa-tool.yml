@@ -1,11 +1,11 @@
 id: 843270124
-type: way
+type: node
 latitude: 30.91501
 longitude: -99.78683
 postcode: "76859"
 city: Menard
-street: "Ellis Street"
-housenumber: 303
+street: Ellis Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

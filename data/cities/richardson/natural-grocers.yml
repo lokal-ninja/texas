@@ -1,11 +1,11 @@
 id: 530944751
-type: way
+type: node
 latitude: 32.97733
 longitude: -96.74298
 postcode: "75080"
 city: Richardson
-street: "West Campbell Road"
-housenumber: 677
+street: West Campbell Road
+housenumber: "677"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:36; Su 09:00-19:35"
+opening_hours: Mo-Sa 08:30-20:36; Su 09:00-19:35
 website: ""

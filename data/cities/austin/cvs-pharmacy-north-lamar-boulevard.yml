@@ -1,11 +1,11 @@
 id: 260822953
-type: way
+type: node
 latitude: 30.38288
 longitude: -97.68684
 postcode: "78758"
 city: Austin
-street: "North Lamar Boulevard"
-housenumber: 11300
-phone: "+1-512-835-6751"
-opening_hours: "08:00-23:00"
-website: "https://www.cvs.com/store-locator/austin-tx-pharmacies/11300-n-lamar-blvd-austin-tx-78753/storeid=7442"
+street: North Lamar Boulevard
+housenumber: "11300"
+phone: +1-512-835-6751
+opening_hours: 08:00-23:00
+website: https://www.cvs.com/store-locator/austin-tx-pharmacies/11300-n-lamar-blvd-austin-tx-78753/storeid=7442

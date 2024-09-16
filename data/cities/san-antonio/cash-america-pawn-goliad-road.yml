@@ -1,11 +1,11 @@
 id: 822882302
-type: way
+type: node
 latitude: 29.36599
 longitude: -98.44199
 postcode: "78223"
 city: San Antonio
-street: "Goliad Road"
-housenumber: 2003
-phone: "+1-210-337-1570"
-opening_hours: "Mo-Tu 10:00-19:00; We-Sa 10:00-22:00; Su 12:00-24:00"
-website: "https://firstcash.com"
+street: Goliad Road
+housenumber: "2003"
+phone: +1-210-337-1570
+opening_hours: Mo-Tu 10:00-19:00; We-Sa 10:00-22:00; Su 12:00-24:00
+website: https://firstcash.com

@@ -4,8 +4,8 @@ latitude: 30.36126
 longitude: -97.73959
 postcode: "78757"
 city: Austin
-street: "West Anderson Lane"
-housenumber: 3010
-phone: "+1-512-277-2121"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://kitchencentral.com/"
+street: West Anderson Lane
+housenumber: "3010"
+phone: +1-512-277-2121
+opening_hours: Mo-Sa 09:00-18:00
+website: https://kitchencentral.com/

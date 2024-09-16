@@ -1,11 +1,11 @@
 id: 817386301
-type: way
+type: node
 latitude: 30.10546
 longitude: -94.16789
 postcode: "77706"
 city: Beaumont
-street: "Dowlen Road"
-housenumber: 2950
+street: Dowlen Road
+housenumber: "2950"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/beaumont-tx-pharmacies/2950-dowlen-rd-beaumont-tx-77706/storeid=8351"
+website: https://www.cvs.com/store-locator/beaumont-tx-pharmacies/2950-dowlen-rd-beaumont-tx-77706/storeid=8351

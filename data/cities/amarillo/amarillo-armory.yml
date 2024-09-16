@@ -1,11 +1,11 @@
 id: 839739254
-type: way
+type: node
 latitude: 35.13604
 longitude: -101.89476
 postcode: "79109"
 city: Amarillo
-street: "Canyon Drive"
-housenumber: 6635
-phone: "+1-806-318-6789"
-opening_hours: "We-Fr 10:00-18:00; Sa 10:00-16:00"
+street: Canyon Drive
+housenumber: "6635"
+phone: +1-806-318-6789
+opening_hours: We-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

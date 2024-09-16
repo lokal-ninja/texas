@@ -1,11 +1,11 @@
 id: 667339938
-type: way
+type: node
 latitude: 32.74697
 longitude: -96.59557
 postcode: "75149"
 city: Mesquite
-street: "East Cartwright Road"
-housenumber: 125
+street: East Cartwright Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 468095777
-type: way
+type: node
 latitude: 32.87949
 longitude: -96.71702
 postcode: "75238"
 city: Dallas
-street: "Walnut Hill Lane"
-housenumber: 9807
+street: Walnut Hill Lane
+housenumber: "9807"
 phone: ""
 opening_hours: ""
 website: ""

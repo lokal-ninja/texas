@@ -1,11 +1,11 @@
 id: 712920691
-type: way
+type: node
 latitude: 32.54332
 longitude: -97.32046
 postcode: "76028"
 city: Burleson
-street: "North Commerce Street"
-housenumber: 117
-phone: "+1-817-447-7467"
+street: North Commerce Street
+housenumber: "117"
+phone: +1-817-447-7467
 opening_hours: ""
-website: "https://gypsy-trunk.business.site/"
+website: https://gypsy-trunk.business.site/

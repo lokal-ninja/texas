@@ -1,11 +1,11 @@
 id: 545533816
-type: way
+type: node
 latitude: 32.91031
 longitude: -96.5688
 postcode: "75088"
 city: Rowlett
-street: "Rowlett Road"
-housenumber: 5602
+street: Rowlett Road
+housenumber: "5602"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/tx/rowlett/5602-rowlett-rd.html"
+website: https://www.autozone.com/locations/tx/rowlett/5602-rowlett-rd.html

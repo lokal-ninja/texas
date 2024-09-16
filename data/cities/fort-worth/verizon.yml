@@ -1,11 +1,11 @@
 id: 802678174
-type: way
+type: node
 latitude: 33.0248
 longitude: -97.27656
 postcode: "76177"
 city: Fort Worth
-street: "North Freeway"
-housenumber: 15925
+street: North Freeway
+housenumber: "15925"
 phone: ""
 opening_hours: ""
 website: ""

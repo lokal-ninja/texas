@@ -1,11 +1,11 @@
 id: 334109469
-type: way
+type: node
 latitude: 32.67672
 longitude: -97.19452
 postcode: "76017"
 city: Arlington
-street: "West Interstate 20 Highway"
-housenumber: 5711
-phone: "+1 682-587-0086"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/tx/arlington/arlington/"
+street: West Interstate 20 Highway
+housenumber: "5711"
+phone: +1 682-587-0086
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/tx/arlington/arlington/

@@ -1,11 +1,11 @@
 id: 905225897
-type: way
+type: node
 latitude: 32.47083
 longitude: -96.83164
 postcode: ""
 city: Waxahachie
-street: "North US Highway 77"
-housenumber: 3467
+street: North US Highway 77
+housenumber: "3467"
 phone: ""
 opening_hours: ""
 website: ""

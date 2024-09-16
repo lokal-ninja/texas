@@ -4,8 +4,8 @@ latitude: 30.11204
 longitude: -97.31836
 postcode: "78602"
 city: Bastrop
-street: "Spring Street"
-housenumber: 808
-phone: "+1-512-409-3333"
+street: Spring Street
+housenumber: "808"
+phone: +1-512-409-3333
 opening_hours: ""
-website: "https://www.victorytickets.com/"
+website: https://www.victorytickets.com/

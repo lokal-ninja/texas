@@ -1,11 +1,11 @@
 id: 736677701
-type: way
+type: node
 latitude: 25.94854
 longitude: -97.50575
 postcode: "78520"
 city: Brownsville
-street: "North Expressway"
-housenumber: 2275
+street: North Expressway
+housenumber: "2275"
 phone: ""
 opening_hours: ""
 website: ""

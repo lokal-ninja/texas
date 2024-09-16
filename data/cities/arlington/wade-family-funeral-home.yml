@@ -1,11 +1,11 @@
 id: 713696522
-type: way
+type: node
 latitude: 32.71586
 longitude: -97.17047
 postcode: "76013"
 city: Arlington
-street: "Pioneer Parkway"
-housenumber: 4140
-phone: "+1 817 274 9233"
+street: Pioneer Parkway
+housenumber: "4140"
+phone: +1 817 274 9233
 opening_hours: ""
-website: "https://www.wadefamilyfuneralhome.com/"
+website: https://www.wadefamilyfuneralhome.com/

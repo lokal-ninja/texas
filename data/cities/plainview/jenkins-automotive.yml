@@ -1,11 +1,11 @@
 id: 1150868204
-type: way
+type: node
 latitude: 34.16617
 longitude: -101.74895
 postcode: "79072"
 city: Plainview
-street: "South Interstate 27"
-housenumber: 1205
+street: South Interstate 27
+housenumber: "1205"
 phone: ""
 opening_hours: ""
 website: ""

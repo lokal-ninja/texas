@@ -1,11 +1,11 @@
 id: 852527817
-type: way
+type: node
 latitude: 33.7263
 longitude: -96.54156
 postcode: "75020"
 city: Denison
-street: "South Eisenhower Parkway"
-housenumber: 2900
+street: South Eisenhower Parkway
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

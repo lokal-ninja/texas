@@ -1,11 +1,12 @@
 id: 754058898
-type: way
+type: node
 latitude: 30.44218
 longitude: -97.6631
 postcode: "78660"
 city: Pflugerville
-street: "Wells Branch Parkway"
-housenumber: 1420
-phone: "+1-512-251-8998"
-opening_hours: "Mo-Sa 10:00-21:00 open Business Hours || Mo-Sa 12:00-20:00 open Delivery Hours"
-website: "https://twinliquors.com/"
+street: Wells Branch Parkway
+housenumber: "1420"
+phone: +1-512-251-8998
+opening_hours: Mo-Sa 10:00-21:00 open "Business Hours" || Mo-Sa 12:00-20:00 open "Delivery
+    Hours"
+website: https://twinliquors.com/

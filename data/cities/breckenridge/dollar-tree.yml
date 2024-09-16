@@ -1,11 +1,11 @@
 id: 1128074493
-type: way
+type: node
 latitude: 32.7601
 longitude: -98.94454
 postcode: "76424"
 city: Breckenridge
-street: "West Walker Street"
-housenumber: 3732
+street: West Walker Street
+housenumber: "3732"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/tx/breckenridge/5982/"
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/tx/breckenridge/5982/

@@ -1,11 +1,11 @@
 id: 760725142
-type: way
+type: node
 latitude: 31.4994
 longitude: -97.15229
 postcode: "76711"
 city: Waco
-street: "Marketplace Drive"
-housenumber: 2700
+street: Marketplace Drive
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

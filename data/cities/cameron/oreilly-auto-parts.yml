@@ -1,11 +1,11 @@
 id: 1162957053
-type: way
+type: node
 latitude: 30.86055
 longitude: -96.97499
 postcode: "76520"
 city: Cameron
-street: "North Travis Avenue"
-housenumber: 1308
+street: North Travis Avenue
+housenumber: "1308"
 phone: ""
 opening_hours: ""
 website: ""

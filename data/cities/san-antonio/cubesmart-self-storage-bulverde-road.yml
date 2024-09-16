@@ -1,11 +1,11 @@
 id: 739701654
-type: way
+type: node
 latitude: 29.62068
 longitude: -98.42215
 postcode: "78259"
 city: San Antonio
-street: "Bulverde Road"
-housenumber: 19322
+street: Bulverde Road
+housenumber: "19322"
 phone: ""
 opening_hours: ""
 website: ""

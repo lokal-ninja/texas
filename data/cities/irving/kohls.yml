@@ -1,11 +1,11 @@
 id: 111921968
-type: way
+type: node
 latitude: 32.91826
 longitude: -96.96086
 postcode: "75063"
 city: Irving
-street: "Market Place"
-housenumber: 1035
-phone: "+1 972-409-0233"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/tx/irving-1233.shtml"
+street: Market Place
+housenumber: "1035"
+phone: +1 972-409-0233
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/tx/irving-1233.shtml

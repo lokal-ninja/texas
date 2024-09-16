@@ -1,11 +1,11 @@
 id: 1125321951
-type: way
+type: node
 latitude: 32.4303
 longitude: -99.65144
 postcode: "79602"
 city: Abilene
-street: "FM 18"
-housenumber: 4673
+street: FM 18
+housenumber: "4673"
 phone: ""
 opening_hours: ""
 website: ""

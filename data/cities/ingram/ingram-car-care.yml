@@ -1,11 +1,11 @@
 id: 798266493
-type: way
+type: node
 latitude: 30.07326
 longitude: -99.23369
 postcode: "78025"
 city: Ingram
-street: "Junction Highway"
-housenumber: 3263
+street: Junction Highway
+housenumber: "3263"
 phone: ""
 opening_hours: ""
 website: ""

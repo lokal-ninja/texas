@@ -1,11 +1,11 @@
 id: 768699732
-type: way
+type: node
 latitude: 35.5264
 longitude: -100.97133
 postcode: "79065"
 city: Pampa
-street: "West Wilks Street"
-housenumber: 820
+street: West Wilks Street
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

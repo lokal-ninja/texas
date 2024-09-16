@@ -1,11 +1,11 @@
 id: 895072861
-type: way
+type: node
 latitude: 32.47699
 longitude: -94.05461
 postcode: "75692"
 city: Waskom
-street: "East Texas Avenue"
-housenumber: 555
+street: East Texas Avenue
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/tx/waskom/11283"
+website: https://www.dollargeneral.com/store-directory/tx/waskom/11283

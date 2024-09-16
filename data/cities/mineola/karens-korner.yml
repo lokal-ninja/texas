@@ -1,11 +1,11 @@
 id: 490752102
-type: way
+type: node
 latitude: 32.66353
 longitude: -95.48969
 postcode: "75773"
 city: Mineola
-street: "South Johnson Street"
-housenumber: 102
+street: South Johnson Street
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

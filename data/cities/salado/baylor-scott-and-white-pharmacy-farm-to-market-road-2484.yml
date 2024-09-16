@@ -1,11 +1,11 @@
 id: 1256425029
-type: way
+type: node
 latitude: 30.96716
 longitude: -97.54097
 postcode: "76571"
 city: Salado
-street: "Farm-to-Market Road 2484"
-housenumber: 3525
+street: Farm-to-Market Road 2484
+housenumber: "3525"
 phone: ""
 opening_hours: ""
 website: ""

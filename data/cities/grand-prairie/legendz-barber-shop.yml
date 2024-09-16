@@ -1,11 +1,11 @@
 id: 318033629
-type: way
+type: node
 latitude: 32.74582
 longitude: -97.0038
 postcode: "75050"
 city: Grand Prairie
-street: "West Main Street"
-housenumber: 102
+street: West Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

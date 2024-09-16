@@ -1,11 +1,11 @@
 id: 808055799
-type: way
+type: node
 latitude: 31.65875
 longitude: -97.46991
 postcode: "76689"
 city: Valley Mills
-street: "Avenue C"
-housenumber: 600
-phone: "+1-254-932-5249"
+street: Avenue C
+housenumber: "600"
+phone: +1-254-932-5249
 opening_hours: ""
-website: "https://www.fossfuneralhome.com/"
+website: https://www.fossfuneralhome.com/

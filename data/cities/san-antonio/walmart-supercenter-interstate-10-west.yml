@@ -1,11 +1,11 @@
 id: 408608861
-type: way
+type: node
 latitude: 29.66958
 longitude: -98.63523
 postcode: "78257"
 city: San Antonio
-street: "Interstate 10 West"
-housenumber: 24403
-phone: "+1 210-507-0041"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3107/san-antonio-tx/whats-new"
+street: Interstate 10 West
+housenumber: "24403"
+phone: +1 210-507-0041
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3107/san-antonio-tx/whats-new

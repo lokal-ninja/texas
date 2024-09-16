@@ -1,11 +1,11 @@
 id: 357530432
-type: way
+type: node
 latitude: 29.57398
 longitude: -98.59355
 postcode: "78249"
 city: San Antonio
-street: "Interstate 10 West"
-housenumber: 13663
-phone: "+1-210-798-4500"
+street: Interstate 10 West
+housenumber: "13663"
+phone: +1-210-798-4500
 opening_hours: ""
-website: "https://www.hyundainorthwest.com"
+website: https://www.hyundainorthwest.com

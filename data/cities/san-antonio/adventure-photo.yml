@@ -1,11 +1,11 @@
 id: 475529646
-type: way
+type: node
 latitude: 29.45785
 longitude: -98.69917
 postcode: "78251"
 city: San Antonio
-street: "Sea World Drive"
-housenumber: 10500
+street: Sea World Drive
+housenumber: "10500"
 phone: ""
 opening_hours: ""
 website: ""

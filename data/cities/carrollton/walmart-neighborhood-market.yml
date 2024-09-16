@@ -1,11 +1,11 @@
 id: 423752488
-type: way
+type: node
 latitude: 33.01832
 longitude: -96.91655
 postcode: "75007"
 city: Carrollton
-street: "Old Denton Road"
-housenumber: 4025
-phone: "+1 469-557-7714"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3198/carrollton-tx/whats-new"
+street: Old Denton Road
+housenumber: "4025"
+phone: +1 469-557-7714
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3198/carrollton-tx/whats-new

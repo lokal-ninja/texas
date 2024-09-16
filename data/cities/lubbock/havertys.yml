@@ -1,11 +1,11 @@
 id: 403939867
-type: way
+type: node
 latitude: 33.52667
 longitude: -101.90457
 postcode: "79424"
 city: Lubbock
-street: "Quaker Avenue"
-housenumber: 7401
+street: Quaker Avenue
+housenumber: "7401"
 phone: ""
 opening_hours: ""
 website: ""

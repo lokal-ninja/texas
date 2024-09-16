@@ -1,11 +1,11 @@
 id: 550515591
-type: way
+type: node
 latitude: 33.44873
 longitude: -96.74476
 postcode: "75058"
 city: Gunter
-street: "North 6th Street"
-housenumber: 300
+street: North 6th Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

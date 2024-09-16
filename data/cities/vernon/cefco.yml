@@ -1,11 +1,11 @@
 id: 815912036
-type: way
+type: node
 latitude: 34.16185
 longitude: -99.29864
 postcode: "76384"
 city: Vernon
-street: "US Highway 287 West"
-housenumber: 2822
+street: US Highway 287 West
+housenumber: "2822"
 phone: ""
 opening_hours: ""
 website: ""

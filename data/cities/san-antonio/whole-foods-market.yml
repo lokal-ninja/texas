@@ -1,11 +1,11 @@
 id: 292949230
-type: way
+type: node
 latitude: 29.49308
 longitude: -98.48087
 postcode: "78209"
 city: San Antonio
-street: "East Basse Road"
-housenumber: 255
-phone: "+1 210-826-4676"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.wholefoodsmarket.com/stores/quarry"
+street: East Basse Road
+housenumber: "255"
+phone: +1 210-826-4676
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.wholefoodsmarket.com/stores/quarry

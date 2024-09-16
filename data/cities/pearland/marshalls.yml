@@ -1,11 +1,11 @@
 id: 581067646
-type: way
+type: node
 latitude: 29.55434
 longitude: -95.38271
 postcode: ""
 city: Pearland
-street: "West Broadway Street"
-housenumber: 10434
+street: West Broadway Street
+housenumber: "10434"
 phone: ""
 opening_hours: ""
 website: ""

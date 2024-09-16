@@ -1,11 +1,11 @@
 id: 294715770
-type: way
+type: node
 latitude: 30.36535
 longitude: -103.63956
 postcode: "79830"
 city: Alpine
-street: "East US Highway 90"
-housenumber: 2303
+street: East US Highway 90
+housenumber: "2303"
 phone: ""
 opening_hours: ""
 website: ""

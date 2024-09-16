@@ -1,11 +1,11 @@
 id: 480883657
-type: way
+type: node
 latitude: 30.06997
 longitude: -95.47621
 postcode: ""
 city: Spring
-street: "FM 2920"
-housenumber: 3843
+street: FM 2920
+housenumber: "3843"
 phone: ""
 opening_hours: ""
 website: ""

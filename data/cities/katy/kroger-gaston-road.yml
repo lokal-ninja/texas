@@ -1,11 +1,11 @@
 id: 784207272
-type: way
+type: node
 latitude: 29.73731
 longitude: -95.81018
 postcode: "77494"
 city: Katy
-street: "Gaston Road"
-housenumber: 9806
-phone: "+1 346-307-3054"
-opening_hours: "PH,Mo-Su 06:00-24:00"
-website: "https://www.kroger.com/stores/grocery/tx/katy/kroger/034/00121"
+street: Gaston Road
+housenumber: "9806"
+phone: +1 346-307-3054
+opening_hours: PH,Mo-Su 06:00-24:00
+website: https://www.kroger.com/stores/grocery/tx/katy/kroger/034/00121

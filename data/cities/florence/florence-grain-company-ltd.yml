@@ -1,11 +1,11 @@
 id: 552464495
-type: way
+type: node
 latitude: 30.84271
 longitude: -97.7882
 postcode: "76527"
 city: Florence
-street: "East Main Street"
-housenumber: 600
-phone: "+1-254-793-2595"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.florencegraincompany.com/"
+street: East Main Street
+housenumber: "600"
+phone: +1-254-793-2595
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.florencegraincompany.com/

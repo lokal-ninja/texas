@@ -1,11 +1,11 @@
 id: 863086006
-type: way
+type: node
 latitude: 31.37308
 longitude: -100.28229
 postcode: "76957"
 city: Wall
-street: "US Highway 87 South"
-housenumber: 9533
-phone: "+1-325-651-7707"
+street: US Highway 87 South
+housenumber: "9533"
+phone: +1-325-651-7707
 opening_hours: ""
 website: ""

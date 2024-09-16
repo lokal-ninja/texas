@@ -1,11 +1,11 @@
 id: 706106141
-type: way
+type: node
 latitude: 32.40598
 longitude: -97.27134
 postcode: "76009"
 city: Alvarado
-street: "US Highway 67"
-housenumber: 5301
+street: US Highway 67
+housenumber: "5301"
 phone: ""
 opening_hours: ""
 website: ""

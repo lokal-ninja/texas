@@ -1,11 +1,11 @@
 id: 450892615
-type: way
+type: node
 latitude: 29.41211
 longitude: -98.43166
 postcode: "78220"
 city: San Antonio
-street: "Jose Lopez Freeway"
-housenumber: 3430
+street: Jose Lopez Freeway
+housenumber: "3430"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 922349314
-type: way
+type: node
 latitude: 28.8655
 longitude: -97.0003
 postcode: "77904"
 city: Victoria
-street: "Northeast Zac Lentz Parkway"
-housenumber: 7804
-phone: "+1 361-485-1585"
-opening_hours: "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:30"
+street: Northeast Zac Lentz Parkway
+housenumber: "7804"
+phone: +1 361-485-1585
+opening_hours: Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:30
 website: ""

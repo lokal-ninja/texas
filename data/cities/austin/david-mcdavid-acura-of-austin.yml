@@ -1,11 +1,11 @@
 id: 31239424
-type: way
+type: node
 latitude: 30.45167
 longitude: -97.79028
 postcode: "78729"
 city: Austin
-street: "Research Boulevard"
-housenumber: 13553
-phone: "+1-512-643-6468"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.davidmcdavidacuraofaustin.com/"
+street: Research Boulevard
+housenumber: "13553"
+phone: +1-512-643-6468
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.davidmcdavidacuraofaustin.com/

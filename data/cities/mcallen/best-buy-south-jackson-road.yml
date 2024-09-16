@@ -1,11 +1,11 @@
 id: 1307721477
-type: way
+type: node
 latitude: 26.19356
 longitude: -98.206
 postcode: "78503"
 city: McAllen
-street: "South Jackson Road"
-housenumber: 700
-phone: "+1-956-661-9406"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
-website: "https://stores.bestbuy.com/tx/mcallen/700-s-jackson-rd-236.html"
+street: South Jackson Road
+housenumber: "700"
+phone: +1-956-661-9406
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
+website: https://stores.bestbuy.com/tx/mcallen/700-s-jackson-rd-236.html

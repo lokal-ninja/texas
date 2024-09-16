@@ -1,11 +1,11 @@
 id: 915901600
-type: way
+type: node
 latitude: 33.58479
 longitude: -99.79221
 postcode: "79505"
 city: Benjamin
-street: "East Hays Street"
-housenumber: 102
+street: East Hays Street
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

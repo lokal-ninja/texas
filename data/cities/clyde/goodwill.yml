@@ -1,11 +1,11 @@
 id: 1125702693
-type: way
+type: node
 latitude: 32.4125
 longitude: -99.49596
 postcode: "79510"
 city: Clyde
-street: "South Access Road"
-housenumber: 125
+street: South Access Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

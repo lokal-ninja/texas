@@ -1,11 +1,11 @@
 id: 467552265
-type: way
+type: node
 latitude: 33.56284
 longitude: -101.881
 postcode: "79410"
 city: Lubbock
-street: "34th Street"
-housenumber: 3035
+street: 34th Street
+housenumber: "3035"
 phone: "+18067977060"
 opening_hours: ""
-website: "http://www.flinthat.com/"
+website: http://www.flinthat.com/

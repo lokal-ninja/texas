@@ -1,11 +1,11 @@
 id: 271669284
-type: way
+type: node
 latitude: 32.56686
 longitude: -97.32223
 postcode: "76028"
 city: Burleson
-street: "North Burleson Boulevard"
-housenumber: 1141
-phone: "+1 817-295-5318"
-opening_hours: "09:00-22:00"
+street: North Burleson Boulevard
+housenumber: "1141"
+phone: +1 817-295-5318
+opening_hours: 09:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 32.90829
 longitude: -96.80211
 postcode: "75230"
 city: Dallas
-street: "Preston Road"
-housenumber: 11700
-phone: "+1 214-369-9699"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/tx/dallas/2036/"
+street: Preston Road
+housenumber: "11700"
+phone: +1 214-369-9699
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/tx/dallas/2036/

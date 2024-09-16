@@ -1,11 +1,11 @@
 id: 885145821
-type: way
+type: node
 latitude: 30.0967
 longitude: -97.87597
 postcode: "78610"
 city: Buda
-street: "South FM 1626"
-housenumber: 220
+street: South FM 1626
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/buda-tx-pharmacies/220-south-fm-1626-buda-tx-78610/storeid=10535"
+website: https://www.cvs.com/store-locator/buda-tx-pharmacies/220-south-fm-1626-buda-tx-78610/storeid=10535

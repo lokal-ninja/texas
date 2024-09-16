@@ -1,11 +1,11 @@
 id: 317693481
-type: way
+type: node
 latitude: 29.82964
 longitude: -95.3623
 postcode: ""
 city: Houston
-street: "East Crosstimbers Street"
-housenumber: 747
+street: East Crosstimbers Street
+housenumber: "747"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-747+e+crosstimbers+st-houston-tx-77022/id=12015"
+website: https://www.walgreens.com/locator/walgreens-747+e+crosstimbers+st-houston-tx-77022/id=12015

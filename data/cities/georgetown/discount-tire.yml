@@ -1,11 +1,11 @@
 id: 547343253
-type: way
+type: node
 latitude: 30.64522
 longitude: -97.68612
 postcode: "78628"
 city: Georgetown
-street: "Rivery Boulevard"
-housenumber: 1104
-phone: "+1-512-868-4400"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+street: Rivery Boulevard
+housenumber: "1104"
+phone: +1-512-868-4400
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
 website: ""

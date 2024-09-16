@@ -1,11 +1,11 @@
 id: 502381427
-type: way
+type: node
 latitude: 32.64804
 longitude: -96.53383
 postcode: "75159"
 city: Seagoville
-street: "North Highway 175"
-housenumber: 110
+street: North Highway 175
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

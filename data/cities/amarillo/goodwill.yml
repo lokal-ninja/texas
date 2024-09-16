@@ -1,11 +1,11 @@
 id: 179394523
-type: way
+type: node
 latitude: 35.1916
 longitude: -101.90353
 postcode: "79106"
 city: Amarillo
-street: "Bell Street"
-housenumber: 1904
+street: Bell Street
+housenumber: "1904"
 phone: ""
 opening_hours: ""
-website: "https://www.goodwill.org/"
+website: https://www.goodwill.org/

@@ -1,11 +1,11 @@
 id: 74454910
-type: way
+type: node
 latitude: 30.43851
 longitude: -97.61183
 postcode: "78660"
 city: Pflugerville
-street: "Farm to Market 685"
-housenumber: 201
-phone: "+1-512-251-0002"
+street: Farm to Market 685
+housenumber: "201"
+phone: +1-512-251-0002
 opening_hours: ""
 website: ""

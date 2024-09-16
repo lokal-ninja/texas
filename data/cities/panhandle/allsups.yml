@@ -1,11 +1,11 @@
 id: 802752831
-type: way
+type: node
 latitude: 35.34783
 longitude: -101.38038
 postcode: "79068"
 city: Panhandle
-street: "Elsie Avenue"
-housenumber: 610
+street: Elsie Avenue
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

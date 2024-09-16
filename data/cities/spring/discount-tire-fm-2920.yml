@@ -1,11 +1,11 @@
 id: 568602114
-type: way
+type: node
 latitude: 30.07475
 longitude: -95.52395
 postcode: "77379"
 city: Spring
-street: "FM 2920"
-housenumber: 6510
-phone: "+1-281-320-2770"
+street: FM 2920
+housenumber: "6510"
+phone: +1-281-320-2770
 opening_hours: ""
 website: ""

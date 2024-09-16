@@ -1,11 +1,11 @@
 id: 365923639
-type: way
+type: node
 latitude: 29.70142
 longitude: -95.35926
 postcode: ""
 city: Houston
-street: "Scott Street"
-housenumber: 6045
+street: Scott Street
+housenumber: "6045"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/houston/6045-scott-st"
+website: https://stores.advanceautoparts.com/tx/houston/6045-scott-st

@@ -1,11 +1,11 @@
 id: 815116246
-type: way
+type: node
 latitude: 35.50981
 longitude: -101.01195
 postcode: "79065"
 city: Pampa
-street: "US Highway 60"
-housenumber: 11668
+street: US Highway 60
+housenumber: "11668"
 phone: ""
 opening_hours: ""
 website: ""

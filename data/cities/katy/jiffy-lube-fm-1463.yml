@@ -1,11 +1,11 @@
 id: 943985594
-type: way
+type: node
 latitude: 29.72223
 longitude: -95.84583
 postcode: "77494"
 city: Katy
-street: "FM 1463"
-housenumber: 4817
-phone: "+1 832 437 7961"
+street: FM 1463
+housenumber: "4817"
+phone: +1 832 437 7961
 opening_hours: ""
-website: "https://www.jiffylube.com/"
+website: https://www.jiffylube.com/

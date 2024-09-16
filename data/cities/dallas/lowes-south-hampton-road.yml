@@ -1,11 +1,11 @@
 id: 468820202
-type: way
+type: node
 latitude: 32.64383
 longitude: -96.85455
 postcode: "75232"
 city: Dallas
-street: "South Hampton Road"
-housenumber: 8520
-phone: "+1 972-228-2880"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/tx-dallas/0513"
+street: South Hampton Road
+housenumber: "8520"
+phone: +1 972-228-2880
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/tx-dallas/0513

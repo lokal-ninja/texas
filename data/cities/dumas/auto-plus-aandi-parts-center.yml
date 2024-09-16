@@ -1,11 +1,11 @@
 id: 959888465
-type: way
+type: node
 latitude: 35.87021
 longitude: -101.97292
 postcode: "79029"
 city: Dumas
-street: "North Dumas Avenue"
-housenumber: 228
-phone: "+1 806-935-6860"
+street: North Dumas Avenue
+housenumber: "228"
+phone: +1 806-935-6860
 opening_hours: ""
-website: "https://aipartscenter.com/"
+website: https://aipartscenter.com/

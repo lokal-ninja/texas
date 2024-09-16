@@ -1,11 +1,11 @@
 id: 463769300
-type: way
+type: node
 latitude: 32.74875
 longitude: -96.76136
 postcode: "75215"
 city: Dallas
-street: "South Central Expressway"
-housenumber: 4707
+street: South Central Expressway
+housenumber: "4707"
 phone: ""
 opening_hours: ""
 website: ""

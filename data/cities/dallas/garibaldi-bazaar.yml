@@ -1,11 +1,11 @@
 id: 465693199
-type: way
+type: node
 latitude: 32.79672
 longitude: -96.68498
 postcode: "75228"
 city: Dallas
-street: "East R L Thornton Freeway"
-housenumber: 9334
+street: East R L Thornton Freeway
+housenumber: "9334"
 phone: ""
 opening_hours: ""
 website: ""

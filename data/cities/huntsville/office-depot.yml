@@ -1,11 +1,11 @@
 id: 688890880
-type: way
+type: node
 latitude: 30.72034
 longitude: -95.57275
 postcode: "77320"
 city: Huntsville
-street: "Interstate Highway 45 North"
-housenumber: 133
-phone: "+1 936-291-9944"
-opening_hours: "Mo-Th 08:00-19:00; Fr 08:30-19:30; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/tx/huntsville/office-depot-630"
+street: Interstate Highway 45 North
+housenumber: "133"
+phone: +1 936-291-9944
+opening_hours: Mo-Th 08:00-19:00; Fr 08:30-19:30; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/tx/huntsville/office-depot-630

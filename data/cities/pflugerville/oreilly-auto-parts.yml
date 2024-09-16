@@ -1,11 +1,11 @@
 id: 1226023415
-type: way
+type: node
 latitude: 30.43591
 longitude: -97.61149
 postcode: "78660"
 city: Pflugerville
-street: "East Pecan Street"
-housenumber: 1008
+street: East Pecan Street
+housenumber: "1008"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/pflugerville/autoparts-5571.html"
+website: https://locations.oreillyauto.com/tx/pflugerville/autoparts-5571.html

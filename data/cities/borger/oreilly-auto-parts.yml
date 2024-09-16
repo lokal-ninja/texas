@@ -1,11 +1,11 @@
 id: 791224814
-type: way
+type: node
 latitude: 35.66746
 longitude: -101.39842
 postcode: "79007"
 city: Borger
-street: "North Cedar Street"
-housenumber: 215
+street: North Cedar Street
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/borger/autoparts-854.html"
+website: https://locations.oreillyauto.com/tx/borger/autoparts-854.html

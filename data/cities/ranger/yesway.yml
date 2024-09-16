@@ -1,11 +1,11 @@
 id: 532104900
-type: way
+type: node
 latitude: 32.43746
 longitude: -98.69769
 postcode: "76470"
 city: Ranger
-street: "Interstate 20"
-housenumber: 7201
+street: Interstate 20
+housenumber: "7201"
 phone: ""
-opening_hours: "06:00-00:00"
-website: "https://yesway.com/"
+opening_hours: 06:00-00:00
+website: https://yesway.com/

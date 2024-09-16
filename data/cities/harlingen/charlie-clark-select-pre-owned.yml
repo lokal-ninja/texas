@@ -1,11 +1,11 @@
 id: 560844503
-type: way
+type: node
 latitude: 26.16255
 longitude: -97.6812
 postcode: "78550"
 city: Harlingen
-street: "Ed Carey Drive"
-housenumber: 301
+street: Ed Carey Drive
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

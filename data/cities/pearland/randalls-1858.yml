@@ -1,11 +1,11 @@
 id: 129483122
-type: way
+type: node
 latitude: 29.55467
 longitude: -95.37987
 postcode: "77584"
 city: Pearland
-street: "West Broadway Street"
-housenumber: 10228
-phone: "+1-281-504-0273"
+street: West Broadway Street
+housenumber: "10228"
+phone: +1-281-504-0273
 opening_hours: ""
-website: "https://local.randalls.com/tx/pearland/10228-w-broadway-st.html"
+website: https://local.randalls.com/tx/pearland/10228-w-broadway-st.html

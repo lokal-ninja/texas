@@ -1,11 +1,11 @@
 id: 131157170
-type: way
+type: node
 latitude: 32.96056
 longitude: -96.64472
 postcode: "75040"
 city: Garland
-street: "North Garland Avenue"
-housenumber: 5150
-phone: "+1 972-496-3956"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/garland-tx-sams-club/4783"
+street: North Garland Avenue
+housenumber: "5150"
+phone: +1 972-496-3956
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/garland-tx-sams-club/4783

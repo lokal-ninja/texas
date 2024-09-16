@@ -1,11 +1,11 @@
 id: 260233694
-type: way
+type: node
 latitude: 32.95096
 longitude: -96.46215
 postcode: "75087"
 city: Rockwall
-street: "North Goliad Street"
-housenumber: 2004
+street: North Goliad Street
+housenumber: "2004"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/rockwall-tx-pharmacies/2004-north-goliad-rockwall-tx-75087/storeid=8337"
+website: https://www.cvs.com/store-locator/rockwall-tx-pharmacies/2004-north-goliad-rockwall-tx-75087/storeid=8337

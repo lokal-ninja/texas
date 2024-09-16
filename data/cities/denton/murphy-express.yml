@@ -1,11 +1,11 @@
 id: 1149558532
-type: way
+type: node
 latitude: 33.21353
 longitude: -97.09149
-postcode: "76209-5005"
+postcode: 76209-5005
 city: Denton
-street: "North Loop 288"
-housenumber: 101
+street: North Loop 288
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 714859807
-type: way
+type: node
 latitude: 32.7032
 longitude: -96.27461
 postcode: "75160"
 city: Terrell
-street: "East Interstate 20"
-housenumber: 301
+street: East Interstate 20
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

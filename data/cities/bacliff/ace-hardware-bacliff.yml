@@ -1,11 +1,11 @@
 id: 1127944476
-type: way
+type: node
 latitude: 29.50534
 longitude: -94.98518
 postcode: "77518"
 city: Bacliff
-street: "Grand Avenue"
-housenumber: 607
-phone: "+1 281-339-1531"
+street: Grand Avenue
+housenumber: "607"
+phone: +1 281-339-1531
 opening_hours: ""
-website: "https://www.bacliffbuilderssupply.com/"
+website: https://www.bacliffbuilderssupply.com/

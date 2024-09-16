@@ -1,11 +1,11 @@
 id: 688803638
-type: way
+type: node
 latitude: 30.17088
 longitude: -96.39896
 postcode: "77833"
 city: Brenham
-street: "North Park Street"
-housenumber: 500
-phone: "+1-979-836-9297"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/brenham/tx/707115"
+street: North Park Street
+housenumber: "500"
+phone: +1-979-836-9297
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/brenham/tx/707115

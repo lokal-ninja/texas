@@ -1,11 +1,11 @@
 id: 759446685
-type: way
+type: node
 latitude: 30.30413
 longitude: -97.94165
 postcode: "78738"
 city: Bee Cave
-street: "Shops Parkway"
-housenumber: 12717
-phone: "+1-512-402-1082"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-17:00"
-website: "https://haircutmenbeecavetx.com"
+street: Shops Parkway
+housenumber: "12717"
+phone: +1-512-402-1082
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-17:00
+website: https://haircutmenbeecavetx.com

@@ -1,11 +1,11 @@
 id: 730793562
-type: way
+type: node
 latitude: 30.05058
 longitude: -99.13648
 postcode: "78028"
 city: Kerrville
-street: "Sidney Baker Street"
-housenumber: 701
+street: Sidney Baker Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/kerrville/autoparts-1191.html"
+website: https://locations.oreillyauto.com/tx/kerrville/autoparts-1191.html

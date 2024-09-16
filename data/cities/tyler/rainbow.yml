@@ -1,11 +1,11 @@
 id: 1217904393
-type: way
+type: node
 latitude: 32.34367
 longitude: -95.34
 postcode: "75702"
 city: Tyler
-street: "South Southwest Loop 323"
-housenumber: 514
+street: South Southwest Loop 323
+housenumber: "514"
 phone: ""
 opening_hours: ""
-website: "https://stores.rainbowshops.com/tx/tyler/1718/"
+website: https://stores.rainbowshops.com/tx/tyler/1718/

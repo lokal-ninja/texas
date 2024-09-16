@@ -1,11 +1,11 @@
 id: 771936802
-type: way
+type: node
 latitude: 30.12387
 longitude: -94.15569
 postcode: "77706"
 city: Beaumont
-street: "Eastex Freeway"
-housenumber: 5885
-phone: "+1 409-896-2275"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/tx/beaumont/5885-eastex-fwy-238.html"
+street: Eastex Freeway
+housenumber: "5885"
+phone: +1 409-896-2275
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/tx/beaumont/5885-eastex-fwy-238.html

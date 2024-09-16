@@ -1,11 +1,11 @@
 id: 148878048
-type: way
+type: node
 latitude: 30.6578
 longitude: -96.33129
 postcode: "77802"
 city: Bryan
-street: "Briarcrest Drive"
-housenumber: 2200
-phone: "+1 979-776-6441"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/322/bryan-tx/whats-new"
+street: Briarcrest Drive
+housenumber: "2200"
+phone: +1 979-776-6441
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/322/bryan-tx/whats-new

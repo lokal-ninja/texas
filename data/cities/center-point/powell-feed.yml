@@ -1,11 +1,11 @@
 id: 1070108905
-type: way
+type: node
 latitude: 29.94926
 longitude: -99.03838
 postcode: "78010"
 city: Center Point
-street: "San Antonio Street"
-housenumber: 120
+street: San Antonio Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

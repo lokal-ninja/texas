@@ -1,11 +1,11 @@
 id: 710323310
-type: way
+type: node
 latitude: 33.22405
 longitude: -97.76871
 postcode: "76426"
 city: Bridgeport
-street: "East US Highway 380"
-housenumber: 101
+street: East US Highway 380
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

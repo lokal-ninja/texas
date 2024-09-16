@@ -1,11 +1,11 @@
 id: 658338903
-type: way
+type: node
 latitude: 29.55131
 longitude: -95.74696
 postcode: "77469"
 city: Richmond
-street: "Berry Parkway"
-housenumber: 23500
-phone: "+1-832-595-5337"
+street: Berry Parkway
+housenumber: "23500"
+phone: +1-832-595-5337
 opening_hours: ""
-website: "https://www.heb.com"
+website: https://www.heb.com

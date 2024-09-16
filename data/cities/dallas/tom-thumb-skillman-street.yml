@@ -1,11 +1,11 @@
 id: 468104675
-type: way
+type: node
 latitude: 32.89599
 longitude: -96.72089
 postcode: "75243"
 city: Dallas
-street: "Skillman Street"
-housenumber: 8698
+street: Skillman Street
+housenumber: "8698"
 phone: ""
 opening_hours: ""
-website: "https://local.tomthumb.com/tx/dallas/8698-skillman-st.html"
+website: https://local.tomthumb.com/tx/dallas/8698-skillman-st.html

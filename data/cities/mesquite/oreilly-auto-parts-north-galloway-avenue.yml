@@ -1,11 +1,11 @@
 id: 652961035
-type: way
+type: node
 latitude: 32.79892
 longitude: -96.61089
 postcode: "75150"
 city: Mesquite
-street: "North Galloway Avenue"
-housenumber: 2424
+street: North Galloway Avenue
+housenumber: "2424"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/mesquite/autoparts-555.html"
+website: https://locations.oreillyauto.com/tx/mesquite/autoparts-555.html

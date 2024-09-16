@@ -1,11 +1,11 @@
 id: 770115416
-type: way
+type: node
 latitude: 29.43934
 longitude: -95.28346
 postcode: "77511"
 city: Alvin
-street: "West Highway 6"
-housenumber: 3601
-phone: "+1 281-585-3531"
+street: West Highway 6
+housenumber: "3601"
+phone: +1 281-585-3531
 opening_hours: ""
-website: "https://frobergsfarm.com/"
+website: https://frobergsfarm.com/

@@ -1,11 +1,11 @@
 id: 885292851
-type: way
+type: node
 latitude: 32.53045
 longitude: -96.8213
 postcode: "75154"
 city: Red Oak
-street: "Harris Avenue"
-housenumber: 100
+street: Harris Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

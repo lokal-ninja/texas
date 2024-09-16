@@ -1,11 +1,11 @@
 id: 1168296347
-type: way
+type: node
 latitude: 30.35998
 longitude: -97.37942
 postcode: "78621"
 city: Elgin
-street: "State Highway 95 North"
-housenumber: 507
-phone: "+1-512-281-2020"
-opening_hours: "Mo-Th 08:30-18:00, Fr-Sa 08:30-17:00"
-website: "https://www.bloomerselgin.com/"
+street: State Highway 95 North
+housenumber: "507"
+phone: +1-512-281-2020
+opening_hours: Mo-Th 08:30-18:00, Fr-Sa 08:30-17:00
+website: https://www.bloomerselgin.com/

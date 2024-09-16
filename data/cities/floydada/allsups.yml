@@ -1,11 +1,11 @@
 id: 1073665379
-type: way
+type: node
 latitude: 33.97852
 longitude: -101.33446
 postcode: "79235"
 city: Floydada
-street: "East Houston Street"
-housenumber: 102
+street: East Houston Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

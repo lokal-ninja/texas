@@ -1,11 +1,11 @@
 id: 1255448035
-type: way
+type: node
 latitude: 26.22956
 longitude: -98.20889
 postcode: "78501"
 city: McAllen
-street: "North McColl Road"
-housenumber: 3129
+street: North McColl Road
+housenumber: "3129"
 phone: ""
 opening_hours: ""
 website: ""

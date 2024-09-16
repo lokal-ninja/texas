@@ -1,11 +1,11 @@
 id: 817272661
-type: way
+type: node
 latitude: 31.73397
 longitude: -95.62251
 postcode: "75801"
 city: Palestine
-street: "Loop 256"
-housenumber: 2735
-phone: "+1-903-729-2189"
+street: Loop 256
+housenumber: "2735"
+phone: +1-903-729-2189
 opening_hours: ""
 website: ""

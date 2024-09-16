@@ -1,11 +1,11 @@
 id: 713556215
-type: way
+type: node
 latitude: 33.16545
 longitude: -101.79592
 postcode: "79373"
 city: Tahoka
-street: "Main Street"
-housenumber: 1612
+street: Main Street
+housenumber: "1612"
 phone: ""
 opening_hours: ""
 website: ""

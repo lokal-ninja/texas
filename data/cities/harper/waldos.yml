@@ -1,11 +1,11 @@
 id: 1136340182
-type: way
+type: node
 latitude: 30.30055
 longitude: -99.25253
 postcode: "78631"
 city: Harper
-street: "West US Highway 290"
-housenumber: 23682
+street: West US Highway 290
+housenumber: "23682"
 phone: ""
 opening_hours: ""
 website: ""

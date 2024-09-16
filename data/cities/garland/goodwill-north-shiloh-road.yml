@@ -1,11 +1,11 @@
 id: 679557212
-type: way
+type: node
 latitude: 32.94613
 longitude: -96.66498
 postcode: "75044"
 city: Garland
-street: "North Shiloh Road"
-housenumber: 3106
-phone: "+1 972-530-4542"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.goodwilldallas.org/"
+street: North Shiloh Road
+housenumber: "3106"
+phone: +1 972-530-4542
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.goodwilldallas.org/

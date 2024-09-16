@@ -1,11 +1,11 @@
 id: 661226095
-type: way
+type: node
 latitude: 32.77733
 longitude: -96.66396
 postcode: "75227"
 city: Dallas
-street: "Forney Road"
-housenumber: 9208
+street: Forney Road
+housenumber: "9208"
 phone: ""
 opening_hours: ""
 website: ""

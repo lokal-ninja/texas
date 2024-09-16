@@ -1,11 +1,11 @@
 id: 221824084
-type: way
+type: node
 latitude: 33.0929
 longitude: -96.10589
 postcode: "75402"
 city: Greenville
-street: "I-30 Frontage Road"
-housenumber: 7401
-phone: "+1 903-455-1792"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/427/greenville-tx/whats-new"
+street: I-30 Frontage Road
+housenumber: "7401"
+phone: +1 903-455-1792
+opening_hours: 24/7
+website: https://www.walmart.com/store/427/greenville-tx/whats-new

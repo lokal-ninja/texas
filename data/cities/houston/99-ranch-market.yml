@@ -1,11 +1,11 @@
 id: 232394801
-type: way
+type: node
 latitude: 29.78593
 longitude: -95.524
 postcode: "77055"
 city: Houston
-street: "Blalock Road"
-housenumber: 1005
-phone: "+1 713 932-8899"
+street: Blalock Road
+housenumber: "1005"
+phone: +1 713 932-8899
 opening_hours: ""
 website: ""

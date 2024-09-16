@@ -1,11 +1,11 @@
 id: 46686089
-type: way
+type: node
 latitude: 29.64594
 longitude: -95.24859
 postcode: "77034"
 city: Houston
-street: "Gulf Freeway"
-housenumber: 10050
+street: Gulf Freeway
+housenumber: "10050"
 phone: ""
 opening_hours: ""
 website: ""

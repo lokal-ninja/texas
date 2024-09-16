@@ -1,11 +1,11 @@
 id: 325737491
-type: way
+type: node
 latitude: 30.35005
 longitude: -97.39073
 postcode: "78621"
 city: Elgin
-street: "West US Highway 290"
-housenumber: 1320
-phone: "+1 512-285-3397"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/3170/elgin-tx/whats-new"
+street: West US Highway 290
+housenumber: "1320"
+phone: +1 512-285-3397
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/3170/elgin-tx/whats-new

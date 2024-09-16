@@ -1,11 +1,11 @@
 id: 686944997
-type: way
+type: node
 latitude: 32.28926
 longitude: -95.1348
 postcode: "75707"
 city: Tyler
-street: "TX 64"
-housenumber: 16408
+street: TX 64
+housenumber: "16408"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234059174
-type: way
+type: node
 latitude: 30.22809
 longitude: -97.81918
 postcode: "78745"
 city: Sunset Valley
-street: "Brodie Lane"
-housenumber: 5601
-phone: "+1 512-892-3996"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/tx/sunsetvalley/pet-supplies-sunsetvalley-tx-448.html"
+street: Brodie Lane
+housenumber: "5601"
+phone: +1 512-892-3996
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/tx/sunsetvalley/pet-supplies-sunsetvalley-tx-448.html

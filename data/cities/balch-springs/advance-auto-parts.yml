@@ -1,11 +1,11 @@
 id: 704729475
-type: way
+type: node
 latitude: 32.73452
 longitude: -96.62342
 postcode: "75180"
 city: Balch Springs
-street: "Lake June Road"
-housenumber: 11855
+street: Lake June Road
+housenumber: "11855"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/tx/balch-springs/11855-lake-june-rd"
+website: https://stores.advanceautoparts.com/tx/balch-springs/11855-lake-june-rd

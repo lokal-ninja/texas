@@ -1,11 +1,11 @@
 id: 716920034
-type: way
+type: node
 latitude: 32.73889
 longitude: -97.64312
 postcode: "76087"
 city: Willow Park
-street: "East Interstate 20"
-housenumber: 4951
-phone: "+1 817-457-6000"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-18:00"
+street: East Interstate 20
+housenumber: "4951"
+phone: +1 817-457-6000
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-18:00
 website: ""

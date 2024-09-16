@@ -1,11 +1,11 @@
 id: 123532986
-type: way
+type: node
 latitude: 27.36349
 longitude: -99.4612
 postcode: "78046"
 city: Laredo
-street: "Espejo Molina Road"
-housenumber: 900
+street: Espejo Molina Road
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

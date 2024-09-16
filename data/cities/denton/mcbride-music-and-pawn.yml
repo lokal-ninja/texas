@@ -1,11 +1,11 @@
 id: 297126677
-type: way
+type: node
 latitude: 33.21569
 longitude: -97.13323
 postcode: "76201"
 city: Denton
-street: "West Oak Street"
-housenumber: 116
+street: West Oak Street
+housenumber: "116"
 phone: "+19403875412"
 opening_hours: ""
-website: "http://www.mcbridepawn.com/"
+website: http://www.mcbridepawn.com/

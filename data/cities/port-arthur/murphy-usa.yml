@@ -1,11 +1,11 @@
 id: 1116769302
-type: way
+type: node
 latitude: 29.94411
 longitude: -93.99296
 postcode: "77640"
 city: Port Arthur
-street: "Memorial Boulevard"
-housenumber: 8595
+street: Memorial Boulevard
+housenumber: "8595"
 phone: ""
 opening_hours: ""
 website: ""

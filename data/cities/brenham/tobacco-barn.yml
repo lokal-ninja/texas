@@ -1,11 +1,11 @@
 id: 1067748454
-type: way
+type: node
 latitude: 30.16975
 longitude: -96.39975
 postcode: "77833"
 city: Brenham
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00, Su 10:00-18:00"
+opening_hours: Mo-Sa 09:00-19:00, Su 10:00-18:00
 website: ""

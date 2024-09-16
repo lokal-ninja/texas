@@ -4,8 +4,8 @@ latitude: 30.43565
 longitude: -97.68692
 postcode: "78728"
 city: Austin
-street: "West Howard Lane"
-housenumber: 2306
-phone: "+1-800-511-1322"
-opening_hours: "24/7"
-website: "https://www.austinbazaar.com/"
+street: West Howard Lane
+housenumber: "2306"
+phone: +1-800-511-1322
+opening_hours: 24/7
+website: https://www.austinbazaar.com/

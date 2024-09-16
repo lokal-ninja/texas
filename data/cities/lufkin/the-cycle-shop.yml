@@ -1,11 +1,11 @@
 id: 410135972
-type: way
+type: node
 latitude: 31.311
 longitude: -94.68207
 postcode: "75901"
 city: Lufkin
-street: "East Denman Avenue"
-housenumber: 3415
-phone: "+1 936 637 7555"
+street: East Denman Avenue
+housenumber: "3415"
+phone: +1 936 637 7555
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1109133583
-type: way
+type: node
 latitude: 33.14927
 longitude: -96.89027
 postcode: "75034"
 city: Frisco
-street: "Old Newman Road"
-housenumber: 275
-phone: "+1-214-469-1538"
-opening_hours: "Mo-Fr 07:00-18:00"
+street: Old Newman Road
+housenumber: "275"
+phone: +1-214-469-1538
+opening_hours: Mo-Fr 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 887453610
-type: way
+type: node
 latitude: 29.66473
 longitude: -95.46347
 postcode: ""
 city: Houston
-street: "South Post Oak Road"
-housenumber: 10721
+street: South Post Oak Road
+housenumber: "10721"
 phone: ""
 opening_hours: ""
 website: ""

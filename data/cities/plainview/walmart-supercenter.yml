@@ -1,11 +1,11 @@
 id: 464986733
-type: way
+type: node
 latitude: 34.19538
 longitude: -101.75268
 postcode: "79072"
 city: Plainview
-street: "North Interstate 27"
-housenumber: 1501
-phone: "+1 806-293-4278"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/927/plainview-tx/whats-new"
+street: North Interstate 27
+housenumber: "1501"
+phone: +1 806-293-4278
+opening_hours: 24/7
+website: https://www.walmart.com/store/927/plainview-tx/whats-new

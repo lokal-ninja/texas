@@ -1,11 +1,11 @@
 id: 423733134
-type: way
+type: node
 latitude: 32.99949
 longitude: -96.88805
 postcode: "75007"
 city: Carrollton
-street: "North Josey Lane"
-housenumber: 3065
+street: North Josey Lane
+housenumber: "3065"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/carrollton-tx-pharmacies/3065-n-josey-ln-ste-64-carrollton-tx-75007/storeid=6983"
+website: https://www.cvs.com/store-locator/carrollton-tx-pharmacies/3065-n-josey-ln-ste-64-carrollton-tx-75007/storeid=6983

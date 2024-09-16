@@ -1,11 +1,11 @@
 id: 144850091
-type: way
+type: node
 latitude: 29.43108
 longitude: -98.65176
 postcode: "78227"
 city: San Antonio
-street: "Southwest Loop 410"
-housenumber: 611
-phone: "+1 210-675-2268"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Sw-San-Antonio/TX/San-Antonio/78227/586"
+street: Southwest Loop 410
+housenumber: "611"
+phone: +1 210-675-2268
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Sw-San-Antonio/TX/San-Antonio/78227/586

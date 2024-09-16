@@ -1,11 +1,11 @@
 id: 1086969978
-type: way
+type: node
 latitude: 30.13204
 longitude: -94.01608
 postcode: "77662"
 city: Vidor
-street: "West Freeway Boulevard North"
-housenumber: 100
+street: West Freeway Boulevard North
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

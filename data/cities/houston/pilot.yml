@@ -1,11 +1,11 @@
 id: 225726026
-type: way
+type: node
 latitude: 29.80005
 longitude: -95.26763
 postcode: ""
 city: Houston
-street: "North McCarty Drive"
-housenumber: 4440
+street: North McCarty Drive
+housenumber: "4440"
 phone: ""
 opening_hours: ""
 website: ""

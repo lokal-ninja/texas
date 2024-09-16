@@ -1,11 +1,11 @@
 id: 843764570
-type: way
+type: node
 latitude: 31.45831
 longitude: -97.1748
 postcode: "76643"
 city: Hewitt
-street: "East Spring Valley Road"
-housenumber: 720
+street: East Spring Valley Road
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

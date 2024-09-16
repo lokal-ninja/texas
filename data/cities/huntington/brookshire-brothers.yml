@@ -1,11 +1,11 @@
 id: 410122284
-type: way
+type: node
 latitude: 31.27843
 longitude: -94.57592
 postcode: "75949"
 city: Huntington
-street: "North Main Street"
-housenumber: 104
-phone: "+1 936 422 4282"
+street: North Main Street
+housenumber: "104"
+phone: +1 936 422 4282
 opening_hours: ""
-website: "https://www.brookshirebrothers.com/store-location/store-52"
+website: https://www.brookshirebrothers.com/store-location/store-52

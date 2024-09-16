@@ -1,11 +1,11 @@
 id: 776093646
-type: way
+type: node
 latitude: 35.53285
 longitude: -100.95885
 postcode: "79065"
 city: Pampa
-street: "South Cuyler Street"
-housenumber: 411
+street: South Cuyler Street
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

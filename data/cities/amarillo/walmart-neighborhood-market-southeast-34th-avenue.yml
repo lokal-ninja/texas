@@ -1,11 +1,11 @@
 id: 770949496
-type: way
+type: node
 latitude: 35.17994
 longitude: -101.8157
 postcode: "79118"
 city: Amarillo
-street: "Southeast 34th Avenue"
-housenumber: 2035
-phone: "+1 806-513-6390"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/7362-amarillo-tx"
+street: Southeast 34th Avenue
+housenumber: "2035"
+phone: +1 806-513-6390
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/7362-amarillo-tx

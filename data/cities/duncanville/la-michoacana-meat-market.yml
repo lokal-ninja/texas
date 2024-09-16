@@ -1,11 +1,11 @@
 id: 467284380
-type: way
+type: node
 latitude: 32.64653
 longitude: -96.88736
 postcode: "75116"
 city: Duncanville
-street: "East Highway 67"
-housenumber: 1109
+street: East Highway 67
+housenumber: "1109"
 phone: ""
 opening_hours: ""
 website: ""

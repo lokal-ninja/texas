@@ -1,11 +1,11 @@
 id: 1096066858
-type: way
+type: node
 latitude: 33.68127
 longitude: -101.38478
 postcode: "79357"
 city: Ralls
-street: "Main Avenue"
-housenumber: 1003
+street: Main Avenue
+housenumber: "1003"
 phone: ""
 opening_hours: ""
 website: ""

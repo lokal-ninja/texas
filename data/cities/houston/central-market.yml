@@ -1,11 +1,11 @@
 id: 625603990
-type: way
+type: node
 latitude: 29.74143
 longitude: -95.4444
 postcode: "77027"
 city: Houston
-street: "Westheimer Road"
-housenumber: 3815
-phone: "+1-713-386-1700"
+street: Westheimer Road
+housenumber: "3815"
+phone: +1-713-386-1700
 opening_hours: ""
 website: ""

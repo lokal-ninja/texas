@@ -1,11 +1,11 @@
 id: 671908885
-type: way
+type: node
 latitude: 32.61904
 longitude: -96.85761
 postcode: "75115"
 city: DeSoto
-street: "North Hampton Road"
-housenumber: 1501
+street: North Hampton Road
+housenumber: "1501"
 phone: ""
 opening_hours: ""
 website: ""

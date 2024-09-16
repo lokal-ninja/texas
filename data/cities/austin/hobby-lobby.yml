@@ -4,8 +4,8 @@ latitude: 30.35081
 longitude: -97.71546
 postcode: "78758"
 city: Austin
-street: "Research Boulevard"
-housenumber: 8000
-phone: "+1-512-454-8701"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.hobbylobby.com/"
+street: Research Boulevard
+housenumber: "8000"
+phone: +1-512-454-8701
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.hobbylobby.com/

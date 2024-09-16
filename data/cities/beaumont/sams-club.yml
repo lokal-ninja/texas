@@ -1,11 +1,11 @@
 id: 1086977966
-type: way
+type: node
 latitude: 30.05877
 longitude: -94.13403
 postcode: "77701"
 city: Beaumont
-street: "Interstate 10 South"
-housenumber: 1615
-phone: "+1 409-842-5071"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/beaumont-tx-sams-club/8275"
+street: Interstate 10 South
+housenumber: "1615"
+phone: +1 409-842-5071
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/beaumont-tx-sams-club/8275

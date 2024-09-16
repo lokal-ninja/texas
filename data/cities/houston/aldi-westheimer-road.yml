@@ -4,8 +4,8 @@ latitude: 29.73626
 longitude: -95.53356
 postcode: "77063"
 city: Houston
-street: "Westheimer Road"
-housenumber: 9525
-phone: "+1 833-478-1032"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/tx/houston/9525-westheimer"
+street: Westheimer Road
+housenumber: "9525"
+phone: +1 833-478-1032
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/tx/houston/9525-westheimer

@@ -1,11 +1,11 @@
 id: 1117948539
-type: way
+type: node
 latitude: 33.52044
 longitude: -102.00138
 postcode: "79382"
 city: Wolfforth
-street: "Donald Preston Drive"
-housenumber: 906
+street: Donald Preston Drive
+housenumber: "906"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/tx/wolfforth/autoparts-5881.html"
+website: https://locations.oreillyauto.com/tx/wolfforth/autoparts-5881.html

@@ -1,11 +1,11 @@
 id: 984502765
-type: way
+type: node
 latitude: 33.26605
 longitude: -96.58722
 postcode: "75454"
 city: Melissa
-street: "Sam Rayburn Highway"
-housenumber: 1100
+street: Sam Rayburn Highway
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Ballinger
 url: /ballinger/
-latitude: 31.746
-longitude: -99.956
+latitude: 31.734
+longitude: -99.953
 ---

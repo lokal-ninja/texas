@@ -1,6 +1,6 @@
 ---
 title: Palmer
 url: /palmer/
-latitude: 32.43
-longitude: -96.658
+latitude: 32.437
+longitude: -96.669
 ---

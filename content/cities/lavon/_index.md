@@ -1,6 +1,6 @@
 ---
 title: Lavon
 url: /lavon/
-latitude: 33.022
-longitude: -96.457
+latitude: 32.994
+longitude: -96.467
 ---

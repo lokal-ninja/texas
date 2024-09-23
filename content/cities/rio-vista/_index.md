@@ -1,6 +1,6 @@
 ---
 title: Rio Vista
 url: /rio-vista/
-latitude: 32.241
-longitude: -97.381
+latitude: 32.237
+longitude: -97.379
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /seminole/walmart/
-shop: supermarket
+shop: department store
 ---

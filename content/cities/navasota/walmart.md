@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /navasota/walmart/
-shop: supermarket
+shop: department store
 ---

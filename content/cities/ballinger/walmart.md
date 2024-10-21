@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /ballinger/walmart/
-shop: supermarket
+shop: department store
 ---

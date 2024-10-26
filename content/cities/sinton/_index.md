@@ -1,6 +1,6 @@
 ---
 title: Sinton
 url: /sinton/
-latitude: 28.036
-longitude: -97.517
+latitude: 28.029
+longitude: -97.532
 ---

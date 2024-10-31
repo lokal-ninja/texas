@@ -1,6 +1,6 @@
 ---
 title: Plains
 url: /plains/
-latitude: 33.189
-longitude: -102.836
+latitude: 33.188
+longitude: -102.828
 ---

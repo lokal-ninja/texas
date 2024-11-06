@@ -1,6 +1,6 @@
 ---
 title: Jarrell
 url: /jarrell/
-latitude: 30.81
-longitude: -97.614
+latitude: 30.809
+longitude: -97.61
 ---

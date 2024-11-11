@@ -1,6 +1,6 @@
 ---
 title: San Elizario
 url: /san-elizario/
-latitude: 31.586
-longitude: -106.274
+latitude: 31.577
+longitude: -106.263
 ---

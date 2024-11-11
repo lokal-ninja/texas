@@ -1,6 +1,6 @@
 ---
 title: Georgetown
 url: /georgetown/
-latitude: 30.647
-longitude: -97.679
+latitude: 30.663
+longitude: -97.669
 ---

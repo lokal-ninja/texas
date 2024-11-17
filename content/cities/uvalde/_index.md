@@ -1,6 +1,6 @@
 ---
 title: Uvalde
 url: /uvalde/
-latitude: 29.211
-longitude: -99.778
+latitude: 29.217
+longitude: -99.768
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madison Reed"
 url: /houston/madison-reed/
-shop: hairdresser
+shop: beauty
 ---

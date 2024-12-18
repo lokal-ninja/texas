@@ -1,5 +1,0 @@
----
-title: "Jefferson Bodega"
-url: /san-antonio/jefferson-bodega/
-shop: convenience
----

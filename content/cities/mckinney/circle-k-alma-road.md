@@ -1,0 +1,5 @@
+---
+title: "Circle K"
+url: /mckinney/circle-k-alma-road/
+shop: convenience
+---

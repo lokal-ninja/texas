@@ -1,6 +1,6 @@
 ---
 title: Mission
 url: /mission/
-latitude: 26.198
-longitude: -98.286
+latitude: 26.197
+longitude: -98.28
 ---

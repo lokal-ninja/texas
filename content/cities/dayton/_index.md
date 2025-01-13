@@ -1,6 +1,6 @@
 ---
 title: Dayton
 url: /dayton/
-latitude: 29.954
-longitude: -94.907
+latitude: 30.044
+longitude: -94.889
 ---

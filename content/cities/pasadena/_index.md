@@ -1,6 +1,6 @@
 ---
 title: Pasadena
 url: /pasadena/
-latitude: 29.645
-longitude: -95.156
+latitude: 29.644
+longitude: -95.157
 ---

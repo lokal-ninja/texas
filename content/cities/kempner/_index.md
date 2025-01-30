@@ -1,6 +1,6 @@
 ---
 title: Kempner
 url: /kempner/
-latitude: 31.054
-longitude: -97.949
+latitude: 31.08
+longitude: -97.999
 ---

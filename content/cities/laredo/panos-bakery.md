@@ -1,5 +1,5 @@
 ---
-title: "Pano's Bakery"
+title: "Panos Bakery"
 url: /laredo/panos-bakery/
 shop: bakery
 ---

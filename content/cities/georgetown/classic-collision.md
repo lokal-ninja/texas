@@ -1,5 +1,5 @@
 ---
 title: "Classic Collision"
 url: /georgetown/classic-collision/
-shop: car repair
+shop: shop
 ---

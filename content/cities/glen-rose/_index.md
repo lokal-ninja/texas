@@ -1,6 +1,6 @@
 ---
 title: Glen Rose
 url: /glen-rose/
-latitude: 32.234
-longitude: -97.766
+latitude: 32.244
+longitude: -97.743
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sugarland
 url: /sugarland/
-latitude: 29.58
-longitude: -95.585
+latitude: 29.603
+longitude: -95.613
 ---

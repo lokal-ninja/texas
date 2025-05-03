@@ -1,6 +1,6 @@
 ---
-title: Penitas
+title: Peñitas
 url: /penitas/
-latitude: 26.336
-longitude: -98.452
+latitude: 26.247
+longitude: -98.442
 ---

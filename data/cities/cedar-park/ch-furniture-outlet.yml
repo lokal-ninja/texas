@@ -7,5 +7,5 @@ city: Cedar Park
 street: Pecan Park Boulevard
 housenumber: "11066"
 phone: +1-512-331-9100
-opening_hours: 'Mo-Tu Appointment: Wed-Sat 10:00-19:00; Su 11:00-18:00'
+opening_hours: Mo-Tu "by appointment"; We-Sa 10:00-19:00; Su 11:00-18:00
 website: https://crescenthouseinc.com/furniture/

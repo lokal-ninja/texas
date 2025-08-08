@@ -1,6 +1,6 @@
 ---
 title: Flatonia
 url: /flatonia/
-latitude: 29.817
-longitude: -97.219
+latitude: 29.687
+longitude: -97.108
 ---

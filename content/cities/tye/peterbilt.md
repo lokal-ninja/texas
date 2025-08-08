@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /tye/peterbilt/
-shop: car
+shop: shop
 ---

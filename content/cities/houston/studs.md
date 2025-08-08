@@ -1,5 +1,5 @@
 ---
 title: "STUDS"
 url: /houston/studs/
-shop: shop
+shop: piercing
 ---

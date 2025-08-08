@@ -7,5 +7,5 @@ city: Houston
 street: Tomball Parkway
 housenumber: "24441"
 phone: "+13468088755"
-opening_hours: Mo-Su 06:00-18:00 Sat 07:00-19:00
+opening_hours: Mo-Su 06:00-18:00; Sa 07:00-19:00
 website: https://bakemehappybakery.com/

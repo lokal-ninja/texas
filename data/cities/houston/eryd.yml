@@ -7,5 +7,5 @@ city: Houston
 street: Lamar Street
 housenumber: "2121"
 phone: +1 832-426-3333
-opening_hours: Sa-Mo 0:00-3:00,12:00-24:00; Tu-Fr 0:00-2:00,12:00-24:00
+opening_hours: Sa-Mo 00:00-03:00,12:00-24:00; Tu-Fr 00:00-02:00,12:00-24:00
 website: https://www.eryd.us/

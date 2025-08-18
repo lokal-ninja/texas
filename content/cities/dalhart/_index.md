@@ -1,6 +1,6 @@
 ---
 title: Dalhart
 url: /dalhart/
-latitude: 36.05
-longitude: -102.512
+latitude: 36.063
+longitude: -102.523
 ---

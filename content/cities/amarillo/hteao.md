@@ -1,5 +1,5 @@
 ---
 title: "HTeaO"
 url: /amarillo/hteao/
-shop: tea
+shop: beverages
 ---

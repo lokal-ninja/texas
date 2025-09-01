@@ -1,5 +1,5 @@
 ---
-title: "ERYD"
+title: "Eryd"
 url: /houston/eryd/
 shop: storage rental
 ---

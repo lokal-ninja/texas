@@ -1,5 +1,5 @@
 ---
-title: "MOD BIKES"
+title: "Mod Bikes"
 url: /austin/mod-bikes/
 shop: bicycle
 ---

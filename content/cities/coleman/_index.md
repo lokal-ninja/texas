@@ -1,6 +1,6 @@
 ---
 title: Coleman
 url: /coleman/
-latitude: 31.829
-longitude: -99.423
+latitude: 31.83
+longitude: -99.425
 ---

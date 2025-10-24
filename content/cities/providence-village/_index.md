@@ -1,6 +1,6 @@
 ---
 title: Providence Village
 url: /providence-village/
-latitude: 33.222
-longitude: -96.96
+latitude: 33.223
+longitude: -96.959
 ---

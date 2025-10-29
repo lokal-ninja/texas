@@ -1,6 +1,6 @@
 ---
 title: Fort Worth
 url: /fort-worth/
-latitude: 32.677
-longitude: -97.395
+latitude: 32.861
+longitude: -97.293
 ---

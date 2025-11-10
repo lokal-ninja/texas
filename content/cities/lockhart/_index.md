@@ -1,6 +1,6 @@
 ---
 title: Lockhart
 url: /lockhart/
-latitude: 29.884
-longitude: -97.672
+latitude: 29.885
+longitude: -97.673
 ---

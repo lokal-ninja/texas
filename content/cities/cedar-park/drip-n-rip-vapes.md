@@ -1,5 +1,5 @@
 ---
-title: "Drip n Rip Vapes"
+title: "Drip N Rip Vapes"
 url: /cedar-park/drip-n-rip-vapes/
 shop: e-cigarette
 ---

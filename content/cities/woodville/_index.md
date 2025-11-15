@@ -1,6 +1,6 @@
 ---
 title: Woodville
 url: /woodville/
-latitude: 30.764
-longitude: -94.42
+latitude: 30.782
+longitude: -94.418
 ---

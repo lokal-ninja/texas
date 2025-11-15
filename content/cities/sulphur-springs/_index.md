@@ -1,6 +1,6 @@
 ---
 title: Sulphur Springs
 url: /sulphur-springs/
-latitude: 33.122
-longitude: -95.598
+latitude: 33.137
+longitude: -95.601
 ---

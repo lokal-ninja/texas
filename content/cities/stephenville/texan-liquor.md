@@ -1,5 +1,5 @@
 ---
-title: "Texan liquor"
+title: "Texan Liquor"
 url: /stephenville/texan-liquor/
 shop: alcohol
 ---

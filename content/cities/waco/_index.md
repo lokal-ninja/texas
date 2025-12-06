@@ -1,6 +1,6 @@
 ---
 title: Waco
 url: /waco/
-latitude: 31.53
-longitude: -97.174
+latitude: 31.593
+longitude: -97.187
 ---

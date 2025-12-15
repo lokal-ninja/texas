@@ -1,6 +1,6 @@
 ---
 title: Gladewater
 url: /gladewater/
-latitude: 32.534
-longitude: -94.929
+latitude: 32.524
+longitude: -94.965
 ---

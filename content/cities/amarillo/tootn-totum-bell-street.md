@@ -1,5 +1,5 @@
 ---
-title: "Toot'n Totum"
+title: "toot'n totum"
 url: /amarillo/tootn-totum-bell-street/
-shop: convenience
+shop: vacant
 ---

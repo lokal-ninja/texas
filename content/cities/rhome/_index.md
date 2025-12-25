@@ -1,6 +1,6 @@
 ---
 title: Rhome
 url: /rhome/
-latitude: 33.061
-longitude: -97.476
+latitude: 33.056
+longitude: -97.478
 ---

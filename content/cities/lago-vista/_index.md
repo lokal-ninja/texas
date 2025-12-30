@@ -1,6 +1,6 @@
 ---
 title: Lago Vista
 url: /lago-vista/
-latitude: 30.433
-longitude: -97.978
+latitude: 30.458
+longitude: -97.98
 ---

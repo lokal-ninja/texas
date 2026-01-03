@@ -1,0 +1,5 @@
+---
+title: "The Salvation Army"
+url: /pampa/the-salvation-army-north-sumner-street/
+shop: charity
+---

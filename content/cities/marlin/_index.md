@@ -1,6 +1,6 @@
 ---
 title: Marlin
 url: /marlin/
-latitude: 31.304
-longitude: -96.877
+latitude: 31.303
+longitude: -96.893
 ---

@@ -7,5 +7,7 @@ city: Houston
 street: Richmond Avenue
 housenumber: "3836"
 phone: +1 832-325-5850
-opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+opening_hours: Mo-Fr 10:00-20:30 open "Gold Star & Business Members"; Sa 09:30-18:00
+    open "Gold Star & Business Members"; Su 10:00-18:00 open "Gold Star & Business
+    Members"; Mo-Su open "9 AM– for Executive Members"
 website: https://www.costco.com/warehouse-locations/galleria-houston-tx-1018.html

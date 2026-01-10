@@ -1,6 +1,6 @@
 ---
 title: Childress
 url: /childress/
-latitude: 34.434
-longitude: -100.229
+latitude: 34.435
+longitude: -100.234
 ---

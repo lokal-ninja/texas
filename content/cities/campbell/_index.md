@@ -1,6 +1,6 @@
 ---
 title: Campbell
 url: /campbell/
-latitude: 33.134
-longitude: -95.988
+latitude: 33.158
+longitude: -95.949
 ---

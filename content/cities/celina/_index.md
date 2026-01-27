@@ -1,6 +1,6 @@
 ---
 title: Celina
 url: /celina/
-latitude: 33.307
-longitude: -96.783
+latitude: 33.313
+longitude: -96.779
 ---

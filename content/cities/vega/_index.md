@@ -1,6 +1,6 @@
 ---
 title: Vega
 url: /vega/
-latitude: 35.24
-longitude: -102.428
+latitude: 35.243
+longitude: -102.43
 ---

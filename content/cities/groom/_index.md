@@ -1,6 +1,6 @@
 ---
 title: Groom
 url: /groom/
-latitude: 35.207
-longitude: -101.099
+latitude: 35.201
+longitude: -101.108
 ---

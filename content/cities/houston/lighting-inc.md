@@ -1,5 +1,5 @@
 ---
-title: "Lighting Inc"
+title: "Lighting Inc."
 url: /houston/lighting-inc/
 shop: lamps
 ---

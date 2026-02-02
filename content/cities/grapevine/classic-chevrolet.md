@@ -1,5 +1,5 @@
 ---
-title: "CLassic Chevrolet"
+title: "Classic Chevrolet"
 url: /grapevine/classic-chevrolet/
 shop: car
 ---

@@ -1,6 +1,6 @@
 ---
 title: White Settlement
 url: /white-settlement/
-latitude: 32.759
-longitude: -97.482
+latitude: 32.739
+longitude: -97.453
 ---

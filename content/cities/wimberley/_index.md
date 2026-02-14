@@ -1,6 +1,6 @@
 ---
 title: Wimberley
 url: /wimberley/
-latitude: 30
-longitude: -98.1
+latitude: 29.996
+longitude: -98.096
 ---

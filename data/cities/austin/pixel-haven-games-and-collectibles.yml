@@ -7,6 +7,5 @@ city: Austin
 street: Research Boulevard
 housenumber: "8557"
 phone: +1-970-576-4785
-opening_hours: Sunday 12–8 PM Monday 12–10 PM Tuesday 12–6 PM Wednesday 2–10 PM Thursday
-    12–10 PM Friday 12–10 PM Saturday 12–10 PM
+opening_hours: Su 12:00-20:00; Mo,Th-Sa 12:00-22:00; Tu 12:00-18:00; We 14:00-22:00
 website: https://atxpixelhaven.com

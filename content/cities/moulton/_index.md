@@ -1,6 +1,6 @@
 ---
 title: Moulton
 url: /moulton/
-latitude: 29.574
-longitude: -97.146
+latitude: 29.578
+longitude: -97.149
 ---

@@ -1,6 +1,6 @@
 ---
 title: Walnut Springs
 url: /walnut-springs/
-latitude: 32.059
-longitude: -97.749
+latitude: 32.058
+longitude: -97.75
 ---

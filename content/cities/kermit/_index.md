@@ -1,6 +1,6 @@
 ---
 title: Kermit
 url: /kermit/
-latitude: 31.844
-longitude: -103.104
+latitude: 31.848
+longitude: -103.087
 ---

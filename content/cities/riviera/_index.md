@@ -1,6 +1,6 @@
 ---
 title: Riviera
 url: /riviera/
-latitude: 27.296
-longitude: -97.814
+latitude: 27.304
+longitude: -97.816
 ---

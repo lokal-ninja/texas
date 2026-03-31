@@ -1,6 +1,6 @@
 ---
 title: Lufkin
 url: /lufkin/
-latitude: 31.299
-longitude: -94.727
+latitude: 31.313
+longitude: -94.723
 ---

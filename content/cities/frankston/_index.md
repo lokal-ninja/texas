@@ -1,6 +1,6 @@
 ---
 title: Frankston
 url: /frankston/
-latitude: 32.051
-longitude: -95.5
+latitude: 32.056
+longitude: -95.504
 ---

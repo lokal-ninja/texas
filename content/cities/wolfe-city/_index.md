@@ -1,6 +1,6 @@
 ---
 title: Wolfe City
 url: /wolfe-city/
-latitude: 33.37
-longitude: -96.069
+latitude: 33.371
+longitude: -96.068
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tahoka
 url: /tahoka/
-latitude: 33.166
-longitude: -101.798
+latitude: 33.168
+longitude: -101.795
 ---

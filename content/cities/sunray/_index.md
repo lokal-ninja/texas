@@ -1,6 +1,6 @@
 ---
 title: Sunray
 url: /sunray/
-latitude: 36.02
-longitude: -101.825
+latitude: 36.023
+longitude: -101.824
 ---

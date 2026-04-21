@@ -2,5 +2,5 @@
 title: Archer City
 url: /archer-city/
 latitude: 33.595
-longitude: -98.622
+longitude: -98.625
 ---

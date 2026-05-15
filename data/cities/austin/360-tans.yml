@@ -7,6 +7,5 @@ city: Austin
 street: N Capital of Texas Hwy
 housenumber: "6203"
 phone: +1-512-231-8267
-opening_hours: Monday 10 AM-6 PM, Tuesday 10 AM-7 PM, Wednesday-Friday 10 AM-8 PM,
-    Saturday 10 AM-5 PM
+opening_hours: Mo,We-Fr 10:00-18:00, Tu 10:00-19:00, Sa 10:00-15:00
 website: http://www.austin360tans.com/

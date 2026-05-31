@@ -1,6 +1,6 @@
 ---
 title: Shallowater
 url: /shallowater/
-latitude: 33.673
-longitude: -101.98
+latitude: 33.685
+longitude: -102.002
 ---

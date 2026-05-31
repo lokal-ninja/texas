@@ -2,5 +2,5 @@
 title: Palmview
 url: /palmview/
 latitude: 26.238
-longitude: -98.39
+longitude: -98.383
 ---

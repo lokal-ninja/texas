@@ -7,5 +7,7 @@ city: San Antonio
 street: Bulverde Road
 housenumber: "22202"
 phone: ""
-opening_hours: 07:00-24:00
+opening_hours: Mo-Su 07:00-12:00 open "Store"; Mo-Fr 08:00-13:30,14:00-21:00 open
+    "Pharmacy"; Sa 09:00-13:30,14:00-17:00 open "Pharmacy"; Su 10:00-13:30,14:00-17:00
+    open "Pharmacy"
 website: https://www.cvs.com/store-locator/san-antonio-tx-pharmacies/22202-bulverde-rd-san-antonio-tx-78261/storeid=2263

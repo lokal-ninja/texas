@@ -1,6 +1,6 @@
 ---
 title: Anthony
 url: /anthony/
-latitude: 31.999
-longitude: -106.587
+latitude: 31.998
+longitude: -106.581
 ---

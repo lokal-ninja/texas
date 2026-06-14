@@ -1,6 +1,6 @@
 ---
 title: Bacliff
 url: /bacliff/
-latitude: 29.509
-longitude: -94.981
+latitude: 29.507
+longitude: -94.983
 ---

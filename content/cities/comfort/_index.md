@@ -1,6 +1,6 @@
 ---
 title: Comfort
 url: /comfort/
-latitude: 29.968
-longitude: -98.906
+latitude: 29.96
+longitude: -98.89
 ---

@@ -2,5 +2,5 @@
 title: Hico
 url: /hico/
 latitude: 31.982
-longitude: -98.033
+longitude: -98.03
 ---

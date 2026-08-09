@@ -7,5 +7,5 @@ city: Arlington
 street: South Pecan Street
 housenumber: "1100"
 phone: ""
-opening_hours: varies
+opening_hours: '"varies"'
 website: ""

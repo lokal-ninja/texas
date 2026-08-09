@@ -1,6 +1,6 @@
 ---
 title: Richardson
 url: /richardson/
-latitude: 32.977
-longitude: -96.717
+latitude: 32.975
+longitude: -96.723
 ---

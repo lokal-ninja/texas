@@ -1,6 +1,6 @@
 ---
 title: Euless
 url: /euless/
-latitude: 32.836
-longitude: -97.098
+latitude: 32.835
+longitude: -97.101
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hereford
 url: /hereford/
-latitude: 34.82
-longitude: -102.402
+latitude: 34.821
+longitude: -102.407
 ---

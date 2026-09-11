@@ -1,6 +1,6 @@
 ---
 title: The Colony
 url: /the-colony/
-latitude: 33.069
-longitude: -96.892
+latitude: 33.079
+longitude: -96.863
 ---

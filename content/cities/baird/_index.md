@@ -1,6 +1,6 @@
 ---
 title: Baird
 url: /baird/
-latitude: 32.403
-longitude: -99.384
+latitude: 32.394
+longitude: -99.395
 ---

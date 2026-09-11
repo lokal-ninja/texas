@@ -1,6 +1,6 @@
 ---
 title: Northlake
 url: /northlake/
-latitude: 33.026
-longitude: -97.272
+latitude: 33.104
+longitude: -97.241
 ---

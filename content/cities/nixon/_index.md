@@ -1,6 +1,6 @@
 ---
 title: Nixon
 url: /nixon/
-latitude: 29.27
-longitude: -97.766
+latitude: 29.269
+longitude: -97.765
 ---

@@ -1,6 +1,6 @@
 ---
 title: Windthorst
 url: /windthorst/
-latitude: 33.572
-longitude: -98.438
+latitude: 33.576
+longitude: -98.437
 ---

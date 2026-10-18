@@ -1,11 +1,11 @@
-id: 886597626
+id: 13564517577
 type: node
-latitude: 29.88117
-longitude: -97.9222
+latitude: 29.89248
+longitude: -97.91066
 postcode: "78666"
 city: San Marcos
 street: North Interstate 35
-housenumber: "1004"
+housenumber: "1550"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: '*'
+website: https://7-eleven.com

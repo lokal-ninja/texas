@@ -1,6 +1,6 @@
 ---
 title: Missouri City
 url: /missouri-city/
-latitude: 29.6
-longitude: -95.526
+latitude: 29.536
+longitude: -95.523
 ---

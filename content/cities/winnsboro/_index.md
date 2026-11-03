@@ -1,6 +1,6 @@
 ---
 title: Winnsboro
 url: /winnsboro/
-latitude: 32.948
-longitude: -95.292
+latitude: 32.956
+longitude: -95.291
 ---

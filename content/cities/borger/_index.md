@@ -1,6 +1,6 @@
 ---
 title: Borger
 url: /borger/
-latitude: 35.677
-longitude: -101.394
+latitude: 35.66
+longitude: -101.411
 ---

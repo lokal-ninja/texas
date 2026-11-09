@@ -1,6 +1,6 @@
 ---
 title: Perryton
 url: /perryton/
-latitude: 36.373
-longitude: -100.804
+latitude: 36.39
+longitude: -100.803
 ---

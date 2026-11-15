@@ -1,6 +1,6 @@
 ---
 title: Tyler
 url: /tyler/
-latitude: 32.295
-longitude: -95.304
+latitude: 32.302
+longitude: -95.306
 ---

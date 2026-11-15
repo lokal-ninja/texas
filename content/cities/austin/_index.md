@@ -1,6 +1,6 @@
 ---
 title: Austin
 url: /austin/
-latitude: 30.26
-longitude: -97.755
+latitude: 30.389
+longitude: -97.742
 ---
